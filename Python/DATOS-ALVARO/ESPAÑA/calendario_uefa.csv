@@ -1,0 +1,808 @@
+uefa_temporada,uefa_grupo,uefa_fecha,uefa_local,uefa_visitante,uefa_resultado
+Temporada2020,Grupo 0,20 Feb 20,Wolves,Espanyol,4 - 0
+Temporada2020,Grupo 0,27 Feb 20,Espanyol,Wolves,3 - 2
+Temporada2020,Grupo 0,20 Feb 20,Sporting,İstanbul,3 - 1
+Temporada2020,Grupo 0,27 Feb 20,İstanbul,Sporting,4 - 1
+Temporada2020,Grupo 0,20 Feb 20,Getafe,Ajax,2 - 0
+Temporada2020,Grupo 0,27 Feb 20,Ajax,Getafe,2 - 1
+Temporada2020,Grupo 0,27 Feb 20,Porto,B. Leverkusen,1 - 3
+Temporada2020,Grupo 0,20 Feb 20,B. Leverkusen,Porto,2 - 1
+Temporada2020,Grupo 0,20 Feb 20,Kobenhavn,Celtic,1 - 1
+Temporada2020,Grupo 0,27 Feb 20,Celtic,Kobenhavn,1 - 3
+Temporada2020,Grupo 0,20 Feb 20,APOEL,Basel,0 - 3
+Temporada2020,Grupo 0,27 Feb 20,Basel,APOEL,1 - 0
+Temporada2020,Grupo 0,20 Feb 20,CFR Cluj,Sevilla,1 - 1
+Temporada2020,Grupo 0,27 Feb 20,Sevilla,CFR Cluj,0 - 0
+Temporada2020,Grupo 0,20 Feb 20,Olympiacos,Arsenal,0 - 1
+Temporada2020,Grupo 0,27 Feb 20,Arsenal,Olympiacos,1 - 2
+Temporada2020,Grupo 0,20 Feb 20,AZ Alkmaar,LASK Linz,1 - 1
+Temporada2020,Grupo 0,27 Feb 20,LASK Linz,AZ Alkmaar,2 - 0
+Temporada2020,Grupo 0,20 Feb 20,Club Brugge,Man. Utd,1 - 1
+Temporada2020,Grupo 0,27 Feb 20,Man. Utd,Club Brugge,5 - 0
+Temporada2020,Grupo 0,20 Feb 20,Ludogorets,Inter,0 - 2
+Temporada2020,Grupo 0,27 Feb 20,Inter,Ludogorets,2 - 1
+Temporada2020,Grupo 0,20 Feb 20,Eintracht,Salzburg,4 - 1
+Temporada2020,Grupo 0,28 Feb 20,Salzburg,Eintracht,2 - 2
+Temporada2020,Grupo 0,20 Feb 20,Shakhtar,Benfica,2 - 1
+Temporada2020,Grupo 0,27 Feb 20,Benfica,Shakhtar,3 - 3
+Temporada2020,Grupo 0,20 Feb 20,Wolfsburg,Malmö,2 - 1
+Temporada2020,Grupo 0,27 Feb 20,Malmö,Wolfsburg,0 - 3
+Temporada2020,Grupo 0,20 Feb 20,Roma,KAA Gent,1 - 0
+Temporada2020,Grupo 0,27 Feb 20,KAA Gent,Roma,1 - 1
+Temporada2020,Grupo 0,20 Feb 20,Rangers FC,Sporting,3 - 2
+Temporada2020,Grupo 0,26 Feb 20,Sporting,Rangers FC,0 - 1
+Temporada2020,Grupo 0,12 Mar 20,İstanbul,Kobenhavn,1 - 0
+Temporada2020,Grupo 0,12 Mar 20,Olympiacos,Wolves,1 - 1
+Temporada2020,Grupo 0,12 Mar 20,Rangers FC,B. Leverkusen,1 - 3
+Temporada2020,Grupo 0,12 Mar 20,Wolfsburg,Shakhtar,1 - 2
+Temporada2020,Grupo 0,12 Mar 20,Inter,Getafe,
+Temporada2020,Grupo 0,12 Mar 20,Sevilla,Roma,
+Temporada2020,Grupo 0,12 Mar 20,LASK Linz,Man. Utd,0 - 5
+Temporada2020,Grupo 0,19 Mar 20,Kobenhavn,İstanbul,
+Temporada2020,Grupo 0,19 Mar 20,Wolves,Olympiacos,
+Temporada2020,Grupo 0,19 Mar 20,B. Leverkusen,Rangers FC,
+Temporada2020,Grupo 0,19 Mar 20,Shakhtar,Wolfsburg,
+Temporada2020,Grupo 0,19 Mar 20,Getafe,Inter,
+Temporada2020,Grupo 0,19 Mar 20,Roma,Sevilla,
+Temporada2020,Grupo 0,19 Mar 20,Man. Utd,LASK Linz,
+Temporada2020,Grupo 0,12 Mar 20,Eintracht,Basel,0 - 3
+Temporada2020,Grupo 0,19 Mar 20,Basel,Eintracht,
+Temporada2020,Grupo 1,19 Sep 19,APOEL,Dudelange,3 - 4
+Temporada2020,Grupo 1,19 Sep 19,Qarabağ,Sevilla,0 - 3
+Temporada2020,Grupo 1,03 Oct 19,Sevilla,APOEL,1 - 0
+Temporada2020,Grupo 1,03 Oct 19,Dudelange,Qarabağ,1 - 4
+Temporada2020,Grupo 1,24 Oct 19,Qarabağ,APOEL,2 - 2
+Temporada2020,Grupo 1,24 Oct 19,Sevilla,Dudelange,3 - 0
+Temporada2020,Grupo 1,07 Nov 19,APOEL,Qarabağ,2 - 1
+Temporada2020,Grupo 1,07 Nov 19,Dudelange,Sevilla,2 - 5
+Temporada2020,Grupo 1,28 Nov 19,Sevilla,Qarabağ,2 - 0
+Temporada2020,Grupo 1,28 Nov 19,Dudelange,APOEL,0 - 2
+Temporada2020,Grupo 1,12 Dic 19,APOEL,Sevilla,1 - 0
+Temporada2020,Grupo 1,12 Dic 19,Qarabağ,Dudelange,1 - 1
+Temporada2020,Grupo 2,19 Sep 19,Dinamo Kiev,Malmö,1 - 0
+Temporada2020,Grupo 2,19 Sep 19,Kobenhavn,FC Lugano,1 - 0
+Temporada2020,Grupo 2,03 Oct 19,Malmö,Kobenhavn,1 - 1
+Temporada2020,Grupo 2,03 Oct 19,FC Lugano,Dinamo Kiev,0 - 0
+Temporada2020,Grupo 2,24 Oct 19,Dinamo Kiev,Kobenhavn,1 - 1
+Temporada2020,Grupo 2,24 Oct 19,Malmö,FC Lugano,2 - 1
+Temporada2020,Grupo 2,07 Nov 19,Kobenhavn,Dinamo Kiev,1 - 1
+Temporada2020,Grupo 2,07 Nov 19,FC Lugano,Malmö,0 - 0
+Temporada2020,Grupo 2,28 Nov 19,Malmö,Dinamo Kiev,4 - 3
+Temporada2020,Grupo 2,28 Nov 19,FC Lugano,Kobenhavn,0 - 1
+Temporada2020,Grupo 2,12 Dic 19,Dinamo Kiev,FC Lugano,1 - 1
+Temporada2020,Grupo 2,12 Dic 19,Kobenhavn,Malmö,0 - 1
+Temporada2020,Grupo 3,19 Sep 19,Basel,Krasnodar,5 - 0
+Temporada2020,Grupo 3,19 Sep 19,Getafe,Trabzonspor,1 - 0
+Temporada2020,Grupo 3,03 Oct 19,Krasnodar,Getafe,1 - 2
+Temporada2020,Grupo 3,03 Oct 19,Trabzonspor,Basel,2 - 2
+Temporada2020,Grupo 3,24 Oct 19,Getafe,Basel,0 - 1
+Temporada2020,Grupo 3,24 Oct 19,Trabzonspor,Krasnodar,0 - 2
+Temporada2020,Grupo 3,07 Nov 19,Basel,Getafe,2 - 1
+Temporada2020,Grupo 3,07 Nov 19,Krasnodar,Trabzonspor,3 - 1
+Temporada2020,Grupo 3,28 Nov 19,Krasnodar,Basel,1 - 0
+Temporada2020,Grupo 3,28 Nov 19,Trabzonspor,Getafe,0 - 1
+Temporada2020,Grupo 3,12 Dic 19,Basel,Trabzonspor,2 - 0
+Temporada2020,Grupo 3,12 Dic 19,Getafe,Krasnodar,3 - 0
+Temporada2020,Grupo 4,19 Sep 19,PSV,Sporting,3 - 2
+Temporada2020,Grupo 4,19 Sep 19,LASK Linz,Rosenborg,1 - 0
+Temporada2020,Grupo 4,03 Oct 19,Sporting,LASK Linz,2 - 1
+Temporada2020,Grupo 4,03 Oct 19,Rosenborg,PSV,1 - 4
+Temporada2020,Grupo 4,24 Oct 19,Sporting,Rosenborg,1 - 0
+Temporada2020,Grupo 4,24 Oct 19,PSV,LASK Linz,0 - 0
+Temporada2020,Grupo 4,07 Nov 19,Rosenborg,Sporting,0 - 2
+Temporada2020,Grupo 4,07 Nov 19,LASK Linz,PSV,4 - 1
+Temporada2020,Grupo 4,28 Nov 19,Sporting,PSV,4 - 0
+Temporada2020,Grupo 4,28 Nov 19,Rosenborg,LASK Linz,1 - 2
+Temporada2020,Grupo 4,12 Dic 19,PSV,Rosenborg,1 - 1
+Temporada2020,Grupo 4,12 Dic 19,LASK Linz,Sporting,3 - 0
+Temporada2020,Grupo 5,19 Sep 19,Rennes,Celtic,1 - 1
+Temporada2020,Grupo 5,19 Sep 19,CFR Cluj,Lazio,2 - 1
+Temporada2020,Grupo 5,03 Oct 19,Lazio,Rennes,2 - 1
+Temporada2020,Grupo 5,03 Oct 19,Celtic,CFR Cluj,2 - 0
+Temporada2020,Grupo 5,24 Oct 19,Celtic,Lazio,2 - 1
+Temporada2020,Grupo 5,24 Oct 19,Rennes,CFR Cluj,0 - 1
+Temporada2020,Grupo 5,07 Nov 19,Lazio,Celtic,1 - 2
+Temporada2020,Grupo 5,07 Nov 19,CFR Cluj,Rennes,1 - 0
+Temporada2020,Grupo 5,28 Nov 19,Lazio,CFR Cluj,1 - 0
+Temporada2020,Grupo 5,28 Nov 19,Celtic,Rennes,3 - 1
+Temporada2020,Grupo 5,12 Dic 19,Rennes,Lazio,2 - 0
+Temporada2020,Grupo 5,12 Dic 19,CFR Cluj,Celtic,2 - 0
+Temporada2020,Grupo 6,19 Sep 19,Eintracht,Arsenal,0 - 3
+Temporada2020,Grupo 6,19 Sep 19,Standard,Vitória,2 - 0
+Temporada2020,Grupo 6,03 Oct 19,Vitória,Eintracht,0 - 1
+Temporada2020,Grupo 6,03 Oct 19,Arsenal,Standard,4 - 0
+Temporada2020,Grupo 6,24 Oct 19,Arsenal,Vitória,3 - 2
+Temporada2020,Grupo 6,24 Oct 19,Eintracht,Standard,2 - 1
+Temporada2020,Grupo 6,06 Nov 19,Vitória,Arsenal,1 - 1
+Temporada2020,Grupo 6,07 Nov 19,Standard,Eintracht,2 - 1
+Temporada2020,Grupo 6,28 Nov 19,Vitória,Standard,1 - 1
+Temporada2020,Grupo 6,28 Nov 19,Arsenal,Eintracht,1 - 2
+Temporada2020,Grupo 6,12 Dic 19,Eintracht,Vitória,2 - 3
+Temporada2020,Grupo 6,12 Dic 19,Standard,Arsenal,2 - 2
+Temporada2020,Grupo 7,19 Sep 19,Porto,Young Boys,2 - 1
+Temporada2020,Grupo 7,19 Sep 19,Rangers FC,Feyenoord,1 - 0
+Temporada2020,Grupo 7,03 Oct 19,Young Boys,Rangers FC,2 - 1
+Temporada2020,Grupo 7,03 Oct 19,Feyenoord,Porto,2 - 0
+Temporada2020,Grupo 7,24 Oct 19,Porto,Rangers FC,1 - 1
+Temporada2020,Grupo 7,24 Oct 19,Young Boys,Feyenoord,2 - 0
+Temporada2020,Grupo 7,07 Nov 19,Feyenoord,Young Boys,1 - 1
+Temporada2020,Grupo 7,07 Nov 19,Rangers FC,Porto,2 - 0
+Temporada2020,Grupo 7,28 Nov 19,Young Boys,Porto,1 - 2
+Temporada2020,Grupo 7,28 Nov 19,Feyenoord,Rangers FC,2 - 2
+Temporada2020,Grupo 7,12 Dic 19,Porto,Feyenoord,3 - 2
+Temporada2020,Grupo 7,12 Dic 19,Rangers FC,Young Boys,1 - 1
+Temporada2020,Grupo 8,19 Sep 19,Ludogorets,CSKA Moskva,5 - 1
+Temporada2020,Grupo 8,19 Sep 19,Espanyol,Ferencváro,1 - 1
+Temporada2020,Grupo 8,03 Oct 19,CSKA Moskva,Espanyol,0 - 2
+Temporada2020,Grupo 8,03 Oct 19,Ferencváro,Ludogorets,0 - 3
+Temporada2020,Grupo 8,24 Oct 19,CSKA Moskva,Ferencváro,0 - 1
+Temporada2020,Grupo 8,24 Oct 19,Ludogorets,Espanyol,0 - 1
+Temporada2020,Grupo 8,07 Nov 19,Espanyol,Ludogorets,6 - 0
+Temporada2020,Grupo 8,07 Nov 19,Ferencváro,CSKA Moskva,0 - 0
+Temporada2020,Grupo 8,28 Nov 19,CSKA Moskva,Ludogorets,1 - 1
+Temporada2020,Grupo 8,28 Nov 19,Ferencváro,Espanyol,2 - 2
+Temporada2020,Grupo 8,12 Dic 19,Ludogorets,Ferencváro,1 - 1
+Temporada2020,Grupo 8,12 Dic 19,Espanyol,CSKA Moskva,0 - 1
+Temporada2020,Grupo 9,19 Sep 19,Wolfsburg,Oleksandria,3 - 1
+Temporada2020,Grupo 9,19 Sep 19,KAA Gent,Saint-Étie,3 - 2
+Temporada2020,Grupo 9,03 Oct 19,Saint-Étie,Wolfsburg,1 - 1
+Temporada2020,Grupo 9,03 Oct 19,Oleksandria,KAA Gent,1 - 1
+Temporada2020,Grupo 9,24 Oct 19,KAA Gent,Wolfsburg,2 - 2
+Temporada2020,Grupo 9,24 Oct 19,Saint-Étie,Oleksandria,1 - 1
+Temporada2020,Grupo 9,07 Nov 19,Wolfsburg,KAA Gent,1 - 3
+Temporada2020,Grupo 9,07 Nov 19,Oleksandria,Saint-Étie,2 - 2
+Temporada2020,Grupo 9,28 Nov 19,Saint-Étie,KAA Gent,0 - 0
+Temporada2020,Grupo 9,28 Nov 19,Oleksandria,Wolfsburg,0 - 1
+Temporada2020,Grupo 9,12 Dic 19,Wolfsburg,Saint-Étie,1 - 0
+Temporada2020,Grupo 9,12 Dic 19,KAA Gent,Oleksandria,2 - 1
+Temporada2020,Grupo 10,19 Sep 19,Roma,İstanbul,4 - 0
+Temporada2020,Grupo 10,19 Sep 19,Monchengladbach,Wolfsberger,0 - 4
+Temporada2020,Grupo 10,03 Oct 19,İstanbul,Monchengladbach,1 - 1
+Temporada2020,Grupo 10,03 Oct 19,Wolfsberger,Roma,1 - 1
+Temporada2020,Grupo 10,24 Oct 19,Roma,Monchengladbach,1 - 1
+Temporada2020,Grupo 10,24 Oct 19,İstanbul,Wolfsberger,1 - 0
+Temporada2020,Grupo 10,07 Nov 19,Monchengladbach,Roma,2 - 1
+Temporada2020,Grupo 10,07 Nov 19,Wolfsberger,İstanbul,0 - 3
+Temporada2020,Grupo 10,28 Nov 19,İstanbul,Roma,0 - 3
+Temporada2020,Grupo 10,28 Nov 19,Wolfsberger,Monchengladbach,0 - 1
+Temporada2020,Grupo 10,12 Dic 19,Roma,Wolfsberger,2 - 2
+Temporada2020,Grupo 10,12 Dic 19,Monchengladbach,İstanbul,1 - 2
+Temporada2020,Grupo 11,19 Sep 19,Wolves,Sporting,0 - 1
+Temporada2020,Grupo 11,19 Sep 19,Slovan,Beşiktaş,4 - 2
+Temporada2020,Grupo 11,03 Oct 19,Beşiktaş,Wolves,0 - 1
+Temporada2020,Grupo 11,03 Oct 19,Sporting,Slovan,2 - 2
+Temporada2020,Grupo 11,24 Oct 19,Beşiktaş,Sporting,1 - 2
+Temporada2020,Grupo 11,24 Oct 19,Slovan,Wolves,1 - 2
+Temporada2020,Grupo 11,07 Nov 19,Sporting,Beşiktaş,3 - 1
+Temporada2020,Grupo 11,07 Nov 19,Wolves,Slovan,1 - 0
+Temporada2020,Grupo 11,28 Nov 19,Beşiktaş,Slovan,2 - 1
+Temporada2020,Grupo 11,28 Nov 19,Sporting,Wolves,3 - 3
+Temporada2020,Grupo 11,12 Dic 19,Wolves,Beşiktaş,4 - 0
+Temporada2020,Grupo 11,12 Dic 19,Slovan,Sporting,2 - 4
+Temporada2020,Grupo 12,19 Sep 19,Man. Utd,Astana,1 - 0
+Temporada2020,Grupo 12,19 Sep 19,Partizan,AZ Alkmaar,2 - 2
+Temporada2020,Grupo 12,03 Oct 19,Astana,Partizan,1 - 2
+Temporada2020,Grupo 12,03 Oct 19,AZ Alkmaar,Man. Utd,0 - 0
+Temporada2020,Grupo 12,24 Oct 19,Partizan,Man. Utd,0 - 1
+Temporada2020,Grupo 12,24 Oct 19,AZ Alkmaar,Astana,6 - 0
+Temporada2020,Grupo 12,07 Nov 19,Astana,AZ Alkmaar,0 - 5
+Temporada2020,Grupo 12,07 Nov 19,Man. Utd,Partizan,3 - 0
+Temporada2020,Grupo 12,28 Nov 19,Astana,Man. Utd,2 - 1
+Temporada2020,Grupo 12,28 Nov 19,AZ Alkmaar,Partizan,2 - 2
+Temporada2020,Grupo 12,12 Dic 19,Man. Utd,AZ Alkmaar,4 - 0
+Temporada2020,Grupo 12,12 Dic 19,Partizan,Astana,4 - 1
+Temporada2019,Grupo 0,14 Feb 19,Viktoria,Dinamo,2 - 1
+Temporada2019,Grupo 0,21 Feb 19,Dinamo,Viktoria,3 - 0
+Temporada2019,Grupo 0,14 Feb 19,Club Brugge,Salzburg,2 - 1
+Temporada2019,Grupo 0,21 Feb 19,Salzburg,Club Brugge,4 - 0
+Temporada2019,Grupo 0,14 Feb 19,Rapid Wien,Inter,0 - 1
+Temporada2019,Grupo 0,21 Feb 19,Inter,Rapid Wien,4 - 0
+Temporada2019,Grupo 0,14 Feb 19,Slavia,Genk,0 - 0
+Temporada2019,Grupo 0,21 Feb 19,Genk,Slavia,1 - 4
+Temporada2019,Grupo 0,14 Feb 19,Krasnodar,B. Leverkusen,0 - 0
+Temporada2019,Grupo 0,21 Feb 19,B. Leverkusen,Krasnodar,1 - 1
+Temporada2019,Grupo 0,14 Feb 19,Zurich,Napoli,1 - 3
+Temporada2019,Grupo 0,21 Feb 19,Napoli,Zurich,2 - 0
+Temporada2019,Grupo 0,14 Feb 19,Malmö,Chelsea,1 - 2
+Temporada2019,Grupo 0,21 Feb 19,Chelsea,Malmö,3 - 0
+Temporada2019,Grupo 0,14 Feb 19,Shakhtar,Eintracht,2 - 2
+Temporada2019,Grupo 0,21 Feb 19,Eintracht,Shakhtar,4 - 1
+Temporada2019,Grupo 0,14 Feb 19,Celtic,Valencia,0 - 2
+Temporada2019,Grupo 0,21 Feb 19,Valencia,Celtic,1 - 0
+Temporada2019,Grupo 0,14 Feb 19,Rennes,Real Betis,3 - 3
+Temporada2019,Grupo 0,21 Feb 19,Real Betis,Rennes,1 - 3
+Temporada2019,Grupo 0,14 Feb 19,Olympiacos,Dinamo Kiev,2 - 2
+Temporada2019,Grupo 0,21 Feb 19,Dinamo Kiev,Olympiacos,1 - 0
+Temporada2019,Grupo 0,14 Feb 19,Lazio,Sevilla,0 - 1
+Temporada2019,Grupo 0,20 Feb 19,Sevilla,Lazio,2 - 0
+Temporada2019,Grupo 0,12 Feb 19,Fenerbahçe,Zenit,1 - 0
+Temporada2019,Grupo 0,21 Feb 19,Zenit,Fenerbahçe,3 - 1
+Temporada2019,Grupo 0,14 Feb 19,Sporting,Villarreal,0 - 1
+Temporada2019,Grupo 0,21 Feb 19,Villarreal,Sporting,1 - 1
+Temporada2019,Grupo 0,14 Feb 19,BATE,Arsenal,1 - 0
+Temporada2019,Grupo 0,21 Feb 19,Arsenal,BATE,3 - 0
+Temporada2019,Grupo 0,14 Feb 19,Galatasaray,Benfica,1 - 2
+Temporada2019,Grupo 0,21 Feb 19,Benfica,Galatasaray,0 - 0
+Temporada2019,Grupo 0,07 Mar 19,Chelsea,Dinamo Kiev,3 - 0
+Temporada2019,Grupo 0,14 Mar 19,Dinamo Kiev,Chelsea,0 - 5
+Temporada2019,Grupo 0,14 Mar 19,Inter,Eintracht,0 - 1
+Temporada2019,Grupo 0,07 Mar 19,Eintracht,Inter,0 - 0
+Temporada2019,Grupo 0,07 Mar 19,Dinamo,Benfica,1 - 0
+Temporada2019,Grupo 0,14 Mar 19,Benfica,Dinamo,3 - 0
+Temporada2019,Grupo 0,14 Mar 19,Salzburg,Napoli,3 - 1
+Temporada2019,Grupo 0,07 Mar 19,Napoli,Salzburg,3 - 0
+Temporada2019,Grupo 0,14 Mar 19,Krasnodar,Valencia,1 - 1
+Temporada2019,Grupo 0,07 Mar 19,Valencia,Krasnodar,2 - 1
+Temporada2019,Grupo 0,07 Mar 19,Sevilla,Slavia,2 - 2
+Temporada2019,Grupo 0,14 Mar 19,Slavia,Sevilla,4 - 3
+Temporada2019,Grupo 0,07 Mar 19,Rennes,Arsenal,3 - 1
+Temporada2019,Grupo 0,14 Mar 19,Arsenal,Rennes,3 - 0
+Temporada2019,Grupo 0,14 Mar 19,Villarreal,Zenit,2 - 1
+Temporada2019,Grupo 0,07 Mar 19,Zenit,Villarreal,1 - 3
+Temporada2019,Grupo 0,18 Abr 19,Napoli,Arsenal,0 - 1
+Temporada2019,Grupo 0,11 Abr 19,Arsenal,Napoli,2 - 0
+Temporada2019,Grupo 0,11 Abr 19,Villarreal,Valencia,1 - 3
+Temporada2019,Grupo 0,18 Abr 19,Valencia,Villarreal,2 - 0
+Temporada2019,Grupo 0,11 Abr 19,Benfica,Eintracht,4 - 2
+Temporada2019,Grupo 0,18 Abr 19,Eintracht,Benfica,2 - 0
+Temporada2019,Grupo 0,11 Abr 19,Slavia,Chelsea,0 - 1
+Temporada2019,Grupo 0,18 Abr 19,Chelsea,Slavia,4 - 3
+Temporada2019,Grupo 0,02 May 19,Eintracht,Chelsea,1 - 1
+Temporada2019,Grupo 0,02 May 19,Arsenal,Valencia,3 - 1
+Temporada2019,Grupo 0,09 May 19,Chelsea,Eintracht,1 - 1
+Temporada2019,Grupo 0,09 May 19,Valencia,Arsenal,2 - 4
+Temporada2019,Grupo 0,29 May 19,Chelsea,Arsenal,4 - 1
+Temporada2019,Grupo 1,20 Sep 18,Larnaca,Zurich,0 - 1
+Temporada2019,Grupo 1,20 Sep 18,Ludogorets,B. Leverkusen,2 - 3
+Temporada2019,Grupo 1,04 Oct 18,B. Leverkusen,Larnaca,4 - 2
+Temporada2019,Grupo 1,04 Oct 18,Zurich,Ludogorets,1 - 0
+Temporada2019,Grupo 1,25 Oct 18,Zurich,B. Leverkusen,3 - 2
+Temporada2019,Grupo 1,25 Oct 18,Larnaca,Ludogorets,1 - 1
+Temporada2019,Grupo 1,08 Nov 18,B. Leverkusen,Zurich,1 - 0
+Temporada2019,Grupo 1,08 Nov 18,Ludogorets,Larnaca,0 - 0
+Temporada2019,Grupo 1,29 Nov 18,Zurich,Larnaca,1 - 2
+Temporada2019,Grupo 1,29 Nov 18,B. Leverkusen,Ludogorets,1 - 1
+Temporada2019,Grupo 1,13 Dic 18,Larnaca,B. Leverkusen,1 - 5
+Temporada2019,Grupo 1,13 Dic 18,Ludogorets,Zurich,1 - 1
+Temporada2019,Grupo 2,20 Sep 18,RB Leipzig,Salzburg,2 - 3
+Temporada2019,Grupo 2,20 Sep 18,Celtic,Rosenborg,1 - 0
+Temporada2019,Grupo 2,04 Oct 18,Rosenborg,RB Leipzig,1 - 3
+Temporada2019,Grupo 2,04 Oct 18,Salzburg,Celtic,3 - 1
+Temporada2019,Grupo 2,25 Oct 18,Salzburg,Rosenborg,3 - 0
+Temporada2019,Grupo 2,25 Oct 18,RB Leipzig,Celtic,2 - 0
+Temporada2019,Grupo 2,08 Nov 18,Rosenborg,Salzburg,2 - 5
+Temporada2019,Grupo 2,08 Nov 18,Celtic,RB Leipzig,2 - 1
+Temporada2019,Grupo 2,29 Nov 18,Salzburg,RB Leipzig,1 - 0
+Temporada2019,Grupo 2,29 Nov 18,Rosenborg,Celtic,0 - 1
+Temporada2019,Grupo 2,13 Dic 18,RB Leipzig,Rosenborg,1 - 1
+Temporada2019,Grupo 2,13 Dic 18,Celtic,Salzburg,1 - 2
+Temporada2019,Grupo 3,20 Sep 18,Slavia,Girondins,1 - 0
+Temporada2019,Grupo 3,20 Sep 18,Kobenhavn,Zenit,1 - 1
+Temporada2019,Grupo 3,04 Oct 18,Girondins,Kobenhavn,1 - 2
+Temporada2019,Grupo 3,04 Oct 18,Zenit,Slavia,1 - 0
+Temporada2019,Grupo 3,25 Oct 18,Zenit,Girondins,2 - 1
+Temporada2019,Grupo 3,25 Oct 18,Kobenhavn,Slavia,0 - 1
+Temporada2019,Grupo 3,08 Nov 18,Slavia,Kobenhavn,0 - 0
+Temporada2019,Grupo 3,08 Nov 18,Girondins,Zenit,1 - 1
+Temporada2019,Grupo 3,29 Nov 18,Zenit,Kobenhavn,1 - 0
+Temporada2019,Grupo 3,29 Nov 18,Girondins,Slavia,2 - 0
+Temporada2019,Grupo 3,13 Dic 18,Kobenhavn,Girondins,0 - 1
+Temporada2019,Grupo 3,13 Dic 18,Slavia,Zenit,2 - 0
+Temporada2019,Grupo 4,20 Sep 18,Spartak,Anderlecht,1 - 0
+Temporada2019,Grupo 4,20 Sep 18,Dinamo,Fenerbahçe,4 - 1
+Temporada2019,Grupo 4,04 Oct 18,Fenerbahçe,Spartak,2 - 0
+Temporada2019,Grupo 4,04 Oct 18,Anderlecht,Dinamo,0 - 2
+Temporada2019,Grupo 4,25 Oct 18,Anderlecht,Fenerbahçe,2 - 2
+Temporada2019,Grupo 4,25 Oct 18,Spartak,Dinamo,1 - 2
+Temporada2019,Grupo 4,08 Nov 18,Fenerbahçe,Anderlecht,2 - 0
+Temporada2019,Grupo 4,08 Nov 18,Dinamo,Spartak,3 - 1
+Temporada2019,Grupo 4,29 Nov 18,Anderlecht,Spartak,0 - 0
+Temporada2019,Grupo 4,29 Nov 18,Fenerbahçe,Dinamo,0 - 0
+Temporada2019,Grupo 4,13 Dic 18,Spartak,Fenerbahçe,1 - 0
+Temporada2019,Grupo 4,13 Dic 18,Dinamo,Anderlecht,0 - 0
+Temporada2019,Grupo 5,20 Sep 18,Sporting,Qarabağ,2 - 0
+Temporada2019,Grupo 5,20 Sep 18,Arsenal,Vorskla,4 - 2
+Temporada2019,Grupo 5,04 Oct 18,Vorskla,Sporting,1 - 2
+Temporada2019,Grupo 5,04 Oct 18,Qarabağ,Arsenal,0 - 3
+Temporada2019,Grupo 5,25 Oct 18,Qarabağ,Vorskla,0 - 1
+Temporada2019,Grupo 5,25 Oct 18,Sporting,Arsenal,0 - 1
+Temporada2019,Grupo 5,08 Nov 18,Vorskla,Qarabağ,0 - 1
+Temporada2019,Grupo 5,08 Nov 18,Arsenal,Sporting,0 - 0
+Temporada2019,Grupo 5,29 Nov 18,Qarabağ,Sporting,1 - 6
+Temporada2019,Grupo 5,29 Nov 18,Vorskla,Arsenal,0 - 3
+Temporada2019,Grupo 5,13 Dic 18,Sporting,Vorskla,3 - 0
+Temporada2019,Grupo 5,13 Dic 18,Arsenal,Qarabağ,1 - 0
+Temporada2019,Grupo 6,20 Sep 18,Dudelange,Milan,0 - 1
+Temporada2019,Grupo 6,20 Sep 18,Olympiacos,Real Betis,0 - 0
+Temporada2019,Grupo 6,04 Oct 18,Real Betis,Dudelange,3 - 0
+Temporada2019,Grupo 6,04 Oct 18,Milan,Olympiacos,3 - 1
+Temporada2019,Grupo 6,25 Oct 18,Milan,Real Betis,1 - 2
+Temporada2019,Grupo 6,25 Oct 18,Dudelange,Olympiacos,0 - 2
+Temporada2019,Grupo 6,08 Nov 18,Real Betis,Milan,1 - 1
+Temporada2019,Grupo 6,08 Nov 18,Olympiacos,Dudelange,5 - 1
+Temporada2019,Grupo 6,29 Nov 18,Milan,Dudelange,5 - 2
+Temporada2019,Grupo 6,29 Nov 18,Real Betis,Olympiacos,1 - 0
+Temporada2019,Grupo 6,13 Dic 18,Dudelange,Real Betis,0 - 0
+Temporada2019,Grupo 6,13 Dic 18,Olympiacos,Milan,3 - 1
+Temporada2019,Grupo 7,20 Sep 18,Villarreal,Rangers FC,2 - 2
+Temporada2019,Grupo 7,20 Sep 18,Rapid Wien,Spartak,2 - 0
+Temporada2019,Grupo 7,04 Oct 18,Spartak,Villarreal,3 - 3
+Temporada2019,Grupo 7,04 Oct 18,Rangers FC,Rapid Wien,3 - 1
+Temporada2019,Grupo 7,25 Oct 18,Rangers FC,Spartak,0 - 0
+Temporada2019,Grupo 7,25 Oct 18,Villarreal,Rapid Wien,5 - 0
+Temporada2019,Grupo 7,08 Nov 18,Spartak,Rangers FC,4 - 3
+Temporada2019,Grupo 7,08 Nov 18,Rapid Wien,Villarreal,0 - 0
+Temporada2019,Grupo 7,29 Nov 18,Rangers FC,Villarreal,0 - 0
+Temporada2019,Grupo 7,29 Nov 18,Spartak,Rapid Wien,1 - 2
+Temporada2019,Grupo 7,13 Dic 18,Villarreal,Spartak,2 - 0
+Temporada2019,Grupo 7,13 Dic 18,Rapid Wien,Rangers FC,1 - 0
+Temporada2019,Grupo 8,20 Sep 18,Olympique,Eintracht,1 - 2
+Temporada2019,Grupo 8,20 Sep 18,Lazio,Apollon,2 - 1
+Temporada2019,Grupo 8,04 Oct 18,Apollon,Olympique,2 - 2
+Temporada2019,Grupo 8,04 Oct 18,Eintracht,Lazio,4 - 1
+Temporada2019,Grupo 8,25 Oct 18,Eintracht,Apollon,2 - 0
+Temporada2019,Grupo 8,25 Oct 18,Olympique,Lazio,1 - 3
+Temporada2019,Grupo 8,08 Nov 18,Apollon,Eintracht,2 - 3
+Temporada2019,Grupo 8,08 Nov 18,Lazio,Olympique,2 - 1
+Temporada2019,Grupo 8,29 Nov 18,Eintracht,Olympique,4 - 0
+Temporada2019,Grupo 8,29 Nov 18,Apollon,Lazio,2 - 0
+Temporada2019,Grupo 8,13 Dic 18,Olympique,Apollon,1 - 3
+Temporada2019,Grupo 8,13 Dic 18,Lazio,Eintracht,1 - 2
+Temporada2019,Grupo 9,20 Sep 18,Beşiktaş,Sarpsborg,3 - 1
+Temporada2019,Grupo 9,20 Sep 18,Genk,Malmö,2 - 0
+Temporada2019,Grupo 9,04 Oct 18,Malmö,Beşiktaş,2 - 0
+Temporada2019,Grupo 9,04 Oct 18,Sarpsborg,Genk,3 - 1
+Temporada2019,Grupo 9,25 Oct 18,Sarpsborg,Malmö,1 - 1
+Temporada2019,Grupo 9,25 Oct 18,Beşiktaş,Genk,2 - 4
+Temporada2019,Grupo 9,08 Nov 18,Malmö,Sarpsborg,1 - 1
+Temporada2019,Grupo 9,08 Nov 18,Genk,Beşiktaş,1 - 1
+Temporada2019,Grupo 9,29 Nov 18,Sarpsborg,Beşiktaş,2 - 3
+Temporada2019,Grupo 9,29 Nov 18,Malmö,Genk,2 - 2
+Temporada2019,Grupo 9,13 Dic 18,Beşiktaş,Malmö,0 - 1
+Temporada2019,Grupo 9,13 Dic 18,Genk,Sarpsborg,4 - 0
+Temporada2019,Grupo 10,20 Sep 18,Sevilla,Standard,5 - 1
+Temporada2019,Grupo 10,20 Sep 18,Akhisar,Krasnodar,0 - 1
+Temporada2019,Grupo 10,04 Oct 18,Krasnodar,Sevilla,2 - 1
+Temporada2019,Grupo 10,04 Oct 18,Standard,Akhisar,2 - 1
+Temporada2019,Grupo 10,25 Oct 18,Standard,Krasnodar,2 - 1
+Temporada2019,Grupo 10,25 Oct 18,Sevilla,Akhisar,6 - 0
+Temporada2019,Grupo 10,08 Nov 18,Krasnodar,Standard,2 - 1
+Temporada2019,Grupo 10,08 Nov 18,Akhisar,Sevilla,2 - 3
+Temporada2019,Grupo 10,29 Nov 18,Standard,Sevilla,1 - 0
+Temporada2019,Grupo 10,29 Nov 18,Krasnodar,Akhisar,2 - 1
+Temporada2019,Grupo 10,13 Dic 18,Sevilla,Krasnodar,3 - 0
+Temporada2019,Grupo 10,13 Dic 18,Akhisar,Standard,0 - 0
+Temporada2019,Grupo 11,20 Sep 18,Rennes,Jablonec,2 - 1
+Temporada2019,Grupo 11,20 Sep 18,Dinamo Kiev,Astana,2 - 2
+Temporada2019,Grupo 11,04 Oct 18,Astana,Rennes,2 - 0
+Temporada2019,Grupo 11,04 Oct 18,Jablonec,Dinamo Kiev,2 - 2
+Temporada2019,Grupo 11,25 Oct 18,Jablonec,Astana,1 - 1
+Temporada2019,Grupo 11,25 Oct 18,Rennes,Dinamo Kiev,1 - 2
+Temporada2019,Grupo 11,08 Nov 18,Astana,Jablonec,2 - 1
+Temporada2019,Grupo 11,08 Nov 18,Dinamo Kiev,Rennes,3 - 1
+Temporada2019,Grupo 11,29 Nov 18,Jablonec,Rennes,0 - 1
+Temporada2019,Grupo 11,29 Nov 18,Astana,Dinamo Kiev,0 - 1
+Temporada2019,Grupo 11,13 Dic 18,Rennes,Astana,2 - 0
+Temporada2019,Grupo 11,13 Dic 18,Dinamo Kiev,Jablonec,0 - 1
+Temporada2019,Grupo 12,20 Sep 18,PAOK,Chelsea,0 - 1
+Temporada2019,Grupo 12,20 Sep 18,Fehérvár,BATE,0 - 2
+Temporada2019,Grupo 12,04 Oct 18,BATE,PAOK,1 - 4
+Temporada2019,Grupo 12,04 Oct 18,Chelsea,Fehérvár,1 - 0
+Temporada2019,Grupo 12,25 Oct 18,Chelsea,BATE,3 - 1
+Temporada2019,Grupo 12,25 Oct 18,PAOK,Fehérvár,0 - 2
+Temporada2019,Grupo 12,08 Nov 18,BATE,Chelsea,0 - 1
+Temporada2019,Grupo 12,08 Nov 18,Fehérvár,PAOK,1 - 0
+Temporada2019,Grupo 12,29 Nov 18,Chelsea,PAOK,4 - 0
+Temporada2019,Grupo 12,29 Nov 18,BATE,Fehérvár,2 - 0
+Temporada2019,Grupo 12,13 Dic 18,PAOK,BATE,1 - 3
+Temporada2019,Grupo 12,13 Dic 18,Fehérvár,Chelsea,2 - 2
+Temporada2018,Grupo 0,15 Feb 18,B. Dortmund,Atalanta,3 - 2
+Temporada2018,Grupo 0,22 Feb 18,Atalanta,B. Dortmund,1 - 1
+Temporada2018,Grupo 0,15 Feb 18,Nice,Lokomotiv,2 - 3
+Temporada2018,Grupo 0,22 Feb 18,Lokomotiv,Nice,1 - 0
+Temporada2018,Grupo 0,22 Feb 18,Atlético Madrid,Kobenhavn,1 - 0
+Temporada2018,Grupo 0,15 Feb 18,Kobenhavn,Atlético Madrid,1 - 4
+Temporada2018,Grupo 0,22 Feb 18,Athletic Bilbao,Spartak,1 - 2
+Temporada2018,Grupo 0,15 Feb 18,Spartak,Athletic Bilbao,1 - 3
+Temporada2018,Grupo 0,15 Feb 18,AEK Athens,Dinamo Kiev,1 - 1
+Temporada2018,Grupo 0,22 Feb 18,Dinamo Kiev,AEK Athens,0 - 0
+Temporada2018,Grupo 0,15 Feb 18,Celtic,Zenit,1 - 0
+Temporada2018,Grupo 0,22 Feb 18,Zenit,Celtic,3 - 0
+Temporada2018,Grupo 0,15 Feb 18,Napoli,RB Leipzig,1 - 3
+Temporada2018,Grupo 0,22 Feb 18,RB Leipzig,Napoli,0 - 2
+Temporada2018,Grupo 0,13 Feb 18,Crvena,CSKA Moskva,0 - 0
+Temporada2018,Grupo 0,21 Feb 18,CSKA Moskva,Crvena,1 - 0
+Temporada2018,Grupo 0,15 Feb 18,Olympique,Villarreal,3 - 1
+Temporada2018,Grupo 0,22 Feb 18,Villarreal,Olympique,0 - 1
+Temporada2018,Grupo 0,15 Feb 18,Sociedad,Salzburg,2 - 2
+Temporada2018,Grupo 0,22 Feb 18,Salzburg,Sociedad,2 - 1
+Temporada2018,Grupo 0,15 Feb 18,Partizan,Viktoria,1 - 1
+Temporada2018,Grupo 0,22 Feb 18,Viktoria,Partizan,2 - 0
+Temporada2018,Grupo 0,15 Feb 18,FCSB,Lazio,1 - 0
+Temporada2018,Grupo 0,22 Feb 18,Lazio,FCSB,5 - 1
+Temporada2018,Grupo 0,15 Feb 18,Ludogorets,Milan,0 - 3
+Temporada2018,Grupo 0,22 Feb 18,Milan,Ludogorets,1 - 0
+Temporada2018,Grupo 0,15 Feb 18,Astana,Sporting,1 - 3
+Temporada2018,Grupo 0,22 Feb 18,Sporting,Astana,3 - 3
+Temporada2018,Grupo 0,15 Feb 18,Östersunds,Arsenal,0 - 3
+Temporada2018,Grupo 0,22 Feb 18,Arsenal,Östersunds,1 - 2
+Temporada2018,Grupo 0,22 Feb 18,Sporting,Olympique,1 - 0
+Temporada2018,Grupo 0,15 Feb 18,Olympique,Sporting,3 - 0
+Temporada2018,Grupo 0,15 Mar 18,Dinamo Kiev,Lazio,0 - 2
+Temporada2018,Grupo 0,08 Mar 18,Lazio,Dinamo Kiev,2 - 2
+Temporada2018,Grupo 0,15 Mar 18,Zenit,RB Leipzig,1 - 1
+Temporada2018,Grupo 0,08 Mar 18,RB Leipzig,Zenit,2 - 1
+Temporada2018,Grupo 0,15 Mar 18,Lokomotiv,Atlético Madrid,1 - 5
+Temporada2018,Grupo 0,15 Mar 18,Olympique,CSKA Moskva,2 - 3
+Temporada2018,Grupo 0,08 Mar 18,CSKA Moskva,Olympique,0 - 1
+Temporada2018,Grupo 0,15 Mar 18,Athletic Bilbao,Olympique,1 - 2
+Temporada2018,Grupo 0,08 Mar 18,Atlético Madrid,Lokomotiv,3 - 0
+Temporada2018,Grupo 0,15 Mar 18,Viktoria,Sporting,2 - 1
+Temporada2018,Grupo 0,08 Mar 18,Sporting,Viktoria,2 - 0
+Temporada2018,Grupo 0,15 Mar 18,Salzburg,B. Dortmund,0 - 0
+Temporada2018,Grupo 0,08 Mar 18,B. Dortmund,Salzburg,1 - 2
+Temporada2018,Grupo 0,15 Mar 18,Arsenal,Milan,3 - 1
+Temporada2018,Grupo 0,08 Mar 18,Milan,Arsenal,0 - 2
+Temporada2018,Grupo 0,08 Mar 18,Olympique,Athletic Bilbao,3 - 1
+Temporada2018,Grupo 0,05 Abr 18,RB Leipzig,Olympique,1 - 0
+Temporada2018,Grupo 0,12 Abr 18,Olympique,RB Leipzig,5 - 2
+Temporada2018,Grupo 0,05 Abr 18,Arsenal,CSKA Moskva,4 - 1
+Temporada2018,Grupo 0,12 Abr 18,CSKA Moskva,Arsenal,2 - 2
+Temporada2018,Grupo 0,05 Abr 18,Atlético Madrid,Sporting,2 - 0
+Temporada2018,Grupo 0,12 Abr 18,Sporting,Atlético Madrid,1 - 0
+Temporada2018,Grupo 0,05 Abr 18,Lazio,Salzburg,4 - 2
+Temporada2018,Grupo 0,12 Abr 18,Salzburg,Lazio,4 - 1
+Temporada2018,Grupo 0,26 Abr 18,Olympique,Salzburg,2 - 0
+Temporada2018,Grupo 0,03 May 18,Salzburg,Olympique,2 - 1
+Temporada2018,Grupo 0,26 Abr 18,Arsenal,Atlético Madrid,1 - 1
+Temporada2018,Grupo 0,03 May 18,Atlético Madrid,Arsenal,1 - 0
+Temporada2018,Grupo 0,16 May 18,Olympique,Atlético Madrid,0 - 3
+Temporada2018,Grupo 1,14 Sep 17,Villarreal,Astana,3 - 1
+Temporada2018,Grupo 1,14 Sep 17,Slavia,Maccabi,1 - 0
+Temporada2018,Grupo 1,28 Sep 17,Maccabi,Villarreal,0 - 0
+Temporada2018,Grupo 1,28 Sep 17,Astana,Slavia,1 - 1
+Temporada2018,Grupo 1,19 Oct 17,Astana,Maccabi,4 - 0
+Temporada2018,Grupo 1,19 Oct 17,Villarreal,Slavia,2 - 2
+Temporada2018,Grupo 1,02 Nov 17,Maccabi,Astana,0 - 1
+Temporada2018,Grupo 1,02 Nov 17,Slavia,Villarreal,0 - 2
+Temporada2018,Grupo 1,23 Nov 17,Astana,Villarreal,2 - 3
+Temporada2018,Grupo 1,23 Nov 17,Maccabi,Slavia,0 - 2
+Temporada2018,Grupo 1,07 Dic 17,Villarreal,Maccabi,0 - 1
+Temporada2018,Grupo 1,07 Dic 17,Slavia,Astana,0 - 1
+Temporada2018,Grupo 2,14 Sep 17,Dinamo Kiev,Skënderbeu,3 - 1
+Temporada2018,Grupo 2,14 Sep 17,Young Boys,Partizan,1 - 1
+Temporada2018,Grupo 2,28 Sep 17,Partizan,Dinamo Kiev,2 - 3
+Temporada2018,Grupo 2,28 Sep 17,Skënderbeu,Young Boys,1 - 1
+Temporada2018,Grupo 2,19 Oct 17,Skënderbeu,Partizan,0 - 0
+Temporada2018,Grupo 2,19 Oct 17,Dinamo Kiev,Young Boys,2 - 2
+Temporada2018,Grupo 2,02 Nov 17,Young Boys,Dinamo Kiev,0 - 1
+Temporada2018,Grupo 2,02 Nov 17,Partizan,Skënderbeu,2 - 0
+Temporada2018,Grupo 2,23 Nov 17,Skënderbeu,Dinamo Kiev,3 - 2
+Temporada2018,Grupo 2,23 Nov 17,Partizan,Young Boys,2 - 1
+Temporada2018,Grupo 2,07 Dic 17,Dinamo Kiev,Partizan,4 - 1
+Temporada2018,Grupo 2,07 Dic 17,Young Boys,Skënderbeu,2 - 1
+Temporada2018,Grupo 3,14 Sep 17,Hoffenheim,Sporting,1 - 2
+Temporada2018,Grupo 3,14 Sep 17,İstanbul,Ludogorets,0 - 0
+Temporada2018,Grupo 3,28 Sep 17,Ludogorets,Hoffenheim,2 - 1
+Temporada2018,Grupo 3,28 Sep 17,Sporting,İstanbul,2 - 1
+Temporada2018,Grupo 3,19 Oct 17,Sporting,Ludogorets,0 - 2
+Temporada2018,Grupo 3,19 Oct 17,Hoffenheim,İstanbul,3 - 1
+Temporada2018,Grupo 3,02 Nov 17,Ludogorets,Sporting,1 - 1
+Temporada2018,Grupo 3,02 Nov 17,İstanbul,Hoffenheim,1 - 1
+Temporada2018,Grupo 3,23 Nov 17,Sporting,Hoffenheim,3 - 1
+Temporada2018,Grupo 3,23 Nov 17,Ludogorets,İstanbul,1 - 2
+Temporada2018,Grupo 3,07 Dic 17,Hoffenheim,Ludogorets,1 - 1
+Temporada2018,Grupo 3,07 Dic 17,İstanbul,Sporting,2 - 1
+Temporada2018,Grupo 4,14 Sep 17,Austria,Milan,1 - 5
+Temporada2018,Grupo 4,14 Sep 17,Rijeka,AEK Athens,1 - 2
+Temporada2018,Grupo 4,28 Sep 17,AEK Athens,Austria,2 - 2
+Temporada2018,Grupo 4,28 Sep 17,Milan,Rijeka,3 - 2
+Temporada2018,Grupo 4,19 Oct 17,Milan,AEK Athens,0 - 0
+Temporada2018,Grupo 4,19 Oct 17,Austria,Rijeka,1 - 3
+Temporada2018,Grupo 4,02 Nov 17,AEK Athens,Milan,0 - 0
+Temporada2018,Grupo 4,02 Nov 17,Rijeka,Austria,1 - 4
+Temporada2018,Grupo 4,23 Nov 17,Milan,Austria,5 - 1
+Temporada2018,Grupo 4,23 Nov 17,AEK Athens,Rijeka,2 - 2
+Temporada2018,Grupo 4,07 Dic 17,Austria,AEK Athens,0 - 0
+Temporada2018,Grupo 4,07 Dic 17,Rijeka,Milan,2 - 0
+Temporada2018,Grupo 5,14 Sep 17,Atalanta,Everton,3 - 0
+Temporada2018,Grupo 5,14 Sep 17,Apollon,Olympique,1 - 1
+Temporada2018,Grupo 5,28 Sep 17,Olympique,Atalanta,1 - 1
+Temporada2018,Grupo 5,28 Sep 17,Everton,Apollon,2 - 2
+Temporada2018,Grupo 5,19 Oct 17,Everton,Olympique,1 - 2
+Temporada2018,Grupo 5,19 Oct 17,Atalanta,Apollon,3 - 1
+Temporada2018,Grupo 5,02 Nov 17,Apollon,Atalanta,1 - 1
+Temporada2018,Grupo 5,02 Nov 17,Olympique,Everton,3 - 0
+Temporada2018,Grupo 5,23 Nov 17,Olympique,Apollon,4 - 0
+Temporada2018,Grupo 5,23 Nov 17,Everton,Atalanta,1 - 5
+Temporada2018,Grupo 5,07 Dic 17,Atalanta,Olympique,1 - 0
+Temporada2018,Grupo 5,07 Dic 17,Apollon,Everton,0 - 3
+Temporada2018,Grupo 6,14 Sep 17,Zlin,Sheriff,0 - 0
+Temporada2018,Grupo 6,14 Sep 17,Kobenhavn,Lokomotiv,0 - 0
+Temporada2018,Grupo 6,28 Sep 17,Lokomotiv,Zlin,3 - 0
+Temporada2018,Grupo 6,28 Sep 17,Sheriff,Kobenhavn,0 - 0
+Temporada2018,Grupo 6,19 Oct 17,Sheriff,Lokomotiv,1 - 1
+Temporada2018,Grupo 6,19 Oct 17,Zlin,Kobenhavn,1 - 1
+Temporada2018,Grupo 6,02 Nov 17,Lokomotiv,Sheriff,1 - 2
+Temporada2018,Grupo 6,02 Nov 17,Kobenhavn,Zlin,3 - 0
+Temporada2018,Grupo 6,23 Nov 17,Sheriff,Zlin,1 - 0
+Temporada2018,Grupo 6,23 Nov 17,Lokomotiv,Kobenhavn,2 - 1
+Temporada2018,Grupo 6,07 Dic 17,Zlin,Lokomotiv,0 - 2
+Temporada2018,Grupo 6,07 Dic 17,Kobenhavn,Sheriff,2 - 0
+Temporada2018,Grupo 7,14 Sep 17,Hapoel,FC Lugano,2 - 1
+Temporada2018,Grupo 7,14 Sep 17,FCSB,Viktoria,3 - 0
+Temporada2018,Grupo 7,28 Sep 17,Viktoria,Hapoel,3 - 1
+Temporada2018,Grupo 7,28 Sep 17,FC Lugano,FCSB,1 - 2
+Temporada2018,Grupo 7,19 Oct 17,FC Lugano,Viktoria,3 - 2
+Temporada2018,Grupo 7,19 Oct 17,Hapoel,FCSB,1 - 2
+Temporada2018,Grupo 7,02 Nov 17,Viktoria,FC Lugano,4 - 1
+Temporada2018,Grupo 7,02 Nov 17,FCSB,Hapoel,1 - 1
+Temporada2018,Grupo 7,23 Nov 17,FC Lugano,Hapoel,1 - 0
+Temporada2018,Grupo 7,23 Nov 17,Viktoria,FCSB,2 - 0
+Temporada2018,Grupo 7,07 Dic 17,Hapoel,Viktoria,0 - 2
+Temporada2018,Grupo 7,07 Dic 17,FCSB,FC Lugano,1 - 2
+Temporada2018,Grupo 8,14 Sep 17,Crvena,BATE,1 - 1
+Temporada2018,Grupo 8,14 Sep 17,Arsenal,Köln,3 - 1
+Temporada2018,Grupo 8,28 Sep 17,Köln,Crvena,0 - 1
+Temporada2018,Grupo 8,28 Sep 17,BATE,Arsenal,2 - 4
+Temporada2018,Grupo 8,19 Oct 17,BATE,Köln,1 - 0
+Temporada2018,Grupo 8,19 Oct 17,Crvena,Arsenal,0 - 1
+Temporada2018,Grupo 8,02 Nov 17,Köln,BATE,5 - 2
+Temporada2018,Grupo 8,02 Nov 17,Arsenal,Crvena,0 - 0
+Temporada2018,Grupo 8,23 Nov 17,BATE,Crvena,0 - 0
+Temporada2018,Grupo 8,23 Nov 17,Köln,Arsenal,1 - 0
+Temporada2018,Grupo 8,07 Dic 17,Crvena,Köln,1 - 0
+Temporada2018,Grupo 8,07 Dic 17,Arsenal,BATE,6 - 0
+Temporada2018,Grupo 9,14 Sep 17,Olympique,Konyaspor,1 - 0
+Temporada2018,Grupo 9,14 Sep 17,Vitória,Salzburg,1 - 1
+Temporada2018,Grupo 9,28 Sep 17,Salzburg,Olympique,1 - 0
+Temporada2018,Grupo 9,28 Sep 17,Konyaspor,Vitória,2 - 1
+Temporada2018,Grupo 9,19 Oct 17,Konyaspor,Salzburg,0 - 2
+Temporada2018,Grupo 9,19 Oct 17,Olympique,Vitória,2 - 1
+Temporada2018,Grupo 9,02 Nov 17,Salzburg,Konyaspor,0 - 0
+Temporada2018,Grupo 9,02 Nov 17,Vitória,Olympique,1 - 0
+Temporada2018,Grupo 9,23 Nov 17,Konyaspor,Olympique,1 - 1
+Temporada2018,Grupo 9,23 Nov 17,Salzburg,Vitória,3 - 0
+Temporada2018,Grupo 9,07 Dic 17,Olympique,Salzburg,0 - 0
+Temporada2018,Grupo 9,07 Dic 17,Vitória,Konyaspor,1 - 1
+Temporada2018,Grupo 10,14 Sep 17,Zorya,Östersunds,0 - 2
+Temporada2018,Grupo 10,14 Sep 17,Hertha BSC,Athletic Bilbao,0 - 0
+Temporada2018,Grupo 10,28 Sep 17,Athletic Bilbao,Zorya,0 - 1
+Temporada2018,Grupo 10,28 Sep 17,Östersunds,Hertha BSC,1 - 0
+Temporada2018,Grupo 10,19 Oct 17,Östersunds,Athletic Bilbao,2 - 2
+Temporada2018,Grupo 10,19 Oct 17,Zorya,Hertha BSC,2 - 1
+Temporada2018,Grupo 10,02 Nov 17,Athletic Bilbao,Östersunds,1 - 0
+Temporada2018,Grupo 10,02 Nov 17,Hertha BSC,Zorya,2 - 0
+Temporada2018,Grupo 10,23 Nov 17,Östersunds,Zorya,2 - 0
+Temporada2018,Grupo 10,23 Nov 17,Athletic Bilbao,Hertha BSC,3 - 2
+Temporada2018,Grupo 10,07 Dic 17,Zorya,Athletic Bilbao,0 - 2
+Temporada2018,Grupo 10,07 Dic 17,Hertha BSC,Östersunds,1 - 1
+Temporada2018,Grupo 11,14 Sep 17,Zulte-Wareg,Nice,1 - 5
+Temporada2018,Grupo 11,14 Sep 17,Vitesse,Lazio,2 - 3
+Temporada2018,Grupo 11,28 Sep 17,Lazio,Zulte-Wareg,2 - 0
+Temporada2018,Grupo 11,28 Sep 17,Nice,Vitesse,3 - 0
+Temporada2018,Grupo 11,19 Oct 17,Nice,Lazio,1 - 3
+Temporada2018,Grupo 11,19 Oct 17,Zulte-Wareg,Vitesse,1 - 1
+Temporada2018,Grupo 11,02 Nov 17,Lazio,Nice,1 - 0
+Temporada2018,Grupo 11,02 Nov 17,Vitesse,Zulte-Wareg,0 - 2
+Temporada2018,Grupo 11,23 Nov 17,Lazio,Vitesse,1 - 1
+Temporada2018,Grupo 11,23 Nov 17,Nice,Zulte-Wareg,3 - 1
+Temporada2018,Grupo 11,07 Dic 17,Zulte-Wareg,Lazio,3 - 2
+Temporada2018,Grupo 11,07 Dic 17,Vitesse,Nice,1 - 0
+Temporada2018,Grupo 12,14 Sep 17,Vardar,Zenit,0 - 5
+Temporada2018,Grupo 12,14 Sep 17,Sociedad,Rosenborg,4 - 0
+Temporada2018,Grupo 12,28 Sep 17,Rosenborg,Vardar,3 - 1
+Temporada2018,Grupo 12,28 Sep 17,Zenit,Sociedad,3 - 1
+Temporada2018,Grupo 12,19 Oct 17,Zenit,Rosenborg,3 - 1
+Temporada2018,Grupo 12,19 Oct 17,Vardar,Sociedad,0 - 6
+Temporada2018,Grupo 12,02 Nov 17,Rosenborg,Zenit,1 - 1
+Temporada2018,Grupo 12,02 Nov 17,Sociedad,Vardar,3 - 0
+Temporada2018,Grupo 12,23 Nov 17,Zenit,Vardar,2 - 1
+Temporada2018,Grupo 12,23 Nov 17,Rosenborg,Sociedad,0 - 1
+Temporada2018,Grupo 12,07 Dic 17,Vardar,Rosenborg,1 - 1
+Temporada2018,Grupo 12,07 Dic 17,Sociedad,Zenit,1 - 3
+Temporada2017,Grupo 0,16 Feb 17,Athletic Bilbao,APOEL,3 - 2
+Temporada2017,Grupo 0,23 Feb 17,APOEL,Athletic Bilbao,2 - 0
+Temporada2017,Grupo 0,16 Feb 17,Legia,Ajax,0 - 0
+Temporada2017,Grupo 0,23 Feb 17,Ajax,Legia,1 - 0
+Temporada2017,Grupo 0,16 Feb 17,Anderlecht,Zenit,2 - 0
+Temporada2017,Grupo 0,23 Feb 17,Zenit,Anderlecht,3 - 1
+Temporada2017,Grupo 0,16 Feb 17,Astra,Genk,2 - 2
+Temporada2017,Grupo 0,23 Feb 17,Genk,Astra,1 - 0
+Temporada2017,Grupo 0,16 Feb 17,Man. Utd,Saint-Étie,3 - 0
+Temporada2017,Grupo 0,22 Feb 17,Saint-Étie,Man. Utd,0 - 1
+Temporada2017,Grupo 0,16 Feb 17,Villarreal,Roma,0 - 4
+Temporada2017,Grupo 0,23 Feb 17,Roma,Villarreal,0 - 1
+Temporada2017,Grupo 0,23 Feb 17,Kobenhavn,Ludogorets,0 - 0
+Temporada2017,Grupo 0,16 Feb 17,Ludogorets,Kobenhavn,1 - 2
+Temporada2017,Grupo 0,16 Feb 17,Celta de Vigo,Shakhtar,0 - 1
+Temporada2017,Grupo 0,23 Feb 17,Shakhtar,Celta de Vigo,0 - 2
+Temporada2017,Grupo 0,23 Feb 17,Osmanlıspo,Olympiacos,0 - 3
+Temporada2017,Grupo 0,16 Feb 17,Olympiacos,Osmanlıspo,0 - 0
+Temporada2017,Grupo 0,16 Feb 17,KAA Gent,Tottenham,1 - 0
+Temporada2017,Grupo 0,23 Feb 17,Tottenham,KAA Gent,2 - 2
+Temporada2017,Grupo 0,16 Feb 17,Rostov Donu,Sparta,4 - 0
+Temporada2017,Grupo 0,23 Feb 17,Sparta,Rostov Donu,1 - 1
+Temporada2017,Grupo 0,22 Feb 17,Fenerbahçe,Krasnodar,1 - 1
+Temporada2017,Grupo 0,16 Feb 17,Krasnodar,Fenerbahçe,1 - 0
+Temporada2017,Grupo 0,23 Feb 17,Fiorentina,Monchengladbach,2 - 4
+Temporada2017,Grupo 0,16 Feb 17,Monchengladbach,Fiorentina,0 - 1
+Temporada2017,Grupo 0,23 Feb 17,Olympique,AZ Alkmaar,7 - 1
+Temporada2017,Grupo 0,16 Feb 17,AZ Alkmaar,Olympique,1 - 4
+Temporada2017,Grupo 0,16 Feb 17,Hapoel,Beşiktaş,1 - 3
+Temporada2017,Grupo 0,23 Feb 17,Beşiktaş,Hapoel,2 - 1
+Temporada2017,Grupo 0,16 Feb 17,PAOK,Schalke 04,0 - 3
+Temporada2017,Grupo 0,22 Feb 17,Schalke 04,PAOK,1 - 1
+Temporada2017,Grupo 0,16 Mar 17,Krasnodar,Celta de Vigo,0 - 2
+Temporada2017,Grupo 0,09 Mar 17,Celta de Vigo,Krasnodar,2 - 1
+Temporada2017,Grupo 0,09 Mar 17,APOEL,Anderlecht,0 - 1
+Temporada2017,Grupo 0,16 Mar 17,Anderlecht,APOEL,1 - 0
+Temporada2017,Grupo 0,09 Mar 17,Schalke 04,Monchengladbach,1 - 1
+Temporada2017,Grupo 0,16 Mar 17,Monchengladbach,Schalke 04,2 - 2
+Temporada2017,Grupo 0,16 Mar 17,Roma,Olympique,2 - 1
+Temporada2017,Grupo 0,09 Mar 17,Olympique,Roma,4 - 2
+Temporada2017,Grupo 0,09 Mar 17,Rostov Donu,Man. Utd,1 - 1
+Temporada2017,Grupo 0,16 Mar 17,Man. Utd,Rostov Donu,1 - 0
+Temporada2017,Grupo 0,09 Mar 17,Olympiacos,Beşiktaş,1 - 1
+Temporada2017,Grupo 0,16 Mar 17,Beşiktaş,Olympiacos,4 - 1
+Temporada2017,Grupo 0,09 Mar 17,KAA Gent,Genk,2 - 5
+Temporada2017,Grupo 0,16 Mar 17,Genk,KAA Gent,1 - 1
+Temporada2017,Grupo 0,09 Mar 17,Kobenhavn,Ajax,2 - 1
+Temporada2017,Grupo 0,16 Mar 17,Ajax,Kobenhavn,2 - 0
+Temporada2017,Grupo 0,13 Abr 17,Anderlecht,Man. Utd,1 - 1
+Temporada2017,Grupo 0,20 Abr 17,Man. Utd,Anderlecht,2 - 1
+Temporada2017,Grupo 0,13 Abr 17,Celta de Vigo,Genk,3 - 2
+Temporada2017,Grupo 0,20 Abr 17,Genk,Celta de Vigo,1 - 1
+Temporada2017,Grupo 0,13 Abr 17,Ajax,Schalke 04,2 - 0
+Temporada2017,Grupo 0,20 Abr 17,Schalke 04,Ajax,3 - 2
+Temporada2017,Grupo 0,20 Abr 17,Beşiktaş,Olympique,2 - 1
+Temporada2017,Grupo 0,13 Abr 17,Olympique,Beşiktaş,2 - 1
+Temporada2017,Grupo 0,03 May 17,Ajax,Olympique,4 - 1
+Temporada2017,Grupo 0,11 May 17,Olympique,Ajax,3 - 1
+Temporada2017,Grupo 0,04 May 17,Celta de Vigo,Man. Utd,0 - 1
+Temporada2017,Grupo 0,11 May 17,Man. Utd,Celta de Vigo,1 - 1
+Temporada2017,Grupo 0,24 May 17,Ajax,Man. Utd,0 - 2
+Temporada2017,Grupo 1,15 Sep 16,Feyenoord,Man. Utd,1 - 0
+Temporada2017,Grupo 1,15 Sep 16,Zorya,Fenerbahçe,1 - 1
+Temporada2017,Grupo 1,29 Sep 16,Fenerbahçe,Feyenoord,1 - 0
+Temporada2017,Grupo 1,29 Sep 16,Man. Utd,Zorya,1 - 0
+Temporada2017,Grupo 1,20 Oct 16,Man. Utd,Fenerbahçe,4 - 1
+Temporada2017,Grupo 1,20 Oct 16,Feyenoord,Zorya,1 - 0
+Temporada2017,Grupo 1,03 Nov 16,Fenerbahçe,Man. Utd,2 - 1
+Temporada2017,Grupo 1,03 Nov 16,Zorya,Feyenoord,1 - 1
+Temporada2017,Grupo 1,24 Nov 16,Man. Utd,Feyenoord,4 - 0
+Temporada2017,Grupo 1,24 Nov 16,Fenerbahçe,Zorya,2 - 0
+Temporada2017,Grupo 1,08 Dic 16,Feyenoord,Fenerbahçe,0 - 1
+Temporada2017,Grupo 1,08 Dic 16,Zorya,Man. Utd,0 - 2
+Temporada2017,Grupo 2,15 Sep 16,APOEL,Astana,2 - 1
+Temporada2017,Grupo 2,15 Sep 16,Young Boys,Olympiacos,0 - 1
+Temporada2017,Grupo 2,29 Sep 16,Astana,Young Boys,0 - 0
+Temporada2017,Grupo 2,29 Sep 16,Olympiacos,APOEL,0 - 1
+Temporada2017,Grupo 2,20 Oct 16,Olympiacos,Astana,4 - 1
+Temporada2017,Grupo 2,20 Oct 16,Young Boys,APOEL,3 - 1
+Temporada2017,Grupo 2,03 Nov 16,APOEL,Young Boys,1 - 0
+Temporada2017,Grupo 2,03 Nov 16,Astana,Olympiacos,1 - 1
+Temporada2017,Grupo 2,24 Nov 16,Astana,APOEL,2 - 1
+Temporada2017,Grupo 2,24 Nov 16,Olympiacos,Young Boys,1 - 1
+Temporada2017,Grupo 2,08 Dic 16,APOEL,Olympiacos,2 - 0
+Temporada2017,Grupo 2,08 Dic 16,Young Boys,Astana,3 - 0
+Temporada2017,Grupo 3,15 Sep 16,Anderlecht,FK Qabala,3 - 1
+Temporada2017,Grupo 3,15 Sep 16,Mainz 05,Saint-Étie,1 - 1
+Temporada2017,Grupo 3,29 Sep 16,FK Qabala,Mainz 05,2 - 3
+Temporada2017,Grupo 3,29 Sep 16,Saint-Étie,Anderlecht,1 - 1
+Temporada2017,Grupo 3,20 Oct 16,Mainz 05,Anderlecht,1 - 1
+Temporada2017,Grupo 3,20 Oct 16,Saint-Étie,FK Qabala,1 - 0
+Temporada2017,Grupo 3,03 Nov 16,Anderlecht,Mainz 05,6 - 1
+Temporada2017,Grupo 3,03 Nov 16,FK Qabala,Saint-Étie,1 - 2
+Temporada2017,Grupo 3,24 Nov 16,FK Qabala,Anderlecht,1 - 3
+Temporada2017,Grupo 3,24 Nov 16,Saint-Étie,Mainz 05,0 - 0
+Temporada2017,Grupo 3,08 Dic 16,Anderlecht,Saint-Étie,2 - 3
+Temporada2017,Grupo 3,08 Dic 16,Mainz 05,FK Qabala,2 - 0
+Temporada2017,Grupo 4,15 Sep 16,AZ Alkmaar,Dundalk,1 - 1
+Temporada2017,Grupo 4,15 Sep 16,Maccabi,Zenit,3 - 4
+Temporada2017,Grupo 4,29 Sep 16,Dundalk,Maccabi,1 - 0
+Temporada2017,Grupo 4,29 Sep 16,Zenit,AZ Alkmaar,5 - 0
+Temporada2017,Grupo 4,20 Oct 16,AZ Alkmaar,Maccabi,1 - 2
+Temporada2017,Grupo 4,20 Oct 16,Dundalk,Zenit,1 - 2
+Temporada2017,Grupo 4,03 Nov 16,Maccabi,AZ Alkmaar,0 - 0
+Temporada2017,Grupo 4,03 Nov 16,Zenit,Dundalk,2 - 1
+Temporada2017,Grupo 4,24 Nov 16,Dundalk,AZ Alkmaar,0 - 1
+Temporada2017,Grupo 4,24 Nov 16,Zenit,Maccabi,2 - 0
+Temporada2017,Grupo 4,08 Dic 16,AZ Alkmaar,Zenit,3 - 2
+Temporada2017,Grupo 4,08 Dic 16,Maccabi,Dundalk,2 - 1
+Temporada2017,Grupo 5,15 Sep 16,Astra,Austria,2 - 3
+Temporada2017,Grupo 5,15 Sep 16,Viktoria,Roma,1 - 1
+Temporada2017,Grupo 5,29 Sep 16,Roma,Astra,4 - 0
+Temporada2017,Grupo 5,29 Sep 16,Austria,Viktoria,0 - 0
+Temporada2017,Grupo 5,20 Oct 16,Roma,Austria,3 - 3
+Temporada2017,Grupo 5,20 Oct 16,Viktoria,Astra,1 - 2
+Temporada2017,Grupo 5,03 Nov 16,Astra,Viktoria,1 - 1
+Temporada2017,Grupo 5,03 Nov 16,Austria,Roma,2 - 4
+Temporada2017,Grupo 5,24 Nov 16,Roma,Viktoria,4 - 1
+Temporada2017,Grupo 5,24 Nov 16,Austria,Astra,1 - 2
+Temporada2017,Grupo 5,08 Dic 16,Astra,Roma,0 - 0
+Temporada2017,Grupo 5,08 Dic 16,Viktoria,Austria,3 - 2
+Temporada2017,Grupo 6,15 Sep 16,Rapid Wien,Genk,3 - 2
+Temporada2017,Grupo 6,15 Sep 16,Sassuolo,Athletic Bilbao,3 - 0
+Temporada2017,Grupo 6,29 Sep 16,Athletic Bilbao,Rapid Wien,1 - 0
+Temporada2017,Grupo 6,29 Sep 16,Genk,Sassuolo,3 - 1
+Temporada2017,Grupo 6,20 Oct 16,Genk,Athletic Bilbao,2 - 0
+Temporada2017,Grupo 6,20 Oct 16,Rapid Wien,Sassuolo,1 - 1
+Temporada2017,Grupo 6,03 Nov 16,Athletic Bilbao,Genk,5 - 3
+Temporada2017,Grupo 6,03 Nov 16,Sassuolo,Rapid Wien,2 - 2
+Temporada2017,Grupo 6,24 Nov 16,Genk,Rapid Wien,1 - 0
+Temporada2017,Grupo 6,24 Nov 16,Athletic Bilbao,Sassuolo,3 - 2
+Temporada2017,Grupo 6,08 Dic 16,Rapid Wien,Athletic Bilbao,1 - 1
+Temporada2017,Grupo 6,09 Dic 16,Sassuolo,Genk,0 - 2
+Temporada2017,Grupo 7,15 Sep 16,Panathinaik,Ajax,1 - 2
+Temporada2017,Grupo 7,15 Sep 16,Standard,Celta de Vigo,1 - 1
+Temporada2017,Grupo 7,29 Sep 16,Ajax,Standard,1 - 0
+Temporada2017,Grupo 7,29 Sep 16,Celta de Vigo,Panathinaik,2 - 0
+Temporada2017,Grupo 7,20 Oct 16,Celta de Vigo,Ajax,2 - 2
+Temporada2017,Grupo 7,20 Oct 16,Standard,Panathinaik,2 - 2
+Temporada2017,Grupo 7,03 Nov 16,Ajax,Celta de Vigo,3 - 2
+Temporada2017,Grupo 7,03 Nov 16,Panathinaik,Standard,0 - 3
+Temporada2017,Grupo 7,24 Nov 16,Ajax,Panathinaik,2 - 0
+Temporada2017,Grupo 7,24 Nov 16,Celta de Vigo,Standard,1 - 1
+Temporada2017,Grupo 7,08 Dic 16,Panathinaik,Celta de Vigo,0 - 2
+Temporada2017,Grupo 7,08 Dic 16,Standard,Ajax,1 - 1
+Temporada2017,Grupo 8,15 Sep 16,Sporting,KAA Gent,1 - 1
+Temporada2017,Grupo 8,15 Sep 16,Konyaspor,Shakhtar,0 - 1
+Temporada2017,Grupo 8,29 Sep 16,KAA Gent,Konyaspor,2 - 0
+Temporada2017,Grupo 8,29 Sep 16,Shakhtar,Sporting,2 - 0
+Temporada2017,Grupo 8,20 Oct 16,Konyaspor,Sporting,1 - 1
+Temporada2017,Grupo 8,20 Oct 16,Shakhtar,KAA Gent,5 - 0
+Temporada2017,Grupo 8,03 Nov 16,Sporting,Konyaspor,3 - 1
+Temporada2017,Grupo 8,03 Nov 16,KAA Gent,Shakhtar,3 - 5
+Temporada2017,Grupo 8,24 Nov 16,KAA Gent,Sporting,2 - 2
+Temporada2017,Grupo 8,24 Nov 16,Shakhtar,Konyaspor,4 - 0
+Temporada2017,Grupo 8,08 Dic 16,Sporting,Shakhtar,2 - 4
+Temporada2017,Grupo 8,08 Dic 16,Konyaspor,KAA Gent,0 - 1
+Temporada2017,Grupo 9,15 Sep 16,Salzburg,Krasnodar,0 - 1
+Temporada2017,Grupo 9,15 Sep 16,Nice,Schalke 04,0 - 1
+Temporada2017,Grupo 9,29 Sep 16,Schalke 04,Salzburg,3 - 1
+Temporada2017,Grupo 9,29 Sep 16,Krasnodar,Nice,5 - 2
+Temporada2017,Grupo 9,20 Oct 16,Krasnodar,Schalke 04,0 - 1
+Temporada2017,Grupo 9,20 Oct 16,Salzburg,Nice,0 - 1
+Temporada2017,Grupo 9,03 Nov 16,Schalke 04,Krasnodar,2 - 0
+Temporada2017,Grupo 9,03 Nov 16,Nice,Salzburg,0 - 2
+Temporada2017,Grupo 9,24 Nov 16,Krasnodar,Salzburg,1 - 1
+Temporada2017,Grupo 9,24 Nov 16,Schalke 04,Nice,2 - 0
+Temporada2017,Grupo 9,08 Dic 16,Salzburg,Schalke 04,2 - 0
+Temporada2017,Grupo 9,08 Dic 16,Nice,Krasnodar,2 - 1
+Temporada2017,Grupo 10,15 Sep 16,Qarabağ,Slovan,2 - 2
+Temporada2017,Grupo 10,15 Sep 16,PAOK,Fiorentina,0 - 0
+Temporada2017,Grupo 10,29 Sep 16,Fiorentina,Qarabağ,5 - 1
+Temporada2017,Grupo 10,29 Sep 16,Slovan,PAOK,1 - 2
+Temporada2017,Grupo 10,20 Oct 16,Slovan,Fiorentina,1 - 3
+Temporada2017,Grupo 10,20 Oct 16,Qarabağ,PAOK,2 - 0
+Temporada2017,Grupo 10,03 Nov 16,Fiorentina,Slovan,3 - 0
+Temporada2017,Grupo 10,03 Nov 16,PAOK,Qarabağ,0 - 1
+Temporada2017,Grupo 10,24 Nov 16,Slovan,Qarabağ,3 - 0
+Temporada2017,Grupo 10,24 Nov 16,Fiorentina,PAOK,2 - 3
+Temporada2017,Grupo 10,08 Dic 16,Qarabağ,Fiorentina,1 - 2
+Temporada2017,Grupo 10,08 Dic 16,PAOK,Slovan,2 - 0
+Temporada2017,Grupo 11,15 Sep 16,Inter,Hapoel,0 - 2
+Temporada2017,Grupo 11,15 Sep 16,Southampton,Sparta,3 - 0
+Temporada2017,Grupo 11,29 Sep 16,Sparta,Inter,3 - 1
+Temporada2017,Grupo 11,29 Sep 16,Hapoel,Southampton,0 - 0
+Temporada2017,Grupo 11,20 Oct 16,Hapoel,Sparta,0 - 1
+Temporada2017,Grupo 11,20 Oct 16,Inter,Southampton,1 - 0
+Temporada2017,Grupo 11,03 Nov 16,Sparta,Hapoel,2 - 0
+Temporada2017,Grupo 11,03 Nov 16,Southampton,Inter,2 - 1
+Temporada2017,Grupo 11,24 Nov 16,Hapoel,Inter,3 - 2
+Temporada2017,Grupo 11,24 Nov 16,Sparta,Southampton,1 - 0
+Temporada2017,Grupo 11,08 Dic 16,Inter,Sparta,2 - 1
+Temporada2017,Grupo 11,08 Dic 16,Southampton,Hapoel,1 - 1
+Temporada2017,Grupo 12,15 Sep 16,Osmanlıspo,FCSB,2 - 0
+Temporada2017,Grupo 12,15 Sep 16,Villarreal,Zurich,2 - 1
+Temporada2017,Grupo 12,29 Sep 16,Zurich,Osmanlıspo,2 - 1
+Temporada2017,Grupo 12,29 Sep 16,FCSB,Villarreal,1 - 1
+Temporada2017,Grupo 12,20 Oct 16,FCSB,Zurich,1 - 1
+Temporada2017,Grupo 12,20 Oct 16,Osmanlıspo,Villarreal,2 - 2
+Temporada2017,Grupo 12,03 Nov 16,Zurich,FCSB,0 - 0
+Temporada2017,Grupo 12,03 Nov 16,Villarreal,Osmanlıspo,1 - 2
+Temporada2017,Grupo 12,24 Nov 16,FCSB,Osmanlıspo,2 - 1
+Temporada2017,Grupo 12,24 Nov 16,Zurich,Villarreal,1 - 1
+Temporada2017,Grupo 12,08 Dic 16,Osmanlıspo,Zurich,2 - 0
+Temporada2017,Grupo 12,08 Dic 16,Villarreal,FCSB,2 - 1

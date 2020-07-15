@@ -1,0 +1,47 @@
+TEMPORADA,JORNADA,REFERIDO,LOCAL,VISITANTE,RESULTADO,RIVALIDAD,ROTACION TITULARES,ROTACION SUPLENTES,ROTACION PORTEROS,ROTACION DEFENSAS,ROTACION MEDIOS,ROTACION DELANTEROS,DIAS DESCANSO
+Temporada2020,Jornada 1,LOCAL,Bayern München,Hertha BSC,EMPATADO,0,0,0,0,0,0,0,0
+Temporada2020,Jornada 1,VISITANTE,Bayern München,Hertha BSC,EMPATADO,0,0,0,0,0,0,0,0
+Temporada2020,Jornada 1,LOCAL,B. Dortmund,FC Augsburg,GANADO,0,0,0,0,0,0,0,0
+Temporada2020,Jornada 1,VISITANTE,B. Dortmund,FC Augsburg,PERDIDO,0,0,0,0,0,0,0,0
+Temporada2020,Jornada 1,LOCAL,B. Leverkusen,Paderborn,GANADO,0,0,0,0,0,0,0,0
+Temporada2020,Jornada 1,VISITANTE,B. Leverkusen,Paderborn,PERDIDO,0,0,0,0,0,0,0,0
+Temporada2020,Jornada 1,LOCAL,Monchengladbach,Schalke 04,EMPATADO,0,0,0,0,0,0,0,0
+Temporada2020,Jornada 1,VISITANTE,Monchengladbach,Schalke 04,EMPATADO,0,0,0,0,0,0,0,0
+Temporada2020,Jornada 1,LOCAL,Wolfsburg,Köln,GANADO,0,0,0,0,0,0,0,0
+Temporada2020,Jornada 1,VISITANTE,Wolfsburg,Köln,PERDIDO,0,0,0,0,0,0,0,0
+Temporada2020,Jornada 1,LOCAL,Werder Bremen,Fortuna,PERDIDO,0,0,0,0,0,0,0,0
+Temporada2020,Jornada 1,VISITANTE,Werder Bremen,Fortuna,GANADO,0,0,0,0,0,0,0,0
+Temporada2020,Jornada 1,LOCAL,SC Freiburg,Mainz 05,GANADO,0,0,0,0,0,0,0,0
+Temporada2020,Jornada 1,VISITANTE,SC Freiburg,Mainz 05,PERDIDO,0,0,0,0,0,0,0,0
+Temporada2020,Jornada 1,LOCAL,Union Berlin,RB Leipzig,PERDIDO,0,0,0,0,0,0,0,0
+Temporada2020,Jornada 1,VISITANTE,Union Berlin,RB Leipzig,GANADO,0,0,0,0,0,0,0,0
+Temporada2020,Jornada 1,LOCAL,Eintracht,Hoffenheim,GANADO,0,0,0,0,0,0,0,0
+Temporada2020,Jornada 1,VISITANTE,Eintracht,Hoffenheim,PERDIDO,0,0,0,0,0,0,0,0
+Temporada2020,Jornada 2,LOCAL,RB Leipzig,Eintracht,GANADO,-5,1,3,0,0,1,0,7
+Temporada2020,Jornada 2,VISITANTE,RB Leipzig,Eintracht,PERDIDO,5,11,7,1,0,0,0,7
+Temporada2020,Jornada 2,LOCAL,Hoffenheim,Werder Bremen,GANADO,-1,2,2,0,1,1,0,6
+Temporada2020,Jornada 2,VISITANTE,Hoffenheim,Werder Bremen,PERDIDO,1,1,1,0,0,1,1,7
+Temporada2020,Jornada 2,LOCAL,Fortuna,B. Leverkusen,PERDIDO,-1,0,1,0,0,0,0,7
+Temporada2020,Jornada 2,VISITANTE,Fortuna,B. Leverkusen,GANADO,1,1,1,0,0,1,1,7
+Temporada2020,Jornada 2,LOCAL,Hertha BSC,Wolfsburg,PERDIDO,3,1,4,0,0,0,1,9
+Temporada2020,Jornada 2,VISITANTE,Hertha BSC,Wolfsburg,GANADO,-3,0,2,0,0,0,0,8
+Temporada2020,Jornada 2,LOCAL,Mainz 05,Monchengladbach,PERDIDO,6,2,1,0,1,1,0,7
+Temporada2020,Jornada 2,VISITANTE,Mainz 05,Monchengladbach,GANADO,-6,1,3,0,0,0,1,7
+Temporada2020,Jornada 2,LOCAL,Schalke 04,Bayern München,PERDIDO,3,0,4,0,0,0,0,7
+Temporada2020,Jornada 2,VISITANTE,Schalke 04,Bayern München,GANADO,-3,1,5,0,1,1,0,8
+Temporada2020,Jornada 2,LOCAL,FC Augsburg,Union Berlin,EMPATADO,-1,3,3,0,3,1,0,7
+Temporada2020,Jornada 2,VISITANTE,FC Augsburg,Union Berlin,EMPATADO,1,4,2,0,1,1,3,6
+Temporada2020,Jornada 2,LOCAL,Köln,B. Dortmund,PERDIDO,12,3,5,0,1,1,1,6
+Temporada2020,Jornada 2,VISITANTE,Köln,B. Dortmund,GANADO,-12,1,0,1,0,0,0,6
+Temporada2020,Jornada 2,LOCAL,Paderborn,SC Freiburg,PERDIDO,9,1,2,0,0,0,1,7
+Temporada2020,Jornada 2,VISITANTE,Paderborn,SC Freiburg,GANADO,-9,0,-1,0,0,0,0,7
+Temporada2020,Jornada 3,LOCAL,B. Leverkusen,Hoffenheim,EMPATADO,-4,0,-1,0,0,0,0,7
+Temporada2020,Jornada 3,VISITANTE,B. Leverkusen,Hoffenheim,EMPATADO,4,2,4,0,0,1,1,7
+Temporada2020,Jornada 3,LOCAL,Bayern München,Mainz 05,GANADO,-12,3,3,0,0,2,2,7
+Temporada2020,Jornada 3,VISITANTE,Bayern München,Mainz 05,PERDIDO,12,3,4,0,1,1,1,7
+Temporada2020,Jornada 3,LOCAL,Monchengladbach,RB Leipzig,PERDIDO,5,1,0,0,0,1,1,6
+Temporada2020,Jornada 3,VISITANTE,Monchengladbach,RB Leipzig,GANADO,-5,3,4,0,1,3,0,5
+Temporada2020,Jornada 3,LOCAL,Eintracht,Fortuna,GANADO,2,11,7,1,0,0,0,7
+Temporada2020,Jornada 3,VISITANTE,Eintracht,Fortuna,PERDIDO,-2,3,3,0,1,2,1,8
+Temporada2020,Jornada 3,LOCAL,SC Freiburg,Köln,PERDIDO,-14,1,0,0,0,0,1,7
+Temporada2020,Jornada 3,VISITANTE,SC Freiburg,Köln,GANADO,14,1,3,0,0,0,1,8

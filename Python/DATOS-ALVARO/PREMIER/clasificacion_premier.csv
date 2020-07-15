@@ -1,0 +1,3041 @@
+clasificacion_temporada,clasificacion_jornada,clasificacion_posicion,clasificacion_equipo,clasificacion_puntos,clasificacion_partidos_jugados,clasificacion_ganados,clasificacion_empatados,clasificacion_perdidos,clasificacion_goles_favor,clasificacion_goles_contra
+Temporada2020,Jornada 1,1,Man. City,3,1,1,0,0,5,0
+Temporada2020,Jornada 1,2,Man. Utd,3,1,1,0,0,4,0
+Temporada2020,Jornada 1,3,Liverpool,3,1,1,0,0,4,1
+Temporada2020,Jornada 1,4,Brighton Hove A.,3,1,1,0,0,3,0
+Temporada2020,Jornada 1,5,Burnley,3,1,1,0,0,3,0
+Temporada2020,Jornada 1,6,Tottenham,3,1,1,0,0,3,1
+Temporada2020,Jornada 1,7,Arsenal,3,1,1,0,0,1,0
+Temporada2020,Jornada 1,8,AFC Bournemouth,1,1,0,1,0,1,1
+Temporada2020,Jornada 1,9,Sheffield United,1,1,0,1,0,1,1
+Temporada2020,Jornada 1,10,Crystal Palace,1,1,0,1,0,0,0
+Temporada2020,Jornada 1,11,Everton,1,1,0,1,0,0,0
+Temporada2020,Jornada 1,12,Leicester,1,1,0,1,0,0,0
+Temporada2020,Jornada 1,13,Wolves,1,1,0,1,0,0,0
+Temporada2020,Jornada 1,14,Newcastle,0,1,0,0,1,0,1
+Temporada2020,Jornada 1,15,Aston Villa,0,1,0,0,1,1,3
+Temporada2020,Jornada 1,16,Norwich City,0,1,0,0,1,1,4
+Temporada2020,Jornada 1,17,Southampton,0,1,0,0,1,0,3
+Temporada2020,Jornada 1,18,Watford,0,1,0,0,1,0,3
+Temporada2020,Jornada 1,19,Chelsea,0,1,0,0,1,0,4
+Temporada2020,Jornada 1,20,West Ham,0,1,0,0,1,0,5
+Temporada2020,Jornada 2,1,Liverpool,6,2,2,0,0,6,2
+Temporada2020,Jornada 2,2,Arsenal,6,2,2,0,0,3,1
+Temporada2020,Jornada 2,3,Man. City,4,2,1,1,0,7,2
+Temporada2020,Jornada 2,4,Man. Utd,4,2,1,1,0,5,1
+Temporada2020,Jornada 2,5,Brighton Hove A.,4,2,1,1,0,4,1
+Temporada2020,Jornada 2,6,Tottenham,4,2,1,1,0,5,3
+Temporada2020,Jornada 2,7,AFC Bournemouth,4,2,1,1,0,3,2
+Temporada2020,Jornada 2,8,Sheffield United,4,2,1,1,0,2,1
+Temporada2020,Jornada 2,9,Everton,4,2,1,1,0,1,0
+Temporada2020,Jornada 2,10,Burnley,3,2,1,0,1,4,2
+Temporada2020,Jornada 2,11,Norwich City,3,2,1,0,1,4,5
+Temporada2020,Jornada 2,12,Wolves,2,2,0,2,0,1,1
+Temporada2020,Jornada 2,13,Leicester,2,2,0,2,0,1,1
+Temporada2020,Jornada 2,14,Crystal Palace,1,2,0,1,1,0,1
+Temporada2020,Jornada 2,15,Chelsea,1,2,0,1,1,1,5
+Temporada2020,Jornada 2,16,West Ham,1,2,0,1,1,1,6
+Temporada2020,Jornada 2,17,Aston Villa,0,2,0,0,2,2,5
+Temporada2020,Jornada 2,18,Newcastle,0,2,0,0,2,1,4
+Temporada2020,Jornada 2,19,Southampton,0,2,0,0,2,1,5
+Temporada2020,Jornada 2,20,Watford,0,2,0,0,2,0,4
+Temporada2020,Jornada 3,1,Liverpool,9,3,3,0,0,9,3
+Temporada2020,Jornada 3,2,Man. City,7,3,2,1,0,10,3
+Temporada2020,Jornada 3,3,Arsenal,6,3,2,0,1,4,4
+Temporada2020,Jornada 3,4,Leicester,5,3,1,2,0,3,2
+Temporada2020,Jornada 3,5,Man. Utd,4,3,1,1,1,6,3
+Temporada2020,Jornada 3,6,Burnley,4,3,1,1,1,5,3
+Temporada2020,Jornada 3,7,Tottenham,4,3,1,1,1,5,4
+Temporada2020,Jornada 3,8,Brighton Hove A.,4,3,1,1,1,4,3
+Temporada2020,Jornada 3,9,Sheffield United,4,3,1,1,1,3,3
+Temporada2020,Jornada 3,10,Crystal Palace,4,3,1,1,1,2,2
+Temporada2020,Jornada 3,11,AFC Bournemouth,4,3,1,1,1,4,5
+Temporada2020,Jornada 3,12,Everton,4,3,1,1,1,1,2
+Temporada2020,Jornada 3,13,West Ham,4,3,1,1,1,4,7
+Temporada2020,Jornada 3,14,Chelsea,4,3,1,1,1,4,7
+Temporada2020,Jornada 3,15,Wolves,3,3,0,3,0,2,2
+Temporada2020,Jornada 3,16,Aston Villa,3,3,1,0,2,4,5
+Temporada2020,Jornada 3,17,Norwich City,3,3,1,0,2,6,8
+Temporada2020,Jornada 3,18,Southampton,3,3,1,0,2,3,5
+Temporada2020,Jornada 3,19,Newcastle,3,3,1,0,2,2,4
+Temporada2020,Jornada 3,20,Watford,0,3,0,0,3,1,7
+Temporada2020,Jornada 4,1,Liverpool,12,4,4,0,0,12,3
+Temporada2020,Jornada 4,2,Man. City,10,4,3,1,0,14,3
+Temporada2020,Jornada 4,3,Leicester,8,4,2,2,0,6,3
+Temporada2020,Jornada 4,4,Crystal Palace,7,4,2,1,1,3,2
+Temporada2020,Jornada 4,5,Arsenal,7,4,2,1,1,6,6
+Temporada2020,Jornada 4,6,Everton,7,4,2,1,1,4,4
+Temporada2020,Jornada 4,7,West Ham,7,4,2,1,1,6,7
+Temporada2020,Jornada 4,8,Man. Utd,5,4,1,2,1,7,4
+Temporada2020,Jornada 4,9,Tottenham,5,4,1,2,1,7,6
+Temporada2020,Jornada 4,10,Sheffield United,5,4,1,2,1,5,5
+Temporada2020,Jornada 4,11,Chelsea,5,4,1,2,1,6,9
+Temporada2020,Jornada 4,12,Burnley,4,4,1,1,2,5,6
+Temporada2020,Jornada 4,13,Southampton,4,4,1,1,2,4,6
+Temporada2020,Jornada 4,14,Newcastle,4,4,1,1,2,3,5
+Temporada2020,Jornada 4,15,AFC Bournemouth,4,4,1,1,2,5,8
+Temporada2020,Jornada 4,16,Brighton Hove A.,4,4,1,1,2,4,7
+Temporada2020,Jornada 4,17,Wolves,3,4,0,3,1,4,5
+Temporada2020,Jornada 4,18,Aston Villa,3,4,1,0,3,4,6
+Temporada2020,Jornada 4,19,Norwich City,3,4,1,0,3,6,10
+Temporada2020,Jornada 4,20,Watford,1,4,0,1,3,2,8
+Temporada2020,Jornada 5,1,Liverpool,15,5,5,0,0,15,4
+Temporada2020,Jornada 5,2,Man. City,10,5,3,1,1,16,6
+Temporada2020,Jornada 5,3,Tottenham,8,5,2,2,1,11,6
+Temporada2020,Jornada 5,4,Man. Utd,8,5,2,2,1,8,4
+Temporada2020,Jornada 5,5,Leicester,8,5,2,2,1,6,4
+Temporada2020,Jornada 5,6,Chelsea,8,5,2,2,1,11,11
+Temporada2020,Jornada 5,7,Arsenal,8,5,2,2,1,8,8
+Temporada2020,Jornada 5,8,West Ham,8,5,2,2,1,6,7
+Temporada2020,Jornada 5,9,AFC Bournemouth,7,5,2,1,2,8,9
+Temporada2020,Jornada 5,10,Southampton,7,5,2,1,2,5,6
+Temporada2020,Jornada 5,11,Everton,7,5,2,1,2,5,7
+Temporada2020,Jornada 5,12,Crystal Palace,7,5,2,1,2,3,6
+Temporada2020,Jornada 5,13,Norwich City,6,5,2,0,3,9,12
+Temporada2020,Jornada 5,14,Burnley,5,5,1,2,2,6,7
+Temporada2020,Jornada 5,15,Sheffield United,5,5,1,2,2,5,6
+Temporada2020,Jornada 5,16,Brighton Hove A.,5,5,1,2,2,5,8
+Temporada2020,Jornada 5,17,Aston Villa,4,5,1,1,3,4,6
+Temporada2020,Jornada 5,18,Newcastle,4,5,1,1,3,4,8
+Temporada2020,Jornada 5,19,Wolves,3,5,0,3,2,6,10
+Temporada2020,Jornada 5,20,Watford,2,5,0,2,3,4,10
+Temporada2020,Jornada 6,1,Liverpool,18,6,6,0,0,17,5
+Temporada2020,Jornada 6,2,Man. City,13,6,4,1,1,24,6
+Temporada2020,Jornada 6,3,Leicester,11,6,3,2,1,8,5
+Temporada2020,Jornada 6,4,Arsenal,11,6,3,2,1,11,10
+Temporada2020,Jornada 6,5,West Ham,11,6,3,2,1,8,7
+Temporada2020,Jornada 6,6,AFC Bournemouth,10,6,3,1,2,11,10
+Temporada2020,Jornada 6,7,Tottenham,8,6,2,2,2,12,8
+Temporada2020,Jornada 6,8,Man. Utd,8,6,2,2,2,8,6
+Temporada2020,Jornada 6,9,Burnley,8,6,2,2,2,8,7
+Temporada2020,Jornada 6,10,Sheffield United,8,6,2,2,2,7,6
+Temporada2020,Jornada 6,11,Chelsea,8,6,2,2,2,12,13
+Temporada2020,Jornada 6,12,Crystal Palace,8,6,2,2,2,4,7
+Temporada2020,Jornada 6,13,Southampton,7,6,2,1,3,6,9
+Temporada2020,Jornada 6,14,Everton,7,6,2,1,3,5,9
+Temporada2020,Jornada 6,15,Brighton Hove A.,6,6,1,3,2,5,8
+Temporada2020,Jornada 6,16,Norwich City,6,6,2,0,4,9,14
+Temporada2020,Jornada 6,17,Newcastle,5,6,1,2,3,4,8
+Temporada2020,Jornada 6,18,Aston Villa,4,6,1,1,4,6,9
+Temporada2020,Jornada 6,19,Wolves,4,6,0,4,2,7,11
+Temporada2020,Jornada 6,20,Watford,2,6,0,2,4,4,18
+Temporada2020,Jornada 7,1,Liverpool,21,7,7,0,0,18,5
+Temporada2020,Jornada 7,2,Man. City,16,7,5,1,1,27,7
+Temporada2020,Jornada 7,3,Leicester,14,7,4,2,1,13,5
+Temporada2020,Jornada 7,4,Arsenal,12,7,3,3,1,12,11
+Temporada2020,Jornada 7,5,West Ham,12,7,3,3,1,10,9
+Temporada2020,Jornada 7,6,Tottenham,11,7,3,2,2,14,9
+Temporada2020,Jornada 7,7,Chelsea,11,7,3,2,2,14,13
+Temporada2020,Jornada 7,8,AFC Bournemouth,11,7,3,2,2,13,12
+Temporada2020,Jornada 7,9,Crystal Palace,11,7,3,2,2,6,7
+Temporada2020,Jornada 7,10,Man. Utd,9,7,2,3,2,9,7
+Temporada2020,Jornada 7,11,Burnley,9,7,2,3,2,10,9
+Temporada2020,Jornada 7,12,Sheffield United,8,7,2,2,3,7,7
+Temporada2020,Jornada 7,13,Wolves,7,7,1,4,2,9,11
+Temporada2020,Jornada 7,14,Southampton,7,7,2,1,4,7,11
+Temporada2020,Jornada 7,15,Everton,7,7,2,1,4,6,12
+Temporada2020,Jornada 7,16,Brighton Hove A.,6,7,1,3,3,5,10
+Temporada2020,Jornada 7,17,Norwich City,6,7,2,0,5,9,16
+Temporada2020,Jornada 7,18,Aston Villa,5,7,1,2,4,8,11
+Temporada2020,Jornada 7,19,Newcastle,5,7,1,2,4,4,13
+Temporada2020,Jornada 7,20,Watford,2,7,0,2,5,4,20
+Temporada2020,Jornada 8,1,Liverpool,24,8,8,0,0,20,6
+Temporada2020,Jornada 8,2,Man. City,16,8,5,1,2,27,9
+Temporada2020,Jornada 8,3,Arsenal,15,8,4,3,1,13,11
+Temporada2020,Jornada 8,4,Leicester,14,8,4,2,2,14,7
+Temporada2020,Jornada 8,5,Chelsea,14,8,4,2,2,18,14
+Temporada2020,Jornada 8,6,Crystal Palace,14,8,4,2,2,8,8
+Temporada2020,Jornada 8,7,Burnley,12,8,3,3,2,11,9
+Temporada2020,Jornada 8,8,West Ham,12,8,3,3,2,11,11
+Temporada2020,Jornada 8,9,Tottenham,11,8,3,2,3,14,12
+Temporada2020,Jornada 8,10,AFC Bournemouth,11,8,3,2,3,13,13
+Temporada2020,Jornada 8,11,Wolves,10,8,2,4,2,11,11
+Temporada2020,Jornada 8,12,Man. Utd,9,8,2,3,3,9,8
+Temporada2020,Jornada 8,13,Sheffield United,9,8,2,3,3,7,7
+Temporada2020,Jornada 8,14,Brighton Hove A.,9,8,2,3,3,8,10
+Temporada2020,Jornada 8,15,Aston Villa,8,8,2,2,4,13,12
+Temporada2020,Jornada 8,16,Newcastle,8,8,2,2,4,5,13
+Temporada2020,Jornada 8,17,Southampton,7,8,2,1,5,8,15
+Temporada2020,Jornada 8,18,Everton,7,8,2,1,5,6,13
+Temporada2020,Jornada 8,19,Norwich City,6,8,2,0,6,10,21
+Temporada2020,Jornada 8,20,Watford,3,8,0,3,5,4,20
+Temporada2020,Jornada 9,1,Liverpool,25,9,8,1,0,21,7
+Temporada2020,Jornada 9,2,Man. City,19,9,6,1,2,29,9
+Temporada2020,Jornada 9,3,Leicester,17,9,5,2,2,16,8
+Temporada2020,Jornada 9,4,Chelsea,17,9,5,2,2,19,14
+Temporada2020,Jornada 9,5,Arsenal,15,9,4,3,2,13,12
+Temporada2020,Jornada 9,6,Crystal Palace,14,9,4,2,3,8,10
+Temporada2020,Jornada 9,7,Tottenham,12,9,3,3,3,15,13
+Temporada2020,Jornada 9,8,Burnley,12,9,3,3,3,12,11
+Temporada2020,Jornada 9,9,Sheffield United,12,9,3,3,3,8,7
+Temporada2020,Jornada 9,10,AFC Bournemouth,12,9,3,3,3,13,13
+Temporada2020,Jornada 9,11,West Ham,12,9,3,3,3,11,13
+Temporada2020,Jornada 9,12,Aston Villa,11,9,3,2,4,15,13
+Temporada2020,Jornada 9,13,Wolves,11,9,2,5,2,12,12
+Temporada2020,Jornada 9,14,Man. Utd,10,9,2,4,3,10,9
+Temporada2020,Jornada 9,15,Everton,10,9,3,1,5,8,13
+Temporada2020,Jornada 9,16,Brighton Hove A.,9,9,2,3,4,9,12
+Temporada2020,Jornada 9,17,Southampton,8,9,2,2,5,9,16
+Temporada2020,Jornada 9,18,Newcastle,8,9,2,2,5,5,14
+Temporada2020,Jornada 9,19,Norwich City,7,9,2,1,6,10,21
+Temporada2020,Jornada 9,20,Watford,4,9,0,4,5,5,21
+Temporada2020,Jornada 10,1,Liverpool,28,10,9,1,0,23,8
+Temporada2020,Jornada 10,2,Man. City,22,10,7,1,2,32,9
+Temporada2020,Jornada 10,3,Leicester,20,10,6,2,2,25,8
+Temporada2020,Jornada 10,4,Chelsea,20,10,6,2,2,23,16
+Temporada2020,Jornada 10,5,Arsenal,16,10,4,4,2,15,14
+Temporada2020,Jornada 10,6,Crystal Palace,15,10,4,3,3,10,12
+Temporada2020,Jornada 10,7,Man. Utd,13,10,3,4,3,13,10
+Temporada2020,Jornada 10,8,Sheffield United,13,10,3,4,3,9,8
+Temporada2020,Jornada 10,9,AFC Bournemouth,13,10,3,4,3,13,13
+Temporada2020,Jornada 10,10,West Ham,13,10,3,4,3,12,14
+Temporada2020,Jornada 10,11,Tottenham,12,10,3,3,4,16,15
+Temporada2020,Jornada 10,12,Wolves,12,10,2,6,2,13,13
+Temporada2020,Jornada 10,13,Burnley,12,10,3,3,4,14,15
+Temporada2020,Jornada 10,14,Brighton Hove A.,12,10,3,3,4,12,14
+Temporada2020,Jornada 10,15,Aston Villa,11,10,3,2,5,15,16
+Temporada2020,Jornada 10,16,Everton,10,10,3,1,6,10,16
+Temporada2020,Jornada 10,17,Newcastle,9,10,2,3,5,6,15
+Temporada2020,Jornada 10,18,Southampton,8,10,2,2,6,9,25
+Temporada2020,Jornada 10,19,Norwich City,7,10,2,1,7,11,24
+Temporada2020,Jornada 10,20,Watford,5,10,0,5,5,5,21
+Temporada2020,Jornada 11,1,Liverpool,31,11,10,1,0,25,9
+Temporada2020,Jornada 11,2,Man. City,25,11,8,1,2,34,10
+Temporada2020,Jornada 11,3,Leicester,23,11,7,2,2,27,8
+Temporada2020,Jornada 11,4,Chelsea,23,11,7,2,2,25,17
+Temporada2020,Jornada 11,5,Arsenal,17,11,4,5,2,16,15
+Temporada2020,Jornada 11,6,Sheffield United,16,11,4,4,3,12,8
+Temporada2020,Jornada 11,7,AFC Bournemouth,16,11,4,4,3,14,13
+Temporada2020,Jornada 11,8,Brighton Hove A.,15,11,4,3,4,14,14
+Temporada2020,Jornada 11,9,Crystal Palace,15,11,4,3,4,10,14
+Temporada2020,Jornada 11,10,Man. Utd,13,11,3,4,4,13,11
+Temporada2020,Jornada 11,11,Tottenham,13,11,3,4,4,17,16
+Temporada2020,Jornada 11,12,Wolves,13,11,2,7,2,14,14
+Temporada2020,Jornada 11,13,West Ham,13,11,3,4,4,14,17
+Temporada2020,Jornada 11,14,Burnley,12,11,3,3,5,14,18
+Temporada2020,Jornada 11,15,Newcastle,12,11,3,3,5,9,17
+Temporada2020,Jornada 11,16,Aston Villa,11,11,3,2,6,16,18
+Temporada2020,Jornada 11,17,Everton,11,11,3,2,6,11,17
+Temporada2020,Jornada 11,18,Southampton,8,11,2,2,7,10,27
+Temporada2020,Jornada 11,19,Norwich City,7,11,2,1,8,11,26
+Temporada2020,Jornada 11,20,Watford,5,11,0,5,6,6,23
+Temporada2020,Jornada 12,1,Liverpool,34,12,11,1,0,28,10
+Temporada2020,Jornada 12,2,Leicester,26,12,8,2,2,29,8
+Temporada2020,Jornada 12,3,Chelsea,26,12,8,2,2,27,17
+Temporada2020,Jornada 12,4,Man. City,25,12,8,1,3,35,13
+Temporada2020,Jornada 12,5,Sheffield United,17,12,4,5,3,13,9
+Temporada2020,Jornada 12,6,Arsenal,17,12,4,5,3,16,17
+Temporada2020,Jornada 12,7,Man. Utd,16,12,4,4,4,16,12
+Temporada2020,Jornada 12,8,Wolves,16,12,3,7,2,16,15
+Temporada2020,Jornada 12,9,AFC Bournemouth,16,12,4,4,4,15,15
+Temporada2020,Jornada 12,10,Burnley,15,12,4,3,5,17,18
+Temporada2020,Jornada 12,11,Brighton Hove A.,15,12,4,3,5,15,17
+Temporada2020,Jornada 12,12,Crystal Palace,15,12,4,3,5,10,16
+Temporada2020,Jornada 12,13,Newcastle,15,12,4,3,5,11,18
+Temporada2020,Jornada 12,14,Tottenham,14,12,3,5,4,18,17
+Temporada2020,Jornada 12,15,Everton,14,12,4,2,6,13,18
+Temporada2020,Jornada 12,16,West Ham,13,12,3,4,5,14,20
+Temporada2020,Jornada 12,17,Aston Villa,11,12,3,2,7,17,20
+Temporada2020,Jornada 12,18,Watford,8,12,1,5,6,8,23
+Temporada2020,Jornada 12,19,Southampton,8,12,2,2,8,11,29
+Temporada2020,Jornada 12,20,Norwich City,7,12,2,1,9,11,28
+Temporada2020,Jornada 13,1,Liverpool,37,13,12,1,0,30,11
+Temporada2020,Jornada 13,2,Leicester,29,13,9,2,2,31,8
+Temporada2020,Jornada 13,3,Man. City,28,13,9,1,3,37,14
+Temporada2020,Jornada 13,4,Chelsea,26,13,8,2,3,28,19
+Temporada2020,Jornada 13,5,Wolves,19,13,4,7,2,18,16
+Temporada2020,Jornada 13,6,Sheffield United,18,13,4,6,3,16,12
+Temporada2020,Jornada 13,7,Burnley,18,13,5,3,5,20,18
+Temporada2020,Jornada 13,8,Arsenal,18,13,4,6,3,18,19
+Temporada2020,Jornada 13,9,Man. Utd,17,13,4,5,4,19,15
+Temporada2020,Jornada 13,10,Tottenham,17,13,4,5,4,21,19
+Temporada2020,Jornada 13,11,AFC Bournemouth,16,13,4,4,5,16,17
+Temporada2020,Jornada 13,12,Brighton Hove A.,15,13,4,3,6,15,19
+Temporada2020,Jornada 13,13,Crystal Palace,15,13,4,3,6,11,18
+Temporada2020,Jornada 13,14,Newcastle,15,13,4,3,6,11,20
+Temporada2020,Jornada 13,15,Aston Villa,14,13,4,2,7,19,20
+Temporada2020,Jornada 13,16,Everton,14,13,4,2,7,13,20
+Temporada2020,Jornada 13,17,West Ham,13,13,3,4,6,16,23
+Temporada2020,Jornada 13,18,Norwich City,10,13,3,1,9,13,28
+Temporada2020,Jornada 13,19,Southampton,9,13,2,3,8,13,31
+Temporada2020,Jornada 13,20,Watford,8,13,1,5,7,8,26
+Temporada2020,Jornada 14,1,Liverpool,40,14,13,1,0,32,12
+Temporada2020,Jornada 14,2,Leicester,32,14,10,2,2,33,9
+Temporada2020,Jornada 14,3,Man. City,29,14,9,2,3,39,16
+Temporada2020,Jornada 14,4,Chelsea,26,14,8,2,4,28,20
+Temporada2020,Jornada 14,5,Tottenham,20,14,5,5,4,24,21
+Temporada2020,Jornada 14,6,Wolves,20,14,4,8,2,19,17
+Temporada2020,Jornada 14,7,Sheffield United,19,14,4,7,3,17,13
+Temporada2020,Jornada 14,8,Arsenal,19,14,4,7,3,20,21
+Temporada2020,Jornada 14,9,Man. Utd,18,14,4,6,4,21,17
+Temporada2020,Jornada 14,10,Burnley,18,14,5,3,6,20,20
+Temporada2020,Jornada 14,11,Crystal Palace,18,14,5,3,6,13,18
+Temporada2020,Jornada 14,12,AFC Bournemouth,16,14,4,4,6,18,20
+Temporada2020,Jornada 14,13,West Ham,16,14,4,4,6,17,23
+Temporada2020,Jornada 14,14,Newcastle,16,14,4,4,6,13,22
+Temporada2020,Jornada 14,15,Aston Villa,15,14,4,3,7,21,22
+Temporada2020,Jornada 14,16,Brighton Hove A.,15,14,4,3,7,16,21
+Temporada2020,Jornada 14,17,Everton,14,14,4,2,8,14,22
+Temporada2020,Jornada 14,18,Southampton,12,14,3,3,8,15,32
+Temporada2020,Jornada 14,19,Norwich City,11,14,3,2,9,15,30
+Temporada2020,Jornada 14,20,Watford,8,14,1,5,8,9,28
+Temporada2020,Jornada 15,1,Liverpool,43,15,14,1,0,37,14
+Temporada2020,Jornada 15,2,Leicester,35,15,11,2,2,35,9
+Temporada2020,Jornada 15,3,Man. City,32,15,10,2,3,43,17
+Temporada2020,Jornada 15,4,Chelsea,29,15,9,2,4,30,21
+Temporada2020,Jornada 15,5,Wolves,23,15,5,8,2,21,17
+Temporada2020,Jornada 15,6,Man. Utd,21,15,5,6,4,23,18
+Temporada2020,Jornada 15,7,Crystal Palace,21,15,6,3,6,14,18
+Temporada2020,Jornada 15,8,Tottenham,20,15,5,5,5,25,23
+Temporada2020,Jornada 15,9,Sheffield United,19,15,4,7,4,17,15
+Temporada2020,Jornada 15,10,Arsenal,19,15,4,7,4,21,23
+Temporada2020,Jornada 15,11,Newcastle,19,15,5,4,6,15,22
+Temporada2020,Jornada 15,12,Burnley,18,15,5,3,7,21,24
+Temporada2020,Jornada 15,13,Brighton Hove A.,18,15,5,3,7,18,22
+Temporada2020,Jornada 15,14,AFC Bournemouth,16,15,4,4,7,18,21
+Temporada2020,Jornada 15,15,West Ham,16,15,4,4,7,17,25
+Temporada2020,Jornada 15,16,Aston Villa,15,15,4,3,8,22,24
+Temporada2020,Jornada 15,17,Southampton,15,15,4,3,8,17,33
+Temporada2020,Jornada 15,18,Everton,14,15,4,2,9,16,27
+Temporada2020,Jornada 15,19,Norwich City,11,15,3,2,10,16,32
+Temporada2020,Jornada 15,20,Watford,8,15,1,5,9,9,30
+Temporada2020,Jornada 16,1,Liverpool,46,16,15,1,0,40,14
+Temporada2020,Jornada 16,2,Leicester,38,16,12,2,2,39,10
+Temporada2020,Jornada 16,3,Man. City,32,16,10,2,4,44,19
+Temporada2020,Jornada 16,4,Chelsea,29,16,9,2,5,31,24
+Temporada2020,Jornada 16,5,Man. Utd,24,16,6,6,4,25,19
+Temporada2020,Jornada 16,6,Wolves,24,16,5,9,2,23,19
+Temporada2020,Jornada 16,7,Tottenham,23,16,6,5,5,30,23
+Temporada2020,Jornada 16,8,Sheffield United,22,16,5,7,4,19,16
+Temporada2020,Jornada 16,9,Arsenal,22,16,5,7,4,24,24
+Temporada2020,Jornada 16,10,Crystal Palace,22,16,6,4,6,14,18
+Temporada2020,Jornada 16,11,Newcastle,22,16,6,4,6,17,23
+Temporada2020,Jornada 16,12,Brighton Hove A.,19,16,5,4,7,20,24
+Temporada2020,Jornada 16,13,Burnley,18,16,5,3,8,21,29
+Temporada2020,Jornada 16,14,Everton,17,16,5,2,9,19,28
+Temporada2020,Jornada 16,15,AFC Bournemouth,16,16,4,4,8,18,24
+Temporada2020,Jornada 16,16,West Ham,16,16,4,4,8,18,28
+Temporada2020,Jornada 16,17,Aston Villa,15,16,4,3,9,23,28
+Temporada2020,Jornada 16,18,Southampton,15,16,4,3,9,18,35
+Temporada2020,Jornada 16,19,Norwich City,11,16,3,2,11,17,34
+Temporada2020,Jornada 16,20,Watford,9,16,1,6,9,9,30
+Temporada2020,Jornada 17,1,Liverpool,49,17,16,1,0,42,14
+Temporada2020,Jornada 17,2,Leicester,39,17,12,3,2,40,11
+Temporada2020,Jornada 17,3,Man. City,35,17,11,2,4,47,19
+Temporada2020,Jornada 17,4,Chelsea,29,17,9,2,6,31,25
+Temporada2020,Jornada 17,5,Tottenham,26,17,7,5,5,32,24
+Temporada2020,Jornada 17,6,Man. Utd,25,17,6,7,4,26,20
+Temporada2020,Jornada 17,7,Sheffield United,25,17,6,7,4,21,16
+Temporada2020,Jornada 17,8,Wolves,24,17,5,9,3,24,21
+Temporada2020,Jornada 17,9,Crystal Palace,23,17,6,5,6,15,19
+Temporada2020,Jornada 17,10,Arsenal,22,17,5,7,5,24,27
+Temporada2020,Jornada 17,11,Newcastle,22,17,6,4,7,17,24
+Temporada2020,Jornada 17,12,Burnley,21,17,6,3,8,22,29
+Temporada2020,Jornada 17,13,Brighton Hove A.,20,17,5,5,7,21,25
+Temporada2020,Jornada 17,14,AFC Bournemouth,19,17,5,4,8,19,24
+Temporada2020,Jornada 17,15,West Ham,19,17,5,4,8,19,28
+Temporada2020,Jornada 17,16,Everton,18,17,5,3,9,20,29
+Temporada2020,Jornada 17,17,Aston Villa,15,17,4,3,10,23,30
+Temporada2020,Jornada 17,18,Southampton,15,17,4,3,10,18,36
+Temporada2020,Jornada 17,19,Norwich City,12,17,3,3,11,18,35
+Temporada2020,Jornada 17,20,Watford,9,17,1,6,10,9,32
+Temporada2020,Jornada 18,1,Liverpool,52,18,17,1,0,44,14
+Temporada2020,Jornada 18,2,Leicester,39,18,12,3,3,41,14
+Temporada2020,Jornada 18,3,Man. City,38,18,12,2,4,50,20
+Temporada2020,Jornada 18,4,Chelsea,32,18,10,2,6,33,25
+Temporada2020,Jornada 18,5,Sheffield United,28,18,7,7,4,22,16
+Temporada2020,Jornada 18,6,Wolves,27,18,6,9,3,26,22
+Temporada2020,Jornada 18,7,Tottenham,26,18,7,5,6,32,26
+Temporada2020,Jornada 18,8,Man. Utd,25,18,6,7,5,26,22
+Temporada2020,Jornada 18,9,Newcastle,25,18,7,4,7,18,24
+Temporada2020,Jornada 18,10,Burnley,24,18,7,3,8,23,29
+Temporada2020,Jornada 18,11,Arsenal,23,18,5,8,5,24,27
+Temporada2020,Jornada 18,12,Crystal Palace,23,18,6,5,7,15,20
+Temporada2020,Jornada 18,13,Brighton Hove A.,20,18,5,5,8,21,26
+Temporada2020,Jornada 18,14,AFC Bournemouth,19,18,5,4,9,19,25
+Temporada2020,Jornada 18,15,Everton,19,18,5,4,9,20,29
+Temporada2020,Jornada 18,16,West Ham,19,18,5,4,9,19,30
+Temporada2020,Jornada 18,17,Southampton,18,18,5,3,10,21,37
+Temporada2020,Jornada 18,18,Aston Villa,15,18,4,3,11,24,33
+Temporada2020,Jornada 18,19,Norwich City,12,18,3,3,12,19,37
+Temporada2020,Jornada 18,20,Watford,12,18,2,6,10,11,32
+Temporada2020,Jornada 19,1,Liverpool,55,19,18,1,0,48,14
+Temporada2020,Jornada 19,2,Leicester,39,19,12,3,4,41,18
+Temporada2020,Jornada 19,3,Man. City,38,19,12,2,5,52,23
+Temporada2020,Jornada 19,4,Chelsea,32,19,10,2,7,33,27
+Temporada2020,Jornada 19,5,Wolves,30,19,7,9,3,29,24
+Temporada2020,Jornada 19,6,Tottenham,29,19,8,5,6,34,27
+Temporada2020,Jornada 19,7,Sheffield United,29,19,7,8,4,23,17
+Temporada2020,Jornada 19,8,Man. Utd,28,19,7,7,5,30,23
+Temporada2020,Jornada 19,9,Crystal Palace,26,19,7,5,7,17,21
+Temporada2020,Jornada 19,10,Newcastle,25,19,7,4,8,19,28
+Temporada2020,Jornada 19,11,Arsenal,24,19,5,9,5,25,28
+Temporada2020,Jornada 19,12,Burnley,24,19,7,3,9,23,30
+Temporada2020,Jornada 19,13,Everton,22,19,6,4,9,21,29
+Temporada2020,Jornada 19,14,Southampton,21,19,6,3,10,23,37
+Temporada2020,Jornada 19,15,Brighton Hove A.,20,19,5,5,9,22,28
+Temporada2020,Jornada 19,16,AFC Bournemouth,20,19,5,5,9,20,26
+Temporada2020,Jornada 19,17,West Ham,19,19,5,4,10,20,32
+Temporada2020,Jornada 19,18,Aston Villa,18,19,5,3,11,25,33
+Temporada2020,Jornada 19,19,Watford,13,19,2,7,10,12,33
+Temporada2020,Jornada 19,20,Norwich City,12,19,3,3,13,19,38
+Temporada2020,Jornada 20,1,Liverpool,58,20,19,1,0,49,14
+Temporada2020,Jornada 20,2,Leicester,42,20,13,3,4,43,19
+Temporada2020,Jornada 20,3,Man. City,41,20,13,2,5,54,23
+Temporada2020,Jornada 20,4,Chelsea,35,20,11,2,7,35,28
+Temporada2020,Jornada 20,5,Man. Utd,31,20,8,7,5,32,23
+Temporada2020,Jornada 20,6,Tottenham,30,20,8,6,6,36,29
+Temporada2020,Jornada 20,7,Wolves,30,20,7,9,4,29,25
+Temporada2020,Jornada 20,8,Sheffield United,29,20,7,8,5,23,19
+Temporada2020,Jornada 20,9,Crystal Palace,27,20,7,6,7,18,22
+Temporada2020,Jornada 20,10,Everton,25,20,7,4,9,23,30
+Temporada2020,Jornada 20,11,Newcastle,25,20,7,4,9,20,30
+Temporada2020,Jornada 20,12,Arsenal,24,20,5,9,6,26,30
+Temporada2020,Jornada 20,13,Burnley,24,20,7,3,10,23,32
+Temporada2020,Jornada 20,14,Brighton Hove A.,23,20,6,5,9,24,28
+Temporada2020,Jornada 20,15,Southampton,22,20,6,4,10,24,38
+Temporada2020,Jornada 20,16,AFC Bournemouth,20,20,5,5,10,20,28
+Temporada2020,Jornada 20,17,West Ham,19,20,5,4,11,21,34
+Temporada2020,Jornada 20,18,Aston Villa,18,20,5,3,12,25,36
+Temporada2020,Jornada 20,19,Watford,16,20,3,7,10,15,33
+Temporada2020,Jornada 20,20,Norwich City,13,20,3,4,13,21,40
+Temporada2020,Jornada 21,1,Liverpool,61,21,20,1,0,51,14
+Temporada2020,Jornada 21,2,Leicester,45,21,14,3,4,46,19
+Temporada2020,Jornada 21,3,Man. City,44,21,14,2,5,56,24
+Temporada2020,Jornada 21,4,Chelsea,36,21,11,3,7,36,29
+Temporada2020,Jornada 21,5,Man. Utd,31,21,8,7,6,32,25
+Temporada2020,Jornada 21,6,Tottenham,30,21,8,6,7,36,30
+Temporada2020,Jornada 21,7,Wolves,30,21,7,9,5,30,27
+Temporada2020,Jornada 21,8,Sheffield United,29,21,7,8,6,23,21
+Temporada2020,Jornada 21,9,Crystal Palace,28,21,7,7,7,19,23
+Temporada2020,Jornada 21,10,Arsenal,27,21,6,9,6,28,30
+Temporada2020,Jornada 21,11,Everton,25,21,7,4,10,24,32
+Temporada2020,Jornada 21,12,Southampton,25,21,7,4,10,25,38
+Temporada2020,Jornada 21,13,Newcastle,25,21,7,4,10,20,33
+Temporada2020,Jornada 21,14,Brighton Hove A.,24,21,6,6,9,25,29
+Temporada2020,Jornada 21,15,Burnley,24,21,7,3,11,24,34
+Temporada2020,Jornada 21,16,West Ham,22,21,6,4,11,25,34
+Temporada2020,Jornada 21,17,Aston Villa,21,21,6,3,12,27,37
+Temporada2020,Jornada 21,18,AFC Bournemouth,20,21,5,5,11,20,32
+Temporada2020,Jornada 21,19,Watford,19,21,4,7,10,17,34
+Temporada2020,Jornada 21,20,Norwich City,14,21,3,5,13,22,41
+Temporada2020,Jornada 22,1,Liverpool,64,22,21,1,0,52,14
+Temporada2020,Jornada 22,2,Man. City,47,22,15,2,5,62,25
+Temporada2020,Jornada 22,3,Leicester,45,22,14,3,5,47,21
+Temporada2020,Jornada 22,4,Chelsea,39,22,12,3,7,39,29
+Temporada2020,Jornada 22,5,Man. Utd,34,22,9,7,6,36,25
+Temporada2020,Jornada 22,6,Sheffield United,32,22,8,8,6,24,21
+Temporada2020,Jornada 22,7,Wolves,31,22,7,10,5,31,28
+Temporada2020,Jornada 22,8,Tottenham,30,22,8,6,8,36,31
+Temporada2020,Jornada 22,9,Crystal Palace,29,22,7,8,7,20,24
+Temporada2020,Jornada 22,10,Arsenal,28,22,6,10,6,29,31
+Temporada2020,Jornada 22,11,Everton,28,22,8,4,10,25,32
+Temporada2020,Jornada 22,12,Southampton,28,22,8,4,10,27,39
+Temporada2020,Jornada 22,13,Newcastle,26,22,7,5,10,21,34
+Temporada2020,Jornada 22,14,Brighton Hove A.,24,22,6,6,10,25,30
+Temporada2020,Jornada 22,15,Burnley,24,22,7,3,12,24,37
+Temporada2020,Jornada 22,16,West Ham,22,22,6,4,12,25,35
+Temporada2020,Jornada 22,17,Watford,22,22,5,7,10,20,34
+Temporada2020,Jornada 22,18,Aston Villa,21,22,6,3,13,28,43
+Temporada2020,Jornada 22,19,AFC Bournemouth,20,22,5,5,12,20,35
+Temporada2020,Jornada 22,20,Norwich City,14,22,3,5,14,22,45
+Temporada2020,Jornada 23,1,Liverpool,67,23,22,1,0,54,14
+Temporada2020,Jornada 23,2,Man. City,48,23,15,3,5,64,27
+Temporada2020,Jornada 23,3,Leicester,45,23,14,3,6,48,23
+Temporada2020,Jornada 23,4,Chelsea,39,23,12,3,8,39,30
+Temporada2020,Jornada 23,5,Man. Utd,34,23,9,7,7,36,27
+Temporada2020,Jornada 23,6,Wolves,34,23,8,10,5,34,30
+Temporada2020,Jornada 23,7,Sheffield United,33,23,8,9,6,25,22
+Temporada2020,Jornada 23,8,Tottenham,31,23,8,7,8,36,31
+Temporada2020,Jornada 23,9,Crystal Palace,30,23,7,9,7,22,26
+Temporada2020,Jornada 23,10,Arsenal,29,23,6,11,6,30,32
+Temporada2020,Jornada 23,11,Everton,29,23,8,5,10,26,33
+Temporada2020,Jornada 23,12,Newcastle,29,23,8,5,10,22,34
+Temporada2020,Jornada 23,13,Southampton,28,23,8,4,11,29,42
+Temporada2020,Jornada 23,14,Burnley,27,23,8,3,12,26,38
+Temporada2020,Jornada 23,15,Brighton Hove A.,25,23,6,7,10,26,31
+Temporada2020,Jornada 23,16,West Ham,23,23,6,5,12,26,36
+Temporada2020,Jornada 23,17,Watford,23,23,5,8,10,20,34
+Temporada2020,Jornada 23,18,Aston Villa,22,23,6,4,13,29,44
+Temporada2020,Jornada 23,19,AFC Bournemouth,20,23,5,5,13,20,36
+Temporada2020,Jornada 23,20,Norwich City,17,23,4,5,14,23,45
+Temporada2020,Jornada 24,1,Liverpool,70,24,23,1,0,56,15
+Temporada2020,Jornada 24,2,Man. City,51,24,16,3,5,65,27
+Temporada2020,Jornada 24,3,Leicester,48,24,15,3,6,52,24
+Temporada2020,Jornada 24,4,Chelsea,40,24,12,4,8,41,32
+Temporada2020,Jornada 24,5,Man. Utd,34,24,9,7,8,36,29
+Temporada2020,Jornada 24,6,Tottenham,34,24,9,7,8,38,32
+Temporada2020,Jornada 24,7,Wolves,34,24,8,10,6,35,32
+Temporada2020,Jornada 24,8,Sheffield United,33,24,8,9,7,25,23
+Temporada2020,Jornada 24,9,Southampton,31,24,9,4,11,31,42
+Temporada2020,Jornada 24,10,Arsenal,30,24,6,12,6,32,34
+Temporada2020,Jornada 24,11,Crystal Palace,30,24,7,9,8,22,28
+Temporada2020,Jornada 24,12,Everton,30,24,8,6,10,28,35
+Temporada2020,Jornada 24,13,Burnley,30,24,9,3,12,28,38
+Temporada2020,Jornada 24,14,Newcastle,30,24,8,6,10,24,36
+Temporada2020,Jornada 24,15,Brighton Hove A.,25,24,6,7,11,27,34
+Temporada2020,Jornada 24,16,Aston Villa,25,24,7,4,13,31,45
+Temporada2020,Jornada 24,17,West Ham,23,24,6,5,13,27,40
+Temporada2020,Jornada 24,18,AFC Bournemouth,23,24,6,5,13,23,37
+Temporada2020,Jornada 24,19,Watford,23,24,5,8,11,21,36
+Temporada2020,Jornada 24,20,Norwich City,17,24,4,5,15,24,47
+Temporada2020,Jornada 25,1,Liverpool,73,25,24,1,0,60,15
+Temporada2020,Jornada 25,2,Man. City,51,25,16,3,6,65,29
+Temporada2020,Jornada 25,3,Leicester,49,25,15,4,6,54,26
+Temporada2020,Jornada 25,4,Chelsea,41,25,12,5,8,43,34
+Temporada2020,Jornada 25,5,Tottenham,37,25,10,7,8,40,32
+Temporada2020,Jornada 25,6,Sheffield United,36,25,9,9,7,26,23
+Temporada2020,Jornada 25,7,Man. Utd,35,25,9,8,8,36,29
+Temporada2020,Jornada 25,8,Wolves,35,25,8,11,6,35,32
+Temporada2020,Jornada 25,9,Everton,33,25,9,6,10,31,37
+Temporada2020,Jornada 25,10,Arsenal,31,25,6,13,6,32,34
+Temporada2020,Jornada 25,11,Burnley,31,25,9,4,12,28,38
+Temporada2020,Jornada 25,12,Newcastle,31,25,8,7,10,24,36
+Temporada2020,Jornada 25,13,Southampton,31,25,9,4,12,31,46
+Temporada2020,Jornada 25,14,Crystal Palace,30,25,7,9,9,22,29
+Temporada2020,Jornada 25,15,Brighton Hove A.,26,25,6,8,11,30,37
+Temporada2020,Jornada 25,16,AFC Bournemouth,26,25,7,5,13,25,38
+Temporada2020,Jornada 25,17,Aston Villa,25,25,7,4,14,32,47
+Temporada2020,Jornada 25,18,West Ham,24,25,6,6,13,30,43
+Temporada2020,Jornada 25,19,Watford,23,25,5,8,12,23,39
+Temporada2020,Jornada 25,20,Norwich City,18,25,4,6,15,24,47
+Temporada2020,Jornada 26,1,Liverpool,76,26,25,1,0,61,15
+Temporada2020,Jornada 26,2,Man. City,54,26,17,3,6,67,29
+Temporada2020,Jornada 26,3,Leicester,50,26,15,5,6,54,26
+Temporada2020,Jornada 26,4,Chelsea,41,26,12,5,9,43,36
+Temporada2020,Jornada 26,5,Tottenham,40,26,11,7,8,43,34
+Temporada2020,Jornada 26,6,Sheffield United,39,26,10,9,7,28,24
+Temporada2020,Jornada 26,7,Man. Utd,38,26,10,8,8,38,29
+Temporada2020,Jornada 26,8,Wolves,36,26,8,12,6,35,32
+Temporada2020,Jornada 26,9,Everton,36,26,10,6,10,34,38
+Temporada2020,Jornada 26,10,Arsenal,34,26,7,13,6,36,34
+Temporada2020,Jornada 26,11,Burnley,34,26,10,4,12,30,39
+Temporada2020,Jornada 26,12,Southampton,31,26,9,4,13,32,48
+Temporada2020,Jornada 26,13,Newcastle,31,26,8,7,11,24,40
+Temporada2020,Jornada 26,14,Crystal Palace,30,26,7,9,10,23,32
+Temporada2020,Jornada 26,15,Brighton Hove A.,27,26,6,9,11,31,38
+Temporada2020,Jornada 26,16,AFC Bournemouth,26,26,7,5,14,26,40
+Temporada2020,Jornada 26,17,Aston Villa,25,26,7,4,15,34,50
+Temporada2020,Jornada 26,18,West Ham,24,26,6,6,14,30,45
+Temporada2020,Jornada 26,19,Watford,24,26,5,9,12,24,40
+Temporada2020,Jornada 26,20,Norwich City,18,26,4,6,16,24,48
+Temporada2020,Jornada 27,1,Liverpool,79,27,26,1,0,64,17
+Temporada2020,Jornada 27,2,Man. City,57,27,18,3,6,68,29
+Temporada2020,Jornada 27,3,Leicester,50,27,15,5,7,54,27
+Temporada2020,Jornada 27,4,Chelsea,44,27,13,5,9,45,37
+Temporada2020,Jornada 27,5,Man. Utd,41,27,11,8,8,41,29
+Temporada2020,Jornada 27,6,Tottenham,40,27,11,7,9,44,36
+Temporada2020,Jornada 27,7,Sheffield United,40,27,10,10,7,29,25
+Temporada2020,Jornada 27,8,Wolves,39,27,9,12,6,38,32
+Temporada2020,Jornada 27,9,Arsenal,37,27,8,13,6,39,36
+Temporada2020,Jornada 27,10,Burnley,37,27,11,4,12,33,39
+Temporada2020,Jornada 27,11,Everton,36,27,10,6,11,36,41
+Temporada2020,Jornada 27,12,Southampton,34,27,10,4,13,34,48
+Temporada2020,Jornada 27,13,Crystal Palace,33,27,8,9,10,24,32
+Temporada2020,Jornada 27,14,Newcastle,31,27,8,7,12,24,41
+Temporada2020,Jornada 27,15,Brighton Hove A.,28,27,6,10,11,32,39
+Temporada2020,Jornada 27,16,AFC Bournemouth,26,27,7,5,15,26,43
+Temporada2020,Jornada 27,17,Aston Villa,25,27,7,4,16,34,52
+Temporada2020,Jornada 27,18,West Ham,24,27,6,6,15,32,48
+Temporada2020,Jornada 27,19,Watford,24,27,5,9,13,24,43
+Temporada2020,Jornada 27,20,Norwich City,18,27,4,6,17,24,51
+Temporada2020,Jornada 28,1,Liverpool,79,28,26,1,1,64,20
+Temporada2020,Jornada 28,2,Man. City,60,28,19,3,6,71,29
+Temporada2020,Jornada 28,3,Leicester,50,28,15,5,8,54,28
+Temporada2020,Jornada 28,4,Chelsea,45,28,13,6,9,47,39
+Temporada2020,Jornada 28,5,Man. Utd,42,28,11,9,8,42,30
+Temporada2020,Jornada 28,6,Wolves,42,28,10,12,6,41,34
+Temporada2020,Jornada 28,7,Sheffield United,41,28,10,11,7,29,25
+Temporada2020,Jornada 28,8,Tottenham,40,28,11,7,10,46,39
+Temporada2020,Jornada 28,9,Burnley,38,28,11,5,12,33,39
+Temporada2020,Jornada 28,10,Arsenal,37,28,8,13,7,39,39
+Temporada2020,Jornada 28,11,Everton,37,28,10,7,11,37,42
+Temporada2020,Jornada 28,12,Crystal Palace,36,28,9,9,10,25,32
+Temporada2020,Jornada 28,13,Southampton,34,28,10,4,14,35,51
+Temporada2020,Jornada 28,14,Newcastle,32,28,8,8,12,24,41
+Temporada2020,Jornada 28,15,Brighton Hove A.,28,28,6,10,12,32,40
+Temporada2020,Jornada 28,16,West Ham,27,28,7,6,15,35,49
+Temporada2020,Jornada 28,17,Watford,27,28,6,9,13,27,43
+Temporada2020,Jornada 28,18,AFC Bournemouth,27,28,7,6,15,28,45
+Temporada2020,Jornada 28,19,Aston Villa,26,28,7,5,16,34,52
+Temporada2020,Jornada 28,20,Norwich City,21,28,5,6,17,25,51
+Temporada2020,Jornada 29,1,Liverpool,82,29,27,1,1,66,21
+Temporada2020,Jornada 29,2,Man. City,57,28,18,3,7,68,31
+Temporada2020,Jornada 29,3,Leicester,53,29,16,5,8,58,28
+Temporada2020,Jornada 29,4,Chelsea,48,29,14,6,9,51,39
+Temporada2020,Jornada 29,5,Man. Utd,45,29,12,9,8,44,30
+Temporada2020,Jornada 29,6,Wolves,43,29,10,13,6,41,34
+Temporada2020,Jornada 29,7,Sheffield United,43,28,11,10,7,30,25
+Temporada2020,Jornada 29,8,Tottenham,41,29,11,8,10,47,40
+Temporada2020,Jornada 29,9,Arsenal,40,28,9,13,6,40,36
+Temporada2020,Jornada 29,10,Burnley,39,29,11,6,12,34,40
+Temporada2020,Jornada 29,11,Crystal Palace,39,29,10,9,10,26,32
+Temporada2020,Jornada 29,12,Everton,37,29,10,7,12,37,46
+Temporada2020,Jornada 29,13,Newcastle,35,29,9,8,12,25,41
+Temporada2020,Jornada 29,14,Southampton,34,29,10,4,15,35,52
+Temporada2020,Jornada 29,15,Brighton Hove A.,29,29,6,11,12,32,40
+Temporada2020,Jornada 29,16,West Ham,27,29,7,6,16,35,50
+Temporada2020,Jornada 29,17,Watford,27,29,6,9,14,27,44
+Temporada2020,Jornada 29,18,AFC Bournemouth,27,29,7,6,16,29,47
+Temporada2020,Jornada 29,19,Aston Villa,25,28,7,4,17,34,56
+Temporada2020,Jornada 29,20,Norwich City,21,29,5,6,18,25,52
+Temporada2020,Jornada 30,1,Liverpool,83,30,27,2,1,66,21
+Temporada2020,Jornada 30,2,Man. City,63,30,20,3,7,76,31
+Temporada2020,Jornada 30,3,Leicester,54,30,16,6,8,59,29
+Temporada2020,Jornada 30,4,Chelsea,51,30,15,6,9,53,40
+Temporada2020,Jornada 30,5,Man. Utd,46,30,12,10,8,45,31
+Temporada2020,Jornada 30,6,Wolves,46,30,11,13,6,43,34
+Temporada2020,Jornada 30,7,Sheffield United,44,30,11,11,8,30,28
+Temporada2020,Jornada 30,8,Tottenham,42,30,11,9,10,48,41
+Temporada2020,Jornada 30,9,Crystal Palace,42,30,11,9,10,28,32
+Temporada2020,Jornada 30,10,Arsenal,40,30,9,13,8,41,41
+Temporada2020,Jornada 30,11,Burnley,39,30,11,6,13,34,45
+Temporada2020,Jornada 30,12,Everton,38,30,10,8,12,37,46
+Temporada2020,Jornada 30,13,Newcastle,38,30,10,8,12,28,41
+Temporada2020,Jornada 30,14,Southampton,37,30,11,4,15,38,52
+Temporada2020,Jornada 30,15,Brighton Hove A.,32,30,7,11,12,34,41
+Temporada2020,Jornada 30,16,Watford,28,30,6,10,14,28,45
+Temporada2020,Jornada 30,17,West Ham,27,30,7,6,17,35,52
+Temporada2020,Jornada 30,18,AFC Bournemouth,27,30,7,6,17,29,49
+Temporada2020,Jornada 30,19,Aston Villa,26,30,7,5,18,35,58
+Temporada2020,Jornada 30,20,Norwich City,21,30,5,6,19,25,55
+Temporada2020,Jornada 31,1,Liverpool,86,31,28,2,1,70,21
+Temporada2020,Jornada 31,2,Man. City,63,31,20,3,8,77,33
+Temporada2020,Jornada 31,3,Leicester,55,31,16,7,8,59,29
+Temporada2020,Jornada 31,4,Chelsea,54,31,16,6,9,55,41
+Temporada2020,Jornada 31,5,Man. Utd,49,31,13,10,8,48,31
+Temporada2020,Jornada 31,6,Wolves,49,31,12,13,6,44,34
+Temporada2020,Jornada 31,7,Tottenham,45,31,12,9,10,50,41
+Temporada2020,Jornada 31,8,Sheffield United,44,31,11,11,9,30,31
+Temporada2020,Jornada 31,9,Arsenal,43,31,10,13,8,43,41
+Temporada2020,Jornada 31,10,Crystal Palace,42,31,11,9,11,28,36
+Temporada2020,Jornada 31,11,Burnley,42,31,12,6,13,35,45
+Temporada2020,Jornada 31,12,Everton,41,31,11,8,12,38,46
+Temporada2020,Jornada 31,13,Newcastle,39,31,10,9,12,29,42
+Temporada2020,Jornada 31,14,Southampton,37,31,11,4,16,38,54
+Temporada2020,Jornada 31,15,Brighton Hove A.,33,31,7,12,12,34,41
+Temporada2020,Jornada 31,16,Watford,28,31,6,10,15,28,46
+Temporada2020,Jornada 31,17,West Ham,27,31,7,6,18,35,54
+Temporada2020,Jornada 31,18,AFC Bournemouth,27,31,7,6,18,29,50
+Temporada2020,Jornada 31,19,Aston Villa,27,31,7,6,18,36,59
+Temporada2020,Jornada 31,20,Norwich City,21,31,5,6,20,25,56
+Temporada2020,Jornada 32,1,Liverpool,86,32,28,2,2,70,25
+Temporada2020,Jornada 32,2,Man. City,66,32,21,3,8,81,33
+Temporada2020,Jornada 32,3,Leicester,55,32,16,7,9,60,31
+Temporada2020,Jornada 32,4,Chelsea,54,32,16,6,10,57,44
+Temporada2020,Jornada 32,5,Man. Utd,52,32,14,10,8,51,31
+Temporada2020,Jornada 32,6,Wolves,52,32,13,13,6,45,34
+Temporada2020,Jornada 32,7,Sheffield United,47,32,12,11,9,33,32
+Temporada2020,Jornada 32,8,Arsenal,46,32,11,13,8,47,41
+Temporada2020,Jornada 32,9,Tottenham,45,32,12,9,11,51,44
+Temporada2020,Jornada 32,10,Burnley,45,32,13,6,13,36,45
+Temporada2020,Jornada 32,11,Everton,44,32,12,8,12,40,47
+Temporada2020,Jornada 32,12,Crystal Palace,42,32,11,9,12,28,37
+Temporada2020,Jornada 32,13,Newcastle,42,32,11,9,12,33,43
+Temporada2020,Jornada 32,14,Southampton,40,32,12,4,16,41,55
+Temporada2020,Jornada 32,15,Brighton Hove A.,33,32,7,12,13,34,44
+Temporada2020,Jornada 32,16,West Ham,30,32,8,6,18,38,56
+Temporada2020,Jornada 32,17,Watford,28,32,6,10,16,29,49
+Temporada2020,Jornada 32,18,Aston Villa,27,32,7,6,19,36,60
+Temporada2020,Jornada 32,19,AFC Bournemouth,27,32,7,6,19,30,54
+Temporada2020,Jornada 32,20,Norwich City,21,32,5,6,21,25,60
+Temporada2020,Jornada 33,1,Liverpool,89,33,29,2,2,72,25
+Temporada2020,Jornada 33,2,Man. City,66,33,21,3,9,81,34
+Temporada2020,Jornada 33,3,Leicester,58,33,17,7,9,63,31
+Temporada2020,Jornada 33,4,Chelsea,57,33,17,6,10,60,44
+Temporada2020,Jornada 33,5,Man. Utd,55,33,15,10,8,56,33
+Temporada2020,Jornada 33,6,Wolves,52,33,13,13,7,45,36
+Temporada2020,Jornada 33,7,Arsenal,49,33,12,13,8,49,41
+Temporada2020,Jornada 33,8,Tottenham,48,33,13,9,11,52,44
+Temporada2020,Jornada 33,9,Sheffield United,48,33,12,12,9,34,33
+Temporada2020,Jornada 33,10,Burnley,46,33,13,7,13,37,46
+Temporada2020,Jornada 33,11,Everton,44,33,12,8,13,40,48
+Temporada2020,Jornada 33,12,Newcastle,43,33,11,10,12,35,45
+Temporada2020,Jornada 33,13,Southampton,43,33,13,4,16,42,55
+Temporada2020,Jornada 33,14,Crystal Palace,42,33,11,9,13,28,40
+Temporada2020,Jornada 33,15,Brighton Hove A.,36,33,8,12,13,35,44
+Temporada2020,Jornada 33,16,West Ham,31,33,8,7,18,40,58
+Temporada2020,Jornada 33,17,Watford,28,33,6,10,17,29,52
+Temporada2020,Jornada 33,18,Aston Villa,27,33,7,6,20,36,62
+Temporada2020,Jornada 33,19,AFC Bournemouth,27,33,7,6,20,32,59
+Temporada2020,Jornada 33,20,Norwich City,21,33,5,6,22,25,61
+Temporada2020,Jornada 34,1,Liverpool,92,34,30,2,2,75,26
+Temporada2020,Jornada 34,2,Man. City,69,34,22,3,9,86,34
+Temporada2020,Jornada 34,3,Chelsea,60,34,18,6,10,63,46
+Temporada2020,Jornada 34,4,Leicester,59,34,17,8,9,64,32
+Temporada2020,Jornada 34,5,Man. Utd,58,34,16,10,8,59,33
+Temporada2020,Jornada 34,6,Wolves,52,34,13,13,8,45,37
+Temporada2020,Jornada 34,7,Sheffield United,51,34,13,12,9,35,33
+Temporada2020,Jornada 34,8,Arsenal,50,34,12,14,8,50,42
+Temporada2020,Jornada 34,9,Tottenham,49,34,13,10,11,52,44
+Temporada2020,Jornada 34,10,Burnley,49,34,14,7,13,38,46
+Temporada2020,Jornada 34,11,Everton,45,34,12,9,13,41,49
+Temporada2020,Jornada 34,12,Southampton,44,34,13,5,16,43,56
+Temporada2020,Jornada 34,13,Newcastle,43,34,11,10,13,35,50
+Temporada2020,Jornada 34,14,Crystal Palace,42,34,11,9,14,30,43
+Temporada2020,Jornada 34,15,Brighton Hove A.,36,34,8,12,14,36,47
+Temporada2020,Jornada 34,16,West Ham,31,34,8,7,19,40,59
+Temporada2020,Jornada 34,17,Watford,31,34,7,10,17,31,53
+Temporada2020,Jornada 34,18,AFC Bournemouth,28,34,7,7,20,32,59
+Temporada2020,Jornada 34,19,Aston Villa,27,34,7,6,21,36,65
+Temporada2020,Jornada 34,20,Norwich City,21,34,5,6,23,26,63
+Temporada2020,Jornada 35,1,Liverpool,93,35,30,3,2,76,27
+Temporada2020,Jornada 35,2,Man. City,72,35,23,3,9,91,34
+Temporada2020,Jornada 35,3,Chelsea,60,35,18,6,11,63,49
+Temporada2020,Jornada 35,4,Leicester,59,35,17,8,10,65,36
+Temporada2020,Jornada 35,5,Man. Utd,58,34,16,10,8,59,33
+Temporada2020,Jornada 35,6,Wolves,55,35,14,13,8,48,37
+Temporada2020,Jornada 35,7,Sheffield United,54,35,14,12,9,38,33
+Temporada2020,Jornada 35,8,Tottenham,52,35,14,10,11,54,45
+Temporada2020,Jornada 35,9,Arsenal,50,35,12,14,9,51,44
+Temporada2020,Jornada 35,10,Burnley,50,35,14,8,13,39,47
+Temporada2020,Jornada 35,11,Everton,45,35,12,9,14,41,52
+Temporada2020,Jornada 35,12,Southampton,44,34,13,5,16,43,56
+Temporada2020,Jornada 35,13,Newcastle,43,35,11,10,14,36,52
+Temporada2020,Jornada 35,14,Crystal Palace,42,35,11,9,15,30,45
+Temporada2020,Jornada 35,15,Brighton Hove A.,36,35,8,12,15,36,52
+Temporada2020,Jornada 35,16,West Ham,34,35,9,7,19,44,59
+Temporada2020,Jornada 35,17,Watford,34,35,8,10,17,33,54
+Temporada2020,Jornada 35,18,AFC Bournemouth,31,35,8,7,20,36,60
+Temporada2020,Jornada 35,19,Aston Villa,30,35,8,6,21,38,65
+Temporada2020,Jornada 35,20,Norwich City,21,35,5,6,24,26,67
+Temporada2020,Jornada 36,1,Liverpool,93,35,30,3,2,76,27
+Temporada2020,Jornada 36,2,Man. City,72,35,23,3,9,91,34
+Temporada2020,Jornada 36,3,Chelsea,60,35,18,6,11,63,49
+Temporada2020,Jornada 36,4,Leicester,59,35,17,8,10,65,36
+Temporada2020,Jornada 36,5,Man. Utd,58,34,16,10,8,59,33
+Temporada2020,Jornada 36,6,Wolves,55,35,14,13,8,48,37
+Temporada2020,Jornada 36,7,Sheffield United,54,35,14,12,9,38,33
+Temporada2020,Jornada 36,8,Tottenham,52,35,14,10,11,54,45
+Temporada2020,Jornada 36,9,Arsenal,50,35,12,14,9,51,44
+Temporada2020,Jornada 36,10,Burnley,50,35,14,8,13,39,47
+Temporada2020,Jornada 36,11,Everton,45,35,12,9,14,41,52
+Temporada2020,Jornada 36,12,Southampton,44,34,13,5,16,43,56
+Temporada2020,Jornada 36,13,Newcastle,43,35,11,10,14,36,52
+Temporada2020,Jornada 36,14,Crystal Palace,42,35,11,9,15,30,45
+Temporada2020,Jornada 36,15,Brighton Hove A.,36,35,8,12,15,36,52
+Temporada2020,Jornada 36,16,West Ham,34,35,9,7,19,44,59
+Temporada2020,Jornada 36,17,Watford,34,35,8,10,17,33,54
+Temporada2020,Jornada 36,18,AFC Bournemouth,31,35,8,7,20,36,60
+Temporada2020,Jornada 36,19,Aston Villa,30,35,8,6,21,38,65
+Temporada2020,Jornada 36,20,Norwich City,21,35,5,6,24,26,67
+Temporada2020,Jornada 37,1,Liverpool,93,35,30,3,2,76,27
+Temporada2020,Jornada 37,2,Man. City,72,35,23,3,9,91,34
+Temporada2020,Jornada 37,3,Chelsea,60,35,18,6,11,63,49
+Temporada2020,Jornada 37,4,Leicester,59,35,17,8,10,65,36
+Temporada2020,Jornada 37,5,Man. Utd,58,34,16,10,8,59,33
+Temporada2020,Jornada 37,6,Wolves,55,35,14,13,8,48,37
+Temporada2020,Jornada 37,7,Sheffield United,54,35,14,12,9,38,33
+Temporada2020,Jornada 37,8,Tottenham,52,35,14,10,11,54,45
+Temporada2020,Jornada 37,9,Arsenal,50,35,12,14,9,51,44
+Temporada2020,Jornada 37,10,Burnley,50,35,14,8,13,39,47
+Temporada2020,Jornada 37,11,Everton,45,35,12,9,14,41,52
+Temporada2020,Jornada 37,12,Southampton,44,34,13,5,16,43,56
+Temporada2020,Jornada 37,13,Newcastle,43,35,11,10,14,36,52
+Temporada2020,Jornada 37,14,Crystal Palace,42,35,11,9,15,30,45
+Temporada2020,Jornada 37,15,Brighton Hove A.,36,35,8,12,15,36,52
+Temporada2020,Jornada 37,16,West Ham,34,35,9,7,19,44,59
+Temporada2020,Jornada 37,17,Watford,34,35,8,10,17,33,54
+Temporada2020,Jornada 37,18,AFC Bournemouth,31,35,8,7,20,36,60
+Temporada2020,Jornada 37,19,Aston Villa,30,35,8,6,21,38,65
+Temporada2020,Jornada 37,20,Norwich City,21,35,5,6,24,26,67
+Temporada2020,Jornada 38,1,Liverpool,93,35,30,3,2,76,27
+Temporada2020,Jornada 38,2,Man. City,72,35,23,3,9,91,34
+Temporada2020,Jornada 38,3,Chelsea,60,35,18,6,11,63,49
+Temporada2020,Jornada 38,4,Leicester,59,35,17,8,10,65,36
+Temporada2020,Jornada 38,5,Man. Utd,58,34,16,10,8,59,33
+Temporada2020,Jornada 38,6,Wolves,55,35,14,13,8,48,37
+Temporada2020,Jornada 38,7,Sheffield United,54,35,14,12,9,38,33
+Temporada2020,Jornada 38,8,Tottenham,52,35,14,10,11,54,45
+Temporada2020,Jornada 38,9,Arsenal,50,35,12,14,9,51,44
+Temporada2020,Jornada 38,10,Burnley,50,35,14,8,13,39,47
+Temporada2020,Jornada 38,11,Everton,45,35,12,9,14,41,52
+Temporada2020,Jornada 38,12,Southampton,44,34,13,5,16,43,56
+Temporada2020,Jornada 38,13,Newcastle,43,35,11,10,14,36,52
+Temporada2020,Jornada 38,14,Crystal Palace,42,35,11,9,15,30,45
+Temporada2020,Jornada 38,15,Brighton Hove A.,36,35,8,12,15,36,52
+Temporada2020,Jornada 38,16,West Ham,34,35,9,7,19,44,59
+Temporada2020,Jornada 38,17,Watford,34,35,8,10,17,33,54
+Temporada2020,Jornada 38,18,AFC Bournemouth,31,35,8,7,20,36,60
+Temporada2020,Jornada 38,19,Aston Villa,30,35,8,6,21,38,65
+Temporada2020,Jornada 38,20,Norwich City,21,35,5,6,24,26,67
+Temporada2019,Jornada 1,1,Liverpool,3,1,1,0,0,4,0
+Temporada2019,Jornada 1,2,Chelsea,3,1,1,0,0,3,0
+Temporada2019,Jornada 1,3,AFC Bournemouth,3,1,1,0,0,2,0
+Temporada2019,Jornada 1,4,Crystal Palace,3,1,1,0,0,2,0
+Temporada2019,Jornada 1,5,Man. City,3,1,1,0,0,2,0
+Temporada2019,Jornada 1,6,Watford,3,1,1,0,0,2,0
+Temporada2019,Jornada 1,7,Man. Utd,3,1,1,0,0,2,1
+Temporada2019,Jornada 1,8,Tottenham,3,1,1,0,0,2,1
+Temporada2019,Jornada 1,9,Everton,1,1,0,1,0,2,2
+Temporada2019,Jornada 1,10,Wolves,1,1,0,1,0,2,2
+Temporada2019,Jornada 1,11,Burnley,1,1,0,1,0,0,0
+Temporada2019,Jornada 1,12,Southampton,1,1,0,1,0,0,0
+Temporada2019,Jornada 1,13,Leicester,0,1,0,0,1,1,2
+Temporada2019,Jornada 1,14,Newcastle,0,1,0,0,1,1,2
+Temporada2019,Jornada 1,15,Arsenal,0,1,0,0,1,0,2
+Temporada2019,Jornada 1,16,Brighton Hove A.,0,1,0,0,1,0,2
+Temporada2019,Jornada 1,17,Cardiff City,0,1,0,0,1,0,2
+Temporada2019,Jornada 1,18,Fulham,0,1,0,0,1,0,2
+Temporada2019,Jornada 1,19,Huddersfield,0,1,0,0,1,0,3
+Temporada2019,Jornada 1,20,West Ham,0,1,0,0,1,0,4
+Temporada2019,Jornada 2,1,Man. City,6,2,2,0,0,8,1
+Temporada2019,Jornada 2,2,Liverpool,6,2,2,0,0,6,0
+Temporada2019,Jornada 2,3,Chelsea,6,2,2,0,0,6,2
+Temporada2019,Jornada 2,4,Watford,6,2,2,0,0,5,1
+Temporada2019,Jornada 2,5,Tottenham,6,2,2,0,0,5,2
+Temporada2019,Jornada 2,6,AFC Bournemouth,6,2,2,0,0,4,1
+Temporada2019,Jornada 2,7,Everton,4,2,1,1,0,4,3
+Temporada2019,Jornada 2,8,Leicester,3,2,1,0,1,3,2
+Temporada2019,Jornada 2,9,Man. Utd,3,2,1,0,1,4,4
+Temporada2019,Jornada 2,10,Crystal Palace,3,2,1,0,1,2,2
+Temporada2019,Jornada 2,11,Brighton Hove A.,3,2,1,0,1,3,4
+Temporada2019,Jornada 2,12,Newcastle,1,2,0,1,1,1,2
+Temporada2019,Jornada 2,13,Southampton,1,2,0,1,1,1,2
+Temporada2019,Jornada 2,14,Wolves,1,2,0,1,1,2,4
+Temporada2019,Jornada 2,15,Burnley,1,2,0,1,1,1,3
+Temporada2019,Jornada 2,16,Cardiff City,1,2,0,1,1,0,2
+Temporada2019,Jornada 2,17,Arsenal,0,2,0,0,2,2,5
+Temporada2019,Jornada 2,18,Fulham,0,2,0,0,2,1,5
+Temporada2019,Jornada 2,19,West Ham,0,2,0,0,2,1,6
+Temporada2019,Jornada 2,20,Huddersfield,0,2,0,0,2,1,9
+Temporada2019,Jornada 3,1,Liverpool,9,3,3,0,0,7,0
+Temporada2019,Jornada 3,2,Tottenham,9,3,3,0,0,8,2
+Temporada2019,Jornada 3,3,Chelsea,9,3,3,0,0,8,3
+Temporada2019,Jornada 3,4,Watford,9,3,3,0,0,7,2
+Temporada2019,Jornada 3,5,Man. City,7,3,2,1,0,9,2
+Temporada2019,Jornada 3,6,AFC Bournemouth,7,3,2,1,0,6,3
+Temporada2019,Jornada 3,7,Leicester,6,3,2,0,1,5,3
+Temporada2019,Jornada 3,8,Everton,5,3,1,2,0,6,5
+Temporada2019,Jornada 3,9,Arsenal,3,3,1,0,2,5,6
+Temporada2019,Jornada 3,10,Crystal Palace,3,3,1,0,2,3,4
+Temporada2019,Jornada 3,11,Fulham,3,3,1,0,2,5,7
+Temporada2019,Jornada 3,12,Brighton Hove A.,3,3,1,0,2,3,5
+Temporada2019,Jornada 3,13,Man. Utd,3,3,1,0,2,4,7
+Temporada2019,Jornada 3,14,Wolves,2,3,0,2,1,3,5
+Temporada2019,Jornada 3,15,Cardiff City,2,3,0,2,1,0,2
+Temporada2019,Jornada 3,16,Newcastle,1,3,0,1,2,2,4
+Temporada2019,Jornada 3,17,Southampton,1,3,0,1,2,2,4
+Temporada2019,Jornada 3,18,Burnley,1,3,0,1,2,3,7
+Temporada2019,Jornada 3,19,Huddersfield,1,3,0,1,2,1,9
+Temporada2019,Jornada 3,20,West Ham,0,3,0,0,3,2,9
+Temporada2019,Jornada 4,1,Liverpool,12,4,4,0,0,9,1
+Temporada2019,Jornada 4,2,Chelsea,12,4,4,0,0,10,3
+Temporada2019,Jornada 4,3,Watford,12,4,4,0,0,9,3
+Temporada2019,Jornada 4,4,Man. City,10,4,3,1,0,11,3
+Temporada2019,Jornada 4,5,Tottenham,9,4,3,0,1,9,4
+Temporada2019,Jornada 4,6,AFC Bournemouth,7,4,2,1,1,6,5
+Temporada2019,Jornada 4,7,Everton,6,4,1,3,0,7,6
+Temporada2019,Jornada 4,8,Leicester,6,4,2,0,2,6,5
+Temporada2019,Jornada 4,9,Arsenal,6,4,2,0,2,8,8
+Temporada2019,Jornada 4,10,Man. Utd,6,4,2,0,2,6,7
+Temporada2019,Jornada 4,11,Wolves,5,4,1,2,1,4,5
+Temporada2019,Jornada 4,12,Southampton,4,4,1,1,2,4,4
+Temporada2019,Jornada 4,13,Fulham,4,4,1,1,2,7,9
+Temporada2019,Jornada 4,14,Brighton Hove A.,4,4,1,1,2,5,7
+Temporada2019,Jornada 4,15,Crystal Palace,3,4,1,0,3,3,6
+Temporada2019,Jornada 4,16,Cardiff City,2,4,0,2,2,2,5
+Temporada2019,Jornada 4,17,Huddersfield,2,4,0,2,2,2,10
+Temporada2019,Jornada 4,18,Newcastle,1,4,0,1,3,3,6
+Temporada2019,Jornada 4,19,Burnley,1,4,0,1,3,3,9
+Temporada2019,Jornada 4,20,West Ham,0,4,0,0,4,2,10
+Temporada2019,Jornada 5,1,Chelsea,15,5,5,0,0,14,4
+Temporada2019,Jornada 5,2,Liverpool,15,5,5,0,0,11,2
+Temporada2019,Jornada 5,3,Man. City,13,5,4,1,0,14,3
+Temporada2019,Jornada 5,4,Watford,12,5,4,0,1,10,5
+Temporada2019,Jornada 5,5,AFC Bournemouth,10,5,3,1,1,10,7
+Temporada2019,Jornada 5,6,Tottenham,9,5,3,0,2,10,6
+Temporada2019,Jornada 5,7,Arsenal,9,5,3,0,2,10,9
+Temporada2019,Jornada 5,8,Man. Utd,9,5,3,0,2,8,8
+Temporada2019,Jornada 5,9,Wolves,8,5,2,2,1,5,5
+Temporada2019,Jornada 5,10,Everton,6,5,1,3,1,8,9
+Temporada2019,Jornada 5,11,Leicester,6,5,2,0,3,8,9
+Temporada2019,Jornada 5,12,Crystal Palace,6,5,2,0,3,4,6
+Temporada2019,Jornada 5,13,Southampton,5,5,1,2,2,6,6
+Temporada2019,Jornada 5,14,Brighton Hove A.,5,5,1,2,2,7,9
+Temporada2019,Jornada 5,15,Fulham,4,5,1,1,3,7,12
+Temporada2019,Jornada 5,16,West Ham,3,5,1,0,4,5,11
+Temporada2019,Jornada 5,17,Cardiff City,2,5,0,2,3,3,9
+Temporada2019,Jornada 5,18,Huddersfield,2,5,0,2,3,2,11
+Temporada2019,Jornada 5,19,Newcastle,1,5,0,1,4,4,8
+Temporada2019,Jornada 5,20,Burnley,1,5,0,1,4,3,10
+Temporada2019,Jornada 6,1,Liverpool,18,6,6,0,0,14,2
+Temporada2019,Jornada 6,2,Man. City,16,6,5,1,0,19,3
+Temporada2019,Jornada 6,3,Chelsea,16,6,5,1,0,14,4
+Temporada2019,Jornada 6,4,Watford,13,6,4,1,1,11,6
+Temporada2019,Jornada 6,5,Tottenham,12,6,4,0,2,12,7
+Temporada2019,Jornada 6,6,Arsenal,12,6,4,0,2,12,9
+Temporada2019,Jornada 6,7,Man. Utd,10,6,3,1,2,9,9
+Temporada2019,Jornada 6,8,AFC Bournemouth,10,6,3,1,2,10,11
+Temporada2019,Jornada 6,9,Leicester,9,6,3,0,3,11,10
+Temporada2019,Jornada 6,10,Wolves,9,6,2,3,1,6,6
+Temporada2019,Jornada 6,11,Crystal Palace,7,6,2,1,3,4,6
+Temporada2019,Jornada 6,12,Everton,6,6,1,3,2,8,11
+Temporada2019,Jornada 6,13,Brighton Hove A.,5,6,1,2,3,8,11
+Temporada2019,Jornada 6,14,Southampton,5,6,1,2,3,6,9
+Temporada2019,Jornada 6,15,Fulham,5,6,1,2,3,8,13
+Temporada2019,Jornada 6,16,Burnley,4,6,1,1,4,7,10
+Temporada2019,Jornada 6,17,West Ham,4,6,1,1,4,5,11
+Temporada2019,Jornada 6,18,Newcastle,2,6,0,2,4,4,8
+Temporada2019,Jornada 6,19,Cardiff City,2,6,0,2,4,3,14
+Temporada2019,Jornada 6,20,Huddersfield,2,6,0,2,4,3,14
+Temporada2019,Jornada 7,1,Man. City,19,7,6,1,0,21,3
+Temporada2019,Jornada 7,2,Liverpool,19,7,6,1,0,15,3
+Temporada2019,Jornada 7,3,Chelsea,17,7,5,2,0,15,5
+Temporada2019,Jornada 7,4,Tottenham,15,7,5,0,2,14,7
+Temporada2019,Jornada 7,5,Arsenal,15,7,5,0,2,14,9
+Temporada2019,Jornada 7,6,Watford,13,7,4,1,2,11,8
+Temporada2019,Jornada 7,7,AFC Bournemouth,13,7,4,1,2,12,12
+Temporada2019,Jornada 7,8,Leicester,12,7,4,0,3,13,10
+Temporada2019,Jornada 7,9,Wolves,12,7,3,3,1,8,6
+Temporada2019,Jornada 7,10,Man. Utd,10,7,3,1,3,10,12
+Temporada2019,Jornada 7,11,Everton,9,7,2,3,2,11,11
+Temporada2019,Jornada 7,12,Burnley,7,7,2,1,4,9,11
+Temporada2019,Jornada 7,13,Crystal Palace,7,7,2,1,4,5,8
+Temporada2019,Jornada 7,14,West Ham,7,7,2,1,4,8,12
+Temporada2019,Jornada 7,15,Brighton Hove A.,5,7,1,2,4,8,13
+Temporada2019,Jornada 7,16,Southampton,5,7,1,2,4,6,11
+Temporada2019,Jornada 7,17,Fulham,5,7,1,2,4,8,16
+Temporada2019,Jornada 7,18,Newcastle,2,7,0,2,5,4,10
+Temporada2019,Jornada 7,19,Cardiff City,2,7,0,2,5,4,16
+Temporada2019,Jornada 7,20,Huddersfield,2,7,0,2,5,3,16
+Temporada2019,Jornada 8,1,Man. City,20,8,6,2,0,21,3
+Temporada2019,Jornada 8,2,Chelsea,20,8,6,2,0,18,5
+Temporada2019,Jornada 8,3,Liverpool,20,8,6,2,0,15,3
+Temporada2019,Jornada 8,4,Arsenal,18,8,6,0,2,19,10
+Temporada2019,Jornada 8,5,Tottenham,18,8,6,0,2,15,7
+Temporada2019,Jornada 8,6,AFC Bournemouth,16,8,5,1,2,16,12
+Temporada2019,Jornada 8,7,Wolves,15,8,4,3,1,9,6
+Temporada2019,Jornada 8,8,Man. Utd,13,8,4,1,3,13,14
+Temporada2019,Jornada 8,9,Watford,13,8,4,1,3,11,12
+Temporada2019,Jornada 8,10,Leicester,12,8,4,0,4,14,12
+Temporada2019,Jornada 8,11,Everton,12,8,3,3,2,13,12
+Temporada2019,Jornada 8,12,Burnley,8,8,2,2,4,10,12
+Temporada2019,Jornada 8,13,Brighton Hove A.,8,8,2,2,4,9,13
+Temporada2019,Jornada 8,14,Crystal Palace,7,8,2,1,5,5,9
+Temporada2019,Jornada 8,15,West Ham,7,8,2,1,5,8,13
+Temporada2019,Jornada 8,16,Southampton,5,8,1,2,5,6,14
+Temporada2019,Jornada 8,17,Fulham,5,8,1,2,5,9,21
+Temporada2019,Jornada 8,18,Huddersfield,3,8,0,3,5,4,17
+Temporada2019,Jornada 8,19,Newcastle,2,8,0,2,6,6,13
+Temporada2019,Jornada 8,20,Cardiff City,2,8,0,2,6,4,17
+Temporada2019,Jornada 9,1,Man. City,23,9,7,2,0,26,3
+Temporada2019,Jornada 9,2,Liverpool,23,9,7,2,0,16,3
+Temporada2019,Jornada 9,3,Chelsea,21,9,6,3,0,20,7
+Temporada2019,Jornada 9,4,Arsenal,21,9,7,0,2,22,11
+Temporada2019,Jornada 9,5,Tottenham,21,9,7,0,2,16,7
+Temporada2019,Jornada 9,6,AFC Bournemouth,17,9,5,2,2,16,12
+Temporada2019,Jornada 9,7,Watford,16,9,5,1,3,13,12
+Temporada2019,Jornada 9,8,Everton,15,9,4,3,2,15,12
+Temporada2019,Jornada 9,9,Wolves,15,9,4,3,2,9,8
+Temporada2019,Jornada 9,10,Man. Utd,14,9,4,2,3,15,16
+Temporada2019,Jornada 9,11,Leicester,12,9,4,0,5,15,15
+Temporada2019,Jornada 9,12,Brighton Hove A.,11,9,3,2,4,10,13
+Temporada2019,Jornada 9,13,Burnley,8,9,2,2,5,10,17
+Temporada2019,Jornada 9,14,West Ham,7,9,2,1,6,8,14
+Temporada2019,Jornada 9,15,Crystal Palace,7,9,2,1,6,5,11
+Temporada2019,Jornada 9,16,Southampton,6,9,1,3,5,6,14
+Temporada2019,Jornada 9,17,Cardiff City,5,9,1,2,6,8,19
+Temporada2019,Jornada 9,18,Fulham,5,9,1,2,6,11,25
+Temporada2019,Jornada 9,19,Huddersfield,3,9,0,3,6,4,18
+Temporada2019,Jornada 9,20,Newcastle,2,9,0,2,7,6,14
+Temporada2019,Jornada 10,1,Man. City,26,10,8,2,0,27,3
+Temporada2019,Jornada 10,2,Liverpool,26,10,8,2,0,20,4
+Temporada2019,Jornada 10,3,Chelsea,24,10,7,3,0,24,7
+Temporada2019,Jornada 10,4,Arsenal,22,10,7,1,2,24,13
+Temporada2019,Jornada 10,5,Tottenham,21,10,7,0,3,16,8
+Temporada2019,Jornada 10,6,AFC Bournemouth,20,10,6,2,2,19,12
+Temporada2019,Jornada 10,7,Watford,19,10,6,1,3,16,12
+Temporada2019,Jornada 10,8,Man. Utd,17,10,5,2,3,17,17
+Temporada2019,Jornada 10,9,Everton,15,10,4,3,3,16,14
+Temporada2019,Jornada 10,10,Wolves,15,10,4,3,3,9,9
+Temporada2019,Jornada 10,11,Brighton Hove A.,14,10,4,2,4,11,13
+Temporada2019,Jornada 10,12,Leicester,13,10,4,1,5,16,16
+Temporada2019,Jornada 10,13,West Ham,8,10,2,2,6,9,15
+Temporada2019,Jornada 10,14,Crystal Palace,8,10,2,2,6,7,13
+Temporada2019,Jornada 10,15,Burnley,8,10,2,2,6,10,21
+Temporada2019,Jornada 10,16,Southampton,7,10,1,4,5,6,14
+Temporada2019,Jornada 10,17,Cardiff City,5,10,1,2,7,9,23
+Temporada2019,Jornada 10,18,Fulham,5,10,1,2,7,11,28
+Temporada2019,Jornada 10,19,Newcastle,3,10,0,3,7,6,14
+Temporada2019,Jornada 10,20,Huddersfield,3,10,0,3,7,4,21
+Temporada2019,Jornada 11,1,Man. City,29,11,9,2,0,33,4
+Temporada2019,Jornada 11,2,Chelsea,27,11,8,3,0,27,8
+Temporada2019,Jornada 11,3,Liverpool,27,11,8,3,0,21,5
+Temporada2019,Jornada 11,4,Tottenham,24,11,8,0,3,19,10
+Temporada2019,Jornada 11,5,Arsenal,23,11,7,2,2,25,14
+Temporada2019,Jornada 11,6,AFC Bournemouth,20,11,6,2,3,20,14
+Temporada2019,Jornada 11,7,Man. Utd,20,11,6,2,3,19,18
+Temporada2019,Jornada 11,8,Watford,19,11,6,1,4,16,13
+Temporada2019,Jornada 11,9,Everton,18,11,5,3,3,19,15
+Temporada2019,Jornada 11,10,Leicester,16,11,5,1,5,17,16
+Temporada2019,Jornada 11,11,Wolves,15,11,4,3,4,11,12
+Temporada2019,Jornada 11,12,Brighton Hove A.,14,11,4,2,5,12,16
+Temporada2019,Jornada 11,13,West Ham,11,11,3,2,6,13,17
+Temporada2019,Jornada 11,14,Crystal Palace,8,11,2,2,7,8,16
+Temporada2019,Jornada 11,15,Burnley,8,11,2,2,7,12,25
+Temporada2019,Jornada 11,16,Southampton,7,11,1,4,6,7,20
+Temporada2019,Jornada 11,17,Newcastle,6,11,1,3,7,7,14
+Temporada2019,Jornada 11,18,Huddersfield,6,11,1,3,7,5,21
+Temporada2019,Jornada 11,19,Cardiff City,5,11,1,2,8,9,24
+Temporada2019,Jornada 11,20,Fulham,5,11,1,2,8,11,29
+Temporada2019,Jornada 12,1,Man. City,32,12,10,2,0,36,5
+Temporada2019,Jornada 12,2,Liverpool,30,12,9,3,0,23,5
+Temporada2019,Jornada 12,3,Chelsea,28,12,8,4,0,27,8
+Temporada2019,Jornada 12,4,Tottenham,27,12,9,0,3,20,10
+Temporada2019,Jornada 12,5,Arsenal,24,12,7,3,2,26,15
+Temporada2019,Jornada 12,6,AFC Bournemouth,20,12,6,2,4,21,16
+Temporada2019,Jornada 12,7,Watford,20,12,6,2,4,17,14
+Temporada2019,Jornada 12,8,Man. Utd,20,12,6,2,4,20,21
+Temporada2019,Jornada 12,9,Everton,19,12,5,4,3,19,15
+Temporada2019,Jornada 12,10,Leicester,17,12,5,2,5,17,16
+Temporada2019,Jornada 12,11,Wolves,16,12,4,4,4,12,13
+Temporada2019,Jornada 12,12,Brighton Hove A.,14,12,4,2,6,13,18
+Temporada2019,Jornada 12,13,West Ham,12,12,3,3,6,14,18
+Temporada2019,Jornada 12,14,Newcastle,9,12,2,3,7,9,15
+Temporada2019,Jornada 12,15,Burnley,9,12,2,3,7,12,25
+Temporada2019,Jornada 12,16,Crystal Palace,8,12,2,2,8,8,17
+Temporada2019,Jornada 12,17,Southampton,8,12,1,5,6,8,21
+Temporada2019,Jornada 12,18,Cardiff City,8,12,2,2,8,11,25
+Temporada2019,Jornada 12,19,Huddersfield,7,12,1,4,7,6,22
+Temporada2019,Jornada 12,20,Fulham,5,12,1,2,9,11,31
+Temporada2019,Jornada 13,1,Man. City,35,13,11,2,0,40,5
+Temporada2019,Jornada 13,2,Liverpool,33,13,10,3,0,26,5
+Temporada2019,Jornada 13,3,Tottenham,30,13,10,0,3,23,11
+Temporada2019,Jornada 13,4,Chelsea,28,13,8,4,1,28,11
+Temporada2019,Jornada 13,5,Arsenal,27,13,8,3,2,28,16
+Temporada2019,Jornada 13,6,Everton,22,13,6,4,3,20,15
+Temporada2019,Jornada 13,7,Man. Utd,21,13,6,3,4,20,21
+Temporada2019,Jornada 13,8,AFC Bournemouth,20,13,6,2,5,22,18
+Temporada2019,Jornada 13,9,Watford,20,13,6,2,5,17,17
+Temporada2019,Jornada 13,10,Leicester,18,13,5,3,5,18,17
+Temporada2019,Jornada 13,11,Wolves,16,13,4,4,5,12,15
+Temporada2019,Jornada 13,12,Brighton Hove A.,15,13,4,3,6,14,19
+Temporada2019,Jornada 13,13,Newcastle,12,13,3,3,7,11,16
+Temporada2019,Jornada 13,14,West Ham,12,13,3,3,7,14,22
+Temporada2019,Jornada 13,15,Huddersfield,10,13,2,4,7,8,22
+Temporada2019,Jornada 13,16,Crystal Palace,9,13,2,3,8,8,17
+Temporada2019,Jornada 13,17,Burnley,9,13,2,3,8,13,27
+Temporada2019,Jornada 13,18,Southampton,8,13,1,5,7,10,24
+Temporada2019,Jornada 13,19,Cardiff City,8,13,2,2,9,11,26
+Temporada2019,Jornada 13,20,Fulham,8,13,2,2,9,14,33
+Temporada2019,Jornada 14,1,Man. City,38,14,12,2,0,43,6
+Temporada2019,Jornada 14,2,Liverpool,36,14,11,3,0,27,5
+Temporada2019,Jornada 14,3,Chelsea,31,14,9,4,1,30,11
+Temporada2019,Jornada 14,4,Arsenal,30,14,9,3,2,32,18
+Temporada2019,Jornada 14,5,Tottenham,30,14,10,0,4,25,15
+Temporada2019,Jornada 14,6,Everton,22,14,6,4,4,20,16
+Temporada2019,Jornada 14,7,Man. Utd,22,14,6,4,4,22,23
+Temporada2019,Jornada 14,8,Leicester,21,14,6,3,5,20,17
+Temporada2019,Jornada 14,9,AFC Bournemouth,20,14,6,2,6,23,21
+Temporada2019,Jornada 14,10,Watford,20,14,6,2,6,17,19
+Temporada2019,Jornada 14,11,Brighton Hove A.,18,14,5,3,6,16,20
+Temporada2019,Jornada 14,12,Wolves,16,14,4,4,6,13,17
+Temporada2019,Jornada 14,13,West Ham,15,14,4,3,7,17,22
+Temporada2019,Jornada 14,14,Crystal Palace,12,14,3,3,8,10,17
+Temporada2019,Jornada 14,15,Newcastle,12,14,3,3,8,11,19
+Temporada2019,Jornada 14,16,Cardiff City,11,14,3,2,9,13,27
+Temporada2019,Jornada 14,17,Huddersfield,10,14,2,4,8,9,24
+Temporada2019,Jornada 14,18,Southampton,9,14,1,6,7,12,26
+Temporada2019,Jornada 14,19,Burnley,9,14,2,3,9,13,29
+Temporada2019,Jornada 14,20,Fulham,8,14,2,2,10,14,35
+Temporada2019,Jornada 15,1,Man. City,41,15,13,2,0,45,7
+Temporada2019,Jornada 15,2,Liverpool,39,15,12,3,0,30,6
+Temporada2019,Jornada 15,3,Tottenham,33,15,11,0,4,28,16
+Temporada2019,Jornada 15,4,Chelsea,31,15,9,4,2,31,13
+Temporada2019,Jornada 15,5,Arsenal,31,15,9,4,2,34,20
+Temporada2019,Jornada 15,6,Everton,23,15,6,5,4,21,17
+Temporada2019,Jornada 15,7,AFC Bournemouth,23,15,7,2,6,25,22
+Temporada2019,Jornada 15,8,Man. Utd,23,15,6,5,4,24,25
+Temporada2019,Jornada 15,9,Leicester,22,15,6,4,5,21,18
+Temporada2019,Jornada 15,10,Brighton Hove A.,21,15,6,3,6,19,21
+Temporada2019,Jornada 15,11,Watford,20,15,6,2,7,18,21
+Temporada2019,Jornada 15,12,Wolves,19,15,5,4,6,15,18
+Temporada2019,Jornada 15,13,West Ham,18,15,5,3,7,20,23
+Temporada2019,Jornada 15,14,Newcastle,13,15,3,4,8,12,20
+Temporada2019,Jornada 15,15,Crystal Palace,12,15,3,3,9,11,20
+Temporada2019,Jornada 15,16,Cardiff City,11,15,3,2,10,14,30
+Temporada2019,Jornada 15,17,Huddersfield,10,15,2,4,9,10,26
+Temporada2019,Jornada 15,18,Southampton,9,15,1,6,8,13,29
+Temporada2019,Jornada 15,19,Burnley,9,15,2,3,10,14,32
+Temporada2019,Jornada 15,20,Fulham,9,15,2,3,10,15,36
+Temporada2019,Jornada 16,1,Liverpool,42,16,13,3,0,34,6
+Temporada2019,Jornada 16,2,Man. City,41,16,13,2,1,45,9
+Temporada2019,Jornada 16,3,Tottenham,36,16,12,0,4,30,16
+Temporada2019,Jornada 16,4,Chelsea,34,16,10,4,2,33,13
+Temporada2019,Jornada 16,5,Arsenal,34,16,10,4,2,35,20
+Temporada2019,Jornada 16,6,Man. Utd,26,16,7,5,4,28,26
+Temporada2019,Jornada 16,7,Everton,24,16,6,6,4,23,19
+Temporada2019,Jornada 16,8,AFC Bournemouth,23,16,7,2,7,25,26
+Temporada2019,Jornada 16,9,Leicester,22,16,6,4,6,21,20
+Temporada2019,Jornada 16,10,Wolves,22,16,6,4,6,17,19
+Temporada2019,Jornada 16,11,West Ham,21,16,6,3,7,23,25
+Temporada2019,Jornada 16,12,Watford,21,16,6,3,7,20,23
+Temporada2019,Jornada 16,13,Brighton Hove A.,21,16,6,3,7,19,22
+Temporada2019,Jornada 16,14,Cardiff City,14,16,4,2,10,15,30
+Temporada2019,Jornada 16,15,Newcastle,13,16,3,4,9,13,22
+Temporada2019,Jornada 16,16,Crystal Palace,12,16,3,3,10,13,23
+Temporada2019,Jornada 16,17,Burnley,12,16,3,3,10,15,32
+Temporada2019,Jornada 16,18,Huddersfield,10,16,2,4,10,10,27
+Temporada2019,Jornada 16,19,Southampton,9,16,1,6,9,13,30
+Temporada2019,Jornada 16,20,Fulham,9,16,2,3,11,16,40
+Temporada2019,Jornada 17,1,Liverpool,45,17,14,3,0,37,7
+Temporada2019,Jornada 17,2,Man. City,44,17,14,2,1,48,10
+Temporada2019,Jornada 17,3,Tottenham,39,17,13,0,4,31,16
+Temporada2019,Jornada 17,4,Chelsea,37,17,11,4,2,35,14
+Temporada2019,Jornada 17,5,Arsenal,34,17,10,4,3,37,23
+Temporada2019,Jornada 17,6,Man. Utd,26,17,7,5,5,29,29
+Temporada2019,Jornada 17,7,Wolves,25,17,7,4,6,19,19
+Temporada2019,Jornada 17,8,Everton,24,17,6,6,5,24,22
+Temporada2019,Jornada 17,9,West Ham,24,17,7,3,7,25,25
+Temporada2019,Jornada 17,10,Watford,24,17,7,3,7,23,25
+Temporada2019,Jornada 17,11,AFC Bournemouth,23,17,7,2,8,25,28
+Temporada2019,Jornada 17,12,Leicester,22,17,6,4,7,21,21
+Temporada2019,Jornada 17,13,Brighton Hove A.,21,17,6,3,8,20,24
+Temporada2019,Jornada 17,14,Newcastle,16,17,4,4,9,14,22
+Temporada2019,Jornada 17,15,Crystal Palace,15,17,4,3,10,14,23
+Temporada2019,Jornada 17,16,Cardiff City,14,17,4,2,11,17,33
+Temporada2019,Jornada 17,17,Southampton,12,17,2,6,9,16,32
+Temporada2019,Jornada 17,18,Burnley,12,17,3,3,11,15,33
+Temporada2019,Jornada 17,19,Huddersfield,10,17,2,4,11,10,28
+Temporada2019,Jornada 17,20,Fulham,9,17,2,3,12,16,42
+Temporada2019,Jornada 18,1,Liverpool,48,18,15,3,0,39,7
+Temporada2019,Jornada 18,2,Man. City,44,18,14,2,2,50,13
+Temporada2019,Jornada 18,3,Tottenham,42,18,14,0,4,37,18
+Temporada2019,Jornada 18,4,Chelsea,37,18,11,4,3,35,15
+Temporada2019,Jornada 18,5,Arsenal,37,18,11,4,3,40,24
+Temporada2019,Jornada 18,6,Man. Utd,29,18,8,5,5,34,30
+Temporada2019,Jornada 18,7,Watford,27,18,8,3,7,25,25
+Temporada2019,Jornada 18,8,AFC Bournemouth,26,18,8,2,8,27,28
+Temporada2019,Jornada 18,9,Leicester,25,18,7,4,7,22,21
+Temporada2019,Jornada 18,10,Wolves,25,18,7,4,7,19,21
+Temporada2019,Jornada 18,11,Everton,24,18,6,6,6,26,28
+Temporada2019,Jornada 18,12,West Ham,24,18,7,3,8,25,27
+Temporada2019,Jornada 18,13,Brighton Hove A.,21,18,6,3,9,20,26
+Temporada2019,Jornada 18,14,Crystal Palace,18,18,5,3,10,17,25
+Temporada2019,Jornada 18,15,Newcastle,17,18,4,5,9,14,22
+Temporada2019,Jornada 18,16,Southampton,15,18,3,6,9,19,33
+Temporada2019,Jornada 18,17,Cardiff City,14,18,4,2,12,18,38
+Temporada2019,Jornada 18,18,Burnley,12,18,3,3,12,16,36
+Temporada2019,Jornada 18,19,Huddersfield,10,18,2,4,12,11,31
+Temporada2019,Jornada 18,20,Fulham,10,18,2,4,12,16,42
+Temporada2019,Jornada 19,1,Liverpool,51,19,16,3,0,43,7
+Temporada2019,Jornada 19,2,Tottenham,45,19,15,0,4,42,18
+Temporada2019,Jornada 19,3,Man. City,44,19,14,2,3,51,15
+Temporada2019,Jornada 19,4,Chelsea,40,19,12,4,3,37,16
+Temporada2019,Jornada 19,5,Arsenal,38,19,11,5,3,41,25
+Temporada2019,Jornada 19,6,Man. Utd,32,19,9,5,5,37,31
+Temporada2019,Jornada 19,7,Leicester,28,19,8,4,7,24,22
+Temporada2019,Jornada 19,8,Everton,27,19,7,6,6,31,29
+Temporada2019,Jornada 19,9,West Ham,27,19,8,3,8,27,28
+Temporada2019,Jornada 19,10,Watford,27,19,8,3,8,26,27
+Temporada2019,Jornada 19,11,Wolves,26,19,7,5,7,20,22
+Temporada2019,Jornada 19,12,AFC Bournemouth,26,19,8,2,9,27,33
+Temporada2019,Jornada 19,13,Brighton Hove A.,22,19,6,4,9,21,27
+Temporada2019,Jornada 19,14,Crystal Palace,19,19,5,4,10,17,25
+Temporada2019,Jornada 19,15,Newcastle,17,19,4,5,10,14,26
+Temporada2019,Jornada 19,16,Southampton,15,19,3,6,10,20,35
+Temporada2019,Jornada 19,17,Cardiff City,15,19,4,3,12,18,38
+Temporada2019,Jornada 19,18,Burnley,12,19,3,3,13,17,41
+Temporada2019,Jornada 19,19,Fulham,11,19,2,5,12,17,43
+Temporada2019,Jornada 19,20,Huddersfield,10,19,2,4,13,12,34
+Temporada2019,Jornada 20,1,Liverpool,54,20,17,3,0,48,8
+Temporada2019,Jornada 20,2,Man. City,47,20,15,2,3,54,16
+Temporada2019,Jornada 20,3,Tottenham,45,20,15,0,5,43,21
+Temporada2019,Jornada 20,4,Chelsea,43,20,13,4,3,38,16
+Temporada2019,Jornada 20,5,Arsenal,38,20,11,5,4,42,30
+Temporada2019,Jornada 20,6,Man. Utd,35,20,10,5,5,41,32
+Temporada2019,Jornada 20,7,Wolves,29,20,8,5,7,23,23
+Temporada2019,Jornada 20,8,Leicester,28,20,8,4,8,24,23
+Temporada2019,Jornada 20,9,Watford,28,20,8,4,8,27,28
+Temporada2019,Jornada 20,10,Everton,27,20,7,6,7,31,30
+Temporada2019,Jornada 20,11,West Ham,27,20,8,3,9,27,30
+Temporada2019,Jornada 20,12,AFC Bournemouth,26,20,8,2,10,28,37
+Temporada2019,Jornada 20,13,Brighton Hove A.,25,20,7,4,9,22,27
+Temporada2019,Jornada 20,14,Crystal Palace,19,20,5,4,11,17,26
+Temporada2019,Jornada 20,15,Newcastle,18,20,4,6,10,15,27
+Temporada2019,Jornada 20,16,Cardiff City,18,20,5,3,12,19,38
+Temporada2019,Jornada 20,17,Southampton,15,20,3,6,11,21,38
+Temporada2019,Jornada 20,18,Burnley,15,20,4,3,13,19,41
+Temporada2019,Jornada 20,19,Fulham,14,20,3,5,12,18,43
+Temporada2019,Jornada 20,20,Huddersfield,10,20,2,4,14,12,35
+Temporada2019,Jornada 21,1,Liverpool,54,21,17,3,1,49,10
+Temporada2019,Jornada 21,2,Man. City,50,21,16,2,3,56,17
+Temporada2019,Jornada 21,3,Tottenham,48,21,16,0,5,46,21
+Temporada2019,Jornada 21,4,Chelsea,44,21,13,5,3,38,16
+Temporada2019,Jornada 21,5,Arsenal,41,21,12,5,4,46,31
+Temporada2019,Jornada 21,6,Man. Utd,38,21,11,5,5,43,32
+Temporada2019,Jornada 21,7,Leicester,31,21,9,4,8,25,23
+Temporada2019,Jornada 21,8,Watford,29,21,8,5,8,30,31
+Temporada2019,Jornada 21,9,Wolves,29,21,8,5,8,23,25
+Temporada2019,Jornada 21,10,West Ham,28,21,8,4,9,29,32
+Temporada2019,Jornada 21,11,Everton,27,21,7,6,8,31,31
+Temporada2019,Jornada 21,12,AFC Bournemouth,27,21,8,3,10,31,40
+Temporada2019,Jornada 21,13,Brighton Hove A.,26,21,7,5,9,24,29
+Temporada2019,Jornada 21,14,Crystal Palace,22,21,6,4,11,19,26
+Temporada2019,Jornada 21,15,Newcastle,18,21,4,6,11,15,29
+Temporada2019,Jornada 21,16,Burnley,18,21,5,3,13,21,42
+Temporada2019,Jornada 21,17,Cardiff City,18,21,5,3,13,19,41
+Temporada2019,Jornada 21,18,Southampton,16,21,3,7,11,21,38
+Temporada2019,Jornada 21,19,Fulham,14,21,3,5,13,19,47
+Temporada2019,Jornada 21,20,Huddersfield,10,21,2,4,15,13,37
+Temporada2019,Jornada 22,1,Liverpool,57,22,18,3,1,50,10
+Temporada2019,Jornada 22,2,Man. City,53,22,17,2,3,59,17
+Temporada2019,Jornada 22,3,Tottenham,48,22,16,0,6,46,22
+Temporada2019,Jornada 22,4,Chelsea,47,22,14,5,3,40,17
+Temporada2019,Jornada 22,5,Arsenal,41,22,12,5,5,46,32
+Temporada2019,Jornada 22,6,Man. Utd,41,22,12,5,5,44,32
+Temporada2019,Jornada 22,7,Watford,32,22,9,5,8,32,32
+Temporada2019,Jornada 22,8,Leicester,31,22,9,4,9,26,25
+Temporada2019,Jornada 22,9,West Ham,31,22,9,4,9,30,32
+Temporada2019,Jornada 22,10,Everton,30,22,8,6,8,33,31
+Temporada2019,Jornada 22,11,Wolves,29,22,8,5,9,23,28
+Temporada2019,Jornada 22,12,AFC Bournemouth,27,22,8,3,11,31,42
+Temporada2019,Jornada 22,13,Brighton Hove A.,26,22,7,5,10,24,30
+Temporada2019,Jornada 22,14,Crystal Palace,22,22,6,4,12,20,28
+Temporada2019,Jornada 22,15,Burnley,21,22,6,3,13,23,43
+Temporada2019,Jornada 22,16,Southampton,19,22,4,7,11,23,39
+Temporada2019,Jornada 22,17,Cardiff City,19,22,5,4,13,19,41
+Temporada2019,Jornada 22,18,Newcastle,18,22,4,6,12,16,31
+Temporada2019,Jornada 22,19,Fulham,14,22,3,5,14,20,49
+Temporada2019,Jornada 22,20,Huddersfield,11,22,2,5,15,13,37
+Temporada2019,Jornada 23,1,Liverpool,60,23,19,3,1,54,13
+Temporada2019,Jornada 23,2,Man. City,56,23,18,2,3,62,17
+Temporada2019,Jornada 23,3,Tottenham,51,23,17,0,6,48,23
+Temporada2019,Jornada 23,4,Chelsea,47,23,14,5,4,40,19
+Temporada2019,Jornada 23,5,Arsenal,44,23,13,5,5,48,32
+Temporada2019,Jornada 23,6,Man. Utd,44,23,13,5,5,46,33
+Temporada2019,Jornada 23,7,Watford,33,23,9,6,8,32,32
+Temporada2019,Jornada 23,8,Wolves,32,23,9,5,9,27,31
+Temporada2019,Jornada 23,9,Leicester,31,23,9,4,10,29,29
+Temporada2019,Jornada 23,10,West Ham,31,23,9,4,10,30,34
+Temporada2019,Jornada 23,11,Everton,30,23,8,6,9,34,33
+Temporada2019,Jornada 23,12,AFC Bournemouth,30,23,9,3,11,33,42
+Temporada2019,Jornada 23,13,Brighton Hove A.,26,23,7,5,11,25,32
+Temporada2019,Jornada 23,14,Crystal Palace,22,23,6,4,13,23,32
+Temporada2019,Jornada 23,15,Southampton,22,23,5,7,11,25,40
+Temporada2019,Jornada 23,16,Burnley,22,23,6,4,13,23,43
+Temporada2019,Jornada 23,17,Newcastle,21,23,5,6,12,19,31
+Temporada2019,Jornada 23,18,Cardiff City,19,23,5,4,14,19,44
+Temporada2019,Jornada 23,19,Fulham,14,23,3,5,15,21,51
+Temporada2019,Jornada 23,20,Huddersfield,11,23,2,5,16,13,40
+Temporada2019,Jornada 24,1,Liverpool,61,24,19,4,1,55,14
+Temporada2019,Jornada 24,2,Man. City,56,24,18,2,4,63,19
+Temporada2019,Jornada 24,3,Tottenham,54,24,18,0,6,50,24
+Temporada2019,Jornada 24,4,Arsenal,47,24,14,5,5,50,33
+Temporada2019,Jornada 24,5,Chelsea,47,24,14,5,5,40,23
+Temporada2019,Jornada 24,6,Man. Utd,45,24,13,6,5,48,35
+Temporada2019,Jornada 24,7,Wolves,35,24,10,5,9,30,31
+Temporada2019,Jornada 24,8,Everton,33,24,9,6,9,35,33
+Temporada2019,Jornada 24,9,Watford,33,24,9,6,9,33,34
+Temporada2019,Jornada 24,10,AFC Bournemouth,33,24,10,3,11,37,42
+Temporada2019,Jornada 24,11,Leicester,32,24,9,5,10,30,30
+Temporada2019,Jornada 24,12,West Ham,31,24,9,4,11,30,37
+Temporada2019,Jornada 24,13,Brighton Hove A.,26,24,7,5,12,27,36
+Temporada2019,Jornada 24,14,Newcastle,24,24,6,6,12,21,32
+Temporada2019,Jornada 24,15,Crystal Palace,23,24,6,5,13,24,33
+Temporada2019,Jornada 24,16,Southampton,23,24,5,8,11,26,41
+Temporada2019,Jornada 24,17,Burnley,23,24,6,5,13,25,45
+Temporada2019,Jornada 24,18,Cardiff City,19,24,5,4,15,20,46
+Temporada2019,Jornada 24,19,Fulham,17,24,4,5,15,25,53
+Temporada2019,Jornada 24,20,Huddersfield,11,24,2,5,17,13,41
+Temporada2019,Jornada 25,1,Liverpool,62,25,19,5,1,56,15
+Temporada2019,Jornada 25,2,Man. City,59,25,19,2,4,66,20
+Temporada2019,Jornada 25,3,Tottenham,57,25,19,0,6,51,24
+Temporada2019,Jornada 25,4,Chelsea,50,25,15,5,5,45,23
+Temporada2019,Jornada 25,5,Man. Utd,48,25,14,6,5,49,35
+Temporada2019,Jornada 25,6,Arsenal,47,25,14,5,6,51,36
+Temporada2019,Jornada 25,7,Wolves,38,25,11,5,9,33,32
+Temporada2019,Jornada 25,8,Watford,34,25,9,7,9,33,34
+Temporada2019,Jornada 25,9,Everton,33,25,9,6,10,36,36
+Temporada2019,Jornada 25,10,AFC Bournemouth,33,25,10,3,12,37,44
+Temporada2019,Jornada 25,11,Leicester,32,25,9,5,11,30,31
+Temporada2019,Jornada 25,12,West Ham,32,25,9,5,11,31,38
+Temporada2019,Jornada 25,13,Brighton Hove A.,27,25,7,6,12,27,36
+Temporada2019,Jornada 25,14,Crystal Palace,26,25,7,5,13,26,33
+Temporada2019,Jornada 25,15,Newcastle,24,25,6,6,13,21,33
+Temporada2019,Jornada 25,16,Southampton,24,25,5,9,11,27,42
+Temporada2019,Jornada 25,17,Burnley,24,25,6,6,13,26,46
+Temporada2019,Jornada 25,18,Cardiff City,22,25,6,4,15,22,46
+Temporada2019,Jornada 25,19,Fulham,17,25,4,5,16,25,55
+Temporada2019,Jornada 25,20,Huddersfield,11,25,2,5,18,13,46
+Temporada2019,Jornada 26,1,Liverpool,65,26,20,5,1,59,15
+Temporada2019,Jornada 26,2,Man. City,62,26,20,2,4,72,20
+Temporada2019,Jornada 26,3,Tottenham,60,26,20,0,6,54,25
+Temporada2019,Jornada 26,4,Man. Utd,51,26,15,6,5,52,35
+Temporada2019,Jornada 26,5,Arsenal,50,26,15,5,6,53,37
+Temporada2019,Jornada 26,6,Chelsea,50,26,15,5,6,45,29
+Temporada2019,Jornada 26,7,Wolves,39,26,11,6,9,34,33
+Temporada2019,Jornada 26,8,Watford,37,26,10,7,9,34,34
+Temporada2019,Jornada 26,9,Everton,33,26,9,6,11,36,37
+Temporada2019,Jornada 26,10,West Ham,33,26,9,6,11,32,39
+Temporada2019,Jornada 26,11,AFC Bournemouth,33,26,10,3,13,37,47
+Temporada2019,Jornada 26,12,Leicester,32,26,9,5,12,31,34
+Temporada2019,Jornada 26,13,Crystal Palace,27,26,7,6,13,27,34
+Temporada2019,Jornada 26,14,Brighton Hove A.,27,26,7,6,13,28,39
+Temporada2019,Jornada 26,15,Burnley,27,26,7,6,13,29,47
+Temporada2019,Jornada 26,16,Newcastle,25,26,6,7,13,22,34
+Temporada2019,Jornada 26,17,Cardiff City,25,26,7,4,15,24,47
+Temporada2019,Jornada 26,18,Southampton,24,26,5,9,12,28,44
+Temporada2019,Jornada 26,19,Fulham,17,26,4,5,17,25,58
+Temporada2019,Jornada 26,20,Huddersfield,11,26,2,5,19,14,48
+Temporada2019,Jornada 27,1,Liverpool,66,27,20,6,1,59,15
+Temporada2019,Jornada 27,2,Man. City,65,27,21,2,4,74,20
+Temporada2019,Jornada 27,3,Tottenham,60,27,20,0,7,55,27
+Temporada2019,Jornada 27,4,Chelsea,53,27,16,5,6,48,29
+Temporada2019,Jornada 27,5,Arsenal,53,27,16,5,6,55,37
+Temporada2019,Jornada 27,6,Man. Utd,52,27,15,7,5,52,35
+Temporada2019,Jornada 27,7,Watford,40,27,11,7,9,39,35
+Temporada2019,Jornada 27,8,Wolves,40,27,11,7,9,35,34
+Temporada2019,Jornada 27,9,West Ham,36,27,10,6,11,35,40
+Temporada2019,Jornada 27,10,AFC Bournemouth,34,27,10,4,13,38,48
+Temporada2019,Jornada 27,11,Everton,33,27,9,6,12,36,39
+Temporada2019,Jornada 27,12,Leicester,32,27,9,5,13,32,38
+Temporada2019,Jornada 27,13,Crystal Palace,30,27,8,6,13,31,35
+Temporada2019,Jornada 27,14,Burnley,30,27,8,6,13,31,48
+Temporada2019,Jornada 27,15,Newcastle,28,27,7,7,13,24,34
+Temporada2019,Jornada 27,16,Brighton Hove A.,27,27,7,6,14,28,42
+Temporada2019,Jornada 27,17,Cardiff City,25,27,7,4,16,25,52
+Temporada2019,Jornada 27,18,Southampton,24,27,5,9,13,28,46
+Temporada2019,Jornada 27,19,Fulham,17,27,4,5,18,26,61
+Temporada2019,Jornada 27,20,Huddersfield,11,27,2,5,20,14,50
+Temporada2019,Jornada 28,1,Liverpool,69,28,21,6,1,64,15
+Temporada2019,Jornada 28,2,Man. City,68,28,22,2,4,75,20
+Temporada2019,Jornada 28,3,Tottenham,60,28,20,0,8,55,29
+Temporada2019,Jornada 28,4,Arsenal,56,28,17,5,6,60,38
+Temporada2019,Jornada 28,5,Chelsea,56,28,17,5,6,50,29
+Temporada2019,Jornada 28,6,Man. Utd,55,28,16,7,5,55,36
+Temporada2019,Jornada 28,7,Wolves,40,28,11,7,10,35,35
+Temporada2019,Jornada 28,8,Watford,40,28,11,7,10,39,40
+Temporada2019,Jornada 28,9,Everton,36,28,10,6,12,39,39
+Temporada2019,Jornada 28,10,West Ham,36,28,10,6,12,35,41
+Temporada2019,Jornada 28,11,Leicester,35,28,10,5,13,34,39
+Temporada2019,Jornada 28,12,AFC Bournemouth,34,28,10,4,14,39,53
+Temporada2019,Jornada 28,13,Newcastle,31,28,8,7,13,26,34
+Temporada2019,Jornada 28,14,Crystal Palace,30,28,8,6,14,32,38
+Temporada2019,Jornada 28,15,Burnley,30,28,8,6,14,31,50
+Temporada2019,Jornada 28,16,Brighton Hove A.,27,28,7,6,15,29,44
+Temporada2019,Jornada 28,17,Southampton,27,28,6,9,13,30,46
+Temporada2019,Jornada 28,18,Cardiff City,25,28,7,4,17,25,55
+Temporada2019,Jornada 28,19,Fulham,17,28,4,5,19,26,63
+Temporada2019,Jornada 28,20,Huddersfield,14,28,3,5,20,15,50
+Temporada2019,Jornada 29,1,Man. City,71,29,23,2,4,76,20
+Temporada2019,Jornada 29,2,Liverpool,70,29,21,7,1,64,15
+Temporada2019,Jornada 29,3,Tottenham,61,29,20,1,8,56,30
+Temporada2019,Jornada 29,4,Chelsea,59,29,18,5,6,52,30
+Temporada2019,Jornada 29,5,Man. Utd,58,29,17,7,5,58,38
+Temporada2019,Jornada 29,6,Arsenal,57,29,17,6,6,61,39
+Temporada2019,Jornada 29,7,Wolves,43,29,12,7,10,37,35
+Temporada2019,Jornada 29,8,Watford,43,29,12,7,10,41,41
+Temporada2019,Jornada 29,9,West Ham,39,29,11,6,12,37,41
+Temporada2019,Jornada 29,10,Everton,37,29,10,7,12,39,39
+Temporada2019,Jornada 29,11,Leicester,35,29,10,5,14,35,41
+Temporada2019,Jornada 29,12,AFC Bournemouth,34,29,10,4,15,39,54
+Temporada2019,Jornada 29,13,Crystal Palace,33,29,9,6,14,35,39
+Temporada2019,Jornada 29,14,Newcastle,31,29,8,7,14,26,36
+Temporada2019,Jornada 29,15,Brighton Hove A.,30,29,8,6,15,30,44
+Temporada2019,Jornada 29,16,Burnley,30,29,8,6,15,32,53
+Temporada2019,Jornada 29,17,Southampton,27,29,6,9,14,32,49
+Temporada2019,Jornada 29,18,Cardiff City,25,29,7,4,18,25,57
+Temporada2019,Jornada 29,19,Fulham,17,29,4,5,20,27,65
+Temporada2019,Jornada 29,20,Huddersfield,14,29,3,5,21,15,51
+Temporada2019,Jornada 30,1,Man. City,74,30,24,2,4,79,21
+Temporada2019,Jornada 30,2,Liverpool,73,30,22,7,1,68,17
+Temporada2019,Jornada 30,3,Tottenham,61,30,20,1,9,57,32
+Temporada2019,Jornada 30,4,Arsenal,60,30,18,6,6,63,39
+Temporada2019,Jornada 30,5,Chelsea,60,30,18,6,6,53,31
+Temporada2019,Jornada 30,6,Man. Utd,58,30,17,7,6,58,40
+Temporada2019,Jornada 30,7,Wolves,44,30,12,8,10,38,36
+Temporada2019,Jornada 30,8,Watford,43,30,12,7,11,42,44
+Temporada2019,Jornada 30,9,West Ham,39,30,11,6,13,37,43
+Temporada2019,Jornada 30,10,Leicester,38,30,11,5,14,38,42
+Temporada2019,Jornada 30,11,Everton,37,30,10,7,13,41,42
+Temporada2019,Jornada 30,12,AFC Bournemouth,37,30,11,4,15,41,54
+Temporada2019,Jornada 30,13,Newcastle,34,30,9,7,14,29,38
+Temporada2019,Jornada 30,14,Crystal Palace,33,30,9,6,15,36,41
+Temporada2019,Jornada 30,15,Brighton Hove A.,33,30,9,6,15,32,45
+Temporada2019,Jornada 30,16,Southampton,30,30,7,9,14,34,50
+Temporada2019,Jornada 30,17,Burnley,30,30,8,6,16,34,57
+Temporada2019,Jornada 30,18,Cardiff City,28,30,8,4,18,27,57
+Temporada2019,Jornada 30,19,Fulham,17,30,4,5,21,28,68
+Temporada2019,Jornada 30,20,Huddersfield,14,30,3,5,22,15,53
+Temporada2019,Jornada 31,1,Man. City,77,31,25,2,4,81,21
+Temporada2019,Jornada 31,2,Liverpool,76,31,23,7,1,70,18
+Temporada2019,Jornada 31,3,Tottenham,64,31,21,1,9,59,32
+Temporada2019,Jornada 31,4,Arsenal,60,31,18,6,7,64,42
+Temporada2019,Jornada 31,5,Chelsea,60,31,18,6,7,53,33
+Temporada2019,Jornada 31,6,Man. Utd,58,31,17,7,7,58,42
+Temporada2019,Jornada 31,7,Wolves,47,31,13,8,10,41,37
+Temporada2019,Jornada 31,8,Watford,44,31,12,8,11,43,45
+Temporada2019,Jornada 31,9,West Ham,42,31,12,6,13,41,46
+Temporada2019,Jornada 31,10,Leicester,41,31,12,5,14,40,43
+Temporada2019,Jornada 31,11,Everton,40,31,11,7,13,43,42
+Temporada2019,Jornada 31,12,AFC Bournemouth,38,31,11,5,15,43,56
+Temporada2019,Jornada 31,13,Newcastle,35,31,9,8,14,31,40
+Temporada2019,Jornada 31,14,Crystal Palace,33,31,9,6,16,36,43
+Temporada2019,Jornada 31,15,Brighton Hove A.,33,31,9,6,16,32,47
+Temporada2019,Jornada 31,16,Southampton,31,31,7,10,14,35,51
+Temporada2019,Jornada 31,17,Cardiff City,31,31,9,4,18,29,57
+Temporada2019,Jornada 31,18,Burnley,30,31,8,6,17,35,59
+Temporada2019,Jornada 31,19,Fulham,17,31,4,5,22,29,70
+Temporada2019,Jornada 31,20,Huddersfield,14,31,3,5,23,18,57
+Temporada2019,Jornada 32,1,Man. City,80,32,26,2,4,83,21
+Temporada2019,Jornada 32,2,Liverpool,79,32,24,7,1,72,19
+Temporada2019,Jornada 32,3,Tottenham,64,32,21,1,10,60,34
+Temporada2019,Jornada 32,4,Arsenal,63,32,19,6,7,66,42
+Temporada2019,Jornada 32,5,Chelsea,63,32,19,6,7,55,34
+Temporada2019,Jornada 32,6,Man. Utd,61,32,18,7,7,60,43
+Temporada2019,Jornada 32,7,Wolves,47,32,13,8,11,41,39
+Temporada2019,Jornada 32,8,Leicester,44,32,13,5,14,42,43
+Temporada2019,Jornada 32,9,Watford,44,32,12,8,12,44,47
+Temporada2019,Jornada 32,10,Everton,43,32,12,7,13,45,42
+Temporada2019,Jornada 32,11,West Ham,42,32,12,6,14,41,48
+Temporada2019,Jornada 32,12,AFC Bournemouth,38,32,11,5,16,43,58
+Temporada2019,Jornada 32,13,Crystal Palace,36,32,10,6,16,38,43
+Temporada2019,Jornada 32,14,Newcastle,35,32,9,8,15,31,42
+Temporada2019,Jornada 32,15,Southampton,34,32,8,10,14,36,51
+Temporada2019,Jornada 32,16,Brighton Hove A.,33,32,9,6,17,32,48
+Temporada2019,Jornada 32,17,Burnley,33,32,9,6,17,37,59
+Temporada2019,Jornada 32,18,Cardiff City,31,32,9,4,19,30,59
+Temporada2019,Jornada 32,19,Fulham,17,32,4,5,23,29,72
+Temporada2019,Jornada 32,20,Huddersfield,14,32,3,5,24,18,59
+Temporada2019,Jornada 33,1,Man. City,83,33,27,2,4,85,21
+Temporada2019,Jornada 33,2,Liverpool,82,33,25,7,1,75,20
+Temporada2019,Jornada 33,3,Tottenham,67,33,22,1,10,61,34
+Temporada2019,Jornada 33,4,Chelsea,66,33,20,6,7,57,34
+Temporada2019,Jornada 33,5,Arsenal,63,33,19,6,8,66,43
+Temporada2019,Jornada 33,6,Man. Utd,61,33,18,7,8,61,45
+Temporada2019,Jornada 33,7,Wolves,50,33,14,8,11,43,40
+Temporada2019,Jornada 33,8,Leicester,47,33,14,5,14,46,44
+Temporada2019,Jornada 33,9,Watford,47,33,13,8,12,48,48
+Temporada2019,Jornada 33,10,Everton,46,33,13,7,13,46,42
+Temporada2019,Jornada 33,11,West Ham,42,33,12,6,15,41,50
+Temporada2019,Jornada 33,12,Crystal Palace,39,33,11,6,16,39,43
+Temporada2019,Jornada 33,13,AFC Bournemouth,38,33,11,5,17,44,61
+Temporada2019,Jornada 33,14,Burnley,36,33,10,6,17,40,60
+Temporada2019,Jornada 33,15,Newcastle,35,33,9,8,16,31,43
+Temporada2019,Jornada 33,16,Southampton,34,33,8,10,15,37,54
+Temporada2019,Jornada 33,17,Brighton Hove A.,33,33,9,6,18,32,49
+Temporada2019,Jornada 33,18,Cardiff City,31,33,9,4,20,30,61
+Temporada2019,Jornada 33,19,Fulham,17,33,4,5,24,30,76
+Temporada2019,Jornada 33,20,Huddersfield,14,33,3,5,25,19,63
+Temporada2019,Jornada 34,1,Man. City,86,34,28,2,4,88,22
+Temporada2019,Jornada 34,2,Liverpool,85,34,26,7,1,77,20
+Temporada2019,Jornada 34,3,Tottenham,70,34,23,1,10,65,34
+Temporada2019,Jornada 34,4,Arsenal,66,34,20,6,8,67,43
+Temporada2019,Jornada 34,5,Chelsea,66,34,20,6,8,57,36
+Temporada2019,Jornada 34,6,Man. Utd,64,34,19,7,8,63,46
+Temporada2019,Jornada 34,7,Wolves,50,34,14,8,12,44,43
+Temporada2019,Jornada 34,8,Leicester,47,34,14,5,15,46,45
+Temporada2019,Jornada 34,9,Watford,47,34,13,8,13,48,49
+Temporada2019,Jornada 34,10,Everton,46,34,13,7,14,46,44
+Temporada2019,Jornada 34,11,West Ham,42,34,12,6,16,42,52
+Temporada2019,Jornada 34,12,AFC Bournemouth,41,34,12,5,17,49,61
+Temporada2019,Jornada 34,13,Crystal Palace,39,34,11,6,17,40,46
+Temporada2019,Jornada 34,14,Burnley,39,34,11,6,17,42,60
+Temporada2019,Jornada 34,15,Newcastle,38,34,10,8,16,32,43
+Temporada2019,Jornada 34,16,Southampton,37,34,9,10,15,40,55
+Temporada2019,Jornada 34,17,Brighton Hove A.,33,34,9,6,19,32,54
+Temporada2019,Jornada 34,18,Cardiff City,31,34,9,4,21,30,63
+Temporada2019,Jornada 34,19,Fulham,20,34,5,5,24,32,76
+Temporada2019,Jornada 34,20,Huddersfield,14,34,3,5,26,19,67
+Temporada2019,Jornada 35,1,Man. City,89,35,29,2,4,89,22
+Temporada2019,Jornada 35,2,Liverpool,88,35,27,7,1,79,20
+Temporada2019,Jornada 35,3,Tottenham,70,35,23,1,11,65,35
+Temporada2019,Jornada 35,4,Chelsea,67,35,20,7,8,59,38
+Temporada2019,Jornada 35,5,Arsenal,66,35,20,6,9,69,46
+Temporada2019,Jornada 35,6,Man. Utd,64,35,19,7,9,63,50
+Temporada2019,Jornada 35,7,Wolves,51,35,14,9,12,44,43
+Temporada2019,Jornada 35,8,Watford,50,35,14,8,13,50,50
+Temporada2019,Jornada 35,9,Everton,49,35,14,7,14,50,44
+Temporada2019,Jornada 35,10,Leicester,48,35,14,6,15,48,47
+Temporada2019,Jornada 35,11,West Ham,43,35,12,7,16,44,54
+Temporada2019,Jornada 35,12,Crystal Palace,42,35,12,6,17,43,48
+Temporada2019,Jornada 35,13,Newcastle,41,35,11,8,16,35,44
+Temporada2019,Jornada 35,14,AFC Bournemouth,41,35,12,5,18,49,62
+Temporada2019,Jornada 35,15,Burnley,40,35,11,7,17,44,62
+Temporada2019,Jornada 35,16,Southampton,37,35,9,10,16,41,58
+Temporada2019,Jornada 35,17,Brighton Hove A.,34,35,9,7,19,32,54
+Temporada2019,Jornada 35,18,Cardiff City,31,35,9,4,22,30,65
+Temporada2019,Jornada 35,19,Fulham,23,35,6,5,24,33,76
+Temporada2019,Jornada 35,20,Huddersfield,14,35,3,5,27,20,69
+Temporada2019,Jornada 36,1,Man. City,92,36,30,2,4,90,22
+Temporada2019,Jornada 36,2,Liverpool,91,36,28,7,1,84,20
+Temporada2019,Jornada 36,3,Tottenham,70,36,23,1,12,65,36
+Temporada2019,Jornada 36,4,Chelsea,68,36,20,8,8,60,39
+Temporada2019,Jornada 36,5,Arsenal,66,36,20,6,10,69,49
+Temporada2019,Jornada 36,6,Man. Utd,65,36,19,8,9,64,51
+Temporada2019,Jornada 36,7,Wolves,54,36,15,9,12,46,44
+Temporada2019,Jornada 36,8,Leicester,51,36,15,6,15,51,47
+Temporada2019,Jornada 36,9,Everton,50,36,14,8,14,50,44
+Temporada2019,Jornada 36,10,Watford,50,36,14,8,14,51,52
+Temporada2019,Jornada 36,11,West Ham,46,36,13,7,16,45,54
+Temporada2019,Jornada 36,12,Crystal Palace,43,36,12,7,17,43,48
+Temporada2019,Jornada 36,13,Newcastle,42,36,11,9,16,36,45
+Temporada2019,Jornada 36,14,AFC Bournemouth,42,36,12,6,18,52,65
+Temporada2019,Jornada 36,15,Burnley,40,36,11,7,18,44,63
+Temporada2019,Jornada 36,16,Southampton,38,36,9,11,16,44,61
+Temporada2019,Jornada 36,17,Brighton Hove A.,35,36,9,8,19,33,55
+Temporada2019,Jornada 36,18,Cardiff City,31,36,9,4,23,30,66
+Temporada2019,Jornada 36,19,Fulham,26,36,7,5,24,34,76
+Temporada2019,Jornada 36,20,Huddersfield,14,36,3,5,28,20,74
+Temporada2019,Jornada 37,1,Man. City,95,37,31,2,4,91,22
+Temporada2019,Jornada 37,2,Liverpool,94,37,29,7,1,87,22
+Temporada2019,Jornada 37,3,Chelsea,71,37,21,8,8,63,39
+Temporada2019,Jornada 37,4,Tottenham,70,37,23,1,13,65,37
+Temporada2019,Jornada 37,5,Arsenal,67,37,20,7,10,70,50
+Temporada2019,Jornada 37,6,Man. Utd,66,37,19,9,9,65,52
+Temporada2019,Jornada 37,7,Wolves,57,37,16,9,12,47,44
+Temporada2019,Jornada 37,8,Everton,53,37,15,8,14,52,44
+Temporada2019,Jornada 37,9,Leicester,51,37,15,6,16,51,48
+Temporada2019,Jornada 37,10,Watford,50,37,14,8,15,51,55
+Temporada2019,Jornada 37,11,West Ham,49,37,14,7,16,48,54
+Temporada2019,Jornada 37,12,Crystal Palace,46,37,13,7,17,46,50
+Temporada2019,Jornada 37,13,AFC Bournemouth,45,37,13,6,18,53,65
+Temporada2019,Jornada 37,14,Newcastle,42,37,11,9,17,38,48
+Temporada2019,Jornada 37,15,Burnley,40,37,11,7,19,44,65
+Temporada2019,Jornada 37,16,Southampton,38,37,9,11,17,44,64
+Temporada2019,Jornada 37,17,Brighton Hove A.,36,37,9,9,19,34,56
+Temporada2019,Jornada 37,18,Cardiff City,31,37,9,4,24,32,69
+Temporada2019,Jornada 37,19,Fulham,26,37,7,5,25,34,77
+Temporada2019,Jornada 37,20,Huddersfield,15,37,3,6,28,21,75
+Temporada2019,Jornada 38,1,Man. City,98,38,32,2,4,95,23
+Temporada2019,Jornada 38,2,Liverpool,97,38,30,7,1,89,22
+Temporada2019,Jornada 38,3,Chelsea,72,38,21,9,8,63,39
+Temporada2019,Jornada 38,4,Tottenham,71,38,23,2,13,67,39
+Temporada2019,Jornada 38,5,Arsenal,70,38,21,7,10,73,51
+Temporada2019,Jornada 38,6,Man. Utd,66,38,19,9,10,65,54
+Temporada2019,Jornada 38,7,Wolves,57,38,16,9,13,47,46
+Temporada2019,Jornada 38,8,Everton,54,38,15,9,14,54,46
+Temporada2019,Jornada 38,9,Leicester,52,38,15,7,16,51,48
+Temporada2019,Jornada 38,10,West Ham,52,38,15,7,16,52,55
+Temporada2019,Jornada 38,11,Watford,50,38,14,8,16,52,59
+Temporada2019,Jornada 38,12,Crystal Palace,49,38,14,7,17,51,53
+Temporada2019,Jornada 38,13,Newcastle,45,38,12,9,17,42,48
+Temporada2019,Jornada 38,14,AFC Bournemouth,45,38,13,6,19,56,70
+Temporada2019,Jornada 38,15,Burnley,40,38,11,7,20,45,68
+Temporada2019,Jornada 38,16,Southampton,39,38,9,12,17,45,65
+Temporada2019,Jornada 38,17,Brighton Hove A.,36,38,9,9,20,35,60
+Temporada2019,Jornada 38,18,Cardiff City,34,38,10,4,24,34,69
+Temporada2019,Jornada 38,19,Fulham,26,38,7,5,26,34,81
+Temporada2019,Jornada 38,20,Huddersfield,16,38,3,7,28,22,76
+Temporada2018,Jornada 1,1,Man. Utd,3,1,1,0,0,4,0
+Temporada2018,Jornada 1,2,Huddersfield,3,1,1,0,0,3,0
+Temporada2018,Jornada 1,3,Man. City,3,1,1,0,0,2,0
+Temporada2018,Jornada 1,4,Tottenham,3,1,1,0,0,2,0
+Temporada2018,Jornada 1,5,Arsenal,3,1,1,0,0,4,3
+Temporada2018,Jornada 1,6,Burnley,3,1,1,0,0,3,2
+Temporada2018,Jornada 1,7,Everton,3,1,1,0,0,1,0
+Temporada2018,Jornada 1,8,West Bromwich A.,3,1,1,0,0,1,0
+Temporada2018,Jornada 1,9,Liverpool,1,1,0,1,0,3,3
+Temporada2018,Jornada 1,10,Watford,1,1,0,1,0,3,3
+Temporada2018,Jornada 1,11,Southampton,1,1,0,1,0,0,0
+Temporada2018,Jornada 1,12,Swansea City,1,1,0,1,0,0,0
+Temporada2018,Jornada 1,13,Leicester,0,1,0,0,1,3,4
+Temporada2018,Jornada 1,14,Chelsea,0,1,0,0,1,2,3
+Temporada2018,Jornada 1,15,AFC Bournemouth,0,1,0,0,1,0,1
+Temporada2018,Jornada 1,16,Stoke City,0,1,0,0,1,0,1
+Temporada2018,Jornada 1,17,Brighton Hove A.,0,1,0,0,1,0,2
+Temporada2018,Jornada 1,18,Newcastle,0,1,0,0,1,0,2
+Temporada2018,Jornada 1,19,Crystal Palace,0,1,0,0,1,0,3
+Temporada2018,Jornada 1,20,West Ham,0,1,0,0,1,0,4
+Temporada2018,Jornada 2,1,Man. Utd,6,2,2,0,0,8,0
+Temporada2018,Jornada 2,2,Huddersfield,6,2,2,0,0,4,0
+Temporada2018,Jornada 2,3,West Bromwich A.,6,2,2,0,0,2,0
+Temporada2018,Jornada 2,4,Watford,4,2,1,1,0,5,3
+Temporada2018,Jornada 2,5,Man. City,4,2,1,1,0,3,1
+Temporada2018,Jornada 2,6,Liverpool,4,2,1,1,0,4,3
+Temporada2018,Jornada 2,7,Southampton,4,2,1,1,0,3,2
+Temporada2018,Jornada 2,8,Everton,4,2,1,1,0,2,1
+Temporada2018,Jornada 2,9,Leicester,3,2,1,0,1,5,4
+Temporada2018,Jornada 2,10,Tottenham,3,2,1,0,1,3,2
+Temporada2018,Jornada 2,11,Arsenal,3,2,1,0,1,4,4
+Temporada2018,Jornada 2,12,Chelsea,3,2,1,0,1,4,4
+Temporada2018,Jornada 2,13,Burnley,3,2,1,0,1,3,3
+Temporada2018,Jornada 2,14,Stoke City,3,2,1,0,1,1,1
+Temporada2018,Jornada 2,15,Swansea City,1,2,0,1,1,0,4
+Temporada2018,Jornada 2,16,AFC Bournemouth,0,2,0,0,2,0,3
+Temporada2018,Jornada 2,17,Newcastle,0,2,0,0,2,0,3
+Temporada2018,Jornada 2,18,Brighton Hove A.,0,2,0,0,2,0,4
+Temporada2018,Jornada 2,19,Crystal Palace,0,2,0,0,2,0,4
+Temporada2018,Jornada 2,20,West Ham,0,2,0,0,2,2,7
+Temporada2018,Jornada 3,1,Man. Utd,9,3,3,0,0,10,0
+Temporada2018,Jornada 3,2,Liverpool,7,3,2,1,0,8,3
+Temporada2018,Jornada 3,3,Huddersfield,7,3,2,1,0,4,0
+Temporada2018,Jornada 3,4,Man. City,7,3,2,1,0,5,2
+Temporada2018,Jornada 3,5,West Bromwich A.,7,3,2,1,0,3,1
+Temporada2018,Jornada 3,6,Chelsea,6,3,2,0,1,6,4
+Temporada2018,Jornada 3,7,Watford,5,3,1,2,0,5,3
+Temporada2018,Jornada 3,8,Southampton,5,3,1,2,0,3,2
+Temporada2018,Jornada 3,9,Tottenham,4,3,1,1,1,4,3
+Temporada2018,Jornada 3,10,Burnley,4,3,1,1,1,4,4
+Temporada2018,Jornada 3,11,Stoke City,4,3,1,1,1,2,2
+Temporada2018,Jornada 3,12,Everton,4,3,1,1,1,2,3
+Temporada2018,Jornada 3,13,Swansea City,4,3,1,1,1,2,4
+Temporada2018,Jornada 3,14,Newcastle,3,3,1,0,2,3,3
+Temporada2018,Jornada 3,15,Leicester,3,3,1,0,2,5,6
+Temporada2018,Jornada 3,16,Arsenal,3,3,1,0,2,4,8
+Temporada2018,Jornada 3,17,Brighton Hove A.,1,3,0,1,2,0,4
+Temporada2018,Jornada 3,18,AFC Bournemouth,0,3,0,0,3,1,5
+Temporada2018,Jornada 3,19,Crystal Palace,0,3,0,0,3,0,6
+Temporada2018,Jornada 3,20,West Ham,0,3,0,0,3,2,10
+Temporada2018,Jornada 4,1,Man. Utd,10,4,3,1,0,12,2
+Temporada2018,Jornada 4,2,Man. City,10,4,3,1,0,10,2
+Temporada2018,Jornada 4,3,Chelsea,9,4,3,0,1,8,5
+Temporada2018,Jornada 4,4,Watford,8,4,2,2,0,7,3
+Temporada2018,Jornada 4,5,Tottenham,7,4,2,1,1,7,3
+Temporada2018,Jornada 4,6,Huddersfield,7,4,2,1,1,4,2
+Temporada2018,Jornada 4,7,Burnley,7,4,2,1,1,5,4
+Temporada2018,Jornada 4,8,Liverpool,7,4,2,1,1,8,8
+Temporada2018,Jornada 4,9,West Bromwich A.,7,4,2,1,1,4,4
+Temporada2018,Jornada 4,10,Newcastle,6,4,2,0,2,4,3
+Temporada2018,Jornada 4,11,Arsenal,6,4,2,0,2,7,8
+Temporada2018,Jornada 4,12,Stoke City,5,4,1,2,1,4,4
+Temporada2018,Jornada 4,13,Southampton,5,4,1,2,1,3,4
+Temporada2018,Jornada 4,14,Brighton Hove A.,4,4,1,1,2,3,5
+Temporada2018,Jornada 4,15,Swansea City,4,4,1,1,2,2,5
+Temporada2018,Jornada 4,16,Everton,4,4,1,1,2,2,6
+Temporada2018,Jornada 4,17,Leicester,3,4,1,0,3,6,8
+Temporada2018,Jornada 4,18,West Ham,3,4,1,0,3,4,10
+Temporada2018,Jornada 4,19,AFC Bournemouth,0,4,0,0,4,1,8
+Temporada2018,Jornada 4,20,Crystal Palace,0,4,0,0,4,0,7
+Temporada2018,Jornada 5,1,Man. City,13,5,4,1,0,16,2
+Temporada2018,Jornada 5,2,Man. Utd,13,5,4,1,0,16,2
+Temporada2018,Jornada 5,3,Chelsea,10,5,3,1,1,8,5
+Temporada2018,Jornada 5,4,Newcastle,9,5,3,0,2,6,4
+Temporada2018,Jornada 5,5,Tottenham,8,5,2,2,1,7,3
+Temporada2018,Jornada 5,6,Huddersfield,8,5,2,2,1,5,3
+Temporada2018,Jornada 5,7,Burnley,8,5,2,2,1,6,5
+Temporada2018,Jornada 5,8,Liverpool,8,5,2,2,1,9,9
+Temporada2018,Jornada 5,9,Southampton,8,5,2,2,1,4,4
+Temporada2018,Jornada 5,10,West Bromwich A.,8,5,2,2,1,4,4
+Temporada2018,Jornada 5,11,Watford,8,5,2,2,1,7,9
+Temporada2018,Jornada 5,12,Arsenal,7,5,2,1,2,7,8
+Temporada2018,Jornada 5,13,Stoke City,5,5,1,2,2,5,6
+Temporada2018,Jornada 5,14,Swansea City,5,5,1,2,2,2,5
+Temporada2018,Jornada 5,15,Leicester,4,5,1,1,3,7,9
+Temporada2018,Jornada 5,16,Brighton Hove A.,4,5,1,1,3,4,7
+Temporada2018,Jornada 5,17,West Ham,4,5,1,1,3,4,10
+Temporada2018,Jornada 5,18,Everton,4,5,1,1,3,2,10
+Temporada2018,Jornada 5,19,AFC Bournemouth,3,5,1,0,4,3,9
+Temporada2018,Jornada 5,20,Crystal Palace,0,5,0,0,5,0,8
+Temporada2018,Jornada 6,1,Man. City,16,6,5,1,0,21,2
+Temporada2018,Jornada 6,2,Man. Utd,16,6,5,1,0,17,2
+Temporada2018,Jornada 6,3,Chelsea,13,6,4,1,1,12,5
+Temporada2018,Jornada 6,4,Tottenham,11,6,3,2,1,10,5
+Temporada2018,Jornada 6,5,Liverpool,11,6,3,2,1,12,11
+Temporada2018,Jornada 6,6,Watford,11,6,3,2,1,9,10
+Temporada2018,Jornada 6,7,Arsenal,10,6,3,1,2,9,8
+Temporada2018,Jornada 6,8,Huddersfield,9,6,2,3,1,5,3
+Temporada2018,Jornada 6,9,Burnley,9,6,2,3,1,6,5
+Temporada2018,Jornada 6,10,Newcastle,9,6,3,0,3,6,5
+Temporada2018,Jornada 6,11,Southampton,8,6,2,2,2,4,5
+Temporada2018,Jornada 6,12,West Bromwich A.,8,6,2,2,2,4,6
+Temporada2018,Jornada 6,13,Brighton Hove A.,7,6,2,1,3,5,7
+Temporada2018,Jornada 6,14,Everton,7,6,2,1,3,4,11
+Temporada2018,Jornada 6,15,Swansea City,5,6,1,2,3,3,7
+Temporada2018,Jornada 6,16,Stoke City,5,6,1,2,3,5,10
+Temporada2018,Jornada 6,17,Leicester,4,6,1,1,4,9,12
+Temporada2018,Jornada 6,18,West Ham,4,6,1,1,4,6,13
+Temporada2018,Jornada 6,19,AFC Bournemouth,3,6,1,0,5,4,11
+Temporada2018,Jornada 6,20,Crystal Palace,0,6,0,0,6,0,13
+Temporada2018,Jornada 7,1,Man. City,19,7,6,1,0,22,2
+Temporada2018,Jornada 7,2,Man. Utd,19,7,6,1,0,21,2
+Temporada2018,Jornada 7,3,Tottenham,14,7,4,2,1,14,5
+Temporada2018,Jornada 7,4,Chelsea,13,7,4,1,2,12,6
+Temporada2018,Jornada 7,5,Arsenal,13,7,4,1,2,11,8
+Temporada2018,Jornada 7,6,Burnley,12,7,3,3,1,7,5
+Temporada2018,Jornada 7,7,Liverpool,12,7,3,3,1,13,12
+Temporada2018,Jornada 7,8,Watford,12,7,3,3,1,11,12
+Temporada2018,Jornada 7,9,Newcastle,10,7,3,1,3,7,6
+Temporada2018,Jornada 7,10,West Bromwich A.,9,7,2,3,2,6,8
+Temporada2018,Jornada 7,11,Huddersfield,9,7,2,3,2,5,7
+Temporada2018,Jornada 7,12,Southampton,8,7,2,2,3,5,7
+Temporada2018,Jornada 7,13,Stoke City,8,7,2,2,3,7,11
+Temporada2018,Jornada 7,14,Brighton Hove A.,7,7,2,1,4,5,9
+Temporada2018,Jornada 7,15,West Ham,7,7,2,1,4,7,13
+Temporada2018,Jornada 7,16,Everton,7,7,2,1,4,4,12
+Temporada2018,Jornada 7,17,Leicester,5,7,1,2,4,9,12
+Temporada2018,Jornada 7,18,Swansea City,5,7,1,2,4,3,8
+Temporada2018,Jornada 7,19,AFC Bournemouth,4,7,1,1,5,4,11
+Temporada2018,Jornada 7,20,Crystal Palace,0,7,0,0,7,0,17
+Temporada2018,Jornada 8,1,Man. City,22,8,7,1,0,29,4
+Temporada2018,Jornada 8,2,Man. Utd,20,8,6,2,0,21,2
+Temporada2018,Jornada 8,3,Tottenham,17,8,5,2,1,15,5
+Temporada2018,Jornada 8,4,Watford,15,8,4,3,1,13,13
+Temporada2018,Jornada 8,5,Chelsea,13,8,4,1,3,13,8
+Temporada2018,Jornada 8,6,Arsenal,13,8,4,1,3,12,10
+Temporada2018,Jornada 8,7,Burnley,13,8,3,4,1,8,6
+Temporada2018,Jornada 8,8,Liverpool,13,8,3,4,1,13,12
+Temporada2018,Jornada 8,9,Newcastle,11,8,3,2,3,9,8
+Temporada2018,Jornada 8,10,West Bromwich A.,10,8,2,4,2,7,9
+Temporada2018,Jornada 8,11,Southampton,9,8,2,3,3,7,9
+Temporada2018,Jornada 8,12,Huddersfield,9,8,2,3,3,5,9
+Temporada2018,Jornada 8,13,Swansea City,8,8,2,2,4,5,8
+Temporada2018,Jornada 8,14,Brighton Hove A.,8,8,2,2,4,6,10
+Temporada2018,Jornada 8,15,West Ham,8,8,2,2,4,8,14
+Temporada2018,Jornada 8,16,Everton,8,8,2,2,4,5,13
+Temporada2018,Jornada 8,17,Stoke City,8,8,2,2,4,9,18
+Temporada2018,Jornada 8,18,Leicester,6,8,1,3,4,10,13
+Temporada2018,Jornada 8,19,AFC Bournemouth,4,8,1,1,6,4,12
+Temporada2018,Jornada 8,20,Crystal Palace,3,8,1,0,7,2,18
+Temporada2018,Jornada 9,1,Man. City,25,9,8,1,0,32,4
+Temporada2018,Jornada 9,2,Man. Utd,20,9,6,2,1,22,4
+Temporada2018,Jornada 9,3,Tottenham,20,9,6,2,1,19,6
+Temporada2018,Jornada 9,4,Chelsea,16,9,5,1,3,17,10
+Temporada2018,Jornada 9,5,Arsenal,16,9,5,1,3,17,12
+Temporada2018,Jornada 9,6,Watford,15,9,4,3,2,15,17
+Temporada2018,Jornada 9,7,Newcastle,14,9,4,2,3,10,8
+Temporada2018,Jornada 9,8,Burnley,13,9,3,4,2,8,9
+Temporada2018,Jornada 9,9,Liverpool,13,9,3,4,2,14,16
+Temporada2018,Jornada 9,10,Southampton,12,9,3,3,3,8,9
+Temporada2018,Jornada 9,11,Huddersfield,12,9,3,3,3,7,10
+Temporada2018,Jornada 9,12,Brighton Hove A.,11,9,3,2,4,9,10
+Temporada2018,Jornada 9,13,West Bromwich A.,10,9,2,4,3,7,10
+Temporada2018,Jornada 9,14,Leicester,9,9,2,3,4,12,14
+Temporada2018,Jornada 9,15,Swansea City,8,9,2,2,5,6,10
+Temporada2018,Jornada 9,16,West Ham,8,9,2,2,5,8,17
+Temporada2018,Jornada 9,17,Stoke City,8,9,2,2,5,10,20
+Temporada2018,Jornada 9,18,Everton,8,9,2,2,5,7,18
+Temporada2018,Jornada 9,19,AFC Bournemouth,7,9,2,1,6,6,13
+Temporada2018,Jornada 9,20,Crystal Palace,3,9,1,0,8,2,19
+Temporada2018,Jornada 10,1,Man. City,28,10,9,1,0,35,6
+Temporada2018,Jornada 10,2,Man. Utd,23,10,7,2,1,23,4
+Temporada2018,Jornada 10,3,Tottenham,20,10,6,2,2,19,7
+Temporada2018,Jornada 10,4,Chelsea,19,10,6,1,3,18,10
+Temporada2018,Jornada 10,5,Arsenal,19,10,6,1,3,19,13
+Temporada2018,Jornada 10,6,Liverpool,16,10,4,4,2,17,16
+Temporada2018,Jornada 10,7,Burnley,16,10,4,4,2,9,9
+Temporada2018,Jornada 10,8,Watford,15,10,4,3,3,15,18
+Temporada2018,Jornada 10,9,Newcastle,14,10,4,2,4,10,9
+Temporada2018,Jornada 10,10,Southampton,13,10,3,4,3,9,10
+Temporada2018,Jornada 10,11,Leicester,12,10,3,3,4,14,14
+Temporada2018,Jornada 10,12,Brighton Hove A.,12,10,3,3,4,10,11
+Temporada2018,Jornada 10,13,Huddersfield,12,10,3,3,4,7,13
+Temporada2018,Jornada 10,14,Stoke City,11,10,3,2,5,11,20
+Temporada2018,Jornada 10,15,West Bromwich A.,10,10,2,4,4,9,13
+Temporada2018,Jornada 10,16,West Ham,9,10,2,3,5,10,19
+Temporada2018,Jornada 10,17,Swansea City,8,10,2,2,6,7,12
+Temporada2018,Jornada 10,18,Everton,8,10,2,2,6,7,20
+Temporada2018,Jornada 10,19,AFC Bournemouth,7,10,2,1,7,6,14
+Temporada2018,Jornada 10,20,Crystal Palace,4,10,1,1,8,4,21
+Temporada2018,Jornada 11,1,Man. City,31,11,10,1,0,38,7
+Temporada2018,Jornada 11,2,Man. Utd,23,11,7,2,2,23,5
+Temporada2018,Jornada 11,3,Tottenham,23,11,7,2,2,20,7
+Temporada2018,Jornada 11,4,Chelsea,22,11,7,1,3,19,10
+Temporada2018,Jornada 11,5,Liverpool,19,11,5,4,2,21,17
+Temporada2018,Jornada 11,6,Arsenal,19,11,6,1,4,20,16
+Temporada2018,Jornada 11,7,Burnley,19,11,5,4,2,10,9
+Temporada2018,Jornada 11,8,Brighton Hove A.,15,11,4,3,4,11,11
+Temporada2018,Jornada 11,9,Watford,15,11,4,3,4,17,21
+Temporada2018,Jornada 11,10,Huddersfield,15,11,4,3,4,8,13
+Temporada2018,Jornada 11,11,Newcastle,14,11,4,2,5,10,10
+Temporada2018,Jornada 11,12,Leicester,13,11,3,4,4,16,16
+Temporada2018,Jornada 11,13,Southampton,13,11,3,4,4,9,11
+Temporada2018,Jornada 11,14,Stoke City,12,11,3,3,5,13,22
+Temporada2018,Jornada 11,15,Everton,11,11,3,2,6,10,22
+Temporada2018,Jornada 11,16,West Bromwich A.,10,11,2,4,5,9,14
+Temporada2018,Jornada 11,17,AFC Bournemouth,10,11,3,1,7,7,14
+Temporada2018,Jornada 11,18,West Ham,9,11,2,3,6,11,23
+Temporada2018,Jornada 11,19,Swansea City,8,11,2,2,7,7,13
+Temporada2018,Jornada 11,20,Crystal Palace,4,11,1,1,9,4,22
+Temporada2018,Jornada 12,1,Man. City,34,12,11,1,0,40,7
+Temporada2018,Jornada 12,2,Man. Utd,26,12,8,2,2,27,6
+Temporada2018,Jornada 12,3,Chelsea,25,12,8,1,3,23,10
+Temporada2018,Jornada 12,4,Tottenham,23,12,7,2,3,20,9
+Temporada2018,Jornada 12,5,Liverpool,22,12,6,4,2,24,17
+Temporada2018,Jornada 12,6,Arsenal,22,12,7,1,4,22,16
+Temporada2018,Jornada 12,7,Burnley,22,12,6,4,2,12,9
+Temporada2018,Jornada 12,8,Watford,18,12,5,3,4,19,21
+Temporada2018,Jornada 12,9,Brighton Hove A.,16,12,4,4,4,13,13
+Temporada2018,Jornada 12,10,Huddersfield,15,12,4,3,5,8,17
+Temporada2018,Jornada 12,11,Newcastle,14,12,4,2,6,11,14
+Temporada2018,Jornada 12,12,Leicester,13,12,3,4,5,16,18
+Temporada2018,Jornada 12,13,AFC Bournemouth,13,12,4,1,7,11,14
+Temporada2018,Jornada 12,14,Southampton,13,12,3,4,5,9,14
+Temporada2018,Jornada 12,15,Stoke City,13,12,3,4,5,15,24
+Temporada2018,Jornada 12,16,Everton,12,12,3,3,6,12,24
+Temporada2018,Jornada 12,17,West Bromwich A.,10,12,2,4,6,9,18
+Temporada2018,Jornada 12,18,West Ham,9,12,2,3,7,11,25
+Temporada2018,Jornada 12,19,Swansea City,8,12,2,2,8,7,15
+Temporada2018,Jornada 12,20,Crystal Palace,5,12,1,2,9,6,24
+Temporada2018,Jornada 13,1,Man. City,37,13,12,1,0,42,8
+Temporada2018,Jornada 13,2,Man. Utd,29,13,9,2,2,28,6
+Temporada2018,Jornada 13,3,Chelsea,26,13,8,2,3,24,11
+Temporada2018,Jornada 13,4,Arsenal,25,13,8,1,4,23,16
+Temporada2018,Jornada 13,5,Tottenham,24,13,7,3,3,21,10
+Temporada2018,Jornada 13,6,Liverpool,23,13,6,5,2,25,18
+Temporada2018,Jornada 13,7,Burnley,22,13,6,4,3,12,10
+Temporada2018,Jornada 13,8,Watford,21,13,6,3,4,22,21
+Temporada2018,Jornada 13,9,Brighton Hove A.,16,13,4,4,5,13,14
+Temporada2018,Jornada 13,10,Southampton,16,13,4,4,5,13,15
+Temporada2018,Jornada 13,11,Huddersfield,15,13,4,3,6,9,19
+Temporada2018,Jornada 13,12,Leicester,14,13,3,5,5,17,19
+Temporada2018,Jornada 13,13,AFC Bournemouth,14,13,4,2,7,11,14
+Temporada2018,Jornada 13,14,Newcastle,14,13,4,2,7,11,17
+Temporada2018,Jornada 13,15,Stoke City,13,13,3,4,6,16,26
+Temporada2018,Jornada 13,16,Everton,12,13,3,3,7,13,28
+Temporada2018,Jornada 13,17,West Bromwich A.,11,13,2,5,6,10,19
+Temporada2018,Jornada 13,18,West Ham,10,13,2,4,7,12,26
+Temporada2018,Jornada 13,19,Swansea City,9,13,2,3,8,7,15
+Temporada2018,Jornada 13,20,Crystal Palace,8,13,2,2,9,8,25
+Temporada2018,Jornada 14,1,Man. City,40,14,13,1,0,44,9
+Temporada2018,Jornada 14,2,Man. Utd,32,14,10,2,2,32,8
+Temporada2018,Jornada 14,3,Chelsea,29,14,9,2,3,25,11
+Temporada2018,Jornada 14,4,Arsenal,28,14,9,1,4,28,16
+Temporada2018,Jornada 14,5,Liverpool,26,14,7,5,2,28,18
+Temporada2018,Jornada 14,6,Burnley,25,14,7,4,3,14,11
+Temporada2018,Jornada 14,7,Tottenham,24,14,7,3,4,22,12
+Temporada2018,Jornada 14,8,Watford,21,14,6,3,5,24,25
+Temporada2018,Jornada 14,9,Leicester,17,14,4,5,5,19,20
+Temporada2018,Jornada 14,10,Brighton Hove A.,17,14,4,5,5,13,14
+Temporada2018,Jornada 14,11,Southampton,16,14,4,4,6,14,17
+Temporada2018,Jornada 14,12,Newcastle,15,14,4,3,7,13,19
+Temporada2018,Jornada 14,13,Everton,15,14,4,3,7,17,28
+Temporada2018,Jornada 14,14,Huddersfield,15,14,4,3,7,9,24
+Temporada2018,Jornada 14,15,AFC Bournemouth,14,14,4,2,8,12,16
+Temporada2018,Jornada 14,16,Stoke City,13,14,3,4,7,16,29
+Temporada2018,Jornada 14,17,West Bromwich A.,12,14,2,6,6,12,21
+Temporada2018,Jornada 14,18,West Ham,10,14,2,4,8,12,30
+Temporada2018,Jornada 14,19,Swansea City,9,14,2,3,9,7,16
+Temporada2018,Jornada 14,20,Crystal Palace,9,14,2,3,9,8,25
+Temporada2018,Jornada 15,1,Man. City,43,15,14,1,0,46,10
+Temporada2018,Jornada 15,2,Man. Utd,35,15,11,2,2,35,9
+Temporada2018,Jornada 15,3,Chelsea,32,15,10,2,3,28,12
+Temporada2018,Jornada 15,4,Liverpool,29,15,8,5,2,33,19
+Temporada2018,Jornada 15,5,Arsenal,28,15,9,1,5,29,19
+Temporada2018,Jornada 15,6,Tottenham,25,15,7,4,4,23,13
+Temporada2018,Jornada 15,7,Burnley,25,15,7,4,4,14,12
+Temporada2018,Jornada 15,8,Watford,22,15,6,4,5,25,26
+Temporada2018,Jornada 15,9,Leicester,20,15,5,5,5,20,20
+Temporada2018,Jornada 15,10,Everton,18,15,5,3,7,19,28
+Temporada2018,Jornada 15,11,Southampton,17,15,4,5,6,15,18
+Temporada2018,Jornada 15,12,Brighton Hove A.,17,15,4,5,6,14,19
+Temporada2018,Jornada 15,13,Stoke City,16,15,4,4,7,18,30
+Temporada2018,Jornada 15,14,AFC Bournemouth,15,15,4,3,8,13,17
+Temporada2018,Jornada 15,15,Newcastle,15,15,4,3,8,14,22
+Temporada2018,Jornada 15,16,Huddersfield,15,15,4,3,8,9,26
+Temporada2018,Jornada 15,17,West Bromwich A.,13,15,2,7,6,12,21
+Temporada2018,Jornada 15,18,Crystal Palace,10,15,2,4,9,8,25
+Temporada2018,Jornada 15,19,West Ham,10,15,2,4,9,13,32
+Temporada2018,Jornada 15,20,Swansea City,9,15,2,3,10,8,18
+Temporada2018,Jornada 16,1,Man. City,46,16,15,1,0,48,11
+Temporada2018,Jornada 16,2,Man. Utd,35,16,11,2,3,36,11
+Temporada2018,Jornada 16,3,Chelsea,32,16,10,2,4,28,13
+Temporada2018,Jornada 16,4,Liverpool,30,16,8,6,2,34,20
+Temporada2018,Jornada 16,5,Arsenal,29,16,9,2,5,30,20
+Temporada2018,Jornada 16,6,Tottenham,28,16,8,4,4,28,14
+Temporada2018,Jornada 16,7,Burnley,28,16,8,4,4,15,12
+Temporada2018,Jornada 16,8,Leicester,23,16,6,5,5,23,22
+Temporada2018,Jornada 16,9,Watford,22,16,6,4,6,25,27
+Temporada2018,Jornada 16,10,Everton,19,16,5,4,7,20,29
+Temporada2018,Jornada 16,11,Southampton,18,16,4,6,6,16,19
+Temporada2018,Jornada 16,12,Huddersfield,18,16,5,3,8,11,26
+Temporada2018,Jornada 16,13,Brighton Hove A.,17,16,4,5,7,14,21
+Temporada2018,Jornada 16,14,AFC Bournemouth,16,16,4,4,8,15,19
+Temporada2018,Jornada 16,15,Stoke City,16,16,4,4,8,19,35
+Temporada2018,Jornada 16,16,Newcastle,15,16,4,3,9,16,25
+Temporada2018,Jornada 16,17,West Bromwich A.,13,16,2,7,7,12,22
+Temporada2018,Jornada 16,18,West Ham,13,16,3,4,9,14,32
+Temporada2018,Jornada 16,19,Swansea City,12,16,3,3,10,9,18
+Temporada2018,Jornada 16,20,Crystal Palace,11,16,2,5,9,10,27
+Temporada2018,Jornada 17,1,Man. City,49,17,16,1,0,52,11
+Temporada2018,Jornada 17,2,Man. Utd,38,17,12,2,3,37,11
+Temporada2018,Jornada 17,3,Chelsea,35,17,11,2,4,31,14
+Temporada2018,Jornada 17,4,Tottenham,31,17,9,4,4,30,14
+Temporada2018,Jornada 17,5,Liverpool,31,17,8,7,2,34,20
+Temporada2018,Jornada 17,6,Burnley,31,17,9,4,4,16,12
+Temporada2018,Jornada 17,7,Arsenal,30,17,9,3,5,30,20
+Temporada2018,Jornada 17,8,Leicester,26,17,7,5,5,27,23
+Temporada2018,Jornada 17,9,Watford,22,17,6,4,7,26,29
+Temporada2018,Jornada 17,10,Everton,22,17,6,4,7,21,29
+Temporada2018,Jornada 17,11,Southampton,18,17,4,6,7,17,23
+Temporada2018,Jornada 17,12,Huddersfield,18,17,5,3,9,12,29
+Temporada2018,Jornada 17,13,Brighton Hove A.,17,17,4,5,8,14,23
+Temporada2018,Jornada 17,14,AFC Bournemouth,16,17,4,4,9,15,20
+Temporada2018,Jornada 17,15,Stoke City,16,17,4,4,9,19,36
+Temporada2018,Jornada 17,16,Newcastle,15,17,4,3,10,16,26
+Temporada2018,Jornada 17,17,West Bromwich A.,14,17,2,8,7,12,22
+Temporada2018,Jornada 17,18,Crystal Palace,14,17,3,5,9,12,28
+Temporada2018,Jornada 17,19,West Ham,14,17,3,5,9,14,32
+Temporada2018,Jornada 17,20,Swansea City,12,17,3,3,11,9,22
+Temporada2018,Jornada 18,1,Man. City,52,18,17,1,0,56,12
+Temporada2018,Jornada 18,2,Man. Utd,41,18,13,2,3,39,12
+Temporada2018,Jornada 18,3,Chelsea,38,18,12,2,4,32,14
+Temporada2018,Jornada 18,4,Liverpool,34,18,9,7,2,38,20
+Temporada2018,Jornada 18,5,Arsenal,33,18,10,3,5,31,20
+Temporada2018,Jornada 18,6,Burnley,32,18,9,5,4,16,12
+Temporada2018,Jornada 18,7,Tottenham,31,18,9,4,5,31,18
+Temporada2018,Jornada 18,8,Leicester,26,18,7,5,6,27,26
+Temporada2018,Jornada 18,9,Everton,25,18,7,4,7,24,30
+Temporada2018,Jornada 18,10,Watford,22,18,6,4,8,27,33
+Temporada2018,Jornada 18,11,Huddersfield,21,18,6,3,9,16,30
+Temporada2018,Jornada 18,12,Southampton,18,18,4,6,8,17,24
+Temporada2018,Jornada 18,13,Brighton Hove A.,18,18,4,6,8,14,23
+Temporada2018,Jornada 18,14,Crystal Palace,17,18,4,5,9,15,28
+Temporada2018,Jornada 18,15,West Ham,17,18,4,5,9,17,32
+Temporada2018,Jornada 18,16,AFC Bournemouth,16,18,4,4,10,15,24
+Temporada2018,Jornada 18,17,Stoke City,16,18,4,4,10,19,39
+Temporada2018,Jornada 18,18,Newcastle,15,18,4,3,11,16,27
+Temporada2018,Jornada 18,19,West Bromwich A.,14,18,2,8,8,13,24
+Temporada2018,Jornada 18,20,Swansea City,12,18,3,3,12,10,25
+Temporada2018,Jornada 19,1,Man. City,55,19,18,1,0,60,12
+Temporada2018,Jornada 19,2,Man. Utd,42,19,13,3,3,41,14
+Temporada2018,Jornada 19,3,Chelsea,39,19,12,3,4,32,14
+Temporada2018,Jornada 19,4,Liverpool,35,19,9,8,2,41,23
+Temporada2018,Jornada 19,5,Tottenham,34,19,10,4,5,34,18
+Temporada2018,Jornada 19,6,Arsenal,34,19,10,4,5,34,23
+Temporada2018,Jornada 19,7,Burnley,32,19,9,5,5,16,15
+Temporada2018,Jornada 19,8,Leicester,27,19,7,6,6,29,28
+Temporada2018,Jornada 19,9,Everton,26,19,7,5,7,24,30
+Temporada2018,Jornada 19,10,Watford,22,19,6,4,9,27,34
+Temporada2018,Jornada 19,11,Huddersfield,22,19,6,4,9,17,31
+Temporada2018,Jornada 19,12,Brighton Hove A.,21,19,5,6,8,15,23
+Temporada2018,Jornada 19,13,Southampton,19,19,4,7,8,18,25
+Temporada2018,Jornada 19,14,Stoke City,19,19,5,4,10,22,40
+Temporada2018,Jornada 19,15,Newcastle,18,19,5,3,11,19,29
+Temporada2018,Jornada 19,16,Crystal Palace,18,19,4,6,9,16,29
+Temporada2018,Jornada 19,17,West Ham,17,19,4,5,10,19,35
+Temporada2018,Jornada 19,18,AFC Bournemouth,16,19,4,4,11,15,28
+Temporada2018,Jornada 19,19,West Bromwich A.,14,19,2,8,9,14,27
+Temporada2018,Jornada 19,20,Swansea City,13,19,3,4,12,11,26
+Temporada2018,Jornada 20,1,Man. City,58,20,19,1,0,61,12
+Temporada2018,Jornada 20,2,Man. Utd,43,20,13,4,3,43,16
+Temporada2018,Jornada 20,3,Chelsea,42,20,13,3,4,34,14
+Temporada2018,Jornada 20,4,Liverpool,38,20,10,8,2,46,23
+Temporada2018,Jornada 20,5,Tottenham,37,20,11,4,5,39,20
+Temporada2018,Jornada 20,6,Arsenal,37,20,11,4,5,37,25
+Temporada2018,Jornada 20,7,Burnley,33,20,9,6,5,18,17
+Temporada2018,Jornada 20,8,Leicester,27,20,7,6,7,30,30
+Temporada2018,Jornada 20,9,Everton,27,20,7,6,7,24,30
+Temporada2018,Jornada 20,10,Watford,25,20,7,4,9,29,35
+Temporada2018,Jornada 20,11,Huddersfield,23,20,6,5,9,18,32
+Temporada2018,Jornada 20,12,Brighton Hove A.,21,20,5,6,9,15,25
+Temporada2018,Jornada 20,13,Stoke City,20,20,5,5,10,23,41
+Temporada2018,Jornada 20,14,Southampton,19,20,4,7,9,20,30
+Temporada2018,Jornada 20,15,Newcastle,18,20,5,3,12,19,30
+Temporada2018,Jornada 20,16,Crystal Palace,18,20,4,6,10,18,32
+Temporada2018,Jornada 20,17,West Ham,18,20,4,6,10,22,38
+Temporada2018,Jornada 20,18,AFC Bournemouth,17,20,4,5,11,18,31
+Temporada2018,Jornada 20,19,West Bromwich A.,15,20,2,9,9,14,27
+Temporada2018,Jornada 20,20,Swansea City,13,20,3,4,13,11,31
+Temporada2018,Jornada 21,1,Man. City,59,21,19,2,0,61,12
+Temporada2018,Jornada 21,2,Chelsea,45,21,14,3,4,39,14
+Temporada2018,Jornada 21,3,Man. Utd,44,21,13,5,3,43,16
+Temporada2018,Jornada 21,4,Liverpool,41,21,11,8,2,48,24
+Temporada2018,Jornada 21,5,Tottenham,38,21,11,5,5,40,21
+Temporada2018,Jornada 21,6,Arsenal,38,21,11,5,5,38,26
+Temporada2018,Jornada 21,7,Burnley,34,21,9,7,5,18,17
+Temporada2018,Jornada 21,8,Leicester,27,21,7,6,8,31,32
+Temporada2018,Jornada 21,9,Everton,27,21,7,6,8,25,32
+Temporada2018,Jornada 21,10,Watford,25,21,7,4,10,30,37
+Temporada2018,Jornada 21,11,Huddersfield,24,21,6,6,9,18,32
+Temporada2018,Jornada 21,12,Brighton Hove A.,22,21,5,7,9,15,25
+Temporada2018,Jornada 21,13,Southampton,20,21,4,8,9,20,30
+Temporada2018,Jornada 21,14,AFC Bournemouth,20,21,5,5,11,20,32
+Temporada2018,Jornada 21,15,Stoke City,20,21,5,5,11,23,46
+Temporada2018,Jornada 21,16,Newcastle,19,21,5,4,12,19,30
+Temporada2018,Jornada 21,17,Crystal Palace,19,21,4,7,10,18,32
+Temporada2018,Jornada 21,18,West Ham,19,21,4,7,10,23,39
+Temporada2018,Jornada 21,19,West Bromwich A.,16,21,2,10,9,15,28
+Temporada2018,Jornada 21,20,Swansea City,16,21,4,4,13,13,32
+Temporada2018,Jornada 22,1,Man. City,62,22,20,2,0,64,13
+Temporada2018,Jornada 22,2,Man. Utd,47,22,14,5,3,45,16
+Temporada2018,Jornada 22,3,Chelsea,46,22,14,4,4,41,16
+Temporada2018,Jornada 22,4,Liverpool,44,22,12,8,2,50,25
+Temporada2018,Jornada 22,5,Tottenham,41,22,12,5,5,42,21
+Temporada2018,Jornada 22,6,Arsenal,39,22,11,6,5,40,28
+Temporada2018,Jornada 22,7,Burnley,34,22,9,7,6,19,19
+Temporada2018,Jornada 22,8,Leicester,30,22,8,6,8,34,32
+Temporada2018,Jornada 22,9,Everton,27,22,7,6,9,25,34
+Temporada2018,Jornada 22,10,Watford,25,22,7,4,11,31,40
+Temporada2018,Jornada 22,11,Huddersfield,24,22,6,6,10,18,35
+Temporada2018,Jornada 22,12,Brighton Hove A.,23,22,5,8,9,17,27
+Temporada2018,Jornada 22,13,Newcastle,22,22,6,4,12,20,30
+Temporada2018,Jornada 22,14,Crystal Palace,22,22,5,7,10,20,33
+Temporada2018,Jornada 22,15,West Ham,22,22,5,7,10,25,40
+Temporada2018,Jornada 22,16,AFC Bournemouth,21,22,5,6,11,22,34
+Temporada2018,Jornada 22,17,Southampton,20,22,4,8,10,21,32
+Temporada2018,Jornada 22,18,Stoke City,20,22,5,5,12,23,47
+Temporada2018,Jornada 22,19,West Bromwich A.,16,22,2,10,10,16,30
+Temporada2018,Jornada 22,20,Swansea City,16,22,4,4,14,13,34
+Temporada2018,Jornada 23,1,Man. City,62,23,20,2,1,67,17
+Temporada2018,Jornada 23,2,Man. Utd,50,23,15,5,3,48,16
+Temporada2018,Jornada 23,3,Liverpool,47,23,13,8,2,54,28
+Temporada2018,Jornada 23,4,Chelsea,47,23,14,5,4,41,16
+Temporada2018,Jornada 23,5,Tottenham,44,23,13,5,5,46,21
+Temporada2018,Jornada 23,6,Arsenal,39,23,11,6,6,41,30
+Temporada2018,Jornada 23,7,Burnley,34,23,9,7,7,19,20
+Temporada2018,Jornada 23,8,Leicester,31,23,8,7,8,34,32
+Temporada2018,Jornada 23,9,Everton,27,23,7,6,10,25,38
+Temporada2018,Jornada 23,10,Watford,26,23,7,5,11,33,42
+Temporada2018,Jornada 23,11,West Ham,25,23,6,7,10,29,41
+Temporada2018,Jornada 23,12,Crystal Palace,25,23,6,7,10,21,33
+Temporada2018,Jornada 23,13,AFC Bournemouth,24,23,6,6,11,24,35
+Temporada2018,Jornada 23,14,Huddersfield,24,23,6,6,11,19,39
+Temporada2018,Jornada 23,15,Newcastle,23,23,6,5,12,21,31
+Temporada2018,Jornada 23,16,Brighton Hove A.,23,23,5,8,10,17,29
+Temporada2018,Jornada 23,17,Southampton,21,23,4,9,10,23,34
+Temporada2018,Jornada 23,18,Stoke City,20,23,5,5,13,23,50
+Temporada2018,Jornada 23,19,West Bromwich A.,19,23,3,10,10,18,30
+Temporada2018,Jornada 23,20,Swansea City,17,23,4,5,14,14,35
+Temporada2018,Jornada 24,1,Man. City,65,24,21,2,1,70,18
+Temporada2018,Jornada 24,2,Man. Utd,53,24,16,5,3,49,16
+Temporada2018,Jornada 24,3,Chelsea,50,24,15,5,4,45,16
+Temporada2018,Jornada 24,4,Liverpool,47,24,13,8,3,54,29
+Temporada2018,Jornada 24,5,Tottenham,45,24,13,6,5,47,22
+Temporada2018,Jornada 24,6,Arsenal,42,24,12,6,6,45,31
+Temporada2018,Jornada 24,7,Leicester,34,24,9,7,8,36,32
+Temporada2018,Jornada 24,8,Burnley,34,24,9,7,8,19,21
+Temporada2018,Jornada 24,9,Everton,28,24,7,7,10,26,39
+Temporada2018,Jornada 24,10,Watford,26,24,7,5,12,33,44
+Temporada2018,Jornada 24,11,West Ham,26,24,6,8,10,30,42
+Temporada2018,Jornada 24,12,AFC Bournemouth,25,24,6,7,11,25,36
+Temporada2018,Jornada 24,13,Crystal Palace,25,24,6,7,11,22,37
+Temporada2018,Jornada 24,14,Huddersfield,24,24,6,6,12,19,41
+Temporada2018,Jornada 24,15,Newcastle,23,24,6,5,13,22,34
+Temporada2018,Jornada 24,16,Brighton Hove A.,23,24,5,8,11,17,33
+Temporada2018,Jornada 24,17,Stoke City,23,24,6,5,13,25,50
+Temporada2018,Jornada 24,18,Southampton,22,24,4,10,10,24,35
+Temporada2018,Jornada 24,19,West Bromwich A.,20,24,3,11,10,19,31
+Temporada2018,Jornada 24,20,Swansea City,20,24,5,5,14,15,35
+Temporada2018,Jornada 25,1,Man. City,68,25,22,2,1,73,18
+Temporada2018,Jornada 25,2,Man. Utd,53,25,16,5,4,49,18
+Temporada2018,Jornada 25,3,Liverpool,50,25,14,8,3,57,29
+Temporada2018,Jornada 25,4,Chelsea,50,25,15,5,5,45,19
+Temporada2018,Jornada 25,5,Tottenham,48,25,14,6,5,49,22
+Temporada2018,Jornada 25,6,Arsenal,42,25,12,6,7,46,34
+Temporada2018,Jornada 25,7,Burnley,35,25,9,8,8,20,22
+Temporada2018,Jornada 25,8,Leicester,34,25,9,7,9,37,34
+Temporada2018,Jornada 25,9,Everton,31,25,8,7,10,28,40
+Temporada2018,Jornada 25,10,AFC Bournemouth,28,25,7,7,11,28,36
+Temporada2018,Jornada 25,11,Watford,27,25,7,6,12,33,44
+Temporada2018,Jornada 25,12,West Ham,27,25,6,9,10,31,43
+Temporada2018,Jornada 25,13,Crystal Palace,26,25,6,8,11,23,38
+Temporada2018,Jornada 25,14,Newcastle,24,25,6,6,13,23,35
+Temporada2018,Jornada 25,15,Brighton Hove A.,24,25,5,9,11,18,34
+Temporada2018,Jornada 25,16,Stoke City,24,25,6,6,13,25,50
+Temporada2018,Jornada 25,17,Huddersfield,24,25,6,6,13,19,44
+Temporada2018,Jornada 25,18,Southampton,23,25,4,11,10,25,36
+Temporada2018,Jornada 25,19,Swansea City,23,25,6,5,14,18,36
+Temporada2018,Jornada 25,20,West Bromwich A.,20,25,3,11,11,19,34
+Temporada2018,Jornada 26,1,Man. City,69,26,22,3,1,74,19
+Temporada2018,Jornada 26,2,Man. Utd,56,26,17,5,4,51,18
+Temporada2018,Jornada 26,3,Liverpool,51,26,14,9,3,59,31
+Temporada2018,Jornada 26,4,Chelsea,50,26,15,5,6,46,23
+Temporada2018,Jornada 26,5,Tottenham,49,26,14,7,5,51,24
+Temporada2018,Jornada 26,6,Arsenal,45,26,13,6,7,51,35
+Temporada2018,Jornada 26,7,Burnley,36,26,9,9,8,21,23
+Temporada2018,Jornada 26,8,Leicester,35,26,9,8,9,38,35
+Temporada2018,Jornada 26,9,AFC Bournemouth,31,26,8,7,11,30,37
+Temporada2018,Jornada 26,10,Everton,31,26,8,7,11,29,45
+Temporada2018,Jornada 26,11,Watford,30,26,8,6,12,37,45
+Temporada2018,Jornada 26,12,West Ham,27,26,6,9,11,32,46
+Temporada2018,Jornada 26,13,Brighton Hove A.,27,26,6,9,11,21,35
+Temporada2018,Jornada 26,14,Crystal Palace,27,26,6,9,11,24,39
+Temporada2018,Jornada 26,15,Southampton,26,26,5,11,10,28,38
+Temporada2018,Jornada 26,16,Newcastle,25,26,6,7,13,24,36
+Temporada2018,Jornada 26,17,Swansea City,24,26,6,6,14,19,37
+Temporada2018,Jornada 26,18,Stoke City,24,26,6,6,14,26,52
+Temporada2018,Jornada 26,19,Huddersfield,24,26,6,6,14,19,46
+Temporada2018,Jornada 26,20,West Bromwich A.,20,26,3,11,12,21,37
+Temporada2018,Jornada 27,1,Man. City,72,27,23,3,1,79,20
+Temporada2018,Jornada 27,2,Man. Utd,56,27,17,5,5,51,19
+Temporada2018,Jornada 27,3,Liverpool,54,27,15,9,3,61,31
+Temporada2018,Jornada 27,4,Chelsea,53,27,16,5,6,49,23
+Temporada2018,Jornada 27,5,Tottenham,52,27,15,7,5,52,24
+Temporada2018,Jornada 27,6,Arsenal,45,27,13,6,8,51,36
+Temporada2018,Jornada 27,7,Burnley,36,27,9,9,9,21,24
+Temporada2018,Jornada 27,8,Leicester,35,27,9,8,10,39,40
+Temporada2018,Jornada 27,9,Everton,34,27,9,7,11,32,46
+Temporada2018,Jornada 27,10,AFC Bournemouth,31,27,8,7,12,31,41
+Temporada2018,Jornada 27,11,Watford,30,27,8,6,13,37,47
+Temporada2018,Jornada 27,12,West Ham,30,27,7,9,11,34,46
+Temporada2018,Jornada 27,13,Newcastle,28,27,7,7,13,25,36
+Temporada2018,Jornada 27,14,Brighton Hove A.,28,27,6,10,11,22,36
+Temporada2018,Jornada 27,15,Crystal Palace,27,27,6,9,12,25,42
+Temporada2018,Jornada 27,16,Swansea City,27,27,7,6,14,20,37
+Temporada2018,Jornada 27,17,Huddersfield,27,27,7,6,14,23,47
+Temporada2018,Jornada 27,18,Southampton,26,27,5,11,11,28,40
+Temporada2018,Jornada 27,19,Stoke City,25,27,6,7,14,27,53
+Temporada2018,Jornada 27,20,West Bromwich A.,20,27,3,11,13,21,40
+Temporada2018,Jornada 28,1,Man. City,75,28,24,3,1,82,20
+Temporada2018,Jornada 28,2,Man. Utd,59,28,18,5,5,53,20
+Temporada2018,Jornada 28,3,Liverpool,57,28,16,9,3,65,32
+Temporada2018,Jornada 28,4,Tottenham,55,28,16,7,5,53,24
+Temporada2018,Jornada 28,5,Chelsea,53,28,16,5,7,50,25
+Temporada2018,Jornada 28,6,Arsenal,45,28,13,6,9,51,39
+Temporada2018,Jornada 28,7,Burnley,37,28,9,10,9,22,25
+Temporada2018,Jornada 28,8,Leicester,36,28,9,9,10,40,41
+Temporada2018,Jornada 28,9,Everton,34,28,9,7,12,32,47
+Temporada2018,Jornada 28,10,Watford,33,28,9,6,13,38,47
+Temporada2018,Jornada 28,11,AFC Bournemouth,32,28,8,8,12,33,43
+Temporada2018,Jornada 28,12,Brighton Hove A.,31,28,7,10,11,26,37
+Temporada2018,Jornada 28,13,West Ham,30,28,7,9,12,35,50
+Temporada2018,Jornada 28,14,Huddersfield,30,28,8,6,14,25,48
+Temporada2018,Jornada 28,15,Newcastle,29,28,7,8,13,27,38
+Temporada2018,Jornada 28,16,Southampton,27,28,5,12,11,29,41
+Temporada2018,Jornada 28,17,Crystal Palace,27,28,6,9,13,25,43
+Temporada2018,Jornada 28,18,Swansea City,27,28,7,6,15,21,41
+Temporada2018,Jornada 28,19,Stoke City,26,28,6,8,14,28,54
+Temporada2018,Jornada 28,20,West Bromwich A.,20,28,3,11,14,22,42
+Temporada2018,Jornada 29,1,Man. City,78,29,25,3,1,83,20
+Temporada2018,Jornada 29,2,Man. Utd,62,29,19,5,5,56,22
+Temporada2018,Jornada 29,3,Liverpool,60,29,17,9,3,67,32
+Temporada2018,Jornada 29,4,Tottenham,58,29,17,7,5,55,24
+Temporada2018,Jornada 29,5,Chelsea,53,29,16,5,8,50,26
+Temporada2018,Jornada 29,6,Arsenal,45,29,13,6,10,52,41
+Temporada2018,Jornada 29,7,Burnley,40,29,10,10,9,24,26
+Temporada2018,Jornada 29,8,Leicester,37,29,9,10,10,41,42
+Temporada2018,Jornada 29,9,Watford,36,29,10,6,13,39,47
+Temporada2018,Jornada 29,10,Brighton Hove A.,34,29,8,10,11,28,38
+Temporada2018,Jornada 29,11,Everton,34,29,9,7,13,33,49
+Temporada2018,Jornada 29,12,AFC Bournemouth,33,29,8,9,12,34,44
+Temporada2018,Jornada 29,13,Swansea City,30,29,8,6,15,25,42
+Temporada2018,Jornada 29,14,West Ham,30,29,7,9,13,36,54
+Temporada2018,Jornada 29,15,Huddersfield,30,29,8,6,15,25,50
+Temporada2018,Jornada 29,16,Newcastle,29,29,7,8,14,27,40
+Temporada2018,Jornada 29,17,Southampton,28,29,5,13,11,29,41
+Temporada2018,Jornada 29,18,Crystal Palace,27,29,6,9,14,27,46
+Temporada2018,Jornada 29,19,Stoke City,27,29,6,9,14,28,54
+Temporada2018,Jornada 29,20,West Bromwich A.,20,29,3,11,15,22,43
+Temporada2018,Jornada 30,1,Man. City,81,30,26,3,1,85,20
+Temporada2018,Jornada 30,2,Man. Utd,65,30,20,5,5,58,23
+Temporada2018,Jornada 30,3,Tottenham,61,30,18,7,5,59,25
+Temporada2018,Jornada 30,4,Liverpool,60,30,17,9,4,68,34
+Temporada2018,Jornada 30,5,Chelsea,56,30,17,5,8,52,27
+Temporada2018,Jornada 30,6,Arsenal,48,30,14,6,10,55,41
+Temporada2018,Jornada 30,7,Burnley,43,30,11,10,9,27,26
+Temporada2018,Jornada 30,8,Leicester,40,30,10,10,10,45,43
+Temporada2018,Jornada 30,9,Everton,37,30,10,7,13,35,49
+Temporada2018,Jornada 30,10,Watford,36,30,10,6,14,39,50
+Temporada2018,Jornada 30,11,Brighton Hove A.,34,30,8,10,12,28,40
+Temporada2018,Jornada 30,12,AFC Bournemouth,33,30,8,9,13,35,48
+Temporada2018,Jornada 30,13,Newcastle,32,30,8,8,14,30,40
+Temporada2018,Jornada 30,14,Swansea City,31,30,8,7,15,25,42
+Temporada2018,Jornada 30,15,Huddersfield,31,30,8,7,15,25,50
+Temporada2018,Jornada 30,16,West Ham,30,30,7,9,14,36,57
+Temporada2018,Jornada 30,17,Southampton,28,30,5,13,12,29,44
+Temporada2018,Jornada 30,18,Crystal Palace,27,30,6,9,15,28,48
+Temporada2018,Jornada 30,19,Stoke City,27,30,6,9,15,28,56
+Temporada2018,Jornada 30,20,West Bromwich A.,20,30,3,11,16,23,47
+Temporada2018,Jornada 31,1,Man. City,84,31,27,3,1,88,21
+Temporada2018,Jornada 31,2,Man. Utd,66,31,20,6,5,58,23
+Temporada2018,Jornada 31,3,Tottenham,64,31,19,7,5,60,25
+Temporada2018,Jornada 31,4,Liverpool,63,31,18,9,4,73,34
+Temporada2018,Jornada 31,5,Chelsea,59,31,18,5,8,54,28
+Temporada2018,Jornada 31,6,Arsenal,48,31,14,6,11,56,44
+Temporada2018,Jornada 31,7,Leicester,43,31,11,10,10,48,44
+Temporada2018,Jornada 31,8,Burnley,43,31,11,10,10,28,28
+Temporada2018,Jornada 31,9,Everton,40,31,11,7,13,37,50
+Temporada2018,Jornada 31,10,AFC Bournemouth,36,31,9,9,13,37,49
+Temporada2018,Jornada 31,11,Watford,36,31,10,6,15,39,55
+Temporada2018,Jornada 31,12,Brighton Hove A.,34,31,8,10,13,29,43
+Temporada2018,Jornada 31,13,Newcastle,32,31,8,8,15,30,41
+Temporada2018,Jornada 31,14,Southampton,31,31,6,13,12,30,44
+Temporada2018,Jornada 31,15,Swansea City,31,31,8,7,16,25,43
+Temporada2018,Jornada 31,16,West Ham,31,31,7,10,14,36,57
+Temporada2018,Jornada 31,17,Huddersfield,31,31,8,7,16,25,52
+Temporada2018,Jornada 31,18,Crystal Palace,30,31,7,9,15,30,48
+Temporada2018,Jornada 31,19,Stoke City,27,31,6,9,16,29,58
+Temporada2018,Jornada 31,20,West Bromwich A.,20,31,3,11,17,24,49
+Temporada2018,Jornada 32,1,Man. City,87,32,28,3,1,91,22
+Temporada2018,Jornada 32,2,Man. Utd,69,32,21,6,5,60,23
+Temporada2018,Jornada 32,3,Tottenham,67,32,20,7,5,63,26
+Temporada2018,Jornada 32,4,Liverpool,66,32,19,9,4,75,35
+Temporada2018,Jornada 32,5,Chelsea,59,32,18,5,9,55,31
+Temporada2018,Jornada 32,6,Arsenal,51,32,15,6,11,59,44
+Temporada2018,Jornada 32,7,Leicester,46,32,12,10,10,50,44
+Temporada2018,Jornada 32,8,Burnley,46,32,12,10,10,30,29
+Temporada2018,Jornada 32,9,Everton,40,32,11,7,14,38,53
+Temporada2018,Jornada 32,10,AFC Bournemouth,37,32,9,10,13,39,51
+Temporada2018,Jornada 32,11,Watford,37,32,10,7,15,41,57
+Temporada2018,Jornada 32,12,Newcastle,35,32,9,8,15,31,41
+Temporada2018,Jornada 32,13,Brighton Hove A.,34,32,8,10,14,29,45
+Temporada2018,Jornada 32,14,West Ham,34,32,8,10,14,39,57
+Temporada2018,Jornada 32,15,Southampton,31,32,6,13,13,30,47
+Temporada2018,Jornada 32,16,Swansea City,31,32,8,7,17,25,45
+Temporada2018,Jornada 32,17,Huddersfield,31,32,8,7,17,25,53
+Temporada2018,Jornada 32,18,Crystal Palace,30,32,7,9,16,31,50
+Temporada2018,Jornada 32,19,Stoke City,27,32,6,9,17,29,61
+Temporada2018,Jornada 32,20,West Bromwich A.,20,32,3,11,18,25,51
+Temporada2018,Jornada 33,1,Man. City,87,33,28,3,2,93,25
+Temporada2018,Jornada 33,2,Man. Utd,72,33,22,6,5,63,25
+Temporada2018,Jornada 33,3,Tottenham,70,33,21,7,5,65,27
+Temporada2018,Jornada 33,4,Liverpool,67,33,19,10,4,75,35
+Temporada2018,Jornada 33,5,Chelsea,60,33,18,6,9,56,32
+Temporada2018,Jornada 33,6,Arsenal,54,33,16,6,11,62,46
+Temporada2018,Jornada 33,7,Burnley,49,33,13,10,10,32,30
+Temporada2018,Jornada 33,8,Leicester,46,33,12,10,11,51,46
+Temporada2018,Jornada 33,9,Everton,41,33,11,8,14,38,53
+Temporada2018,Jornada 33,10,Newcastle,38,33,10,8,15,33,42
+Temporada2018,Jornada 33,11,AFC Bournemouth,38,33,9,11,13,41,53
+Temporada2018,Jornada 33,12,Watford,37,33,10,7,16,42,59
+Temporada2018,Jornada 33,13,Brighton Hove A.,35,33,8,11,14,30,46
+Temporada2018,Jornada 33,14,West Ham,35,33,8,11,14,40,58
+Temporada2018,Jornada 33,15,Swansea City,32,33,8,8,17,26,46
+Temporada2018,Jornada 33,16,Huddersfield,32,33,8,8,17,26,54
+Temporada2018,Jornada 33,17,Southampton,31,33,6,13,14,32,50
+Temporada2018,Jornada 33,18,Crystal Palace,31,33,7,10,16,33,52
+Temporada2018,Jornada 33,19,Stoke City,27,33,6,9,18,30,63
+Temporada2018,Jornada 33,20,West Bromwich A.,21,33,3,12,18,26,52
+Temporada2018,Jornada 34,1,Man. City,90,34,29,3,2,96,26
+Temporada2018,Jornada 34,2,Man. Utd,72,34,22,6,6,63,26
+Temporada2018,Jornada 34,3,Liverpool,70,34,20,10,4,78,35
+Temporada2018,Jornada 34,4,Tottenham,70,34,21,7,6,66,30
+Temporada2018,Jornada 34,5,Chelsea,63,34,19,6,9,59,34
+Temporada2018,Jornada 34,6,Arsenal,54,34,16,6,12,63,48
+Temporada2018,Jornada 34,7,Burnley,52,34,14,10,10,34,31
+Temporada2018,Jornada 34,8,Leicester,46,34,12,10,12,52,48
+Temporada2018,Jornada 34,9,Everton,42,34,11,9,14,39,54
+Temporada2018,Jornada 34,10,Newcastle,41,34,11,8,15,35,43
+Temporada2018,Jornada 34,11,AFC Bournemouth,38,34,9,11,14,41,56
+Temporada2018,Jornada 34,12,Watford,37,34,10,7,17,42,60
+Temporada2018,Jornada 34,13,West Ham,36,34,8,12,14,41,59
+Temporada2018,Jornada 34,14,Brighton Hove A.,35,34,8,11,15,32,49
+Temporada2018,Jornada 34,15,Huddersfield,35,34,9,8,17,27,54
+Temporada2018,Jornada 34,16,Crystal Palace,34,34,8,10,16,36,54
+Temporada2018,Jornada 34,17,Swansea City,33,34,8,9,17,27,47
+Temporada2018,Jornada 34,18,Southampton,31,34,6,13,15,34,53
+Temporada2018,Jornada 34,19,Stoke City,28,34,6,10,18,31,64
+Temporada2018,Jornada 34,20,West Bromwich A.,24,34,4,12,18,27,52
+Temporada2018,Jornada 35,1,Man. City,93,35,30,3,2,101,26
+Temporada2018,Jornada 35,2,Man. Utd,75,35,23,6,6,65,26
+Temporada2018,Jornada 35,3,Liverpool,71,35,20,11,4,80,37
+Temporada2018,Jornada 35,4,Tottenham,71,35,21,8,6,67,31
+Temporada2018,Jornada 35,5,Chelsea,64,35,19,7,9,60,35
+Temporada2018,Jornada 35,6,Arsenal,57,35,17,6,12,67,49
+Temporada2018,Jornada 35,7,Burnley,53,35,14,11,10,35,32
+Temporada2018,Jornada 35,8,Leicester,47,35,12,11,12,52,48
+Temporada2018,Jornada 35,9,Everton,45,35,12,9,14,40,54
+Temporada2018,Jornada 35,10,Newcastle,41,35,11,8,16,35,44
+Temporada2018,Jornada 35,11,AFC Bournemouth,38,35,9,11,15,41,58
+Temporada2018,Jornada 35,12,Watford,38,35,10,8,17,42,60
+Temporada2018,Jornada 35,13,Brighton Hove A.,36,35,8,12,15,33,50
+Temporada2018,Jornada 35,14,West Ham,36,35,8,12,15,42,63
+Temporada2018,Jornada 35,15,Huddersfield,36,35,9,9,17,28,55
+Temporada2018,Jornada 35,16,Crystal Palace,35,35,8,11,16,36,54
+Temporada2018,Jornada 35,17,Swansea City,33,35,8,9,18,27,52
+Temporada2018,Jornada 35,18,Southampton,32,35,6,14,15,34,53
+Temporada2018,Jornada 35,19,Stoke City,29,35,6,11,18,32,65
+Temporada2018,Jornada 35,20,West Bromwich A.,25,35,4,13,18,29,54
+Temporada2018,Jornada 36,1,Man. City,96,36,31,3,2,105,27
+Temporada2018,Jornada 36,2,Man. Utd,78,36,24,6,6,67,27
+Temporada2018,Jornada 36,3,Tottenham,74,36,22,8,6,69,31
+Temporada2018,Jornada 36,4,Liverpool,72,36,20,12,4,80,37
+Temporada2018,Jornada 36,5,Chelsea,67,36,20,7,9,61,35
+Temporada2018,Jornada 36,6,Arsenal,57,36,17,6,13,68,51
+Temporada2018,Jornada 36,7,Burnley,54,36,14,12,10,35,32
+Temporada2018,Jornada 36,8,Everton,48,36,13,9,14,42,54
+Temporada2018,Jornada 36,9,Leicester,47,36,12,11,13,52,53
+Temporada2018,Jornada 36,10,Newcastle,41,36,11,8,17,35,45
+Temporada2018,Jornada 36,11,Crystal Palace,38,36,9,11,16,41,54
+Temporada2018,Jornada 36,12,AFC Bournemouth,38,36,9,11,16,42,60
+Temporada2018,Jornada 36,13,Watford,38,36,10,8,18,42,62
+Temporada2018,Jornada 36,14,Brighton Hove A.,37,36,8,13,15,33,50
+Temporada2018,Jornada 36,15,West Ham,36,36,8,12,16,43,67
+Temporada2018,Jornada 36,16,Huddersfield,36,36,9,9,18,28,57
+Temporada2018,Jornada 36,17,Southampton,35,36,7,14,15,36,54
+Temporada2018,Jornada 36,18,Swansea City,33,36,8,9,19,27,53
+Temporada2018,Jornada 36,19,Stoke City,30,36,6,12,18,32,65
+Temporada2018,Jornada 36,20,West Bromwich A.,28,36,5,13,18,30,54
+Temporada2018,Jornada 37,1,Man. City,97,37,31,4,2,105,27
+Temporada2018,Jornada 37,2,Man. Utd,78,37,24,6,7,67,28
+Temporada2018,Jornada 37,3,Tottenham,74,37,22,8,7,69,32
+Temporada2018,Jornada 37,4,Liverpool,72,37,20,12,5,80,38
+Temporada2018,Jornada 37,5,Chelsea,70,37,21,7,9,62,35
+Temporada2018,Jornada 37,6,Arsenal,60,37,18,6,13,73,51
+Temporada2018,Jornada 37,7,Burnley,54,37,14,12,11,35,37
+Temporada2018,Jornada 37,8,Everton,49,37,13,10,14,43,55
+Temporada2018,Jornada 37,9,Leicester,47,37,12,11,14,52,55
+Temporada2018,Jornada 37,10,Newcastle,41,37,11,8,18,36,47
+Temporada2018,Jornada 37,11,Crystal Palace,41,37,10,11,16,43,55
+Temporada2018,Jornada 37,12,AFC Bournemouth,41,37,10,11,16,43,60
+Temporada2018,Jornada 37,13,Watford,41,37,11,8,18,44,63
+Temporada2018,Jornada 37,14,Brighton Hove A.,40,37,9,13,15,34,50
+Temporada2018,Jornada 37,15,West Ham,39,37,9,12,16,45,67
+Temporada2018,Jornada 37,16,Huddersfield,37,37,9,10,18,28,57
+Temporada2018,Jornada 37,17,Southampton,36,37,7,15,15,37,55
+Temporada2018,Jornada 37,18,Swansea City,33,37,8,9,20,27,54
+Temporada2018,Jornada 37,19,West Bromwich A.,31,37,6,13,18,31,54
+Temporada2018,Jornada 37,20,Stoke City,30,37,6,12,19,33,67
+Temporada2018,Jornada 38,1,Man. City,100,38,32,4,2,106,27
+Temporada2018,Jornada 38,2,Man. Utd,81,38,25,6,7,68,28
+Temporada2018,Jornada 38,3,Tottenham,77,38,23,8,7,74,36
+Temporada2018,Jornada 38,4,Liverpool,75,38,21,12,5,84,38
+Temporada2018,Jornada 38,5,Chelsea,70,38,21,7,10,62,38
+Temporada2018,Jornada 38,6,Arsenal,63,38,19,6,13,74,51
+Temporada2018,Jornada 38,7,Burnley,54,38,14,12,12,36,39
+Temporada2018,Jornada 38,8,Everton,49,38,13,10,15,44,58
+Temporada2018,Jornada 38,9,Leicester,47,38,12,11,15,56,60
+Temporada2018,Jornada 38,10,Newcastle,44,38,12,8,18,39,47
+Temporada2018,Jornada 38,11,Crystal Palace,44,38,11,11,16,45,55
+Temporada2018,Jornada 38,12,AFC Bournemouth,44,38,11,11,16,45,61
+Temporada2018,Jornada 38,13,West Ham,42,38,10,12,16,48,68
+Temporada2018,Jornada 38,14,Watford,41,38,11,8,19,44,64
+Temporada2018,Jornada 38,15,Brighton Hove A.,40,38,9,13,16,34,54
+Temporada2018,Jornada 38,16,Huddersfield,37,38,9,10,19,28,58
+Temporada2018,Jornada 38,17,Southampton,36,38,7,15,16,37,56
+Temporada2018,Jornada 38,18,Swansea City,33,38,8,9,21,28,56
+Temporada2018,Jornada 38,19,Stoke City,33,38,7,12,19,35,68
+Temporada2018,Jornada 38,20,West Bromwich A.,31,38,6,13,19,31,56
+Temporada2017,Jornada 1,1,Man. Utd,3,1,1,0,0,3,1
+Temporada2017,Jornada 1,2,Liverpool,3,1,1,0,0,4,3
+Temporada2017,Jornada 1,3,Chelsea,3,1,1,0,0,2,1
+Temporada2017,Jornada 1,4,Hull City,3,1,1,0,0,2,1
+Temporada2017,Jornada 1,5,Man. City,3,1,1,0,0,2,1
+Temporada2017,Jornada 1,6,Swansea City,3,1,1,0,0,1,0
+Temporada2017,Jornada 1,7,West Bromwich A.,3,1,1,0,0,1,0
+Temporada2017,Jornada 1,8,Everton,1,1,0,1,0,1,1
+Temporada2017,Jornada 1,9,Middlesbrough,1,1,0,1,0,1,1
+Temporada2017,Jornada 1,10,Southampton,1,1,0,1,0,1,1
+Temporada2017,Jornada 1,11,Stoke City,1,1,0,1,0,1,1
+Temporada2017,Jornada 1,12,Tottenham,1,1,0,1,0,1,1
+Temporada2017,Jornada 1,13,Watford,1,1,0,1,0,1,1
+Temporada2017,Jornada 1,14,Arsenal,0,1,0,0,1,3,4
+Temporada2017,Jornada 1,15,Leicester,0,1,0,0,1,1,2
+Temporada2017,Jornada 1,16,Sunderland,0,1,0,0,1,1,2
+Temporada2017,Jornada 1,17,West Ham,0,1,0,0,1,1,2
+Temporada2017,Jornada 1,18,Burnley,0,1,0,0,1,0,1
+Temporada2017,Jornada 1,19,Crystal Palace,0,1,0,0,1,0,1
+Temporada2017,Jornada 1,20,AFC Bournemouth,0,1,0,0,1,1,3
+Temporada2017,Jornada 2,1,Man. City,6,2,2,0,0,6,2
+Temporada2017,Jornada 2,2,Man. Utd,6,2,2,0,0,5,1
+Temporada2017,Jornada 2,3,Hull City,6,2,2,0,0,4,1
+Temporada2017,Jornada 2,4,Chelsea,6,2,2,0,0,4,2
+Temporada2017,Jornada 2,5,Everton,4,2,1,1,0,3,2
+Temporada2017,Jornada 2,6,Middlesbrough,4,2,1,1,0,3,2
+Temporada2017,Jornada 2,7,Tottenham,4,2,1,1,0,2,1
+Temporada2017,Jornada 2,8,Burnley,3,2,1,0,1,2,1
+Temporada2017,Jornada 2,9,West Bromwich A.,3,2,1,0,1,2,2
+Temporada2017,Jornada 2,10,West Ham,3,2,1,0,1,2,2
+Temporada2017,Jornada 2,11,Liverpool,3,2,1,0,1,4,5
+Temporada2017,Jornada 2,12,Swansea City,3,2,1,0,1,1,2
+Temporada2017,Jornada 2,13,Arsenal,1,2,0,1,1,3,4
+Temporada2017,Jornada 2,14,Watford,1,2,0,1,1,2,3
+Temporada2017,Jornada 2,15,Leicester,1,2,0,1,1,1,2
+Temporada2017,Jornada 2,16,Southampton,1,2,0,1,1,1,3
+Temporada2017,Jornada 2,17,Stoke City,1,2,0,1,1,2,5
+Temporada2017,Jornada 2,18,Sunderland,0,2,0,0,2,2,4
+Temporada2017,Jornada 2,19,Crystal Palace,0,2,0,0,2,0,2
+Temporada2017,Jornada 2,20,AFC Bournemouth,0,2,0,0,2,1,4
+Temporada2017,Jornada 3,1,Man. City,9,3,3,0,0,9,3
+Temporada2017,Jornada 3,2,Chelsea,9,3,3,0,0,7,2
+Temporada2017,Jornada 3,3,Man. Utd,9,3,3,0,0,6,1
+Temporada2017,Jornada 3,4,Everton,7,3,2,1,0,4,2
+Temporada2017,Jornada 3,5,Hull City,6,3,2,0,1,4,2
+Temporada2017,Jornada 3,6,Middlesbrough,5,3,1,2,0,3,2
+Temporada2017,Jornada 3,7,Tottenham,5,3,1,2,0,3,2
+Temporada2017,Jornada 3,8,Arsenal,4,3,1,1,1,6,5
+Temporada2017,Jornada 3,9,Leicester,4,3,1,1,1,3,3
+Temporada2017,Jornada 3,10,West Bromwich A.,4,3,1,1,1,2,2
+Temporada2017,Jornada 3,11,Liverpool,4,3,1,1,1,5,6
+Temporada2017,Jornada 3,12,West Ham,3,3,1,0,2,3,5
+Temporada2017,Jornada 3,13,Burnley,3,3,1,0,2,2,4
+Temporada2017,Jornada 3,14,Swansea City,3,3,1,0,2,2,4
+Temporada2017,Jornada 3,15,Southampton,2,3,0,2,1,2,4
+Temporada2017,Jornada 3,16,Sunderland,1,3,0,1,2,3,5
+Temporada2017,Jornada 3,17,Crystal Palace,1,3,0,1,2,1,3
+Temporada2017,Jornada 3,18,Watford,1,3,0,1,2,3,6
+Temporada2017,Jornada 3,19,AFC Bournemouth,1,3,0,1,2,2,5
+Temporada2017,Jornada 3,20,Stoke City,1,3,0,1,2,2,6
+Temporada2017,Jornada 4,1,Man. City,12,4,4,0,0,11,4
+Temporada2017,Jornada 4,2,Chelsea,10,4,3,1,0,9,4
+Temporada2017,Jornada 4,3,Everton,10,4,3,1,0,7,2
+Temporada2017,Jornada 4,4,Man. Utd,9,4,3,0,1,7,3
+Temporada2017,Jornada 4,5,Tottenham,8,4,2,2,0,7,2
+Temporada2017,Jornada 4,6,Liverpool,7,4,2,1,1,9,7
+Temporada2017,Jornada 4,7,Arsenal,7,4,2,1,1,8,6
+Temporada2017,Jornada 4,8,Hull City,7,4,2,1,1,5,3
+Temporada2017,Jornada 4,9,Middlesbrough,5,4,1,2,1,4,4
+Temporada2017,Jornada 4,10,Watford,4,4,1,1,2,7,8
+Temporada2017,Jornada 4,11,Crystal Palace,4,4,1,1,2,3,4
+Temporada2017,Jornada 4,12,West Bromwich A.,4,4,1,1,2,2,3
+Temporada2017,Jornada 4,13,Swansea City,4,4,1,1,2,4,6
+Temporada2017,Jornada 4,14,AFC Bournemouth,4,4,1,1,2,3,5
+Temporada2017,Jornada 4,15,Burnley,4,4,1,1,2,3,5
+Temporada2017,Jornada 4,16,Leicester,4,4,1,1,2,4,7
+Temporada2017,Jornada 4,17,West Ham,3,4,1,0,3,5,9
+Temporada2017,Jornada 4,18,Southampton,2,4,0,2,2,3,6
+Temporada2017,Jornada 4,19,Sunderland,1,4,0,1,3,3,8
+Temporada2017,Jornada 4,20,Stoke City,1,4,0,1,3,2,10
+Temporada2017,Jornada 5,1,Man. City,15,5,5,0,0,15,4
+Temporada2017,Jornada 5,2,Everton,13,5,4,1,0,10,3
+Temporada2017,Jornada 5,3,Tottenham,11,5,3,2,0,8,2
+Temporada2017,Jornada 5,4,Arsenal,10,5,3,1,1,12,7
+Temporada2017,Jornada 5,5,Chelsea,10,5,3,1,1,10,6
+Temporada2017,Jornada 5,6,Liverpool,10,5,3,1,1,11,8
+Temporada2017,Jornada 5,7,Man. Utd,9,5,3,0,2,8,6
+Temporada2017,Jornada 5,8,Crystal Palace,7,5,2,1,2,7,5
+Temporada2017,Jornada 5,9,Watford,7,5,2,1,2,10,9
+Temporada2017,Jornada 5,10,West Bromwich A.,7,5,2,1,2,6,5
+Temporada2017,Jornada 5,11,Leicester,7,5,2,1,2,7,7
+Temporada2017,Jornada 5,12,Hull City,7,5,2,1,2,6,7
+Temporada2017,Jornada 5,13,Middlesbrough,5,5,1,2,2,5,7
+Temporada2017,Jornada 5,14,Southampton,5,5,1,2,2,4,6
+Temporada2017,Jornada 5,15,Swansea City,4,5,1,1,3,4,7
+Temporada2017,Jornada 5,16,Burnley,4,5,1,1,3,3,8
+Temporada2017,Jornada 5,17,AFC Bournemouth,4,5,1,1,3,3,9
+Temporada2017,Jornada 5,18,West Ham,3,5,1,0,4,7,13
+Temporada2017,Jornada 5,19,Sunderland,1,5,0,1,4,3,9
+Temporada2017,Jornada 5,20,Stoke City,1,5,0,1,4,3,14
+Temporada2017,Jornada 6,1,Man. City,18,6,6,0,0,18,5
+Temporada2017,Jornada 6,2,Tottenham,14,6,4,2,0,10,3
+Temporada2017,Jornada 6,3,Arsenal,13,6,4,1,1,15,7
+Temporada2017,Jornada 6,4,Liverpool,13,6,4,1,1,16,9
+Temporada2017,Jornada 6,5,Everton,13,6,4,1,1,10,4
+Temporada2017,Jornada 6,6,Man. Utd,12,6,4,0,2,12,7
+Temporada2017,Jornada 6,7,Crystal Palace,10,6,3,1,2,10,7
+Temporada2017,Jornada 6,8,Chelsea,10,6,3,1,2,10,9
+Temporada2017,Jornada 6,9,Southampton,8,6,2,2,2,7,6
+Temporada2017,Jornada 6,10,West Bromwich A.,8,6,2,2,2,7,6
+Temporada2017,Jornada 6,11,Watford,7,6,2,1,3,10,11
+Temporada2017,Jornada 6,12,Leicester,7,6,2,1,3,8,11
+Temporada2017,Jornada 6,13,Burnley,7,6,2,1,3,5,8
+Temporada2017,Jornada 6,14,Hull City,7,6,2,1,3,7,12
+Temporada2017,Jornada 6,15,AFC Bournemouth,7,6,2,1,3,4,9
+Temporada2017,Jornada 6,16,Middlesbrough,5,6,1,2,3,6,9
+Temporada2017,Jornada 6,17,Swansea City,4,6,1,1,4,5,10
+Temporada2017,Jornada 6,18,West Ham,3,6,1,0,5,7,16
+Temporada2017,Jornada 6,19,Stoke City,2,6,0,2,4,4,15
+Temporada2017,Jornada 6,20,Sunderland,1,6,0,1,5,5,12
+Temporada2017,Jornada 7,1,Man. City,18,7,6,0,1,18,7
+Temporada2017,Jornada 7,2,Tottenham,17,7,5,2,0,12,3
+Temporada2017,Jornada 7,3,Arsenal,16,7,5,1,1,16,7
+Temporada2017,Jornada 7,4,Liverpool,16,7,5,1,1,18,10
+Temporada2017,Jornada 7,5,Everton,14,7,4,2,1,11,5
+Temporada2017,Jornada 7,6,Man. Utd,13,7,4,1,2,13,8
+Temporada2017,Jornada 7,7,Chelsea,13,7,4,1,2,12,9
+Temporada2017,Jornada 7,8,Crystal Palace,11,7,3,2,2,11,8
+Temporada2017,Jornada 7,9,West Bromwich A.,9,7,2,3,2,8,7
+Temporada2017,Jornada 7,10,Southampton,9,7,2,3,2,7,6
+Temporada2017,Jornada 7,11,Watford,8,7,2,2,3,12,13
+Temporada2017,Jornada 7,12,Leicester,8,7,2,2,3,8,11
+Temporada2017,Jornada 7,13,AFC Bournemouth,8,7,2,2,3,6,11
+Temporada2017,Jornada 7,14,Burnley,7,7,2,1,4,5,9
+Temporada2017,Jornada 7,15,Hull City,7,7,2,1,4,7,14
+Temporada2017,Jornada 7,16,Middlesbrough,6,7,1,3,3,7,10
+Temporada2017,Jornada 7,17,Swansea City,4,7,1,1,5,6,12
+Temporada2017,Jornada 7,18,West Ham,4,7,1,1,5,8,17
+Temporada2017,Jornada 7,19,Stoke City,3,7,0,3,4,5,16
+Temporada2017,Jornada 7,20,Sunderland,2,7,0,2,5,6,13
+Temporada2017,Jornada 8,1,Man. City,19,8,6,1,1,19,8
+Temporada2017,Jornada 8,2,Arsenal,19,8,6,1,1,19,9
+Temporada2017,Jornada 8,3,Tottenham,18,8,5,3,0,13,4
+Temporada2017,Jornada 8,4,Liverpool,17,8,5,2,1,18,10
+Temporada2017,Jornada 8,5,Chelsea,16,8,5,1,2,15,9
+Temporada2017,Jornada 8,6,Everton,15,8,4,3,1,12,6
+Temporada2017,Jornada 8,7,Man. Utd,14,8,4,2,2,13,8
+Temporada2017,Jornada 8,8,Southampton,12,8,3,3,2,10,7
+Temporada2017,Jornada 8,9,Crystal Palace,11,8,3,2,3,11,9
+Temporada2017,Jornada 8,10,Watford,11,8,3,2,3,13,13
+Temporada2017,Jornada 8,11,AFC Bournemouth,11,8,3,2,3,12,12
+Temporada2017,Jornada 8,12,West Bromwich A.,10,8,2,4,2,9,8
+Temporada2017,Jornada 8,13,Leicester,8,8,2,2,4,8,14
+Temporada2017,Jornada 8,14,Burnley,7,8,2,1,5,6,12
+Temporada2017,Jornada 8,15,West Ham,7,8,2,1,5,9,17
+Temporada2017,Jornada 8,16,Hull City,7,8,2,1,5,8,20
+Temporada2017,Jornada 8,17,Middlesbrough,6,8,1,3,4,7,11
+Temporada2017,Jornada 8,18,Stoke City,6,8,1,3,4,7,16
+Temporada2017,Jornada 8,19,Swansea City,4,8,1,1,6,8,15
+Temporada2017,Jornada 8,20,Sunderland,2,8,0,2,6,6,15
+Temporada2017,Jornada 9,1,Man. City,20,9,6,2,1,20,9
+Temporada2017,Jornada 9,2,Arsenal,20,9,6,2,1,19,9
+Temporada2017,Jornada 9,3,Liverpool,20,9,6,2,1,20,11
+Temporada2017,Jornada 9,4,Chelsea,19,9,6,1,2,19,9
+Temporada2017,Jornada 9,5,Tottenham,19,9,5,4,0,13,4
+Temporada2017,Jornada 9,6,Everton,15,9,4,3,2,13,8
+Temporada2017,Jornada 9,7,Man. Utd,14,9,4,2,3,13,12
+Temporada2017,Jornada 9,8,Southampton,13,9,3,4,2,11,8
+Temporada2017,Jornada 9,9,Watford,12,9,3,3,3,13,13
+Temporada2017,Jornada 9,10,AFC Bournemouth,12,9,3,3,3,12,12
+Temporada2017,Jornada 9,11,Crystal Palace,11,9,3,2,4,12,12
+Temporada2017,Jornada 9,12,Leicester,11,9,3,2,4,11,15
+Temporada2017,Jornada 9,13,West Bromwich A.,10,9,2,4,3,10,10
+Temporada2017,Jornada 9,14,Burnley,10,9,3,1,5,8,13
+Temporada2017,Jornada 9,15,West Ham,10,9,3,1,5,10,17
+Temporada2017,Jornada 9,16,Stoke City,9,9,2,3,4,9,16
+Temporada2017,Jornada 9,17,Middlesbrough,7,9,1,4,4,7,11
+Temporada2017,Jornada 9,18,Hull City,7,9,2,1,6,8,22
+Temporada2017,Jornada 9,19,Swansea City,5,9,1,2,6,8,15
+Temporada2017,Jornada 9,20,Sunderland,2,9,0,2,7,6,16
+Temporada2017,Jornada 10,1,Man. City,23,10,7,2,1,24,9
+Temporada2017,Jornada 10,2,Arsenal,23,10,7,2,1,23,10
+Temporada2017,Jornada 10,3,Liverpool,23,10,7,2,1,24,13
+Temporada2017,Jornada 10,4,Chelsea,22,10,7,1,2,21,9
+Temporada2017,Jornada 10,5,Tottenham,20,10,5,5,0,14,5
+Temporada2017,Jornada 10,6,Everton,18,10,5,3,2,15,8
+Temporada2017,Jornada 10,7,Watford,15,10,4,3,3,14,13
+Temporada2017,Jornada 10,8,Man. Utd,15,10,4,3,3,13,12
+Temporada2017,Jornada 10,9,Southampton,13,10,3,4,3,11,10
+Temporada2017,Jornada 10,10,AFC Bournemouth,12,10,3,3,4,12,14
+Temporada2017,Jornada 10,11,Leicester,12,10,3,3,4,12,16
+Temporada2017,Jornada 10,12,Stoke City,12,10,3,3,4,12,17
+Temporada2017,Jornada 10,13,Crystal Palace,11,10,3,2,5,14,16
+Temporada2017,Jornada 10,14,Burnley,11,10,3,2,5,8,13
+Temporada2017,Jornada 10,15,Middlesbrough,10,10,2,4,4,9,11
+Temporada2017,Jornada 10,16,West Bromwich A.,10,10,2,4,4,10,14
+Temporada2017,Jornada 10,17,West Ham,10,10,3,1,6,10,19
+Temporada2017,Jornada 10,18,Hull City,7,10,2,1,7,8,23
+Temporada2017,Jornada 10,19,Swansea City,5,10,1,2,7,9,18
+Temporada2017,Jornada 10,20,Sunderland,2,10,0,2,8,7,20
+Temporada2017,Jornada 11,1,Liverpool,26,11,8,2,1,30,14
+Temporada2017,Jornada 11,2,Chelsea,25,11,8,1,2,26,9
+Temporada2017,Jornada 11,3,Man. City,24,11,7,3,1,25,10
+Temporada2017,Jornada 11,4,Arsenal,24,11,7,3,1,24,11
+Temporada2017,Jornada 11,5,Tottenham,21,11,5,6,0,15,6
+Temporada2017,Jornada 11,6,Man. Utd,18,11,5,3,3,16,13
+Temporada2017,Jornada 11,7,Everton,18,11,5,3,3,15,13
+Temporada2017,Jornada 11,8,Watford,15,11,4,3,4,15,19
+Temporada2017,Jornada 11,9,Burnley,14,11,4,2,5,11,15
+Temporada2017,Jornada 11,10,Southampton,13,11,3,4,4,12,12
+Temporada2017,Jornada 11,11,West Bromwich A.,13,11,3,4,4,12,15
+Temporada2017,Jornada 11,12,Stoke City,13,11,3,4,4,13,18
+Temporada2017,Jornada 11,13,AFC Bournemouth,12,11,3,3,5,13,16
+Temporada2017,Jornada 11,14,Leicester,12,11,3,3,5,13,18
+Temporada2017,Jornada 11,15,Middlesbrough,11,11,2,5,4,10,12
+Temporada2017,Jornada 11,16,Crystal Palace,11,11,3,2,6,16,19
+Temporada2017,Jornada 11,17,West Ham,11,11,3,2,6,11,20
+Temporada2017,Jornada 11,18,Hull City,10,11,3,1,7,10,24
+Temporada2017,Jornada 11,19,Swansea City,5,11,1,2,8,10,21
+Temporada2017,Jornada 11,20,Sunderland,5,11,1,2,8,9,21
+Temporada2017,Jornada 12,1,Chelsea,28,12,9,1,2,27,9
+Temporada2017,Jornada 12,2,Liverpool,27,12,8,3,1,30,14
+Temporada2017,Jornada 12,3,Man. City,27,12,8,3,1,27,11
+Temporada2017,Jornada 12,4,Arsenal,25,12,7,4,1,25,12
+Temporada2017,Jornada 12,5,Tottenham,24,12,6,6,0,18,8
+Temporada2017,Jornada 12,6,Man. Utd,19,12,5,4,3,17,14
+Temporada2017,Jornada 12,7,Everton,19,12,5,4,3,16,14
+Temporada2017,Jornada 12,8,Watford,18,12,5,3,4,17,20
+Temporada2017,Jornada 12,9,West Bromwich A.,16,12,4,4,4,16,15
+Temporada2017,Jornada 12,10,AFC Bournemouth,15,12,4,3,5,14,16
+Temporada2017,Jornada 12,11,Southampton,14,12,3,5,4,12,12
+Temporada2017,Jornada 12,12,Burnley,14,12,4,2,6,11,19
+Temporada2017,Jornada 12,13,Stoke City,13,12,3,4,5,13,19
+Temporada2017,Jornada 12,14,Leicester,12,12,3,3,6,14,20
+Temporada2017,Jornada 12,15,Middlesbrough,11,12,2,5,5,10,13
+Temporada2017,Jornada 12,16,Crystal Palace,11,12,3,2,7,17,21
+Temporada2017,Jornada 12,17,West Ham,11,12,3,2,7,13,23
+Temporada2017,Jornada 12,18,Hull City,10,12,3,1,8,10,27
+Temporada2017,Jornada 12,19,Sunderland,8,12,2,2,8,12,21
+Temporada2017,Jornada 12,20,Swansea City,6,12,1,3,8,11,22
+Temporada2017,Jornada 13,1,Chelsea,31,13,10,1,2,29,10
+Temporada2017,Jornada 13,2,Liverpool,30,13,9,3,1,32,14
+Temporada2017,Jornada 13,3,Man. City,30,13,9,3,1,29,12
+Temporada2017,Jornada 13,4,Arsenal,28,13,8,4,1,28,13
+Temporada2017,Jornada 13,5,Tottenham,24,13,6,6,1,19,10
+Temporada2017,Jornada 13,6,Man. Utd,20,13,5,5,3,18,15
+Temporada2017,Jornada 13,7,Everton,19,13,5,4,4,16,15
+Temporada2017,Jornada 13,8,Watford,18,13,5,3,5,17,21
+Temporada2017,Jornada 13,9,West Bromwich A.,17,13,4,5,4,17,16
+Temporada2017,Jornada 13,10,Southampton,17,13,4,5,4,13,12
+Temporada2017,Jornada 13,11,Stoke City,16,13,4,4,5,14,19
+Temporada2017,Jornada 13,12,AFC Bournemouth,15,13,4,3,6,15,19
+Temporada2017,Jornada 13,13,Burnley,14,13,4,2,7,12,21
+Temporada2017,Jornada 13,14,Leicester,13,13,3,4,6,16,22
+Temporada2017,Jornada 13,15,Middlesbrough,12,13,2,6,5,12,15
+Temporada2017,Jornada 13,16,West Ham,12,13,3,3,7,14,24
+Temporada2017,Jornada 13,17,Crystal Palace,11,13,3,2,8,21,26
+Temporada2017,Jornada 13,18,Hull City,11,13,3,2,8,11,28
+Temporada2017,Jornada 13,19,Swansea City,9,13,2,3,8,16,26
+Temporada2017,Jornada 13,20,Sunderland,8,13,2,2,9,12,23
+Temporada2017,Jornada 14,1,Chelsea,34,14,11,1,2,32,11
+Temporada2017,Jornada 14,2,Arsenal,31,14,9,4,1,33,14
+Temporada2017,Jornada 14,3,Liverpool,30,14,9,3,2,35,18
+Temporada2017,Jornada 14,4,Man. City,30,14,9,3,2,30,15
+Temporada2017,Jornada 14,5,Tottenham,27,14,7,6,1,24,10
+Temporada2017,Jornada 14,6,Man. Utd,21,14,5,6,3,19,16
+Temporada2017,Jornada 14,7,West Bromwich A.,20,14,5,5,4,20,17
+Temporada2017,Jornada 14,8,Everton,20,14,5,5,4,17,16
+Temporada2017,Jornada 14,9,Stoke City,19,14,5,4,5,16,19
+Temporada2017,Jornada 14,10,AFC Bournemouth,18,14,5,3,6,19,22
+Temporada2017,Jornada 14,11,Watford,18,14,5,3,6,18,24
+Temporada2017,Jornada 14,12,Southampton,17,14,4,5,5,13,15
+Temporada2017,Jornada 14,13,Middlesbrough,15,14,3,6,5,13,15
+Temporada2017,Jornada 14,14,Crystal Palace,14,14,4,2,8,24,26
+Temporada2017,Jornada 14,15,Burnley,14,14,4,2,8,12,23
+Temporada2017,Jornada 14,16,Leicester,13,14,3,4,7,17,24
+Temporada2017,Jornada 14,17,West Ham,12,14,3,3,8,15,29
+Temporada2017,Jornada 14,18,Sunderland,11,14,3,2,9,14,24
+Temporada2017,Jornada 14,19,Hull City,11,14,3,2,9,11,29
+Temporada2017,Jornada 14,20,Swansea City,9,14,2,3,9,16,31
+Temporada2017,Jornada 15,1,Chelsea,37,15,12,1,2,33,11
+Temporada2017,Jornada 15,2,Arsenal,34,15,10,4,1,36,15
+Temporada2017,Jornada 15,3,Liverpool,31,15,9,4,2,37,20
+Temporada2017,Jornada 15,4,Man. City,30,15,9,3,3,32,19
+Temporada2017,Jornada 15,5,Tottenham,27,15,7,6,2,24,11
+Temporada2017,Jornada 15,6,Man. Utd,24,15,6,6,3,20,16
+Temporada2017,Jornada 15,7,Watford,21,15,6,3,6,21,26
+Temporada2017,Jornada 15,8,West Bromwich A.,20,15,5,5,5,20,18
+Temporada2017,Jornada 15,9,Everton,20,15,5,5,5,19,19
+Temporada2017,Jornada 15,10,Southampton,20,15,5,5,5,14,15
+Temporada2017,Jornada 15,11,Stoke City,19,15,5,4,6,17,22
+Temporada2017,Jornada 15,12,AFC Bournemouth,18,15,5,3,7,21,25
+Temporada2017,Jornada 15,13,Burnley,17,15,5,2,8,15,25
+Temporada2017,Jornada 15,14,Leicester,16,15,4,4,7,21,26
+Temporada2017,Jornada 15,15,Crystal Palace,15,15,4,3,8,27,29
+Temporada2017,Jornada 15,16,Middlesbrough,15,15,3,6,6,13,16
+Temporada2017,Jornada 15,17,West Ham,13,15,3,4,8,17,31
+Temporada2017,Jornada 15,18,Swansea City,12,15,3,3,9,19,31
+Temporada2017,Jornada 15,19,Hull City,12,15,3,3,9,14,32
+Temporada2017,Jornada 15,20,Sunderland,11,15,3,2,10,14,27
+Temporada2017,Jornada 16,1,Chelsea,40,16,13,1,2,34,11
+Temporada2017,Jornada 16,2,Liverpool,34,16,10,4,2,40,20
+Temporada2017,Jornada 16,3,Arsenal,34,16,10,4,2,37,17
+Temporada2017,Jornada 16,4,Man. City,33,16,10,3,3,34,19
+Temporada2017,Jornada 16,5,Tottenham,30,16,8,6,2,27,11
+Temporada2017,Jornada 16,6,Man. Utd,27,16,7,6,3,22,17
+Temporada2017,Jornada 16,7,West Bromwich A.,23,16,6,5,5,23,19
+Temporada2017,Jornada 16,8,Everton,23,16,6,5,5,21,20
+Temporada2017,Jornada 16,9,Southampton,21,16,5,6,5,14,15
+Temporada2017,Jornada 16,10,AFC Bournemouth,21,16,6,3,7,22,25
+Temporada2017,Jornada 16,11,Watford,21,16,6,3,7,21,28
+Temporada2017,Jornada 16,12,Stoke City,20,16,5,5,6,17,22
+Temporada2017,Jornada 16,13,Burnley,17,16,5,2,9,15,26
+Temporada2017,Jornada 16,14,Leicester,16,16,4,4,8,21,27
+Temporada2017,Jornada 16,15,West Ham,16,16,4,4,8,18,31
+Temporada2017,Jornada 16,16,Crystal Palace,15,16,4,3,9,28,31
+Temporada2017,Jornada 16,17,Middlesbrough,15,16,3,6,7,13,19
+Temporada2017,Jornada 16,18,Swansea City,12,16,3,3,10,20,34
+Temporada2017,Jornada 16,19,Hull City,12,16,3,3,10,14,35
+Temporada2017,Jornada 16,20,Sunderland,11,16,3,2,11,14,28
+Temporada2017,Jornada 17,1,Chelsea,43,17,14,1,2,35,11
+Temporada2017,Jornada 17,2,Liverpool,37,17,11,4,2,41,20
+Temporada2017,Jornada 17,3,Man. City,36,17,11,3,3,36,20
+Temporada2017,Jornada 17,4,Arsenal,34,17,10,4,3,38,19
+Temporada2017,Jornada 17,5,Tottenham,33,17,9,6,2,29,12
+Temporada2017,Jornada 17,6,Man. Utd,30,17,8,6,3,24,17
+Temporada2017,Jornada 17,7,Southampton,24,17,6,6,5,17,16
+Temporada2017,Jornada 17,8,West Bromwich A.,23,17,6,5,6,23,21
+Temporada2017,Jornada 17,9,Everton,23,17,6,5,6,21,21
+Temporada2017,Jornada 17,10,AFC Bournemouth,21,17,6,3,8,23,28
+Temporada2017,Jornada 17,11,Stoke City,21,17,5,6,6,19,24
+Temporada2017,Jornada 17,12,Watford,21,17,6,3,8,21,29
+Temporada2017,Jornada 17,13,West Ham,19,17,5,4,8,19,31
+Temporada2017,Jornada 17,14,Middlesbrough,18,17,4,6,7,16,19
+Temporada2017,Jornada 17,15,Leicester,17,17,4,5,8,23,29
+Temporada2017,Jornada 17,16,Burnley,17,17,5,2,10,16,28
+Temporada2017,Jornada 17,17,Crystal Palace,15,17,4,3,10,28,32
+Temporada2017,Jornada 17,18,Sunderland,14,17,4,2,11,15,28
+Temporada2017,Jornada 17,19,Swansea City,12,17,3,3,11,20,37
+Temporada2017,Jornada 17,20,Hull City,12,17,3,3,11,14,36
+Temporada2017,Jornada 18,1,Chelsea,46,18,15,1,2,38,11
+Temporada2017,Jornada 18,2,Liverpool,40,18,12,4,2,45,21
+Temporada2017,Jornada 18,3,Man. City,39,18,12,3,3,39,20
+Temporada2017,Jornada 18,4,Arsenal,37,18,11,4,3,39,19
+Temporada2017,Jornada 18,5,Tottenham,36,18,10,6,2,33,13
+Temporada2017,Jornada 18,6,Man. Utd,33,18,9,6,3,27,18
+Temporada2017,Jornada 18,7,Everton,26,18,7,5,6,23,21
+Temporada2017,Jornada 18,8,Southampton,24,18,6,6,6,18,20
+Temporada2017,Jornada 18,9,West Bromwich A.,23,18,6,5,7,23,22
+Temporada2017,Jornada 18,10,Watford,22,18,6,4,8,22,30
+Temporada2017,Jornada 18,11,West Ham,22,18,6,4,8,23,32
+Temporada2017,Jornada 18,12,AFC Bournemouth,21,18,6,3,9,23,31
+Temporada2017,Jornada 18,13,Stoke City,21,18,5,6,7,20,28
+Temporada2017,Jornada 18,14,Burnley,20,18,6,2,10,17,28
+Temporada2017,Jornada 18,15,Middlesbrough,18,18,4,6,8,16,20
+Temporada2017,Jornada 18,16,Leicester,17,18,4,5,9,23,31
+Temporada2017,Jornada 18,17,Crystal Palace,16,18,4,4,10,29,33
+Temporada2017,Jornada 18,18,Sunderland,14,18,4,2,12,16,31
+Temporada2017,Jornada 18,19,Swansea City,12,18,3,3,12,21,41
+Temporada2017,Jornada 18,20,Hull City,12,18,3,3,12,14,39
+Temporada2017,Jornada 19,1,Chelsea,49,19,16,1,2,42,13
+Temporada2017,Jornada 19,2,Liverpool,43,19,13,4,2,46,21
+Temporada2017,Jornada 19,3,Arsenal,40,19,12,4,3,41,19
+Temporada2017,Jornada 19,4,Tottenham,39,19,11,6,2,37,14
+Temporada2017,Jornada 19,5,Man. City,39,19,12,3,4,39,21
+Temporada2017,Jornada 19,6,Man. Utd,36,19,10,6,3,29,19
+Temporada2017,Jornada 19,7,Everton,27,19,7,6,6,25,23
+Temporada2017,Jornada 19,8,West Bromwich A.,26,19,7,5,7,25,23
+Temporada2017,Jornada 19,9,Southampton,24,19,6,6,7,19,22
+Temporada2017,Jornada 19,10,AFC Bournemouth,24,19,7,3,9,26,31
+Temporada2017,Jornada 19,11,Burnley,23,19,7,2,10,21,29
+Temporada2017,Jornada 19,12,West Ham,22,19,6,4,9,23,33
+Temporada2017,Jornada 19,13,Watford,22,19,6,4,9,23,34
+Temporada2017,Jornada 19,14,Stoke City,21,19,5,6,8,22,32
+Temporada2017,Jornada 19,15,Leicester,20,19,5,5,9,24,31
+Temporada2017,Jornada 19,16,Middlesbrough,18,19,4,6,9,17,22
+Temporada2017,Jornada 19,17,Crystal Palace,16,19,4,4,11,29,35
+Temporada2017,Jornada 19,18,Sunderland,14,19,4,2,13,17,35
+Temporada2017,Jornada 19,19,Hull City,13,19,3,4,12,16,41
+Temporada2017,Jornada 19,20,Swansea City,12,19,3,3,13,21,44
+Temporada2017,Jornada 20,1,Chelsea,49,20,16,1,3,42,15
+Temporada2017,Jornada 20,2,Liverpool,44,20,13,5,2,48,23
+Temporada2017,Jornada 20,3,Tottenham,42,20,12,6,2,39,14
+Temporada2017,Jornada 20,4,Man. City,42,20,13,3,4,41,22
+Temporada2017,Jornada 20,5,Arsenal,41,20,12,5,3,44,22
+Temporada2017,Jornada 20,6,Man. Utd,39,20,11,6,3,31,19
+Temporada2017,Jornada 20,7,Everton,30,20,8,6,6,28,23
+Temporada2017,Jornada 20,8,West Bromwich A.,29,20,8,5,7,28,24
+Temporada2017,Jornada 20,9,AFC Bournemouth,25,20,7,4,9,29,34
+Temporada2017,Jornada 20,10,Southampton,24,20,6,6,8,19,25
+Temporada2017,Jornada 20,11,Stoke City,24,20,6,6,8,24,32
+Temporada2017,Jornada 20,12,Burnley,23,20,7,2,11,22,31
+Temporada2017,Jornada 20,13,West Ham,22,20,6,4,10,23,35
+Temporada2017,Jornada 20,14,Watford,22,20,6,4,10,23,36
+Temporada2017,Jornada 20,15,Leicester,21,20,5,6,9,24,31
+Temporada2017,Jornada 20,16,Middlesbrough,19,20,4,7,9,17,22
+Temporada2017,Jornada 20,17,Crystal Palace,16,20,4,4,12,30,37
+Temporada2017,Jornada 20,18,Sunderland,15,20,4,3,13,19,37
+Temporada2017,Jornada 20,19,Swansea City,15,20,4,3,13,23,45
+Temporada2017,Jornada 20,20,Hull City,13,20,3,4,13,17,44
+Temporada2017,Jornada 21,1,Chelsea,52,21,17,1,3,45,15
+Temporada2017,Jornada 21,2,Tottenham,45,21,13,6,2,43,14
+Temporada2017,Jornada 21,3,Liverpool,45,21,13,6,2,49,24
+Temporada2017,Jornada 21,4,Arsenal,44,21,13,5,3,48,22
+Temporada2017,Jornada 21,5,Man. City,42,21,13,3,5,41,26
+Temporada2017,Jornada 21,6,Man. Utd,40,21,11,7,3,32,20
+Temporada2017,Jornada 21,7,Everton,33,21,9,6,6,32,23
+Temporada2017,Jornada 21,8,West Bromwich A.,29,21,8,5,8,28,28
+Temporada2017,Jornada 21,9,Stoke City,27,21,7,6,8,27,33
+Temporada2017,Jornada 21,10,Burnley,26,21,8,2,11,23,31
+Temporada2017,Jornada 21,11,AFC Bournemouth,25,21,7,4,10,30,37
+Temporada2017,Jornada 21,12,West Ham,25,21,7,4,10,26,35
+Temporada2017,Jornada 21,13,Southampton,24,21,6,6,9,19,26
+Temporada2017,Jornada 21,14,Watford,23,21,6,5,10,23,36
+Temporada2017,Jornada 21,15,Leicester,21,21,5,6,10,24,34
+Temporada2017,Jornada 21,16,Middlesbrough,20,21,4,8,9,17,22
+Temporada2017,Jornada 21,17,Crystal Palace,16,21,4,4,13,30,40
+Temporada2017,Jornada 21,18,Hull City,16,21,4,4,13,20,45
+Temporada2017,Jornada 21,19,Sunderland,15,21,4,3,14,20,40
+Temporada2017,Jornada 21,20,Swansea City,15,21,4,3,14,23,49
+Temporada2017,Jornada 22,1,Chelsea,55,22,18,1,3,47,15
+Temporada2017,Jornada 22,2,Arsenal,47,22,14,5,3,50,23
+Temporada2017,Jornada 22,3,Tottenham,46,22,13,7,2,45,16
+Temporada2017,Jornada 22,4,Liverpool,45,22,13,6,3,51,27
+Temporada2017,Jornada 22,5,Man. City,43,22,13,4,5,43,28
+Temporada2017,Jornada 22,6,Man. Utd,41,22,11,8,3,33,21
+Temporada2017,Jornada 22,7,Everton,36,22,10,6,6,33,23
+Temporada2017,Jornada 22,8,West Bromwich A.,32,22,9,5,8,30,28
+Temporada2017,Jornada 22,9,Stoke City,28,22,7,7,8,28,34
+Temporada2017,Jornada 22,10,West Ham,28,22,8,4,10,29,36
+Temporada2017,Jornada 22,11,Southampton,27,22,7,6,9,22,26
+Temporada2017,Jornada 22,12,AFC Bournemouth,26,22,7,5,10,32,39
+Temporada2017,Jornada 22,13,Burnley,26,22,8,2,12,24,33
+Temporada2017,Jornada 22,14,Watford,24,22,6,6,10,25,38
+Temporada2017,Jornada 22,15,Leicester,21,22,5,6,11,24,37
+Temporada2017,Jornada 22,16,Middlesbrough,20,22,4,8,10,18,25
+Temporada2017,Jornada 22,17,Swansea City,18,22,5,3,14,26,51
+Temporada2017,Jornada 22,18,Crystal Palace,16,22,4,4,14,30,41
+Temporada2017,Jornada 22,19,Hull City,16,22,4,4,14,20,47
+Temporada2017,Jornada 22,20,Sunderland,15,22,4,3,15,20,42
+Temporada2017,Jornada 23,1,Chelsea,56,23,18,2,3,48,16
+Temporada2017,Jornada 23,2,Tottenham,47,23,13,8,2,45,16
+Temporada2017,Jornada 23,3,Arsenal,47,23,14,5,4,51,25
+Temporada2017,Jornada 23,4,Liverpool,46,23,13,7,3,52,28
+Temporada2017,Jornada 23,5,Man. City,46,23,14,4,5,47,28
+Temporada2017,Jornada 23,6,Man. Utd,42,23,11,9,3,33,21
+Temporada2017,Jornada 23,7,Everton,37,23,10,7,6,34,24
+Temporada2017,Jornada 23,8,West Bromwich A.,33,23,9,6,8,31,29
+Temporada2017,Jornada 23,9,Stoke City,29,23,7,8,8,29,35
+Temporada2017,Jornada 23,10,Burnley,29,23,9,2,12,25,33
+Temporada2017,Jornada 23,11,West Ham,28,23,8,4,11,29,40
+Temporada2017,Jornada 23,12,Southampton,27,23,7,6,10,23,28
+Temporada2017,Jornada 23,13,Watford,27,23,7,6,10,27,39
+Temporada2017,Jornada 23,14,AFC Bournemouth,26,23,7,5,11,32,41
+Temporada2017,Jornada 23,15,Middlesbrough,21,23,4,9,10,19,26
+Temporada2017,Jornada 23,16,Leicester,21,23,5,6,12,24,38
+Temporada2017,Jornada 23,17,Swansea City,21,23,6,3,14,28,52
+Temporada2017,Jornada 23,18,Crystal Palace,19,23,5,4,14,32,41
+Temporada2017,Jornada 23,19,Hull City,17,23,4,5,14,20,47
+Temporada2017,Jornada 23,20,Sunderland,16,23,4,4,15,20,42
+Temporada2017,Jornada 24,1,Chelsea,59,24,19,2,3,51,17
+Temporada2017,Jornada 24,2,Tottenham,50,24,14,8,2,46,16
+Temporada2017,Jornada 24,3,Man. City,49,24,15,4,5,49,29
+Temporada2017,Jornada 24,4,Arsenal,47,24,14,5,5,52,28
+Temporada2017,Jornada 24,5,Liverpool,46,24,13,7,4,52,30
+Temporada2017,Jornada 24,6,Man. Utd,45,24,12,9,3,36,21
+Temporada2017,Jornada 24,7,Everton,40,24,11,7,6,40,27
+Temporada2017,Jornada 24,8,West Bromwich A.,36,24,10,6,8,32,29
+Temporada2017,Jornada 24,9,West Ham,31,24,9,4,11,32,41
+Temporada2017,Jornada 24,10,Watford,30,24,8,6,10,29,40
+Temporada2017,Jornada 24,11,Stoke City,29,24,7,8,9,29,36
+Temporada2017,Jornada 24,12,Burnley,29,24,9,2,13,26,35
+Temporada2017,Jornada 24,13,Southampton,27,24,7,6,11,24,31
+Temporada2017,Jornada 24,14,AFC Bournemouth,26,24,7,5,12,35,47
+Temporada2017,Jornada 24,15,Middlesbrough,21,24,4,9,11,19,27
+Temporada2017,Jornada 24,16,Leicester,21,24,5,6,13,24,41
+Temporada2017,Jornada 24,17,Swansea City,21,24,6,3,15,29,54
+Temporada2017,Jornada 24,18,Hull City,20,24,5,5,14,22,47
+Temporada2017,Jornada 24,19,Crystal Palace,19,24,5,4,15,32,45
+Temporada2017,Jornada 24,20,Sunderland,19,24,5,4,15,24,42
+Temporada2017,Jornada 25,1,Chelsea,60,25,19,3,3,52,18
+Temporada2017,Jornada 25,2,Man. City,52,25,16,4,5,51,29
+Temporada2017,Jornada 25,3,Tottenham,50,25,14,8,3,46,18
+Temporada2017,Jornada 25,4,Arsenal,50,25,15,5,5,54,28
+Temporada2017,Jornada 25,5,Liverpool,49,25,14,7,4,54,30
+Temporada2017,Jornada 25,6,Man. Utd,48,25,13,9,3,38,21
+Temporada2017,Jornada 25,7,Everton,41,25,11,8,6,40,27
+Temporada2017,Jornada 25,8,West Bromwich A.,37,25,10,7,8,34,31
+Temporada2017,Jornada 25,9,Stoke City,32,25,8,8,9,30,36
+Temporada2017,Jornada 25,10,West Ham,32,25,9,5,11,34,43
+Temporada2017,Jornada 25,11,Southampton,30,25,8,6,11,28,31
+Temporada2017,Jornada 25,12,Burnley,30,25,9,3,13,27,36
+Temporada2017,Jornada 25,13,Watford,30,25,8,6,11,29,42
+Temporada2017,Jornada 25,14,AFC Bournemouth,26,25,7,5,13,35,49
+Temporada2017,Jornada 25,15,Swansea City,24,25,7,3,15,31,54
+Temporada2017,Jornada 25,16,Middlesbrough,22,25,4,10,11,19,27
+Temporada2017,Jornada 25,17,Leicester,21,25,5,6,14,24,43
+Temporada2017,Jornada 25,18,Hull City,20,25,5,5,15,22,49
+Temporada2017,Jornada 25,19,Crystal Palace,19,25,5,4,16,32,46
+Temporada2017,Jornada 25,20,Sunderland,19,25,5,4,16,24,46
+Temporada2017,Jornada 26,1,Chelsea,63,26,20,3,3,55,19
+Temporada2017,Jornada 26,2,Tottenham,53,26,15,8,3,50,18
+Temporada2017,Jornada 26,3,Arsenal,53,26,16,5,5,56,28
+Temporada2017,Jornada 26,4,Man. City,53,26,16,5,5,51,29
+Temporada2017,Jornada 26,5,Liverpool,49,26,14,7,5,55,33
+Temporada2017,Jornada 26,6,Man. Utd,49,26,13,10,3,38,21
+Temporada2017,Jornada 26,7,Everton,44,26,12,8,6,42,27
+Temporada2017,Jornada 26,8,West Bromwich A.,40,26,11,7,8,36,32
+Temporada2017,Jornada 26,9,West Ham,33,26,9,6,11,35,44
+Temporada2017,Jornada 26,10,Stoke City,32,26,8,8,10,30,40
+Temporada2017,Jornada 26,11,Burnley,31,26,9,4,13,28,37
+Temporada2017,Jornada 26,12,Watford,31,26,8,7,11,30,43
+Temporada2017,Jornada 26,13,Southampton,30,26,8,6,12,28,33
+Temporada2017,Jornada 26,14,AFC Bournemouth,26,26,7,5,14,36,51
+Temporada2017,Jornada 26,15,Leicester,24,26,6,6,14,27,44
+Temporada2017,Jornada 26,16,Swansea City,24,26,7,3,16,32,57
+Temporada2017,Jornada 26,17,Middlesbrough,22,26,4,10,12,19,28
+Temporada2017,Jornada 26,18,Crystal Palace,22,26,6,4,16,33,46
+Temporada2017,Jornada 26,19,Hull City,21,26,5,6,15,23,50
+Temporada2017,Jornada 26,20,Sunderland,19,26,5,4,17,24,48
+Temporada2017,Jornada 27,1,Chelsea,66,27,21,3,3,57,20
+Temporada2017,Jornada 27,2,Tottenham,56,27,16,8,3,53,20
+Temporada2017,Jornada 27,3,Man. City,56,27,17,5,5,53,29
+Temporada2017,Jornada 27,4,Arsenal,53,27,16,5,6,57,31
+Temporada2017,Jornada 27,5,Liverpool,52,27,15,7,5,58,34
+Temporada2017,Jornada 27,6,Man. Utd,50,27,13,11,3,39,22
+Temporada2017,Jornada 27,7,Everton,44,27,12,8,7,44,30
+Temporada2017,Jornada 27,8,West Bromwich A.,40,27,11,7,9,36,34
+Temporada2017,Jornada 27,9,Stoke City,35,27,9,8,10,32,40
+Temporada2017,Jornada 27,10,Southampton,33,27,9,6,12,32,36
+Temporada2017,Jornada 27,11,West Ham,33,27,9,6,12,36,46
+Temporada2017,Jornada 27,12,Burnley,31,27,9,4,14,30,40
+Temporada2017,Jornada 27,13,Watford,31,27,8,7,12,33,47
+Temporada2017,Jornada 27,14,AFC Bournemouth,27,27,7,6,14,37,52
+Temporada2017,Jornada 27,15,Leicester,27,27,7,6,14,30,45
+Temporada2017,Jornada 27,16,Swansea City,27,27,8,3,16,35,59
+Temporada2017,Jornada 27,17,Crystal Palace,25,27,7,4,16,35,46
+Temporada2017,Jornada 27,18,Middlesbrough,22,27,4,10,13,19,30
+Temporada2017,Jornada 27,19,Hull City,21,27,5,6,16,24,53
+Temporada2017,Jornada 27,20,Sunderland,19,27,5,4,18,24,50
+Temporada2017,Jornada 28,1,Chelsea,69,28,22,3,3,61,23
+Temporada2017,Jornada 28,2,Tottenham,59,28,17,8,3,54,20
+Temporada2017,Jornada 28,3,Man. City,57,28,17,6,5,53,29
+Temporada2017,Jornada 28,4,Arsenal,56,28,17,5,6,58,31
+Temporada2017,Jornada 28,5,Liverpool,55,28,16,7,5,60,35
+Temporada2017,Jornada 28,6,Man. Utd,51,28,13,12,3,39,22
+Temporada2017,Jornada 28,7,Everton,47,28,13,8,7,47,30
+Temporada2017,Jornada 28,8,West Bromwich A.,40,28,11,7,10,36,37
+Temporada2017,Jornada 28,9,Stoke City,36,28,9,9,10,32,40
+Temporada2017,Jornada 28,10,Southampton,34,28,9,7,12,32,36
+Temporada2017,Jornada 28,11,West Ham,33,28,9,6,13,38,49
+Temporada2017,Jornada 28,12,Burnley,31,28,9,4,15,31,42
+Temporada2017,Jornada 28,13,Watford,31,28,8,7,13,36,51
+Temporada2017,Jornada 28,14,AFC Bournemouth,30,28,8,6,14,40,54
+Temporada2017,Jornada 28,15,Leicester,27,28,7,6,15,30,46
+Temporada2017,Jornada 28,16,Swansea City,27,28,8,3,17,36,61
+Temporada2017,Jornada 28,17,Middlesbrough,25,28,5,10,13,20,30
+Temporada2017,Jornada 28,18,Crystal Palace,25,28,7,4,17,35,47
+Temporada2017,Jornada 28,19,Hull City,24,28,6,6,16,26,54
+Temporada2017,Jornada 28,20,Sunderland,19,28,5,4,19,24,51
+Temporada2017,Jornada 29,1,Chelsea,72,29,23,3,3,63,24
+Temporada2017,Jornada 29,2,Tottenham,62,29,18,8,3,56,21
+Temporada2017,Jornada 29,3,Man. City,58,29,17,7,5,54,30
+Temporada2017,Jornada 29,4,Liverpool,56,29,16,8,5,61,36
+Temporada2017,Jornada 29,5,Arsenal,56,29,17,5,7,59,34
+Temporada2017,Jornada 29,6,Man. Utd,54,29,14,12,3,42,23
+Temporada2017,Jornada 29,7,Everton,50,29,14,8,7,51,30
+Temporada2017,Jornada 29,8,West Bromwich A.,43,29,12,7,10,39,38
+Temporada2017,Jornada 29,9,Stoke City,36,29,9,9,11,33,42
+Temporada2017,Jornada 29,10,Southampton,34,29,9,7,13,33,38
+Temporada2017,Jornada 29,11,AFC Bournemouth,33,29,9,6,14,42,54
+Temporada2017,Jornada 29,12,West Ham,33,29,9,6,14,40,52
+Temporada2017,Jornada 29,13,Burnley,32,29,9,5,15,31,42
+Temporada2017,Jornada 29,14,Watford,31,29,8,7,14,36,52
+Temporada2017,Jornada 29,15,Leicester,30,29,8,6,15,33,48
+Temporada2017,Jornada 29,16,Crystal Palace,28,29,8,4,17,36,47
+Temporada2017,Jornada 29,17,Swansea City,27,29,8,3,18,36,63
+Temporada2017,Jornada 29,18,Middlesbrough,25,29,5,10,14,21,33
+Temporada2017,Jornada 29,19,Hull City,24,29,6,6,17,26,58
+Temporada2017,Jornada 29,20,Sunderland,20,29,5,5,19,24,51
+Temporada2017,Jornada 30,1,Chelsea,72,30,23,3,4,64,26
+Temporada2017,Jornada 30,2,Tottenham,65,30,19,8,3,58,21
+Temporada2017,Jornada 30,3,Liverpool,59,30,17,8,5,64,37
+Temporada2017,Jornada 30,4,Man. City,59,30,17,8,5,56,32
+Temporada2017,Jornada 30,5,Arsenal,57,30,17,6,7,61,36
+Temporada2017,Jornada 30,6,Man. Utd,55,30,14,13,3,42,23
+Temporada2017,Jornada 30,7,Everton,50,30,14,8,8,52,33
+Temporada2017,Jornada 30,8,West Bromwich A.,44,30,12,8,10,39,38
+Temporada2017,Jornada 30,9,Stoke City,36,30,9,9,12,33,44
+Temporada2017,Jornada 30,10,Southampton,35,30,9,8,13,33,38
+Temporada2017,Jornada 30,11,AFC Bournemouth,34,30,9,7,14,42,54
+Temporada2017,Jornada 30,12,Watford,34,30,9,7,14,37,52
+Temporada2017,Jornada 30,13,West Ham,33,30,9,6,15,41,54
+Temporada2017,Jornada 30,14,Leicester,33,30,9,6,15,35,48
+Temporada2017,Jornada 30,15,Burnley,32,30,9,5,16,31,44
+Temporada2017,Jornada 30,16,Crystal Palace,31,30,9,4,17,38,48
+Temporada2017,Jornada 30,17,Swansea City,28,30,8,4,18,36,63
+Temporada2017,Jornada 30,18,Hull City,27,30,7,6,17,28,59
+Temporada2017,Jornada 30,19,Middlesbrough,26,30,5,11,14,21,33
+Temporada2017,Jornada 30,20,Sunderland,20,30,5,5,20,24,52
+Temporada2017,Jornada 31,1,Chelsea,75,31,24,3,4,66,27
+Temporada2017,Jornada 31,2,Tottenham,68,31,20,8,3,61,22
+Temporada2017,Jornada 31,3,Arsenal,60,31,18,6,7,64,36
+Temporada2017,Jornada 31,4,Liverpool,60,31,17,9,5,66,39
+Temporada2017,Jornada 31,5,Man. City,59,31,17,8,6,57,34
+Temporada2017,Jornada 31,6,Man. Utd,56,31,14,14,3,43,24
+Temporada2017,Jornada 31,7,Everton,51,31,14,9,8,53,34
+Temporada2017,Jornada 31,8,West Bromwich A.,44,31,12,8,11,39,40
+Temporada2017,Jornada 31,9,Southampton,38,31,10,8,13,36,39
+Temporada2017,Jornada 31,10,Watford,37,31,10,7,14,39,52
+Temporada2017,Jornada 31,11,Leicester,36,31,10,6,15,37,48
+Temporada2017,Jornada 31,12,Stoke City,36,31,9,9,13,33,45
+Temporada2017,Jornada 31,13,AFC Bournemouth,35,31,9,8,14,44,56
+Temporada2017,Jornada 31,14,Burnley,35,31,10,5,16,32,44
+Temporada2017,Jornada 31,15,West Ham,33,31,9,6,16,41,57
+Temporada2017,Jornada 31,16,Crystal Palace,31,31,9,4,18,39,51
+Temporada2017,Jornada 31,17,Hull City,30,31,8,6,17,32,61
+Temporada2017,Jornada 31,18,Swansea City,28,31,8,4,19,37,66
+Temporada2017,Jornada 31,19,Middlesbrough,26,31,5,11,15,23,37
+Temporada2017,Jornada 31,20,Sunderland,20,31,5,5,21,24,54
+Temporada2017,Jornada 32,1,Chelsea,78,32,25,3,4,69,28
+Temporada2017,Jornada 32,2,Tottenham,71,32,21,8,3,65,22
+Temporada2017,Jornada 32,3,Liverpool,63,32,18,9,5,68,40
+Temporada2017,Jornada 32,4,Man. City,62,32,18,8,6,60,35
+Temporada2017,Jornada 32,5,Arsenal,60,32,18,6,8,64,39
+Temporada2017,Jornada 32,6,Man. Utd,59,32,15,14,3,46,24
+Temporada2017,Jornada 32,7,Everton,54,32,15,9,8,57,36
+Temporada2017,Jornada 32,8,West Bromwich A.,44,32,12,8,12,39,41
+Temporada2017,Jornada 32,9,Southampton,41,32,11,8,13,37,39
+Temporada2017,Jornada 32,10,Watford,37,32,10,7,15,39,56
+Temporada2017,Jornada 32,11,Burnley,36,32,10,6,16,32,44
+Temporada2017,Jornada 32,12,Leicester,36,32,10,6,16,39,52
+Temporada2017,Jornada 32,13,Stoke City,36,32,9,9,14,34,47
+Temporada2017,Jornada 32,14,West Ham,36,32,10,6,16,42,57
+Temporada2017,Jornada 32,15,AFC Bournemouth,35,32,9,8,15,45,59
+Temporada2017,Jornada 32,16,Crystal Palace,34,32,10,4,18,42,51
+Temporada2017,Jornada 32,17,Hull City,30,32,8,6,18,33,64
+Temporada2017,Jornada 32,18,Swansea City,28,32,8,4,20,37,67
+Temporada2017,Jornada 32,19,Middlesbrough,27,32,5,12,15,23,37
+Temporada2017,Jornada 32,20,Sunderland,20,32,5,5,22,24,57
+Temporada2017,Jornada 33,1,Chelsea,78,33,25,3,5,69,30
+Temporada2017,Jornada 33,2,Tottenham,74,33,22,8,3,69,22
+Temporada2017,Jornada 33,3,Liverpool,66,33,19,9,5,69,40
+Temporada2017,Jornada 33,4,Man. City,65,33,19,8,6,63,35
+Temporada2017,Jornada 33,5,Arsenal,63,33,19,6,8,66,40
+Temporada2017,Jornada 33,6,Man. Utd,62,33,16,14,3,48,24
+Temporada2017,Jornada 33,7,Everton,57,33,16,9,8,60,37
+Temporada2017,Jornada 33,8,West Bromwich A.,44,33,12,8,13,39,42
+Temporada2017,Jornada 33,9,Southampton,41,33,11,8,14,37,42
+Temporada2017,Jornada 33,10,Watford,40,33,11,7,15,40,56
+Temporada2017,Jornada 33,11,Stoke City,39,33,10,9,14,37,48
+Temporada2017,Jornada 33,12,Leicester,37,33,10,7,16,41,54
+Temporada2017,Jornada 33,13,West Ham,37,33,10,7,16,44,59
+Temporada2017,Jornada 33,14,Burnley,36,33,10,6,17,33,47
+Temporada2017,Jornada 33,15,Crystal Palace,35,33,10,5,18,44,53
+Temporada2017,Jornada 33,16,AFC Bournemouth,35,33,9,8,16,45,63
+Temporada2017,Jornada 33,17,Hull City,30,33,8,6,19,34,67
+Temporada2017,Jornada 33,18,Swansea City,28,33,8,4,21,37,68
+Temporada2017,Jornada 33,19,Middlesbrough,27,33,5,12,16,24,39
+Temporada2017,Jornada 33,20,Sunderland,21,33,5,6,22,26,59
+Temporada2017,Jornada 34,1,Chelsea,81,34,26,3,5,73,32
+Temporada2017,Jornada 34,2,Tottenham,77,34,23,8,3,75,23
+Temporada2017,Jornada 34,3,Man. City,68,34,20,8,6,66,36
+Temporada2017,Jornada 34,4,Liverpool,66,34,19,9,6,70,42
+Temporada2017,Jornada 34,5,Arsenal,66,34,20,6,8,68,40
+Temporada2017,Jornada 34,6,Man. Utd,65,34,17,14,3,50,24
+Temporada2017,Jornada 34,7,Everton,58,34,16,10,8,60,37
+Temporada2017,Jornada 34,8,West Bromwich A.,44,34,12,8,14,40,45
+Temporada2017,Jornada 34,9,Southampton,41,34,11,8,15,39,46
+Temporada2017,Jornada 34,10,Watford,40,34,11,7,16,40,58
+Temporada2017,Jornada 34,11,Stoke City,39,34,10,9,15,37,50
+Temporada2017,Jornada 34,12,Crystal Palace,38,34,11,5,18,46,54
+Temporada2017,Jornada 34,13,AFC Bournemouth,38,34,10,8,16,49,63
+Temporada2017,Jornada 34,14,West Ham,38,34,10,8,16,44,59
+Temporada2017,Jornada 34,15,Leicester,37,34,10,7,17,42,60
+Temporada2017,Jornada 34,16,Burnley,36,34,10,6,18,33,49
+Temporada2017,Jornada 34,17,Hull City,33,34,9,6,19,36,67
+Temporada2017,Jornada 34,18,Swansea City,31,34,9,4,21,39,68
+Temporada2017,Jornada 34,19,Middlesbrough,27,34,5,12,17,24,43
+Temporada2017,Jornada 34,20,Sunderland,21,34,5,6,23,26,61
+Temporada2017,Jornada 35,1,Chelsea,84,35,27,3,5,76,32
+Temporada2017,Jornada 35,2,Tottenham,77,34,23,8,3,71,22
+Temporada2017,Jornada 35,3,Man. City,69,35,20,9,6,68,38
+Temporada2017,Jornada 35,4,Liverpool,69,35,20,9,6,71,42
+Temporada2017,Jornada 35,5,Arsenal,66,35,20,6,9,68,42
+Temporada2017,Jornada 35,6,Man. Utd,66,35,17,15,3,51,25
+Temporada2017,Jornada 35,7,Everton,58,35,16,10,9,60,40
+Temporada2017,Jornada 35,8,West Bromwich A.,44,35,12,8,15,40,46
+Temporada2017,Jornada 35,9,Southampton,42,35,11,9,15,39,46
+Temporada2017,Jornada 35,10,AFC Bournemouth,41,35,11,8,16,50,63
+Temporada2017,Jornada 35,11,Leicester,40,34,11,7,16,42,54
+Temporada2017,Jornada 35,12,Stoke City,40,35,10,10,15,37,50
+Temporada2017,Jornada 35,13,Watford,40,35,11,7,17,40,59
+Temporada2017,Jornada 35,14,Burnley,39,35,11,6,18,35,49
+Temporada2017,Jornada 35,15,West Ham,39,35,10,9,16,44,59
+Temporada2017,Jornada 35,16,Crystal Palace,38,35,11,5,19,46,56
+Temporada2017,Jornada 35,17,Hull City,34,35,9,7,19,36,67
+Temporada2017,Jornada 35,18,Swansea City,32,35,9,5,21,40,69
+Temporada2017,Jornada 35,19,Middlesbrough,28,35,5,13,17,26,45
+Temporada2017,Jornada 35,20,Sunderland,21,35,5,6,24,26,62
+Temporada2017,Jornada 36,1,Chelsea,87,36,28,3,5,79,32
+Temporada2017,Jornada 36,2,Tottenham,77,35,23,8,4,71,23
+Temporada2017,Jornada 36,3,Man. City,72,36,21,9,6,73,38
+Temporada2017,Jornada 36,4,Liverpool,70,36,20,10,6,71,42
+Temporada2017,Jornada 36,5,Arsenal,69,36,21,6,9,70,42
+Temporada2017,Jornada 36,6,Man. Utd,66,36,17,15,4,51,27
+Temporada2017,Jornada 36,7,Everton,58,36,16,10,10,60,41
+Temporada2017,Jornada 36,8,West Bromwich A.,45,36,12,9,15,42,48
+Temporada2017,Jornada 36,9,Southampton,43,36,11,10,15,39,46
+Temporada2017,Jornada 36,10,Leicester,43,35,12,7,16,45,54
+Temporada2017,Jornada 36,11,AFC Bournemouth,42,36,11,9,16,52,65
+Temporada2017,Jornada 36,12,West Ham,42,36,11,9,16,45,59
+Temporada2017,Jornada 36,13,Stoke City,41,36,10,11,15,39,52
+Temporada2017,Jornada 36,14,Burnley,40,36,11,7,18,37,51
+Temporada2017,Jornada 36,15,Watford,40,36,11,7,18,40,62
+Temporada2017,Jornada 36,16,Crystal Palace,38,36,11,5,20,46,61
+Temporada2017,Jornada 36,17,Swansea City,35,36,10,5,21,41,69
+Temporada2017,Jornada 36,18,Hull City,34,36,9,7,20,36,69
+Temporada2017,Jornada 36,19,Middlesbrough,28,36,5,13,18,26,48
+Temporada2017,Jornada 36,20,Sunderland,24,36,6,6,24,28,62
+Temporada2017,Jornada 37,1,Chelsea,90,37,29,3,5,80,32
+Temporada2017,Jornada 37,2,Tottenham,80,36,24,8,4,73,24
+Temporada2017,Jornada 37,3,Man. City,75,37,22,9,6,75,39
+Temporada2017,Jornada 37,4,Liverpool,73,37,21,10,6,75,42
+Temporada2017,Jornada 37,5,Arsenal,72,37,22,6,9,74,43
+Temporada2017,Jornada 37,6,Man. Utd,66,37,17,15,5,52,29
+Temporada2017,Jornada 37,7,Everton,61,37,17,10,10,61,41
+Temporada2017,Jornada 37,8,Southampton,46,37,12,10,15,41,47
+Temporada2017,Jornada 37,9,West Bromwich A.,45,37,12,9,16,42,49
+Temporada2017,Jornada 37,10,AFC Bournemouth,45,37,12,9,16,54,66
+Temporada2017,Jornada 37,11,Leicester,43,36,12,7,17,46,56
+Temporada2017,Jornada 37,12,West Ham,42,37,11,9,17,45,63
+Temporada2017,Jornada 37,13,Crystal Palace,41,37,12,5,20,50,61
+Temporada2017,Jornada 37,14,Stoke City,41,37,10,11,16,40,56
+Temporada2017,Jornada 37,15,Burnley,40,37,11,7,19,38,53
+Temporada2017,Jornada 37,16,Watford,40,37,11,7,19,40,63
+Temporada2017,Jornada 37,17,Swansea City,38,37,11,5,21,43,69
+Temporada2017,Jornada 37,18,Hull City,34,37,9,7,21,36,73
+Temporada2017,Jornada 37,19,Middlesbrough,28,37,5,13,19,27,50
+Temporada2017,Jornada 37,20,Sunderland,24,37,6,6,25,28,64
+Temporada2017,Jornada 38,1,Chelsea,93,38,30,3,5,85,33
+Temporada2017,Jornada 38,2,Tottenham,86,38,26,8,4,86,26
+Temporada2017,Jornada 38,3,Man. City,78,38,23,9,6,80,39
+Temporada2017,Jornada 38,4,Liverpool,76,38,22,10,6,78,42
+Temporada2017,Jornada 38,5,Arsenal,75,38,23,6,9,77,44
+Temporada2017,Jornada 38,6,Man. Utd,69,38,18,15,5,54,29
+Temporada2017,Jornada 38,7,Everton,61,38,17,10,11,62,44
+Temporada2017,Jornada 38,8,Southampton,46,38,12,10,16,41,48
+Temporada2017,Jornada 38,9,AFC Bournemouth,46,38,12,10,16,55,67
+Temporada2017,Jornada 38,10,West Bromwich A.,45,38,12,9,17,43,51
+Temporada2017,Jornada 38,11,West Ham,45,38,12,9,17,47,64
+Temporada2017,Jornada 38,12,Leicester,44,38,12,8,18,48,63
+Temporada2017,Jornada 38,13,Stoke City,44,38,11,11,16,41,56
+Temporada2017,Jornada 38,14,Crystal Palace,41,38,12,5,21,50,63
+Temporada2017,Jornada 38,15,Swansea City,41,38,12,5,21,45,70
+Temporada2017,Jornada 38,16,Burnley,40,38,11,7,20,39,55
+Temporada2017,Jornada 38,17,Watford,40,38,11,7,20,40,68
+Temporada2017,Jornada 38,18,Hull City,34,38,9,7,22,37,80
+Temporada2017,Jornada 38,19,Middlesbrough,28,38,5,13,20,27,53
+Temporada2017,Jornada 38,20,Sunderland,24,38,6,6,26,29,69

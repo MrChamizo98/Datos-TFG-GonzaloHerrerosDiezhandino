@@ -1,0 +1,2737 @@
+clasificacion_temporada,clasificacion_jornada,clasificacion_posicion,clasificacion_equipo,clasificacion_puntos,clasificacion_partidos_jugados,clasificacion_ganados,clasificacion_empatados,clasificacion_perdidos,clasificacion_goles_favor,clasificacion_goles_contra
+Temporada2020,Jornada 1,1,B. Dortmund,3,1,1,0,0,5,1
+Temporada2020,Jornada 1,2,RB Leipzig,3,1,1,0,0,4,0
+Temporada2020,Jornada 1,3,SC Freiburg,3,1,1,0,0,3,0
+Temporada2020,Jornada 1,4,Fortuna,3,1,1,0,0,3,1
+Temporada2020,Jornada 1,5,B. Leverkusen,3,1,1,0,0,3,2
+Temporada2020,Jornada 1,6,Wolfsburg,3,1,1,0,0,2,1
+Temporada2020,Jornada 1,7,Eintracht,3,1,1,0,0,1,0
+Temporada2020,Jornada 1,8,Bayern München,1,1,0,1,0,2,2
+Temporada2020,Jornada 1,9,Hertha BSC,1,1,0,1,0,2,2
+Temporada2020,Jornada 1,10,Monchengladbach,1,1,0,1,0,0,0
+Temporada2020,Jornada 1,11,Schalke 04,1,1,0,1,0,0,0
+Temporada2020,Jornada 1,12,Paderborn,0,1,0,0,1,2,3
+Temporada2020,Jornada 1,13,Köln,0,1,0,0,1,1,2
+Temporada2020,Jornada 1,14,Hoffenheim,0,1,0,0,1,0,1
+Temporada2020,Jornada 1,15,Werder Bremen,0,1,0,0,1,1,3
+Temporada2020,Jornada 1,16,Mainz 05,0,1,0,0,1,0,3
+Temporada2020,Jornada 1,17,FC Augsburg,0,1,0,0,1,1,5
+Temporada2020,Jornada 1,18,Union Berlin,0,1,0,0,1,0,4
+Temporada2020,Jornada 2,1,B. Dortmund,6,2,2,0,0,8,2
+Temporada2020,Jornada 2,2,RB Leipzig,6,2,2,0,0,6,1
+Temporada2020,Jornada 2,3,SC Freiburg,6,2,2,0,0,6,1
+Temporada2020,Jornada 2,4,Wolfsburg,6,2,2,0,0,5,1
+Temporada2020,Jornada 2,5,B. Leverkusen,6,2,2,0,0,6,3
+Temporada2020,Jornada 2,6,Bayern München,4,2,1,1,0,5,2
+Temporada2020,Jornada 2,7,Monchengladbach,4,2,1,1,0,3,1
+Temporada2020,Jornada 2,8,Fortuna,3,2,1,0,1,4,4
+Temporada2020,Jornada 2,9,Hoffenheim,3,2,1,0,1,3,3
+Temporada2020,Jornada 2,10,Eintracht,3,2,1,0,1,2,2
+Temporada2020,Jornada 2,11,Hertha BSC,1,2,0,1,1,2,5
+Temporada2020,Jornada 2,12,Schalke 04,1,2,0,1,1,0,3
+Temporada2020,Jornada 2,13,FC Augsburg,1,2,0,1,1,2,6
+Temporada2020,Jornada 2,14,Union Berlin,1,2,0,1,1,1,5
+Temporada2020,Jornada 2,15,Werder Bremen,0,2,0,0,2,3,6
+Temporada2020,Jornada 2,16,Paderborn,0,2,0,0,2,3,6
+Temporada2020,Jornada 2,17,Köln,0,2,0,0,2,2,5
+Temporada2020,Jornada 2,18,Mainz 05,0,2,0,0,2,1,6
+Temporada2020,Jornada 3,1,RB Leipzig,9,3,3,0,0,9,2
+Temporada2020,Jornada 3,2,Bayern München,7,3,2,1,0,11,3
+Temporada2020,Jornada 3,3,Wolfsburg,7,3,2,1,0,6,2
+Temporada2020,Jornada 3,4,B. Leverkusen,7,3,2,1,0,6,3
+Temporada2020,Jornada 3,5,B. Dortmund,6,3,2,0,1,9,5
+Temporada2020,Jornada 3,6,SC Freiburg,6,3,2,0,1,7,3
+Temporada2020,Jornada 3,7,Eintracht,6,3,2,0,1,4,3
+Temporada2020,Jornada 3,8,Monchengladbach,4,3,1,1,1,4,4
+Temporada2020,Jornada 3,9,Schalke 04,4,3,1,1,1,3,3
+Temporada2020,Jornada 3,10,Hoffenheim,4,3,1,1,1,3,3
+Temporada2020,Jornada 3,11,Union Berlin,4,3,1,1,1,4,6
+Temporada2020,Jornada 3,12,Fortuna,3,3,1,0,2,5,6
+Temporada2020,Jornada 3,13,Werder Bremen,3,3,1,0,2,6,8
+Temporada2020,Jornada 3,14,Köln,3,3,1,0,2,4,6
+Temporada2020,Jornada 3,15,Paderborn,1,3,0,1,2,4,7
+Temporada2020,Jornada 3,16,FC Augsburg,1,3,0,1,2,4,9
+Temporada2020,Jornada 3,17,Hertha BSC,1,3,0,1,2,2,8
+Temporada2020,Jornada 3,18,Mainz 05,0,3,0,0,3,2,12
+Temporada2020,Jornada 4,1,RB Leipzig,10,4,3,1,0,10,3
+Temporada2020,Jornada 4,2,B. Dortmund,9,4,3,0,1,13,5
+Temporada2020,Jornada 4,3,SC Freiburg,9,4,3,0,1,10,3
+Temporada2020,Jornada 4,4,Bayern München,8,4,2,2,0,12,4
+Temporada2020,Jornada 4,5,Wolfsburg,8,4,2,2,0,7,3
+Temporada2020,Jornada 4,6,Schalke 04,7,4,2,1,1,8,4
+Temporada2020,Jornada 4,7,Monchengladbach,7,4,2,1,1,5,4
+Temporada2020,Jornada 4,8,B. Leverkusen,7,4,2,1,1,6,7
+Temporada2020,Jornada 4,9,Eintracht,6,4,2,0,2,5,5
+Temporada2020,Jornada 4,10,Werder Bremen,6,4,2,0,2,8,9
+Temporada2020,Jornada 4,11,Fortuna,4,4,1,1,2,6,7
+Temporada2020,Jornada 4,12,Union Berlin,4,4,1,1,2,5,8
+Temporada2020,Jornada 4,13,Hoffenheim,4,4,1,1,2,3,6
+Temporada2020,Jornada 4,14,FC Augsburg,4,4,1,1,2,6,10
+Temporada2020,Jornada 4,15,Köln,3,4,1,0,3,4,7
+Temporada2020,Jornada 4,16,Mainz 05,3,4,1,0,3,4,13
+Temporada2020,Jornada 4,17,Paderborn,1,4,0,1,3,5,12
+Temporada2020,Jornada 4,18,Hertha BSC,1,4,0,1,3,3,10
+Temporada2020,Jornada 5,1,RB Leipzig,13,5,4,1,0,13,3
+Temporada2020,Jornada 5,2,Bayern München,11,5,3,2,0,16,4
+Temporada2020,Jornada 5,3,B. Dortmund,10,5,3,1,1,15,7
+Temporada2020,Jornada 5,4,SC Freiburg,10,5,3,1,1,11,4
+Temporada2020,Jornada 5,5,Schalke 04,10,5,3,1,1,10,5
+Temporada2020,Jornada 5,6,Monchengladbach,10,5,3,1,1,7,5
+Temporada2020,Jornada 5,7,B. Leverkusen,10,5,3,1,1,8,7
+Temporada2020,Jornada 5,8,Wolfsburg,9,5,2,3,0,8,4
+Temporada2020,Jornada 5,9,Eintracht,7,5,2,1,2,7,7
+Temporada2020,Jornada 5,10,Werder Bremen,6,5,2,0,3,8,12
+Temporada2020,Jornada 5,11,Hoffenheim,5,5,1,2,2,4,7
+Temporada2020,Jornada 5,12,FC Augsburg,5,5,1,2,2,7,11
+Temporada2020,Jornada 5,13,Fortuna,4,5,1,1,3,7,9
+Temporada2020,Jornada 5,14,Union Berlin,4,5,1,1,3,5,10
+Temporada2020,Jornada 5,15,Hertha BSC,4,5,1,1,3,5,11
+Temporada2020,Jornada 5,16,Köln,3,5,1,0,4,4,11
+Temporada2020,Jornada 5,17,Mainz 05,3,5,1,0,4,5,15
+Temporada2020,Jornada 5,18,Paderborn,1,5,0,1,4,6,14
+Temporada2020,Jornada 6,1,Bayern München,14,6,4,2,0,19,6
+Temporada2020,Jornada 6,2,RB Leipzig,13,6,4,1,1,14,6
+Temporada2020,Jornada 6,3,SC Freiburg,13,6,4,1,1,13,5
+Temporada2020,Jornada 6,4,Schalke 04,13,6,4,1,1,13,6
+Temporada2020,Jornada 6,5,Monchengladbach,13,6,4,1,1,10,5
+Temporada2020,Jornada 6,6,B. Leverkusen,13,6,4,1,1,11,7
+Temporada2020,Jornada 6,7,Wolfsburg,12,6,3,3,0,9,4
+Temporada2020,Jornada 6,8,B. Dortmund,11,6,3,2,1,17,9
+Temporada2020,Jornada 6,9,Eintracht,10,6,3,1,2,9,8
+Temporada2020,Jornada 6,10,Hertha BSC,7,6,2,1,3,9,11
+Temporada2020,Jornada 6,11,Werder Bremen,7,6,2,1,3,10,14
+Temporada2020,Jornada 6,12,Hoffenheim,5,6,1,2,3,4,10
+Temporada2020,Jornada 6,13,FC Augsburg,5,6,1,2,3,7,14
+Temporada2020,Jornada 6,14,Fortuna,4,6,1,1,4,8,11
+Temporada2020,Jornada 6,15,Union Berlin,4,6,1,1,4,6,12
+Temporada2020,Jornada 6,16,Mainz 05,3,6,1,0,5,5,16
+Temporada2020,Jornada 6,17,Köln,3,6,1,0,5,4,15
+Temporada2020,Jornada 6,18,Paderborn,1,6,0,1,5,8,17
+Temporada2020,Jornada 7,1,Monchengladbach,16,7,5,1,1,15,6
+Temporada2020,Jornada 7,2,Wolfsburg,15,7,4,3,0,10,4
+Temporada2020,Jornada 7,3,Bayern München,14,7,4,2,1,20,8
+Temporada2020,Jornada 7,4,RB Leipzig,14,7,4,2,1,15,7
+Temporada2020,Jornada 7,5,SC Freiburg,14,7,4,2,1,15,7
+Temporada2020,Jornada 7,6,Schalke 04,14,7,4,2,1,14,7
+Temporada2020,Jornada 7,7,B. Leverkusen,14,7,4,2,1,12,8
+Temporada2020,Jornada 7,8,B. Dortmund,12,7,3,3,1,19,11
+Temporada2020,Jornada 7,9,Eintracht,11,7,3,2,2,11,10
+Temporada2020,Jornada 7,10,Hertha BSC,10,7,3,1,3,12,12
+Temporada2020,Jornada 7,11,Werder Bremen,8,7,2,2,3,12,16
+Temporada2020,Jornada 7,12,Hoffenheim,8,7,2,2,3,6,11
+Temporada2020,Jornada 7,13,Mainz 05,6,7,2,0,5,7,17
+Temporada2020,Jornada 7,14,FC Augsburg,5,7,1,2,4,8,19
+Temporada2020,Jornada 7,15,Fortuna,4,7,1,1,5,9,14
+Temporada2020,Jornada 7,16,Union Berlin,4,7,1,1,5,6,13
+Temporada2020,Jornada 7,17,Köln,4,7,1,1,5,5,16
+Temporada2020,Jornada 7,18,Paderborn,1,7,0,1,6,9,19
+Temporada2020,Jornada 8,1,Monchengladbach,16,8,5,1,2,15,7
+Temporada2020,Jornada 8,2,Wolfsburg,16,8,4,4,0,11,5
+Temporada2020,Jornada 8,3,Bayern München,15,8,4,3,1,22,10
+Temporada2020,Jornada 8,4,B. Dortmund,15,8,4,3,1,20,11
+Temporada2020,Jornada 8,5,RB Leipzig,15,8,4,3,1,16,8
+Temporada2020,Jornada 8,6,SC Freiburg,14,8,4,2,2,15,9
+Temporada2020,Jornada 8,7,Schalke 04,14,8,4,2,2,14,9
+Temporada2020,Jornada 8,8,Eintracht,14,8,4,2,2,14,10
+Temporada2020,Jornada 8,9,B. Leverkusen,14,8,4,2,2,12,11
+Temporada2020,Jornada 8,10,Hertha BSC,11,8,3,2,3,13,13
+Temporada2020,Jornada 8,11,Hoffenheim,11,8,3,2,3,8,11
+Temporada2020,Jornada 8,12,Werder Bremen,9,8,2,3,3,13,17
+Temporada2020,Jornada 8,13,Fortuna,7,8,2,1,5,10,14
+Temporada2020,Jornada 8,14,Union Berlin,7,8,2,1,5,8,13
+Temporada2020,Jornada 8,15,Köln,7,8,2,1,5,8,16
+Temporada2020,Jornada 8,16,FC Augsburg,6,8,1,3,4,10,21
+Temporada2020,Jornada 8,17,Mainz 05,6,8,2,0,6,7,18
+Temporada2020,Jornada 8,18,Paderborn,1,8,0,1,7,9,22
+Temporada2020,Jornada 9,1,Monchengladbach,19,9,6,1,2,19,9
+Temporada2020,Jornada 9,2,Bayern München,18,9,5,3,1,24,11
+Temporada2020,Jornada 9,3,SC Freiburg,17,9,5,2,2,17,10
+Temporada2020,Jornada 9,4,Wolfsburg,17,9,4,5,0,11,5
+Temporada2020,Jornada 9,5,B. Dortmund,16,9,4,4,1,20,11
+Temporada2020,Jornada 9,6,RB Leipzig,15,9,4,3,2,17,10
+Temporada2020,Jornada 9,7,Schalke 04,15,9,4,3,2,14,9
+Temporada2020,Jornada 9,8,B. Leverkusen,15,9,4,3,2,14,13
+Temporada2020,Jornada 9,9,Eintracht,14,9,4,2,3,16,14
+Temporada2020,Jornada 9,10,Hoffenheim,14,9,4,2,3,11,13
+Temporada2020,Jornada 9,11,Hertha BSC,11,9,3,2,4,15,16
+Temporada2020,Jornada 9,12,Werder Bremen,10,9,2,4,3,15,19
+Temporada2020,Jornada 9,13,Mainz 05,9,9,3,0,6,10,19
+Temporada2020,Jornada 9,14,Fortuna,7,9,2,1,6,10,16
+Temporada2020,Jornada 9,15,Union Berlin,7,9,2,1,6,9,15
+Temporada2020,Jornada 9,16,Köln,7,9,2,1,6,9,19
+Temporada2020,Jornada 9,17,FC Augsburg,7,9,1,4,4,10,21
+Temporada2020,Jornada 9,18,Paderborn,4,9,1,1,7,11,22
+Temporada2020,Jornada 10,1,Monchengladbach,22,10,7,1,2,21,10
+Temporada2020,Jornada 10,2,B. Dortmund,19,10,5,4,1,23,11
+Temporada2020,Jornada 10,3,RB Leipzig,18,10,5,3,2,25,10
+Temporada2020,Jornada 10,4,Bayern München,18,10,5,3,2,25,16
+Temporada2020,Jornada 10,5,SC Freiburg,18,10,5,3,2,19,12
+Temporada2020,Jornada 10,6,Schalke 04,18,10,5,3,2,17,11
+Temporada2020,Jornada 10,7,Eintracht,17,10,5,2,3,21,15
+Temporada2020,Jornada 10,8,Wolfsburg,17,10,4,5,1,11,8
+Temporada2020,Jornada 10,9,Hoffenheim,17,10,5,2,3,14,13
+Temporada2020,Jornada 10,10,B. Leverkusen,15,10,4,3,3,15,15
+Temporada2020,Jornada 10,11,Hertha BSC,11,10,3,2,5,15,17
+Temporada2020,Jornada 10,12,Werder Bremen,11,10,2,5,3,17,21
+Temporada2020,Jornada 10,13,Fortuna,10,10,3,1,6,12,16
+Temporada2020,Jornada 10,14,Union Berlin,10,10,3,1,6,10,15
+Temporada2020,Jornada 10,15,Mainz 05,9,10,3,0,7,10,27
+Temporada2020,Jornada 10,16,FC Augsburg,7,10,1,4,5,12,24
+Temporada2020,Jornada 10,17,Köln,7,10,2,1,7,9,21
+Temporada2020,Jornada 10,18,Paderborn,4,10,1,1,8,11,25
+Temporada2020,Jornada 11,1,Monchengladbach,25,11,8,1,2,24,11
+Temporada2020,Jornada 11,2,RB Leipzig,21,11,6,3,2,29,12
+Temporada2020,Jornada 11,3,Bayern München,21,11,6,3,2,29,16
+Temporada2020,Jornada 11,4,SC Freiburg,21,11,6,3,2,20,12
+Temporada2020,Jornada 11,5,Hoffenheim,20,11,6,2,3,16,14
+Temporada2020,Jornada 11,6,B. Dortmund,19,11,5,4,2,23,15
+Temporada2020,Jornada 11,7,Schalke 04,19,11,5,4,2,20,14
+Temporada2020,Jornada 11,8,B. Leverkusen,18,11,5,3,3,17,15
+Temporada2020,Jornada 11,9,Eintracht,17,11,5,2,4,21,16
+Temporada2020,Jornada 11,10,Wolfsburg,17,11,4,5,2,11,10
+Temporada2020,Jornada 11,11,Union Berlin,13,11,4,1,6,13,17
+Temporada2020,Jornada 11,12,Hertha BSC,11,11,3,2,6,17,21
+Temporada2020,Jornada 11,13,Fortuna,11,11,3,2,6,15,19
+Temporada2020,Jornada 11,14,Werder Bremen,11,11,2,5,4,18,24
+Temporada2020,Jornada 11,15,FC Augsburg,10,11,2,4,5,13,24
+Temporada2020,Jornada 11,16,Mainz 05,9,11,3,0,8,12,30
+Temporada2020,Jornada 11,17,Köln,7,11,2,1,8,10,23
+Temporada2020,Jornada 11,18,Paderborn,4,11,1,1,9,11,26
+Temporada2020,Jornada 12,1,Monchengladbach,25,12,8,1,3,24,13
+Temporada2020,Jornada 12,2,RB Leipzig,24,12,7,3,2,33,13
+Temporada2020,Jornada 12,3,Bayern München,24,12,7,3,2,33,16
+Temporada2020,Jornada 12,4,SC Freiburg,22,12,6,4,2,21,13
+Temporada2020,Jornada 12,5,Schalke 04,22,12,6,4,2,22,15
+Temporada2020,Jornada 12,6,B. Dortmund,20,12,5,5,2,26,18
+Temporada2020,Jornada 12,7,Wolfsburg,20,12,5,5,2,13,10
+Temporada2020,Jornada 12,8,Hoffenheim,20,12,6,2,4,17,19
+Temporada2020,Jornada 12,9,B. Leverkusen,19,12,5,4,3,18,16
+Temporada2020,Jornada 12,10,Eintracht,17,12,5,2,5,21,18
+Temporada2020,Jornada 12,11,Union Berlin,16,12,5,1,6,15,17
+Temporada2020,Jornada 12,12,FC Augsburg,13,12,3,4,5,17,24
+Temporada2020,Jornada 12,13,Mainz 05,12,12,4,0,8,17,31
+Temporada2020,Jornada 12,14,Werder Bremen,11,12,2,5,5,19,26
+Temporada2020,Jornada 12,15,Hertha BSC,11,12,3,2,7,17,25
+Temporada2020,Jornada 12,16,Fortuna,11,12,3,2,7,15,23
+Temporada2020,Jornada 12,17,Köln,7,12,2,1,9,11,27
+Temporada2020,Jornada 12,18,Paderborn,5,12,1,2,9,14,29
+Temporada2020,Jornada 13,1,Monchengladbach,28,13,9,1,3,28,15
+Temporada2020,Jornada 13,2,RB Leipzig,27,13,8,3,2,36,15
+Temporada2020,Jornada 13,3,Schalke 04,25,13,7,4,2,24,16
+Temporada2020,Jornada 13,4,Bayern München,24,13,7,3,3,34,18
+Temporada2020,Jornada 13,5,B. Dortmund,23,13,6,5,2,28,19
+Temporada2020,Jornada 13,6,SC Freiburg,22,13,6,4,3,23,17
+Temporada2020,Jornada 13,7,B. Leverkusen,22,13,6,4,3,20,17
+Temporada2020,Jornada 13,8,Hoffenheim,21,13,6,3,4,18,20
+Temporada2020,Jornada 13,9,Wolfsburg,20,13,5,5,3,15,13
+Temporada2020,Jornada 13,10,Eintracht,17,13,5,2,6,22,20
+Temporada2020,Jornada 13,11,Union Berlin,16,13,5,1,7,16,19
+Temporada2020,Jornada 13,12,Mainz 05,15,13,5,0,8,19,32
+Temporada2020,Jornada 13,13,Werder Bremen,14,13,3,5,5,22,28
+Temporada2020,Jornada 13,14,FC Augsburg,14,13,3,5,5,18,25
+Temporada2020,Jornada 13,15,Fortuna,12,13,3,3,7,16,24
+Temporada2020,Jornada 13,16,Hertha BSC,11,13,3,2,8,18,27
+Temporada2020,Jornada 13,17,Köln,8,13,2,2,9,12,28
+Temporada2020,Jornada 13,18,Paderborn,5,13,1,2,10,16,32
+Temporada2020,Jornada 14,1,Monchengladbach,31,14,10,1,3,30,16
+Temporada2020,Jornada 14,2,RB Leipzig,30,14,9,3,2,39,16
+Temporada2020,Jornada 14,3,B. Dortmund,26,14,7,5,2,33,19
+Temporada2020,Jornada 14,4,Schalke 04,25,14,7,4,3,25,18
+Temporada2020,Jornada 14,5,SC Freiburg,25,14,7,4,3,24,17
+Temporada2020,Jornada 14,6,B. Leverkusen,25,14,7,4,3,22,18
+Temporada2020,Jornada 14,7,Bayern München,24,14,7,3,4,35,20
+Temporada2020,Jornada 14,8,Hoffenheim,21,14,6,3,5,19,23
+Temporada2020,Jornada 14,9,Wolfsburg,20,14,5,5,4,15,14
+Temporada2020,Jornada 14,10,Union Berlin,19,14,6,1,7,18,19
+Temporada2020,Jornada 14,11,Eintracht,18,14,5,3,6,24,22
+Temporada2020,Jornada 14,12,FC Augsburg,17,14,4,5,5,20,26
+Temporada2020,Jornada 14,13,Mainz 05,15,14,5,0,9,20,34
+Temporada2020,Jornada 14,14,Werder Bremen,14,14,3,5,6,22,29
+Temporada2020,Jornada 14,15,Hertha BSC,12,14,3,3,8,20,29
+Temporada2020,Jornada 14,16,Fortuna,12,14,3,3,8,16,29
+Temporada2020,Jornada 14,17,Paderborn,8,14,2,2,10,17,32
+Temporada2020,Jornada 14,18,Köln,8,14,2,2,10,12,30
+Temporada2020,Jornada 15,1,RB Leipzig,33,15,10,3,2,42,16
+Temporada2020,Jornada 15,2,Monchengladbach,31,15,10,1,4,31,18
+Temporada2020,Jornada 15,3,B. Dortmund,29,15,8,5,2,37,19
+Temporada2020,Jornada 15,4,Schalke 04,28,15,8,4,3,26,18
+Temporada2020,Jornada 15,5,Bayern München,27,15,8,3,4,41,21
+Temporada2020,Jornada 15,6,SC Freiburg,25,15,7,4,4,24,18
+Temporada2020,Jornada 15,7,B. Leverkusen,25,15,7,4,4,22,20
+Temporada2020,Jornada 15,8,Wolfsburg,23,15,6,5,4,17,15
+Temporada2020,Jornada 15,9,Hoffenheim,21,15,6,3,6,21,27
+Temporada2020,Jornada 15,10,Union Berlin,20,15,6,2,7,19,20
+Temporada2020,Jornada 15,11,FC Augsburg,20,15,5,5,5,24,28
+Temporada2020,Jornada 15,12,Eintracht,18,15,5,3,7,24,23
+Temporada2020,Jornada 15,13,Hertha BSC,15,15,4,3,8,21,29
+Temporada2020,Jornada 15,14,Mainz 05,15,15,5,0,10,20,38
+Temporada2020,Jornada 15,15,Werder Bremen,14,15,3,5,7,23,35
+Temporada2020,Jornada 15,16,Fortuna,12,15,3,3,9,16,32
+Temporada2020,Jornada 15,17,Köln,11,15,3,2,10,14,30
+Temporada2020,Jornada 15,18,Paderborn,9,15,2,3,10,18,33
+Temporada2020,Jornada 16,1,RB Leipzig,34,16,10,4,2,45,19
+Temporada2020,Jornada 16,2,Monchengladbach,34,16,11,1,4,33,18
+Temporada2020,Jornada 16,3,Bayern München,30,16,9,3,4,44,22
+Temporada2020,Jornada 16,4,B. Dortmund,30,16,8,6,2,40,22
+Temporada2020,Jornada 16,5,Schalke 04,29,16,8,5,3,27,19
+Temporada2020,Jornada 16,6,SC Freiburg,25,16,7,4,5,25,21
+Temporada2020,Jornada 16,7,B. Leverkusen,25,16,7,4,5,22,21
+Temporada2020,Jornada 16,8,Wolfsburg,24,16,6,6,4,18,16
+Temporada2020,Jornada 16,9,Hoffenheim,24,16,7,3,6,23,27
+Temporada2020,Jornada 16,10,FC Augsburg,23,16,6,5,5,27,28
+Temporada2020,Jornada 16,11,Union Berlin,20,16,6,2,8,19,22
+Temporada2020,Jornada 16,12,Eintracht,18,16,5,3,8,26,27
+Temporada2020,Jornada 16,13,Hertha BSC,18,16,5,3,8,22,29
+Temporada2020,Jornada 16,14,Mainz 05,18,16,6,0,10,25,38
+Temporada2020,Jornada 16,15,Köln,14,16,4,2,10,18,32
+Temporada2020,Jornada 16,16,Werder Bremen,14,16,3,5,8,23,40
+Temporada2020,Jornada 16,17,Fortuna,12,16,3,3,10,16,35
+Temporada2020,Jornada 16,18,Paderborn,9,16,2,3,11,18,35
+Temporada2020,Jornada 17,1,RB Leipzig,37,17,11,4,2,48,20
+Temporada2020,Jornada 17,2,Monchengladbach,35,17,11,2,4,33,18
+Temporada2020,Jornada 17,3,Bayern München,33,17,10,3,4,46,22
+Temporada2020,Jornada 17,4,B. Dortmund,30,17,8,6,3,41,24
+Temporada2020,Jornada 17,5,Schalke 04,30,17,8,6,3,29,21
+Temporada2020,Jornada 17,6,B. Leverkusen,28,17,8,4,5,23,21
+Temporada2020,Jornada 17,7,Hoffenheim,27,17,8,3,6,25,28
+Temporada2020,Jornada 17,8,SC Freiburg,26,17,7,5,5,27,23
+Temporada2020,Jornada 17,9,Wolfsburg,24,17,6,6,5,18,18
+Temporada2020,Jornada 17,10,FC Augsburg,23,17,6,5,6,28,31
+Temporada2020,Jornada 17,11,Union Berlin,20,17,6,2,9,20,24
+Temporada2020,Jornada 17,12,Hertha BSC,19,17,5,4,8,22,29
+Temporada2020,Jornada 17,13,Eintracht,18,17,5,3,9,27,29
+Temporada2020,Jornada 17,14,Mainz 05,18,17,6,0,11,25,39
+Temporada2020,Jornada 17,15,Köln,17,17,5,2,10,19,32
+Temporada2020,Jornada 17,16,Fortuna,15,17,4,3,10,18,36
+Temporada2020,Jornada 17,17,Werder Bremen,14,17,3,5,9,23,41
+Temporada2020,Jornada 17,18,Paderborn,12,17,3,3,11,20,36
+Temporada2020,Jornada 18,1,RB Leipzig,40,18,12,4,2,51,21
+Temporada2020,Jornada 18,2,Bayern München,36,18,11,3,4,50,22
+Temporada2020,Jornada 18,3,Monchengladbach,35,18,11,2,5,33,20
+Temporada2020,Jornada 18,4,B. Dortmund,33,18,9,6,3,46,27
+Temporada2020,Jornada 18,5,Schalke 04,33,18,9,6,3,31,21
+Temporada2020,Jornada 18,6,B. Leverkusen,31,18,9,4,5,27,22
+Temporada2020,Jornada 18,7,SC Freiburg,29,18,8,5,5,29,24
+Temporada2020,Jornada 18,8,Hoffenheim,27,18,8,3,7,26,30
+Temporada2020,Jornada 18,9,Wolfsburg,24,18,6,6,6,19,21
+Temporada2020,Jornada 18,10,FC Augsburg,23,18,6,5,7,31,36
+Temporada2020,Jornada 18,11,Eintracht,21,18,6,3,9,29,30
+Temporada2020,Jornada 18,12,Union Berlin,20,18,6,2,10,21,27
+Temporada2020,Jornada 18,13,Köln,20,18,6,2,10,22,33
+Temporada2020,Jornada 18,14,Hertha BSC,19,18,5,4,9,22,33
+Temporada2020,Jornada 18,15,Mainz 05,18,18,6,0,12,26,41
+Temporada2020,Jornada 18,16,Werder Bremen,17,18,4,5,9,24,41
+Temporada2020,Jornada 18,17,Fortuna,15,18,4,3,11,18,37
+Temporada2020,Jornada 18,18,Paderborn,12,18,3,3,12,21,40
+Temporada2020,Jornada 19,1,RB Leipzig,40,19,12,4,3,51,23
+Temporada2020,Jornada 19,2,Bayern München,39,19,12,3,4,55,22
+Temporada2020,Jornada 19,3,Monchengladbach,38,19,12,2,5,36,21
+Temporada2020,Jornada 19,4,B. Dortmund,36,19,10,6,3,51,28
+Temporada2020,Jornada 19,5,B. Leverkusen,34,19,10,4,5,30,22
+Temporada2020,Jornada 19,6,Schalke 04,33,19,9,6,4,31,26
+Temporada2020,Jornada 19,7,Hoffenheim,30,19,9,3,7,29,30
+Temporada2020,Jornada 19,8,SC Freiburg,29,19,8,5,6,29,26
+Temporada2020,Jornada 19,9,Eintracht,24,19,7,3,9,31,30
+Temporada2020,Jornada 19,10,Wolfsburg,24,19,6,6,7,20,23
+Temporada2020,Jornada 19,11,Union Berlin,23,19,7,2,10,23,27
+Temporada2020,Jornada 19,12,FC Augsburg,23,19,6,5,8,31,38
+Temporada2020,Jornada 19,13,Hertha BSC,22,19,6,4,9,24,34
+Temporada2020,Jornada 19,14,Köln,20,19,6,2,11,23,38
+Temporada2020,Jornada 19,15,Mainz 05,18,19,6,0,13,27,44
+Temporada2020,Jornada 19,16,Werder Bremen,17,19,4,5,10,24,44
+Temporada2020,Jornada 19,17,Paderborn,15,19,4,3,12,23,40
+Temporada2020,Jornada 19,18,Fortuna,15,19,4,3,12,18,40
+Temporada2020,Jornada 20,1,Bayern München,42,20,13,3,4,58,23
+Temporada2020,Jornada 20,2,RB Leipzig,41,20,12,5,3,53,25
+Temporada2020,Jornada 20,3,B. Dortmund,39,20,11,6,3,56,28
+Temporada2020,Jornada 20,4,Monchengladbach,39,20,12,3,5,38,23
+Temporada2020,Jornada 20,5,B. Leverkusen,34,20,10,4,6,31,24
+Temporada2020,Jornada 20,6,Schalke 04,34,20,9,7,4,31,26
+Temporada2020,Jornada 20,7,Hoffenheim,33,20,10,3,7,31,31
+Temporada2020,Jornada 20,8,SC Freiburg,29,20,8,5,7,29,30
+Temporada2020,Jornada 20,9,Wolfsburg,27,20,7,6,7,24,25
+Temporada2020,Jornada 20,10,FC Augsburg,26,20,7,5,8,33,39
+Temporada2020,Jornada 20,11,Eintracht,25,20,7,4,9,32,31
+Temporada2020,Jornada 20,12,Union Berlin,23,20,7,2,11,23,32
+Temporada2020,Jornada 20,13,Hertha BSC,23,20,6,5,9,24,34
+Temporada2020,Jornada 20,14,Köln,23,20,7,2,11,27,38
+Temporada2020,Jornada 20,15,Mainz 05,18,20,6,0,14,28,47
+Temporada2020,Jornada 20,16,Werder Bremen,17,20,4,5,11,25,46
+Temporada2020,Jornada 20,17,Fortuna,16,20,4,4,12,19,41
+Temporada2020,Jornada 20,18,Paderborn,15,20,4,3,13,25,44
+Temporada2020,Jornada 21,1,Bayern München,43,21,13,4,4,58,23
+Temporada2020,Jornada 21,2,RB Leipzig,42,21,12,6,3,53,25
+Temporada2020,Jornada 21,3,Monchengladbach,42,21,13,3,5,40,24
+Temporada2020,Jornada 21,4,B. Dortmund,39,21,11,6,4,59,32
+Temporada2020,Jornada 21,5,B. Leverkusen,37,21,11,4,6,35,27
+Temporada2020,Jornada 21,6,Schalke 04,35,21,9,8,4,32,27
+Temporada2020,Jornada 21,7,Hoffenheim,33,21,10,3,8,31,32
+Temporada2020,Jornada 21,8,SC Freiburg,32,21,9,5,7,30,30
+Temporada2020,Jornada 21,9,Eintracht,28,21,8,4,9,37,31
+Temporada2020,Jornada 21,10,Wolfsburg,28,21,7,7,7,25,26
+Temporada2020,Jornada 21,11,Union Berlin,26,21,8,2,11,25,32
+Temporada2020,Jornada 21,12,FC Augsburg,26,21,7,5,9,33,44
+Temporada2020,Jornada 21,13,Köln,23,21,7,2,12,28,40
+Temporada2020,Jornada 21,14,Hertha BSC,23,21,6,5,10,25,37
+Temporada2020,Jornada 21,15,Mainz 05,21,21,7,0,14,31,48
+Temporada2020,Jornada 21,16,Fortuna,17,21,4,5,12,20,42
+Temporada2020,Jornada 21,17,Werder Bremen,17,21,4,5,12,25,48
+Temporada2020,Jornada 21,18,Paderborn,16,21,4,4,13,26,45
+Temporada2020,Jornada 22,1,Bayern München,46,22,14,4,4,62,24
+Temporada2020,Jornada 22,2,RB Leipzig,45,22,13,6,3,56,25
+Temporada2020,Jornada 22,3,B. Dortmund,42,22,12,6,4,63,32
+Temporada2020,Jornada 22,4,Monchengladbach,42,21,13,3,5,42,24
+Temporada2020,Jornada 22,5,B. Leverkusen,40,22,12,4,6,38,29
+Temporada2020,Jornada 22,6,Schalke 04,36,22,9,9,4,32,27
+Temporada2020,Jornada 22,7,SC Freiburg,33,22,9,6,7,31,31
+Temporada2020,Jornada 22,8,Hoffenheim,33,22,10,3,9,33,35
+Temporada2020,Jornada 22,9,Wolfsburg,31,22,8,7,7,28,28
+Temporada2020,Jornada 22,10,Eintracht,28,22,8,4,10,37,35
+Temporada2020,Jornada 22,11,FC Augsburg,27,22,7,6,9,34,45
+Temporada2020,Jornada 22,12,Union Berlin,26,22,8,2,12,27,35
+Temporada2020,Jornada 22,13,Hertha BSC,26,22,7,5,10,27,38
+Temporada2020,Jornada 22,14,Köln,23,21,7,2,12,28,42
+Temporada2020,Jornada 22,15,Mainz 05,22,22,7,1,14,31,48
+Temporada2020,Jornada 22,16,Fortuna,17,22,4,5,13,21,46
+Temporada2020,Jornada 22,17,Werder Bremen,17,22,4,5,13,25,51
+Temporada2020,Jornada 22,18,Paderborn,16,22,4,4,14,27,47
+Temporada2020,Jornada 23,1,Bayern München,49,23,15,4,4,65,26
+Temporada2020,Jornada 23,2,RB Leipzig,48,23,14,6,3,61,25
+Temporada2020,Jornada 23,3,B. Dortmund,45,23,13,6,4,65,32
+Temporada2020,Jornada 23,4,Monchengladbach,43,22,13,4,5,43,25
+Temporada2020,Jornada 23,5,B. Leverkusen,43,23,13,4,6,40,29
+Temporada2020,Jornada 23,6,Schalke 04,36,23,9,9,5,32,32
+Temporada2020,Jornada 23,7,Wolfsburg,34,23,9,7,7,32,28
+Temporada2020,Jornada 23,8,Hoffenheim,34,23,10,4,9,34,36
+Temporada2020,Jornada 23,9,SC Freiburg,33,23,9,6,8,31,33
+Temporada2020,Jornada 23,10,Union Berlin,29,23,9,2,12,29,36
+Temporada2020,Jornada 23,11,Eintracht,28,23,8,4,11,38,37
+Temporada2020,Jornada 23,12,FC Augsburg,27,23,7,6,10,34,47
+Temporada2020,Jornada 23,13,Köln,26,22,8,2,12,33,42
+Temporada2020,Jornada 23,14,Hertha BSC,26,23,7,5,11,27,43
+Temporada2020,Jornada 23,15,Mainz 05,22,23,7,1,15,31,52
+Temporada2020,Jornada 23,16,Fortuna,20,23,5,5,13,23,46
+Temporada2020,Jornada 23,17,Werder Bremen,17,23,4,5,14,25,53
+Temporada2020,Jornada 23,18,Paderborn,16,23,4,4,15,29,50
+Temporada2020,Jornada 24,1,Bayern München,52,24,16,4,4,71,26
+Temporada2020,Jornada 24,2,RB Leipzig,49,24,14,7,3,62,26
+Temporada2020,Jornada 24,3,Monchengladbach,49,24,15,4,5,48,28
+Temporada2020,Jornada 24,4,B. Dortmund,48,24,14,6,4,66,32
+Temporada2020,Jornada 24,5,B. Leverkusen,44,24,13,5,6,41,30
+Temporada2020,Jornada 24,6,Schalke 04,36,24,9,9,6,32,35
+Temporada2020,Jornada 24,7,Wolfsburg,35,24,9,8,7,34,30
+Temporada2020,Jornada 24,8,Hoffenheim,34,24,10,4,10,34,42
+Temporada2020,Jornada 24,9,SC Freiburg,33,24,9,6,9,31,34
+Temporada2020,Jornada 24,10,Eintracht,31,24,9,4,11,41,37
+Temporada2020,Jornada 24,11,Union Berlin,30,24,9,3,12,31,38
+Temporada2020,Jornada 24,12,Köln,29,24,9,2,13,37,44
+Temporada2020,Jornada 24,13,FC Augsburg,27,24,7,6,11,36,50
+Temporada2020,Jornada 24,14,Hertha BSC,27,24,7,6,11,30,46
+Temporada2020,Jornada 24,15,Mainz 05,25,24,8,1,15,33,52
+Temporada2020,Jornada 24,16,Fortuna,21,24,5,6,13,26,49
+Temporada2020,Jornada 24,17,Werder Bremen,17,24,4,5,15,25,56
+Temporada2020,Jornada 24,18,Paderborn,16,24,4,4,16,29,52
+Temporada2020,Jornada 25,1,Bayern München,55,25,17,4,4,73,26
+Temporada2020,Jornada 25,2,B. Dortmund,51,25,15,6,4,68,33
+Temporada2020,Jornada 25,3,RB Leipzig,50,25,14,8,3,62,26
+Temporada2020,Jornada 25,4,Monchengladbach,49,25,15,4,6,49,30
+Temporada2020,Jornada 25,5,B. Leverkusen,47,25,14,5,6,45,30
+Temporada2020,Jornada 25,6,Schalke 04,37,25,9,10,6,33,36
+Temporada2020,Jornada 25,7,Wolfsburg,36,25,9,9,7,34,30
+Temporada2020,Jornada 25,8,SC Freiburg,36,25,10,6,9,34,35
+Temporada2020,Jornada 25,9,Hoffenheim,35,25,10,5,10,35,43
+Temporada2020,Jornada 25,10,Köln,32,25,10,2,13,39,45
+Temporada2020,Jornada 25,11,Union Berlin,30,25,9,3,13,32,41
+Temporada2020,Jornada 25,12,Eintracht,28,24,8,4,12,38,41
+Temporada2020,Jornada 25,13,Hertha BSC,28,25,7,7,11,32,48
+Temporada2020,Jornada 25,14,FC Augsburg,27,25,7,6,12,36,52
+Temporada2020,Jornada 25,15,Mainz 05,26,25,8,2,15,34,53
+Temporada2020,Jornada 25,16,Fortuna,22,25,5,7,13,27,50
+Temporada2020,Jornada 25,17,Werder Bremen,18,24,4,6,14,27,55
+Temporada2020,Jornada 25,18,Paderborn,16,25,4,4,17,30,54
+Temporada2020,Jornada 26,1,Bayern München,58,26,18,4,4,75,26
+Temporada2020,Jornada 26,2,B. Dortmund,54,26,16,6,4,72,33
+Temporada2020,Jornada 26,3,Monchengladbach,52,26,16,4,6,52,31
+Temporada2020,Jornada 26,4,RB Leipzig,51,26,14,9,3,63,27
+Temporada2020,Jornada 26,5,B. Leverkusen,50,26,15,5,6,49,31
+Temporada2020,Jornada 26,6,Wolfsburg,39,26,10,9,7,36,31
+Temporada2020,Jornada 26,7,SC Freiburg,37,26,10,7,9,35,36
+Temporada2020,Jornada 26,8,Schalke 04,37,26,9,10,7,33,40
+Temporada2020,Jornada 26,9,Hoffenheim,35,26,10,5,11,35,46
+Temporada2020,Jornada 26,10,Köln,33,26,10,3,13,41,47
+Temporada2020,Jornada 26,11,Hertha BSC,31,26,8,7,11,35,48
+Temporada2020,Jornada 26,12,Union Berlin,30,26,9,3,14,32,43
+Temporada2020,Jornada 26,13,Eintracht,28,25,8,4,13,39,44
+Temporada2020,Jornada 26,14,FC Augsburg,27,26,7,6,13,37,54
+Temporada2020,Jornada 26,15,Mainz 05,27,26,8,3,15,36,55
+Temporada2020,Jornada 26,16,Fortuna,23,26,5,8,13,27,50
+Temporada2020,Jornada 26,17,Werder Bremen,18,25,4,6,15,28,59
+Temporada2020,Jornada 26,18,Paderborn,17,26,4,5,17,30,54
+Temporada2020,Jornada 27,1,Bayern München,61,27,19,4,4,80,28
+Temporada2020,Jornada 27,2,B. Dortmund,57,27,17,6,4,74,33
+Temporada2020,Jornada 27,3,RB Leipzig,54,27,15,9,3,68,27
+Temporada2020,Jornada 27,4,B. Leverkusen,53,27,16,5,6,52,32
+Temporada2020,Jornada 27,5,Monchengladbach,52,27,16,4,7,53,34
+Temporada2020,Jornada 27,6,Wolfsburg,39,27,10,9,8,36,33
+Temporada2020,Jornada 27,7,SC Freiburg,37,27,10,7,10,35,37
+Temporada2020,Jornada 27,8,Schalke 04,37,27,9,10,8,33,43
+Temporada2020,Jornada 27,9,Hoffenheim,36,27,10,6,11,36,47
+Temporada2020,Jornada 27,10,Köln,34,27,10,4,13,43,49
+Temporada2020,Jornada 27,11,Hertha BSC,34,27,9,7,11,39,48
+Temporada2020,Jornada 27,12,FC Augsburg,30,27,8,6,13,40,54
+Temporada2020,Jornada 27,13,Union Berlin,30,27,9,3,15,32,47
+Temporada2020,Jornada 27,14,Eintracht,28,26,8,4,14,41,49
+Temporada2020,Jornada 27,15,Mainz 05,27,27,8,3,16,36,60
+Temporada2020,Jornada 27,16,Fortuna,24,27,5,9,13,29,52
+Temporada2020,Jornada 27,17,Werder Bremen,21,26,5,6,15,29,59
+Temporada2020,Jornada 27,18,Paderborn,18,27,4,6,17,31,55
+Temporada2020,Jornada 28,1,Bayern München,64,28,20,4,4,81,28
+Temporada2020,Jornada 28,2,B. Dortmund,57,28,17,6,5,74,34
+Temporada2020,Jornada 28,3,RB Leipzig,55,28,15,10,3,70,29
+Temporada2020,Jornada 28,4,Monchengladbach,53,28,16,5,7,53,34
+Temporada2020,Jornada 28,5,B. Leverkusen,53,28,16,5,7,53,36
+Temporada2020,Jornada 28,6,Wolfsburg,42,28,11,9,8,40,34
+Temporada2020,Jornada 28,7,Hoffenheim,39,28,11,6,11,39,48
+Temporada2020,Jornada 28,8,SC Freiburg,38,28,10,8,10,38,40
+Temporada2020,Jornada 28,9,Schalke 04,37,28,9,10,9,34,45
+Temporada2020,Jornada 28,10,Hertha BSC,35,28,9,8,11,41,50
+Temporada2020,Jornada 28,11,Köln,34,28,10,4,14,44,52
+Temporada2020,Jornada 28,12,FC Augsburg,31,28,8,7,13,40,54
+Temporada2020,Jornada 28,13,Union Berlin,31,28,9,4,15,33,48
+Temporada2020,Jornada 28,14,Eintracht,29,27,8,5,14,44,52
+Temporada2020,Jornada 28,15,Mainz 05,28,28,8,4,16,37,61
+Temporada2020,Jornada 28,16,Fortuna,27,28,6,9,13,31,53
+Temporada2020,Jornada 28,17,Werder Bremen,22,27,5,7,15,29,59
+Temporada2020,Jornada 28,18,Paderborn,19,28,4,7,17,31,55
+Temporada2020,Jornada 29,1,Bayern München,67,29,21,4,4,86,28
+Temporada2020,Jornada 29,2,B. Dortmund,60,29,18,6,5,80,35
+Temporada2020,Jornada 29,3,RB Leipzig,58,29,16,10,3,74,31
+Temporada2020,Jornada 29,4,Monchengladbach,56,29,17,5,7,57,35
+Temporada2020,Jornada 29,5,B. Leverkusen,56,29,17,5,7,54,36
+Temporada2020,Jornada 29,6,Wolfsburg,42,29,11,9,9,41,36
+Temporada2020,Jornada 29,7,Hoffenheim,42,29,12,6,11,40,48
+Temporada2020,Jornada 29,8,SC Freiburg,38,29,10,8,11,38,41
+Temporada2020,Jornada 29,9,Hertha BSC,38,29,10,8,11,43,50
+Temporada2020,Jornada 29,10,Schalke 04,37,29,9,10,10,34,46
+Temporada2020,Jornada 29,11,Köln,34,29,10,4,15,46,56
+Temporada2020,Jornada 29,12,Eintracht,32,28,9,5,14,46,53
+Temporada2020,Jornada 29,13,FC Augsburg,31,29,8,7,14,40,56
+Temporada2020,Jornada 29,14,Union Berlin,31,29,9,4,16,34,52
+Temporada2020,Jornada 29,15,Mainz 05,28,29,8,4,17,37,62
+Temporada2020,Jornada 29,16,Fortuna,27,29,6,9,14,31,58
+Temporada2020,Jornada 29,17,Werder Bremen,25,28,6,7,15,30,59
+Temporada2020,Jornada 29,18,Paderborn,19,29,4,7,18,32,61
+Temporada2020,Jornada 30,1,Bayern München,70,30,22,4,4,90,30
+Temporada2020,Jornada 30,2,B. Dortmund,63,30,19,6,5,81,35
+Temporada2020,Jornada 30,3,RB Leipzig,59,30,16,11,3,75,32
+Temporada2020,Jornada 30,4,Monchengladbach,56,30,17,5,8,57,36
+Temporada2020,Jornada 30,5,B. Leverkusen,56,30,17,5,8,56,40
+Temporada2020,Jornada 30,6,Wolfsburg,45,30,12,9,9,42,36
+Temporada2020,Jornada 30,7,Hoffenheim,43,30,12,7,11,42,50
+Temporada2020,Jornada 30,8,SC Freiburg,41,30,11,8,11,39,41
+Temporada2020,Jornada 30,9,Hertha BSC,38,30,10,8,12,43,51
+Temporada2020,Jornada 30,10,Schalke 04,38,30,9,11,10,35,47
+Temporada2020,Jornada 30,11,Eintracht,35,30,10,5,15,49,55
+Temporada2020,Jornada 30,12,Köln,35,30,10,5,15,47,57
+Temporada2020,Jornada 30,13,FC Augsburg,32,30,8,8,14,41,57
+Temporada2020,Jornada 30,14,Union Berlin,32,30,9,5,16,35,53
+Temporada2020,Jornada 30,15,Mainz 05,31,30,9,4,17,39,62
+Temporada2020,Jornada 30,16,Fortuna,28,30,6,10,14,33,60
+Temporada2020,Jornada 30,17,Werder Bremen,25,30,6,7,17,30,63
+Temporada2020,Jornada 30,18,Paderborn,20,30,4,8,18,33,62
+Temporada2020,Jornada 31,1,Bayern München,73,31,23,4,4,92,31
+Temporada2020,Jornada 31,2,B. Dortmund,66,31,20,6,5,82,35
+Temporada2020,Jornada 31,3,RB Leipzig,62,31,17,11,3,77,32
+Temporada2020,Jornada 31,4,B. Leverkusen,57,31,17,6,8,57,41
+Temporada2020,Jornada 31,5,Monchengladbach,56,31,17,5,9,58,38
+Temporada2020,Jornada 31,6,Wolfsburg,46,31,12,10,9,44,38
+Temporada2020,Jornada 31,7,Hoffenheim,43,31,12,7,12,42,52
+Temporada2020,Jornada 31,8,SC Freiburg,42,31,11,9,11,41,43
+Temporada2020,Jornada 31,9,Schalke 04,39,31,9,12,10,36,48
+Temporada2020,Jornada 31,10,Eintracht,38,31,11,5,15,53,56
+Temporada2020,Jornada 31,11,Hertha BSC,38,31,10,8,13,44,55
+Temporada2020,Jornada 31,12,Köln,35,31,10,5,16,48,59
+Temporada2020,Jornada 31,13,FC Augsburg,35,31,9,8,14,42,57
+Temporada2020,Jornada 31,14,Union Berlin,35,31,10,5,16,37,54
+Temporada2020,Jornada 31,15,Mainz 05,31,31,9,4,18,39,63
+Temporada2020,Jornada 31,16,Fortuna,28,31,6,10,15,33,61
+Temporada2020,Jornada 31,17,Werder Bremen,28,31,7,7,17,35,64
+Temporada2020,Jornada 31,18,Paderborn,20,31,4,8,19,34,67
+Temporada2020,Jornada 32,1,Bayern München,76,32,24,4,4,93,31
+Temporada2020,Jornada 32,2,B. Dortmund,66,32,20,6,6,82,37
+Temporada2020,Jornada 32,3,RB Leipzig,63,32,17,12,3,79,34
+Temporada2020,Jornada 32,4,B. Leverkusen,60,32,18,6,8,60,42
+Temporada2020,Jornada 32,5,Monchengladbach,59,32,18,5,9,61,38
+Temporada2020,Jornada 32,6,Wolfsburg,46,32,12,10,10,44,41
+Temporada2020,Jornada 32,7,Hoffenheim,46,32,13,7,12,45,53
+Temporada2020,Jornada 32,8,SC Freiburg,45,32,12,9,11,43,44
+Temporada2020,Jornada 32,9,Eintracht,41,32,12,5,15,55,57
+Temporada2020,Jornada 32,10,Schalke 04,39,32,9,12,11,37,50
+Temporada2020,Jornada 32,11,Hertha BSC,38,32,10,8,14,45,57
+Temporada2020,Jornada 32,12,Union Berlin,38,32,11,5,16,38,54
+Temporada2020,Jornada 32,13,Köln,35,32,10,5,17,49,62
+Temporada2020,Jornada 32,14,FC Augsburg,35,32,9,8,15,43,60
+Temporada2020,Jornada 32,15,Mainz 05,34,32,10,4,18,41,63
+Temporada2020,Jornada 32,16,Fortuna,29,32,6,11,15,35,63
+Temporada2020,Jornada 32,17,Werder Bremen,28,32,7,7,18,35,65
+Temporada2020,Jornada 32,18,Paderborn,20,32,4,8,20,34,68
+Temporada2020,Jornada 33,1,Bayern München,79,33,25,4,4,96,32
+Temporada2020,Jornada 33,2,B. Dortmund,69,33,21,6,6,84,37
+Temporada2020,Jornada 33,3,RB Leipzig,63,33,17,12,4,79,36
+Temporada2020,Jornada 33,4,Monchengladbach,62,33,19,5,9,64,39
+Temporada2020,Jornada 33,5,B. Leverkusen,60,33,18,6,9,60,44
+Temporada2020,Jornada 33,6,Wolfsburg,49,33,13,10,10,48,42
+Temporada2020,Jornada 33,7,Hoffenheim,49,33,14,7,12,49,53
+Temporada2020,Jornada 33,8,SC Freiburg,45,33,12,9,12,44,47
+Temporada2020,Jornada 33,9,Eintracht,42,33,12,6,15,56,58
+Temporada2020,Jornada 33,10,Hertha BSC,41,33,11,8,14,47,57
+Temporada2020,Jornada 33,11,Schalke 04,39,33,9,12,12,38,54
+Temporada2020,Jornada 33,12,Union Berlin,38,33,11,5,17,38,58
+Temporada2020,Jornada 33,13,Mainz 05,37,33,11,4,18,44,64
+Temporada2020,Jornada 33,14,Köln,36,33,10,6,17,50,63
+Temporada2020,Jornada 33,15,FC Augsburg,36,33,9,9,15,44,61
+Temporada2020,Jornada 33,16,Fortuna,30,33,6,12,15,36,64
+Temporada2020,Jornada 33,17,Werder Bremen,28,33,7,7,19,36,68
+Temporada2020,Jornada 33,18,Paderborn,20,33,4,8,21,35,71
+Temporada2020,Jornada 34,1,Bayern München,82,34,26,4,4,100,32
+Temporada2020,Jornada 34,2,B. Dortmund,69,34,21,6,7,84,41
+Temporada2020,Jornada 34,3,RB Leipzig,66,34,18,12,4,81,37
+Temporada2020,Jornada 34,4,Monchengladbach,65,34,20,5,9,66,40
+Temporada2020,Jornada 34,5,B. Leverkusen,63,34,19,6,9,61,44
+Temporada2020,Jornada 34,6,Hoffenheim,52,34,15,7,12,53,53
+Temporada2020,Jornada 34,7,Wolfsburg,49,34,13,10,11,48,46
+Temporada2020,Jornada 34,8,SC Freiburg,48,34,13,9,12,48,47
+Temporada2020,Jornada 34,9,Eintracht,45,34,13,6,15,59,60
+Temporada2020,Jornada 34,10,Hertha BSC,41,34,11,8,15,48,59
+Temporada2020,Jornada 34,11,Union Berlin,41,34,12,5,17,41,58
+Temporada2020,Jornada 34,12,Schalke 04,39,34,9,12,13,38,58
+Temporada2020,Jornada 34,13,Mainz 05,37,34,11,4,19,44,65
+Temporada2020,Jornada 34,14,Köln,36,34,10,6,18,51,69
+Temporada2020,Jornada 34,15,FC Augsburg,36,34,9,9,16,45,63
+Temporada2020,Jornada 34,16,Werder Bremen,31,34,8,7,19,42,69
+Temporada2020,Jornada 34,17,Fortuna,30,34,6,12,16,36,67
+Temporada2020,Jornada 34,18,Paderborn,20,34,4,8,22,37,74
+Temporada2020,Jornada 35,1,Bayern München,82,34,26,4,4,100,32
+Temporada2020,Jornada 35,2,B. Dortmund,69,34,21,6,7,84,41
+Temporada2020,Jornada 35,3,RB Leipzig,66,34,18,12,4,81,37
+Temporada2020,Jornada 35,4,Monchengladbach,65,34,20,5,9,66,40
+Temporada2020,Jornada 35,5,B. Leverkusen,63,34,19,6,9,61,44
+Temporada2020,Jornada 35,6,Hoffenheim,52,34,15,7,12,53,53
+Temporada2020,Jornada 35,7,Wolfsburg,49,34,13,10,11,48,46
+Temporada2020,Jornada 35,8,SC Freiburg,48,34,13,9,12,48,47
+Temporada2020,Jornada 35,9,Eintracht,45,34,13,6,15,59,60
+Temporada2020,Jornada 35,10,Hertha BSC,41,34,11,8,15,48,59
+Temporada2020,Jornada 35,11,Union Berlin,41,34,12,5,17,41,58
+Temporada2020,Jornada 35,12,Schalke 04,39,34,9,12,13,38,58
+Temporada2020,Jornada 35,13,Mainz 05,37,34,11,4,19,44,65
+Temporada2020,Jornada 35,14,Köln,36,34,10,6,18,51,69
+Temporada2020,Jornada 35,15,FC Augsburg,36,34,9,9,16,45,63
+Temporada2020,Jornada 35,16,Werder Bremen,31,34,8,7,19,42,69
+Temporada2020,Jornada 35,17,Fortuna,30,34,6,12,16,36,67
+Temporada2020,Jornada 35,18,Paderborn,20,34,4,8,22,37,74
+Temporada2020,Jornada 36,1,Bayern München,82,34,26,4,4,100,32
+Temporada2020,Jornada 36,2,B. Dortmund,69,34,21,6,7,84,41
+Temporada2020,Jornada 36,3,RB Leipzig,66,34,18,12,4,81,37
+Temporada2020,Jornada 36,4,Monchengladbach,65,34,20,5,9,66,40
+Temporada2020,Jornada 36,5,B. Leverkusen,63,34,19,6,9,61,44
+Temporada2020,Jornada 36,6,Hoffenheim,52,34,15,7,12,53,53
+Temporada2020,Jornada 36,7,Wolfsburg,49,34,13,10,11,48,46
+Temporada2020,Jornada 36,8,SC Freiburg,48,34,13,9,12,48,47
+Temporada2020,Jornada 36,9,Eintracht,45,34,13,6,15,59,60
+Temporada2020,Jornada 36,10,Hertha BSC,41,34,11,8,15,48,59
+Temporada2020,Jornada 36,11,Union Berlin,41,34,12,5,17,41,58
+Temporada2020,Jornada 36,12,Schalke 04,39,34,9,12,13,38,58
+Temporada2020,Jornada 36,13,Mainz 05,37,34,11,4,19,44,65
+Temporada2020,Jornada 36,14,Köln,36,34,10,6,18,51,69
+Temporada2020,Jornada 36,15,FC Augsburg,36,34,9,9,16,45,63
+Temporada2020,Jornada 36,16,Werder Bremen,31,34,8,7,19,42,69
+Temporada2020,Jornada 36,17,Fortuna,30,34,6,12,16,36,67
+Temporada2020,Jornada 36,18,Paderborn,20,34,4,8,22,37,74
+Temporada2020,Jornada 37,1,Bayern München,82,34,26,4,4,100,32
+Temporada2020,Jornada 37,2,B. Dortmund,69,34,21,6,7,84,41
+Temporada2020,Jornada 37,3,RB Leipzig,66,34,18,12,4,81,37
+Temporada2020,Jornada 37,4,Monchengladbach,65,34,20,5,9,66,40
+Temporada2020,Jornada 37,5,B. Leverkusen,63,34,19,6,9,61,44
+Temporada2020,Jornada 37,6,Hoffenheim,52,34,15,7,12,53,53
+Temporada2020,Jornada 37,7,Wolfsburg,49,34,13,10,11,48,46
+Temporada2020,Jornada 37,8,SC Freiburg,48,34,13,9,12,48,47
+Temporada2020,Jornada 37,9,Eintracht,45,34,13,6,15,59,60
+Temporada2020,Jornada 37,10,Hertha BSC,41,34,11,8,15,48,59
+Temporada2020,Jornada 37,11,Union Berlin,41,34,12,5,17,41,58
+Temporada2020,Jornada 37,12,Schalke 04,39,34,9,12,13,38,58
+Temporada2020,Jornada 37,13,Mainz 05,37,34,11,4,19,44,65
+Temporada2020,Jornada 37,14,Köln,36,34,10,6,18,51,69
+Temporada2020,Jornada 37,15,FC Augsburg,36,34,9,9,16,45,63
+Temporada2020,Jornada 37,16,Werder Bremen,31,34,8,7,19,42,69
+Temporada2020,Jornada 37,17,Fortuna,30,34,6,12,16,36,67
+Temporada2020,Jornada 37,18,Paderborn,20,34,4,8,22,37,74
+Temporada2020,Jornada 38,1,Bayern München,82,34,26,4,4,100,32
+Temporada2020,Jornada 38,2,B. Dortmund,69,34,21,6,7,84,41
+Temporada2020,Jornada 38,3,RB Leipzig,66,34,18,12,4,81,37
+Temporada2020,Jornada 38,4,Monchengladbach,65,34,20,5,9,66,40
+Temporada2020,Jornada 38,5,B. Leverkusen,63,34,19,6,9,61,44
+Temporada2020,Jornada 38,6,Hoffenheim,52,34,15,7,12,53,53
+Temporada2020,Jornada 38,7,Wolfsburg,49,34,13,10,11,48,46
+Temporada2020,Jornada 38,8,SC Freiburg,48,34,13,9,12,48,47
+Temporada2020,Jornada 38,9,Eintracht,45,34,13,6,15,59,60
+Temporada2020,Jornada 38,10,Hertha BSC,41,34,11,8,15,48,59
+Temporada2020,Jornada 38,11,Union Berlin,41,34,12,5,17,41,58
+Temporada2020,Jornada 38,12,Schalke 04,39,34,9,12,13,38,58
+Temporada2020,Jornada 38,13,Mainz 05,37,34,11,4,19,44,65
+Temporada2020,Jornada 38,14,Köln,36,34,10,6,18,51,69
+Temporada2020,Jornada 38,15,FC Augsburg,36,34,9,9,16,45,63
+Temporada2020,Jornada 38,16,Werder Bremen,31,34,8,7,19,42,69
+Temporada2020,Jornada 38,17,Fortuna,30,34,6,12,16,36,67
+Temporada2020,Jornada 38,18,Paderborn,20,34,4,8,22,37,74
+Temporada2019,Jornada 1,1,B. Dortmund,3,1,1,0,0,4,1
+Temporada2019,Jornada 1,2,Bayern München,3,1,1,0,0,3,1
+Temporada2019,Jornada 1,3,Monchengladbach,3,1,1,0,0,2,0
+Temporada2019,Jornada 1,4,Eintracht,3,1,1,0,0,2,0
+Temporada2019,Jornada 1,5,FC Augsburg,3,1,1,0,0,2,1
+Temporada2019,Jornada 1,6,Wolfsburg,3,1,1,0,0,2,1
+Temporada2019,Jornada 1,7,Hertha BSC,3,1,1,0,0,1,0
+Temporada2019,Jornada 1,8,Mainz 05,3,1,1,0,0,1,0
+Temporada2019,Jornada 1,9,Hannover 96,1,1,0,1,0,1,1
+Temporada2019,Jornada 1,10,Werder Bremen,1,1,0,1,0,1,1
+Temporada2019,Jornada 1,11,Fortuna,0,1,0,0,1,1,2
+Temporada2019,Jornada 1,12,Schalke 04,0,1,0,0,1,1,2
+Temporada2019,Jornada 1,13,Nürnberg,0,1,0,0,1,0,1
+Temporada2019,Jornada 1,14,Stuttgart,0,1,0,0,1,0,1
+Temporada2019,Jornada 1,15,Hoffenheim,0,1,0,0,1,1,3
+Temporada2019,Jornada 1,16,B. Leverkusen,0,1,0,0,1,0,2
+Temporada2019,Jornada 1,17,SC Freiburg,0,1,0,0,1,0,2
+Temporada2019,Jornada 1,18,RB Leipzig,0,1,0,0,1,1,4
+Temporada2019,Jornada 2,1,Bayern München,6,2,2,0,0,6,1
+Temporada2019,Jornada 2,2,Wolfsburg,6,2,2,0,0,5,2
+Temporada2019,Jornada 2,3,Hertha BSC,6,2,2,0,0,3,0
+Temporada2019,Jornada 2,4,B. Dortmund,4,2,1,1,0,4,1
+Temporada2019,Jornada 2,5,Monchengladbach,4,2,1,1,0,3,1
+Temporada2019,Jornada 2,6,FC Augsburg,4,2,1,1,0,3,2
+Temporada2019,Jornada 2,7,Werder Bremen,4,2,1,1,0,3,2
+Temporada2019,Jornada 2,8,Mainz 05,4,2,1,1,0,2,1
+Temporada2019,Jornada 2,9,Eintracht,3,2,1,0,1,3,2
+Temporada2019,Jornada 2,10,Hoffenheim,3,2,1,0,1,4,4
+Temporada2019,Jornada 2,11,Hannover 96,2,2,0,2,0,1,1
+Temporada2019,Jornada 2,12,Fortuna,1,2,0,1,1,2,3
+Temporada2019,Jornada 2,13,Nürnberg,1,2,0,1,1,1,2
+Temporada2019,Jornada 2,14,RB Leipzig,1,2,0,1,1,2,5
+Temporada2019,Jornada 2,15,Schalke 04,0,2,0,0,2,1,4
+Temporada2019,Jornada 2,16,B. Leverkusen,0,2,0,0,2,1,5
+Temporada2019,Jornada 2,17,SC Freiburg,0,2,0,0,2,1,5
+Temporada2019,Jornada 2,18,Stuttgart,0,2,0,0,2,0,4
+Temporada2019,Jornada 3,1,Bayern München,9,3,3,0,0,9,2
+Temporada2019,Jornada 3,2,B. Dortmund,7,3,2,1,0,7,2
+Temporada2019,Jornada 3,3,Wolfsburg,7,3,2,1,0,7,4
+Temporada2019,Jornada 3,4,Monchengladbach,7,3,2,1,0,5,2
+Temporada2019,Jornada 3,5,Hertha BSC,7,3,2,1,0,5,2
+Temporada2019,Jornada 3,6,Mainz 05,7,3,2,1,0,4,2
+Temporada2019,Jornada 3,7,Werder Bremen,5,3,1,2,0,4,3
+Temporada2019,Jornada 3,8,FC Augsburg,4,3,1,1,1,4,4
+Temporada2019,Jornada 3,9,Fortuna,4,3,1,1,1,4,4
+Temporada2019,Jornada 3,10,RB Leipzig,4,3,1,1,1,5,7
+Temporada2019,Jornada 3,11,Hoffenheim,3,3,1,0,2,5,6
+Temporada2019,Jornada 3,12,Eintracht,3,3,1,0,2,4,5
+Temporada2019,Jornada 3,13,Hannover 96,2,3,0,2,1,3,4
+Temporada2019,Jornada 3,14,Nürnberg,2,3,0,2,1,2,3
+Temporada2019,Jornada 3,15,SC Freiburg,1,3,0,1,2,4,8
+Temporada2019,Jornada 3,16,Stuttgart,1,3,0,1,2,3,7
+Temporada2019,Jornada 3,17,Schalke 04,0,3,0,0,3,2,6
+Temporada2019,Jornada 3,18,B. Leverkusen,0,3,0,0,3,2,8
+Temporada2019,Jornada 4,1,Bayern München,12,4,4,0,0,11,2
+Temporada2019,Jornada 4,2,Hertha BSC,10,4,3,1,0,9,4
+Temporada2019,Jornada 4,3,B. Dortmund,8,4,2,2,0,8,3
+Temporada2019,Jornada 4,4,Werder Bremen,8,4,2,2,0,7,5
+Temporada2019,Jornada 4,5,Wolfsburg,7,4,2,1,1,8,7
+Temporada2019,Jornada 4,6,Monchengladbach,7,4,2,1,1,7,6
+Temporada2019,Jornada 4,7,Mainz 05,7,4,2,1,1,4,3
+Temporada2019,Jornada 4,8,Nürnberg,5,4,1,2,1,4,3
+Temporada2019,Jornada 4,9,Fortuna,5,4,1,2,1,4,4
+Temporada2019,Jornada 4,10,RB Leipzig,5,4,1,2,1,6,8
+Temporada2019,Jornada 4,11,FC Augsburg,4,4,1,1,2,6,7
+Temporada2019,Jornada 4,12,Hoffenheim,4,4,1,1,2,6,7
+Temporada2019,Jornada 4,13,Eintracht,4,4,1,1,2,5,6
+Temporada2019,Jornada 4,14,SC Freiburg,4,4,1,1,2,7,9
+Temporada2019,Jornada 4,15,B. Leverkusen,3,4,1,0,3,3,8
+Temporada2019,Jornada 4,16,Hannover 96,2,4,0,2,2,3,6
+Temporada2019,Jornada 4,17,Stuttgart,2,4,0,2,2,3,7
+Temporada2019,Jornada 4,18,Schalke 04,0,4,0,0,4,2,8
+Temporada2019,Jornada 5,1,Bayern München,13,5,4,1,0,12,3
+Temporada2019,Jornada 5,2,B. Dortmund,11,5,3,2,0,15,3
+Temporada2019,Jornada 5,3,Werder Bremen,11,5,3,2,0,10,6
+Temporada2019,Jornada 5,4,Monchengladbach,10,5,3,1,1,10,7
+Temporada2019,Jornada 5,5,Hertha BSC,10,5,3,1,1,10,7
+Temporada2019,Jornada 5,6,Wolfsburg,8,5,2,2,1,8,7
+Temporada2019,Jornada 5,7,Mainz 05,8,5,2,2,1,4,3
+Temporada2019,Jornada 5,8,RB Leipzig,8,5,2,2,1,8,8
+Temporada2019,Jornada 5,9,Hoffenheim,7,5,2,1,2,9,8
+Temporada2019,Jornada 5,10,SC Freiburg,7,5,2,1,2,8,9
+Temporada2019,Jornada 5,11,B. Leverkusen,6,5,2,0,3,5,9
+Temporada2019,Jornada 5,12,FC Augsburg,5,5,1,2,2,7,8
+Temporada2019,Jornada 5,13,Fortuna,5,5,1,2,2,5,6
+Temporada2019,Jornada 5,14,Nürnberg,5,5,1,2,2,4,10
+Temporada2019,Jornada 5,15,Eintracht,4,5,1,1,3,6,9
+Temporada2019,Jornada 5,16,Hannover 96,2,5,0,2,3,4,9
+Temporada2019,Jornada 5,17,Stuttgart,2,5,0,2,3,3,9
+Temporada2019,Jornada 5,18,Schalke 04,0,5,0,0,5,2,9
+Temporada2019,Jornada 6,1,B. Dortmund,14,6,4,2,0,19,5
+Temporada2019,Jornada 6,2,Bayern München,13,6,4,1,1,12,5
+Temporada2019,Jornada 6,3,Hertha BSC,13,6,4,1,1,12,7
+Temporada2019,Jornada 6,4,Monchengladbach,11,6,3,2,1,12,9
+Temporada2019,Jornada 6,5,Werder Bremen,11,6,3,2,1,11,8
+Temporada2019,Jornada 6,6,RB Leipzig,11,6,3,2,1,10,9
+Temporada2019,Jornada 6,7,Wolfsburg,9,6,2,3,1,10,9
+Temporada2019,Jornada 6,8,FC Augsburg,8,6,2,2,2,11,9
+Temporada2019,Jornada 6,9,Mainz 05,8,6,2,2,2,4,4
+Temporada2019,Jornada 6,10,Nürnberg,8,6,2,2,2,7,10
+Temporada2019,Jornada 6,11,Eintracht,7,6,2,1,3,10,10
+Temporada2019,Jornada 6,12,Hoffenheim,7,6,2,1,3,10,10
+Temporada2019,Jornada 6,13,SC Freiburg,7,6,2,1,3,9,13
+Temporada2019,Jornada 6,14,B. Leverkusen,6,6,2,0,4,7,13
+Temporada2019,Jornada 6,15,Fortuna,5,6,1,2,3,5,9
+Temporada2019,Jornada 6,16,Stuttgart,5,6,1,2,3,5,10
+Temporada2019,Jornada 6,17,Schalke 04,3,6,1,0,5,3,9
+Temporada2019,Jornada 6,18,Hannover 96,2,6,0,2,4,5,13
+Temporada2019,Jornada 7,1,B. Dortmund,17,7,5,2,0,23,8
+Temporada2019,Jornada 7,2,RB Leipzig,14,7,4,2,1,16,9
+Temporada2019,Jornada 7,3,Monchengladbach,14,7,4,2,1,15,9
+Temporada2019,Jornada 7,4,Werder Bremen,14,7,4,2,1,13,8
+Temporada2019,Jornada 7,5,Hertha BSC,14,7,4,2,1,12,7
+Temporada2019,Jornada 7,6,Bayern München,13,7,4,1,2,12,8
+Temporada2019,Jornada 7,7,Eintracht,10,7,3,1,3,12,11
+Temporada2019,Jornada 7,8,Mainz 05,9,7,2,3,2,4,4
+Temporada2019,Jornada 7,9,Wolfsburg,9,7,2,3,2,10,11
+Temporada2019,Jornada 7,10,FC Augsburg,8,7,2,2,3,14,13
+Temporada2019,Jornada 7,11,SC Freiburg,8,7,2,2,3,9,13
+Temporada2019,Jornada 7,12,Nürnberg,8,7,2,2,3,7,16
+Temporada2019,Jornada 7,13,Hoffenheim,7,7,2,1,4,11,12
+Temporada2019,Jornada 7,14,B. Leverkusen,7,7,2,1,4,7,13
+Temporada2019,Jornada 7,15,Schalke 04,6,7,2,0,5,5,9
+Temporada2019,Jornada 7,16,Hannover 96,5,7,1,2,4,8,14
+Temporada2019,Jornada 7,17,Fortuna,5,7,1,2,4,5,11
+Temporada2019,Jornada 7,18,Stuttgart,5,7,1,2,4,6,13
+Temporada2019,Jornada 8,1,B. Dortmund,20,8,6,2,0,27,8
+Temporada2019,Jornada 8,2,Monchengladbach,17,8,5,2,1,19,9
+Temporada2019,Jornada 8,3,Werder Bremen,17,8,5,2,1,15,8
+Temporada2019,Jornada 8,4,Bayern München,16,8,5,1,2,15,9
+Temporada2019,Jornada 8,5,RB Leipzig,15,8,4,3,1,16,9
+Temporada2019,Jornada 8,6,Hertha BSC,15,8,4,3,1,13,8
+Temporada2019,Jornada 8,7,Eintracht,13,8,4,1,3,19,12
+Temporada2019,Jornada 8,8,Hoffenheim,10,8,3,1,4,14,13
+Temporada2019,Jornada 8,9,FC Augsburg,9,8,2,3,3,14,13
+Temporada2019,Jornada 8,10,Wolfsburg,9,8,2,3,3,11,14
+Temporada2019,Jornada 8,11,SC Freiburg,9,8,2,3,3,10,14
+Temporada2019,Jornada 8,12,Mainz 05,9,8,2,3,3,4,8
+Temporada2019,Jornada 8,13,B. Leverkusen,8,8,2,2,4,9,15
+Temporada2019,Jornada 8,14,Nürnberg,8,8,2,2,4,8,19
+Temporada2019,Jornada 8,15,Hannover 96,6,8,1,3,4,10,16
+Temporada2019,Jornada 8,16,Schalke 04,6,8,2,0,6,5,11
+Temporada2019,Jornada 8,17,Stuttgart,5,8,1,2,5,6,17
+Temporada2019,Jornada 8,18,Fortuna,5,8,1,2,5,6,18
+Temporada2019,Jornada 9,1,B. Dortmund,21,9,6,3,0,29,10
+Temporada2019,Jornada 9,2,Bayern München,19,9,6,1,2,17,10
+Temporada2019,Jornada 9,3,Monchengladbach,17,9,5,2,2,20,12
+Temporada2019,Jornada 9,4,Werder Bremen,17,9,5,2,2,17,14
+Temporada2019,Jornada 9,5,RB Leipzig,16,9,4,4,1,16,9
+Temporada2019,Jornada 9,6,Hertha BSC,16,9,4,4,1,15,10
+Temporada2019,Jornada 9,7,Eintracht,14,9,4,2,3,20,13
+Temporada2019,Jornada 9,8,Hoffenheim,13,9,4,1,4,18,13
+Temporada2019,Jornada 9,9,FC Augsburg,12,9,3,3,3,16,14
+Temporada2019,Jornada 9,10,Wolfsburg,12,9,3,3,3,14,14
+Temporada2019,Jornada 9,11,SC Freiburg,12,9,3,3,3,13,15
+Temporada2019,Jornada 9,12,B. Leverkusen,11,9,3,2,4,15,17
+Temporada2019,Jornada 9,13,Mainz 05,9,9,2,3,4,5,10
+Temporada2019,Jornada 9,14,Nürnberg,9,9,2,3,4,9,20
+Temporada2019,Jornada 9,15,Schalke 04,7,9,2,1,6,5,11
+Temporada2019,Jornada 9,16,Hannover 96,6,9,1,3,5,11,18
+Temporada2019,Jornada 9,17,Fortuna,5,9,1,2,6,6,21
+Temporada2019,Jornada 9,18,Stuttgart,5,9,1,2,6,6,21
+Temporada2019,Jornada 10,1,B. Dortmund,24,10,7,3,0,30,10
+Temporada2019,Jornada 10,2,Monchengladbach,20,10,6,2,2,23,12
+Temporada2019,Jornada 10,3,Bayern München,20,10,6,2,2,18,11
+Temporada2019,Jornada 10,4,RB Leipzig,19,10,5,4,1,19,9
+Temporada2019,Jornada 10,5,Eintracht,17,10,5,2,3,23,13
+Temporada2019,Jornada 10,6,Werder Bremen,17,10,5,2,3,18,16
+Temporada2019,Jornada 10,7,Hoffenheim,16,10,5,1,4,22,14
+Temporada2019,Jornada 10,8,Hertha BSC,16,10,4,4,2,15,13
+Temporada2019,Jornada 10,9,FC Augsburg,13,10,3,4,3,18,16
+Temporada2019,Jornada 10,10,SC Freiburg,13,10,3,4,3,14,16
+Temporada2019,Jornada 10,11,Wolfsburg,12,10,3,3,4,14,15
+Temporada2019,Jornada 10,12,Mainz 05,12,10,3,3,4,7,11
+Temporada2019,Jornada 10,13,B. Leverkusen,11,10,3,2,5,16,21
+Temporada2019,Jornada 10,14,Schalke 04,10,10,3,1,6,8,12
+Temporada2019,Jornada 10,15,Nürnberg,10,10,2,4,4,11,22
+Temporada2019,Jornada 10,16,Hannover 96,6,10,1,3,6,12,21
+Temporada2019,Jornada 10,17,Fortuna,5,10,1,2,7,6,24
+Temporada2019,Jornada 10,18,Stuttgart,5,10,1,2,7,6,24
+Temporada2019,Jornada 11,1,B. Dortmund,27,11,8,3,0,33,12
+Temporada2019,Jornada 11,2,Monchengladbach,23,11,7,2,2,26,13
+Temporada2019,Jornada 11,3,RB Leipzig,22,11,6,4,1,22,9
+Temporada2019,Jornada 11,4,Eintracht,20,11,6,2,3,26,13
+Temporada2019,Jornada 11,5,Bayern München,20,11,6,2,3,20,14
+Temporada2019,Jornada 11,6,Hoffenheim,19,11,6,1,4,24,15
+Temporada2019,Jornada 11,7,Werder Bremen,17,11,5,2,4,19,19
+Temporada2019,Jornada 11,8,Hertha BSC,16,11,4,4,3,16,17
+Temporada2019,Jornada 11,9,Mainz 05,15,11,4,3,4,10,12
+Temporada2019,Jornada 11,10,FC Augsburg,13,11,3,4,4,19,18
+Temporada2019,Jornada 11,11,SC Freiburg,13,11,3,4,4,15,19
+Temporada2019,Jornada 11,12,Wolfsburg,12,11,3,3,5,15,17
+Temporada2019,Jornada 11,13,B. Leverkusen,11,11,3,2,6,16,24
+Temporada2019,Jornada 11,14,Schalke 04,10,11,3,1,7,8,15
+Temporada2019,Jornada 11,15,Nürnberg,10,11,2,4,5,11,24
+Temporada2019,Jornada 11,16,Hannover 96,9,11,2,3,6,14,22
+Temporada2019,Jornada 11,17,Fortuna,8,11,2,2,7,10,25
+Temporada2019,Jornada 11,18,Stuttgart,8,11,2,2,7,8,24
+Temporada2019,Jornada 12,1,B. Dortmund,30,12,9,3,0,35,13
+Temporada2019,Jornada 12,2,Monchengladbach,26,12,8,2,2,30,14
+Temporada2019,Jornada 12,3,Eintracht,23,12,7,2,3,29,14
+Temporada2019,Jornada 12,4,RB Leipzig,22,12,6,4,2,22,10
+Temporada2019,Jornada 12,5,Bayern München,21,12,6,3,3,23,17
+Temporada2019,Jornada 12,6,Hoffenheim,20,12,6,2,4,27,18
+Temporada2019,Jornada 12,7,Werder Bremen,18,12,5,3,4,20,20
+Temporada2019,Jornada 12,8,Hertha BSC,17,12,4,5,3,19,20
+Temporada2019,Jornada 12,9,Wolfsburg,15,12,4,3,5,16,17
+Temporada2019,Jornada 12,10,Mainz 05,15,12,4,3,5,11,14
+Temporada2019,Jornada 12,11,SC Freiburg,14,12,3,5,4,16,20
+Temporada2019,Jornada 12,12,B. Leverkusen,14,12,4,2,6,18,24
+Temporada2019,Jornada 12,13,FC Augsburg,13,12,3,4,5,20,21
+Temporada2019,Jornada 12,14,Schalke 04,13,12,4,1,7,13,17
+Temporada2019,Jornada 12,15,Nürnberg,10,12,2,4,6,13,29
+Temporada2019,Jornada 12,16,Hannover 96,9,12,2,3,7,15,26
+Temporada2019,Jornada 12,17,Fortuna,9,12,2,3,7,13,28
+Temporada2019,Jornada 12,18,Stuttgart,8,12,2,2,8,8,26
+Temporada2019,Jornada 13,1,B. Dortmund,33,13,10,3,0,37,13
+Temporada2019,Jornada 13,2,Monchengladbach,26,13,8,2,3,30,16
+Temporada2019,Jornada 13,3,RB Leipzig,25,13,7,4,2,24,10
+Temporada2019,Jornada 13,4,Bayern München,24,13,7,3,3,25,18
+Temporada2019,Jornada 13,5,Eintracht,23,13,7,2,4,30,16
+Temporada2019,Jornada 13,6,Hoffenheim,21,13,6,3,4,28,19
+Temporada2019,Jornada 13,7,Hertha BSC,20,13,5,5,3,21,20
+Temporada2019,Jornada 13,8,Wolfsburg,18,13,5,3,5,18,18
+Temporada2019,Jornada 13,9,Werder Bremen,18,13,5,3,5,21,22
+Temporada2019,Jornada 13,10,Mainz 05,18,13,5,3,5,12,14
+Temporada2019,Jornada 13,11,B. Leverkusen,15,13,4,3,6,19,25
+Temporada2019,Jornada 13,12,Schalke 04,14,13,4,2,7,14,18
+Temporada2019,Jornada 13,13,SC Freiburg,14,13,3,5,5,16,22
+Temporada2019,Jornada 13,14,FC Augsburg,13,13,3,4,6,20,22
+Temporada2019,Jornada 13,15,Nürnberg,11,13,2,5,6,14,30
+Temporada2019,Jornada 13,16,Stuttgart,11,13,3,2,8,9,26
+Temporada2019,Jornada 13,17,Hannover 96,9,13,2,3,8,15,28
+Temporada2019,Jornada 13,18,Fortuna,9,13,2,3,8,13,29
+Temporada2019,Jornada 14,1,B. Dortmund,36,14,11,3,0,39,14
+Temporada2019,Jornada 14,2,Monchengladbach,29,14,9,2,3,33,16
+Temporada2019,Jornada 14,3,Bayern München,27,14,8,3,3,28,18
+Temporada2019,Jornada 14,4,RB Leipzig,25,14,7,4,3,24,13
+Temporada2019,Jornada 14,5,Eintracht,23,14,7,2,5,30,17
+Temporada2019,Jornada 14,6,Hertha BSC,23,14,6,5,3,22,20
+Temporada2019,Jornada 14,7,Hoffenheim,22,14,6,4,4,30,21
+Temporada2019,Jornada 14,8,Werder Bremen,21,14,6,3,5,24,23
+Temporada2019,Jornada 14,9,Wolfsburg,19,14,5,4,5,20,20
+Temporada2019,Jornada 14,10,Mainz 05,19,14,5,4,5,13,15
+Temporada2019,Jornada 14,11,B. Leverkusen,18,14,5,3,6,20,25
+Temporada2019,Jornada 14,12,SC Freiburg,17,14,4,5,5,19,22
+Temporada2019,Jornada 14,13,Schalke 04,14,14,4,2,8,15,20
+Temporada2019,Jornada 14,14,FC Augsburg,13,14,3,4,7,20,23
+Temporada2019,Jornada 14,15,Nürnberg,11,14,2,5,7,14,33
+Temporada2019,Jornada 14,16,Stuttgart,11,14,3,2,9,9,29
+Temporada2019,Jornada 14,17,Hannover 96,10,14,2,4,8,16,29
+Temporada2019,Jornada 14,18,Fortuna,9,14,2,3,9,14,32
+Temporada2019,Jornada 15,1,B. Dortmund,39,15,12,3,0,41,15
+Temporada2019,Jornada 15,2,Monchengladbach,30,15,9,3,3,33,16
+Temporada2019,Jornada 15,3,Bayern München,30,15,9,3,3,32,18
+Temporada2019,Jornada 15,4,RB Leipzig,28,15,8,4,3,28,14
+Temporada2019,Jornada 15,5,Eintracht,26,15,8,2,5,32,18
+Temporada2019,Jornada 15,6,Hoffenheim,23,15,6,5,4,30,21
+Temporada2019,Jornada 15,7,Hertha BSC,23,15,6,5,4,23,22
+Temporada2019,Jornada 15,8,Wolfsburg,22,15,6,4,5,22,20
+Temporada2019,Jornada 15,9,Werder Bremen,21,15,6,3,6,25,25
+Temporada2019,Jornada 15,10,Mainz 05,19,15,5,4,6,14,19
+Temporada2019,Jornada 15,11,B. Leverkusen,18,15,5,3,7,21,27
+Temporada2019,Jornada 15,12,SC Freiburg,17,15,4,5,6,19,24
+Temporada2019,Jornada 15,13,Schalke 04,15,15,4,3,8,16,21
+Temporada2019,Jornada 15,14,FC Augsburg,14,15,3,5,7,21,24
+Temporada2019,Jornada 15,15,Stuttgart,14,15,4,2,9,11,30
+Temporada2019,Jornada 15,16,Fortuna,12,15,3,3,9,16,32
+Temporada2019,Jornada 15,17,Nürnberg,11,15,2,5,8,14,35
+Temporada2019,Jornada 15,18,Hannover 96,10,15,2,4,9,16,33
+Temporada2019,Jornada 16,1,B. Dortmund,39,16,12,3,1,42,17
+Temporada2019,Jornada 16,2,Monchengladbach,33,16,10,3,3,35,16
+Temporada2019,Jornada 16,3,Bayern München,33,16,10,3,3,33,18
+Temporada2019,Jornada 16,4,RB Leipzig,28,16,8,4,4,28,15
+Temporada2019,Jornada 16,5,Eintracht,27,16,8,3,5,34,20
+Temporada2019,Jornada 16,6,Wolfsburg,25,16,7,4,5,24,20
+Temporada2019,Jornada 16,7,Hoffenheim,24,16,6,6,4,31,22
+Temporada2019,Jornada 16,8,Hertha BSC,24,16,6,6,4,25,24
+Temporada2019,Jornada 16,9,Werder Bremen,22,16,6,4,6,26,26
+Temporada2019,Jornada 16,10,B. Leverkusen,21,16,6,3,7,23,28
+Temporada2019,Jornada 16,11,Mainz 05,20,16,5,5,6,16,21
+Temporada2019,Jornada 16,12,SC Freiburg,18,16,4,6,6,20,25
+Temporada2019,Jornada 16,13,FC Augsburg,15,16,3,6,7,23,26
+Temporada2019,Jornada 16,14,Schalke 04,15,16,4,3,9,17,23
+Temporada2019,Jornada 16,15,Fortuna,15,16,4,3,9,18,33
+Temporada2019,Jornada 16,16,Stuttgart,14,16,4,2,10,11,32
+Temporada2019,Jornada 16,17,Hannover 96,11,16,2,5,9,17,34
+Temporada2019,Jornada 16,18,Nürnberg,11,16,2,5,9,14,37
+Temporada2019,Jornada 17,1,B. Dortmund,42,17,13,3,1,44,18
+Temporada2019,Jornada 17,2,Bayern München,36,17,11,3,3,36,18
+Temporada2019,Jornada 17,3,Monchengladbach,33,17,10,3,4,36,18
+Temporada2019,Jornada 17,4,RB Leipzig,31,17,9,4,4,31,17
+Temporada2019,Jornada 17,5,Wolfsburg,28,17,8,4,5,27,22
+Temporada2019,Jornada 17,6,Eintracht,27,17,8,3,6,34,23
+Temporada2019,Jornada 17,7,Hoffenheim,25,17,6,7,4,32,23
+Temporada2019,Jornada 17,8,Hertha BSC,24,17,6,6,5,26,27
+Temporada2019,Jornada 17,9,B. Leverkusen,24,17,7,3,7,26,29
+Temporada2019,Jornada 17,10,Werder Bremen,22,17,6,4,7,28,29
+Temporada2019,Jornada 17,11,SC Freiburg,21,17,5,6,6,21,25
+Temporada2019,Jornada 17,12,Mainz 05,21,17,5,6,6,17,22
+Temporada2019,Jornada 17,13,Schalke 04,18,17,5,3,9,20,24
+Temporada2019,Jornada 17,14,Fortuna,18,17,5,3,9,19,33
+Temporada2019,Jornada 17,15,FC Augsburg,15,17,3,6,8,25,29
+Temporada2019,Jornada 17,16,Stuttgart,14,17,4,2,11,12,35
+Temporada2019,Jornada 17,17,Hannover 96,11,17,2,5,10,17,35
+Temporada2019,Jornada 17,18,Nürnberg,11,17,2,5,10,14,38
+Temporada2019,Jornada 18,1,B. Dortmund,45,18,14,3,1,45,18
+Temporada2019,Jornada 18,2,Bayern München,39,18,12,3,3,39,19
+Temporada2019,Jornada 18,3,Monchengladbach,36,18,11,3,4,37,18
+Temporada2019,Jornada 18,4,RB Leipzig,31,18,9,4,5,31,18
+Temporada2019,Jornada 18,5,Eintracht,30,18,9,3,6,37,24
+Temporada2019,Jornada 18,6,Wolfsburg,28,18,8,4,6,28,24
+Temporada2019,Jornada 18,7,Hertha BSC,27,18,7,6,5,29,28
+Temporada2019,Jornada 18,8,Hoffenheim,25,18,6,7,5,33,26
+Temporada2019,Jornada 18,9,Werder Bremen,25,18,7,4,7,29,29
+Temporada2019,Jornada 18,10,B. Leverkusen,24,18,7,3,8,26,30
+Temporada2019,Jornada 18,11,Mainz 05,24,18,6,6,6,20,24
+Temporada2019,Jornada 18,12,Schalke 04,21,18,6,3,9,22,25
+Temporada2019,Jornada 18,13,SC Freiburg,21,18,5,6,7,22,28
+Temporada2019,Jornada 18,14,Fortuna,21,18,6,3,9,21,34
+Temporada2019,Jornada 18,15,FC Augsburg,15,18,3,6,9,26,31
+Temporada2019,Jornada 18,16,Stuttgart,14,18,4,2,12,14,38
+Temporada2019,Jornada 18,17,Hannover 96,11,18,2,5,11,17,36
+Temporada2019,Jornada 18,18,Nürnberg,11,18,2,5,11,15,41
+Temporada2019,Jornada 19,1,B. Dortmund,48,19,15,3,1,50,19
+Temporada2019,Jornada 19,2,Bayern München,42,19,13,3,3,43,20
+Temporada2019,Jornada 19,3,Monchengladbach,39,19,12,3,4,39,18
+Temporada2019,Jornada 19,4,RB Leipzig,34,19,10,4,5,35,18
+Temporada2019,Jornada 19,5,Eintracht,31,19,9,4,6,39,26
+Temporada2019,Jornada 19,6,Hoffenheim,28,19,7,7,5,37,28
+Temporada2019,Jornada 19,7,Hertha BSC,28,19,7,7,5,31,30
+Temporada2019,Jornada 19,8,Wolfsburg,28,19,8,4,7,28,27
+Temporada2019,Jornada 19,9,B. Leverkusen,27,19,8,3,8,29,30
+Temporada2019,Jornada 19,10,Mainz 05,27,19,7,6,6,22,25
+Temporada2019,Jornada 19,11,Werder Bremen,26,19,7,5,7,31,31
+Temporada2019,Jornada 19,12,Schalke 04,22,19,6,4,9,24,27
+Temporada2019,Jornada 19,13,SC Freiburg,21,19,5,6,8,24,32
+Temporada2019,Jornada 19,14,Fortuna,21,19,6,3,10,21,38
+Temporada2019,Jornada 19,15,FC Augsburg,15,19,3,6,10,26,33
+Temporada2019,Jornada 19,16,Stuttgart,14,19,4,2,13,15,42
+Temporada2019,Jornada 19,17,Hannover 96,11,19,2,5,12,18,41
+Temporada2019,Jornada 19,18,Nürnberg,11,19,2,5,12,16,43
+Temporada2019,Jornada 20,1,B. Dortmund,49,20,15,4,1,51,20
+Temporada2019,Jornada 20,2,Monchengladbach,42,20,13,3,4,41,18
+Temporada2019,Jornada 20,3,Bayern München,42,20,13,3,4,44,23
+Temporada2019,Jornada 20,4,RB Leipzig,37,20,11,4,5,38,18
+Temporada2019,Jornada 20,5,Eintracht,32,20,9,5,6,40,27
+Temporada2019,Jornada 20,6,Wolfsburg,31,20,9,4,7,29,27
+Temporada2019,Jornada 20,7,B. Leverkusen,30,20,9,3,8,32,31
+Temporada2019,Jornada 20,8,Hoffenheim,29,20,7,8,5,38,29
+Temporada2019,Jornada 20,9,Hertha BSC,28,20,7,7,6,31,31
+Temporada2019,Jornada 20,10,Werder Bremen,27,20,7,6,7,32,32
+Temporada2019,Jornada 20,11,Mainz 05,27,20,7,6,7,22,28
+Temporada2019,Jornada 20,12,Schalke 04,22,20,6,4,10,24,29
+Temporada2019,Jornada 20,13,SC Freiburg,22,20,5,7,8,26,34
+Temporada2019,Jornada 20,14,Fortuna,22,20,6,4,10,22,39
+Temporada2019,Jornada 20,15,FC Augsburg,18,20,4,6,10,29,33
+Temporada2019,Jornada 20,16,Stuttgart,15,20,4,3,13,17,44
+Temporada2019,Jornada 20,17,Nürnberg,12,20,2,6,12,17,44
+Temporada2019,Jornada 20,18,Hannover 96,11,20,2,5,13,18,44
+Temporada2019,Jornada 21,1,B. Dortmund,50,21,15,5,1,54,23
+Temporada2019,Jornada 21,2,Bayern München,45,21,14,3,4,47,24
+Temporada2019,Jornada 21,3,Monchengladbach,42,21,13,3,5,41,21
+Temporada2019,Jornada 21,4,RB Leipzig,38,21,11,5,5,38,18
+Temporada2019,Jornada 21,5,Eintracht,33,21,9,6,6,40,27
+Temporada2019,Jornada 21,6,B. Leverkusen,33,21,10,3,8,37,32
+Temporada2019,Jornada 21,7,Wolfsburg,32,21,9,5,7,32,30
+Temporada2019,Jornada 21,8,Hertha BSC,31,21,8,7,6,34,31
+Temporada2019,Jornada 21,9,Hoffenheim,30,21,7,9,5,41,32
+Temporada2019,Jornada 21,10,Werder Bremen,30,21,8,6,7,36,32
+Temporada2019,Jornada 21,11,Mainz 05,27,21,7,6,8,23,33
+Temporada2019,Jornada 21,12,Fortuna,25,21,7,4,10,25,39
+Temporada2019,Jornada 21,13,SC Freiburg,23,21,5,8,8,29,37
+Temporada2019,Jornada 21,14,Schalke 04,22,21,6,4,11,25,32
+Temporada2019,Jornada 21,15,FC Augsburg,18,21,4,6,11,29,37
+Temporada2019,Jornada 21,16,Stuttgart,15,21,4,3,14,17,47
+Temporada2019,Jornada 21,17,Hannover 96,14,21,3,5,13,20,44
+Temporada2019,Jornada 21,18,Nürnberg,12,21,2,6,13,17,46
+Temporada2019,Jornada 22,1,B. Dortmund,51,22,15,6,1,54,23
+Temporada2019,Jornada 22,2,Bayern München,48,22,15,3,4,50,26
+Temporada2019,Jornada 22,3,Monchengladbach,43,22,13,4,5,42,22
+Temporada2019,Jornada 22,4,RB Leipzig,41,22,12,5,5,41,19
+Temporada2019,Jornada 22,5,B. Leverkusen,36,22,11,3,8,39,32
+Temporada2019,Jornada 22,6,Wolfsburg,35,22,10,5,7,35,30
+Temporada2019,Jornada 22,7,Eintracht,34,22,9,7,6,41,28
+Temporada2019,Jornada 22,8,Hoffenheim,33,22,8,9,5,44,32
+Temporada2019,Jornada 22,9,Hertha BSC,32,22,8,8,6,35,32
+Temporada2019,Jornada 22,10,Werder Bremen,31,22,8,7,7,37,33
+Temporada2019,Jornada 22,11,Mainz 05,27,22,7,6,9,23,36
+Temporada2019,Jornada 22,12,Fortuna,25,22,7,4,11,25,41
+Temporada2019,Jornada 22,13,SC Freiburg,24,22,5,9,8,29,37
+Temporada2019,Jornada 22,14,Schalke 04,23,22,6,5,11,25,32
+Temporada2019,Jornada 22,15,FC Augsburg,18,22,4,6,12,31,40
+Temporada2019,Jornada 22,16,Stuttgart,15,22,4,3,15,18,50
+Temporada2019,Jornada 22,17,Hannover 96,14,22,3,5,14,20,47
+Temporada2019,Jornada 22,18,Nürnberg,13,22,2,7,13,17,46
+Temporada2019,Jornada 23,1,B. Dortmund,54,23,16,6,1,57,25
+Temporada2019,Jornada 23,2,Bayern München,51,23,16,3,4,51,26
+Temporada2019,Jornada 23,3,Monchengladbach,43,23,13,4,6,42,25
+Temporada2019,Jornada 23,4,RB Leipzig,42,23,12,6,5,42,20
+Temporada2019,Jornada 23,5,Wolfsburg,38,23,11,5,7,38,30
+Temporada2019,Jornada 23,6,Eintracht,37,23,10,7,6,44,28
+Temporada2019,Jornada 23,7,B. Leverkusen,36,23,11,3,9,41,35
+Temporada2019,Jornada 23,8,Hoffenheim,34,23,8,10,5,45,33
+Temporada2019,Jornada 23,9,Werder Bremen,32,23,8,8,7,38,34
+Temporada2019,Jornada 23,10,Hertha BSC,32,23,8,8,7,35,33
+Temporada2019,Jornada 23,11,Mainz 05,30,23,8,6,9,26,36
+Temporada2019,Jornada 23,12,Fortuna,28,23,8,4,11,27,42
+Temporada2019,Jornada 23,13,SC Freiburg,27,23,6,9,8,34,38
+Temporada2019,Jornada 23,14,Schalke 04,23,23,6,5,12,25,35
+Temporada2019,Jornada 23,15,FC Augsburg,18,23,4,6,13,32,45
+Temporada2019,Jornada 23,16,Stuttgart,16,23,4,4,15,19,51
+Temporada2019,Jornada 23,17,Hannover 96,14,23,3,5,15,20,50
+Temporada2019,Jornada 23,18,Nürnberg,13,23,2,7,14,18,48
+Temporada2019,Jornada 24,1,B. Dortmund,54,24,16,6,2,58,27
+Temporada2019,Jornada 24,2,Bayern München,54,24,17,3,4,56,27
+Temporada2019,Jornada 24,3,RB Leipzig,45,24,13,6,5,43,20
+Temporada2019,Jornada 24,4,Monchengladbach,43,24,13,4,7,43,30
+Temporada2019,Jornada 24,5,Eintracht,40,24,11,7,6,47,30
+Temporada2019,Jornada 24,6,B. Leverkusen,39,24,12,3,9,43,35
+Temporada2019,Jornada 24,7,Wolfsburg,39,24,11,6,7,39,31
+Temporada2019,Jornada 24,8,Hertha BSC,35,24,9,8,7,37,34
+Temporada2019,Jornada 24,9,Hoffenheim,34,24,8,10,6,47,36
+Temporada2019,Jornada 24,10,Werder Bremen,33,24,8,9,7,39,35
+Temporada2019,Jornada 24,11,Fortuna,31,24,9,4,11,31,42
+Temporada2019,Jornada 24,12,Mainz 05,30,24,8,6,10,27,38
+Temporada2019,Jornada 24,13,SC Freiburg,27,24,6,9,9,34,40
+Temporada2019,Jornada 24,14,Schalke 04,23,24,6,5,13,25,39
+Temporada2019,Jornada 24,15,FC Augsburg,21,24,5,6,13,34,46
+Temporada2019,Jornada 24,16,Stuttgart,19,24,5,4,15,24,52
+Temporada2019,Jornada 24,17,Hannover 96,14,24,3,5,16,21,55
+Temporada2019,Jornada 24,18,Nürnberg,13,24,2,7,15,18,49
+Temporada2019,Jornada 25,1,Bayern München,57,25,18,3,4,62,27
+Temporada2019,Jornada 25,2,B. Dortmund,57,25,17,6,2,61,28
+Temporada2019,Jornada 25,3,RB Leipzig,46,25,13,7,5,43,20
+Temporada2019,Jornada 25,4,Monchengladbach,46,25,14,4,7,44,30
+Temporada2019,Jornada 25,5,Eintracht,43,25,12,7,6,50,30
+Temporada2019,Jornada 25,6,B. Leverkusen,42,25,13,3,9,46,37
+Temporada2019,Jornada 25,7,Wolfsburg,39,25,11,6,8,39,37
+Temporada2019,Jornada 25,8,Hoffenheim,37,25,9,10,6,49,37
+Temporada2019,Jornada 25,9,Werder Bremen,36,25,9,9,7,43,37
+Temporada2019,Jornada 25,10,Hertha BSC,35,25,9,8,8,38,36
+Temporada2019,Jornada 25,11,Fortuna,31,25,9,4,12,31,45
+Temporada2019,Jornada 25,12,SC Freiburg,30,25,7,9,9,36,41
+Temporada2019,Jornada 25,13,Mainz 05,30,25,8,6,11,27,39
+Temporada2019,Jornada 25,14,Schalke 04,23,25,6,5,14,27,43
+Temporada2019,Jornada 25,15,FC Augsburg,22,25,5,7,13,34,46
+Temporada2019,Jornada 25,16,Stuttgart,19,25,5,4,16,25,55
+Temporada2019,Jornada 25,17,Hannover 96,14,25,3,5,17,23,58
+Temporada2019,Jornada 25,18,Nürnberg,13,25,2,7,16,19,51
+Temporada2019,Jornada 26,1,Bayern München,60,26,19,3,4,68,27
+Temporada2019,Jornada 26,2,B. Dortmund,60,26,18,6,2,64,30
+Temporada2019,Jornada 26,3,RB Leipzig,49,26,14,7,5,44,20
+Temporada2019,Jornada 26,4,Monchengladbach,47,26,14,5,7,45,31
+Temporada2019,Jornada 26,5,Eintracht,46,26,13,7,6,51,30
+Temporada2019,Jornada 26,6,B. Leverkusen,42,26,13,3,10,47,40
+Temporada2019,Jornada 26,7,Wolfsburg,42,26,12,6,8,44,39
+Temporada2019,Jornada 26,8,Werder Bremen,39,26,10,9,7,46,38
+Temporada2019,Jornada 26,9,Hoffenheim,38,26,9,11,6,50,38
+Temporada2019,Jornada 26,10,Hertha BSC,35,26,9,8,9,40,39
+Temporada2019,Jornada 26,11,SC Freiburg,31,26,7,10,9,37,42
+Temporada2019,Jornada 26,12,Fortuna,31,26,9,4,13,33,50
+Temporada2019,Jornada 26,13,Mainz 05,30,26,8,6,12,27,45
+Temporada2019,Jornada 26,14,FC Augsburg,25,26,6,7,13,37,47
+Temporada2019,Jornada 26,15,Schalke 04,23,26,6,5,15,27,44
+Temporada2019,Jornada 26,16,Stuttgart,20,26,5,5,16,26,56
+Temporada2019,Jornada 26,17,Hannover 96,14,26,3,5,18,24,61
+Temporada2019,Jornada 26,18,Nürnberg,13,26,2,7,17,19,52
+Temporada2019,Jornada 27,1,B. Dortmund,63,27,19,6,2,66,30
+Temporada2019,Jornada 27,2,Bayern München,61,27,19,4,4,69,28
+Temporada2019,Jornada 27,3,RB Leipzig,52,27,15,7,5,49,20
+Temporada2019,Jornada 27,4,Eintracht,49,27,14,7,6,54,30
+Temporada2019,Jornada 27,5,Monchengladbach,47,27,14,5,8,46,34
+Temporada2019,Jornada 27,6,Werder Bremen,42,27,11,9,7,49,39
+Temporada2019,Jornada 27,7,B. Leverkusen,42,27,13,3,11,48,44
+Temporada2019,Jornada 27,8,Wolfsburg,42,27,12,6,9,44,41
+Temporada2019,Jornada 27,9,Hoffenheim,41,27,10,11,6,54,39
+Temporada2019,Jornada 27,10,Hertha BSC,35,27,9,8,10,40,44
+Temporada2019,Jornada 27,11,Fortuna,34,27,10,4,13,36,51
+Temporada2019,Jornada 27,12,SC Freiburg,32,27,7,11,9,38,43
+Temporada2019,Jornada 27,13,Mainz 05,30,27,8,6,13,28,48
+Temporada2019,Jornada 27,14,Schalke 04,26,27,7,5,15,28,44
+Temporada2019,Jornada 27,15,FC Augsburg,25,27,6,7,14,37,50
+Temporada2019,Jornada 27,16,Stuttgart,20,27,5,5,17,26,59
+Temporada2019,Jornada 27,17,Nürnberg,16,27,3,7,17,22,52
+Temporada2019,Jornada 27,18,Hannover 96,14,27,3,5,19,24,62
+Temporada2019,Jornada 28,1,Bayern München,64,28,20,4,4,74,28
+Temporada2019,Jornada 28,2,B. Dortmund,63,28,19,6,3,66,35
+Temporada2019,Jornada 28,3,RB Leipzig,55,28,16,7,5,53,22
+Temporada2019,Jornada 28,4,Eintracht,52,28,15,7,6,56,31
+Temporada2019,Jornada 28,5,Monchengladbach,48,28,14,6,8,47,35
+Temporada2019,Jornada 28,6,Wolfsburg,45,28,13,6,9,47,42
+Temporada2019,Jornada 28,7,Hoffenheim,44,28,11,11,6,58,39
+Temporada2019,Jornada 28,8,Werder Bremen,43,28,11,10,7,50,40
+Temporada2019,Jornada 28,9,B. Leverkusen,42,28,13,3,12,50,48
+Temporada2019,Jornada 28,10,Fortuna,37,28,11,4,13,38,52
+Temporada2019,Jornada 28,11,Hertha BSC,35,28,9,8,11,41,46
+Temporada2019,Jornada 28,12,Mainz 05,33,28,9,6,13,33,48
+Temporada2019,Jornada 28,13,SC Freiburg,32,28,7,11,10,38,48
+Temporada2019,Jornada 28,14,Schalke 04,26,28,7,5,16,29,46
+Temporada2019,Jornada 28,15,FC Augsburg,25,28,6,7,15,37,54
+Temporada2019,Jornada 28,16,Stuttgart,21,28,5,6,17,27,60
+Temporada2019,Jornada 28,17,Nürnberg,17,28,3,8,17,23,53
+Temporada2019,Jornada 28,18,Hannover 96,14,28,3,5,20,25,65
+Temporada2019,Jornada 29,1,Bayern München,67,29,21,4,4,78,29
+Temporada2019,Jornada 29,2,B. Dortmund,66,29,20,6,3,68,36
+Temporada2019,Jornada 29,3,RB Leipzig,58,29,17,7,5,55,22
+Temporada2019,Jornada 29,4,Eintracht,52,29,15,7,7,57,34
+Temporada2019,Jornada 29,5,Monchengladbach,51,29,15,6,8,48,35
+Temporada2019,Jornada 29,6,Hoffenheim,47,29,12,11,6,60,39
+Temporada2019,Jornada 29,7,Werder Bremen,46,29,12,10,7,52,41
+Temporada2019,Jornada 29,8,B. Leverkusen,45,29,14,3,12,51,48
+Temporada2019,Jornada 29,9,Wolfsburg,45,29,13,6,10,47,44
+Temporada2019,Jornada 29,10,Fortuna,37,29,11,4,14,39,56
+Temporada2019,Jornada 29,11,Hertha BSC,35,29,9,8,12,41,48
+Temporada2019,Jornada 29,12,Mainz 05,33,29,9,6,14,34,50
+Temporada2019,Jornada 29,13,SC Freiburg,32,29,7,11,11,39,50
+Temporada2019,Jornada 29,14,FC Augsburg,28,29,7,7,15,40,55
+Temporada2019,Jornada 29,15,Schalke 04,27,29,7,6,16,30,47
+Temporada2019,Jornada 29,16,Stuttgart,21,29,5,6,18,27,61
+Temporada2019,Jornada 29,17,Nürnberg,18,29,3,9,17,24,54
+Temporada2019,Jornada 29,18,Hannover 96,14,29,3,5,21,25,66
+Temporada2019,Jornada 30,1,Bayern München,70,30,22,4,4,79,29
+Temporada2019,Jornada 30,2,B. Dortmund,69,30,21,6,3,72,36
+Temporada2019,Jornada 30,3,RB Leipzig,61,30,18,7,5,57,23
+Temporada2019,Jornada 30,4,Eintracht,53,30,15,8,7,58,35
+Temporada2019,Jornada 30,5,Monchengladbach,51,30,15,6,9,49,37
+Temporada2019,Jornada 30,6,Hoffenheim,50,30,13,11,6,65,41
+Temporada2019,Jornada 30,7,B. Leverkusen,48,30,15,3,12,53,48
+Temporada2019,Jornada 30,8,Werder Bremen,46,30,12,10,8,52,42
+Temporada2019,Jornada 30,9,Wolfsburg,46,30,13,7,10,48,45
+Temporada2019,Jornada 30,10,Fortuna,37,30,11,4,15,40,59
+Temporada2019,Jornada 30,11,Hertha BSC,36,30,9,9,12,41,48
+Temporada2019,Jornada 30,12,Mainz 05,36,30,10,6,14,37,51
+Temporada2019,Jornada 30,13,SC Freiburg,32,30,7,11,12,39,54
+Temporada2019,Jornada 30,14,FC Augsburg,31,30,8,7,15,46,55
+Temporada2019,Jornada 30,15,Schalke 04,27,30,7,6,17,32,52
+Temporada2019,Jornada 30,16,Stuttgart,21,30,5,6,19,27,67
+Temporada2019,Jornada 30,17,Nürnberg,18,30,3,9,18,24,56
+Temporada2019,Jornada 30,18,Hannover 96,15,30,3,6,21,25,66
+Temporada2019,Jornada 31,1,Bayern München,71,31,22,5,4,80,30
+Temporada2019,Jornada 31,2,B. Dortmund,69,31,21,6,4,74,40
+Temporada2019,Jornada 31,3,RB Leipzig,64,31,19,7,5,59,24
+Temporada2019,Jornada 31,4,Eintracht,54,31,15,9,7,58,35
+Temporada2019,Jornada 31,5,Monchengladbach,51,31,15,6,10,49,38
+Temporada2019,Jornada 31,6,B. Leverkusen,51,31,16,3,12,57,49
+Temporada2019,Jornada 31,7,Hoffenheim,50,31,13,11,7,66,45
+Temporada2019,Jornada 31,8,Wolfsburg,49,31,14,7,10,52,46
+Temporada2019,Jornada 31,9,Werder Bremen,46,31,12,10,9,53,46
+Temporada2019,Jornada 31,10,Fortuna,40,31,12,4,15,44,60
+Temporada2019,Jornada 31,11,Hertha BSC,37,31,9,10,12,41,48
+Temporada2019,Jornada 31,12,Mainz 05,36,31,10,6,15,37,52
+Temporada2019,Jornada 31,13,SC Freiburg,32,31,7,11,13,40,56
+Temporada2019,Jornada 31,14,FC Augsburg,31,31,8,7,16,47,59
+Temporada2019,Jornada 31,15,Schalke 04,30,31,8,6,17,36,54
+Temporada2019,Jornada 31,16,Stuttgart,24,31,6,6,19,28,67
+Temporada2019,Jornada 31,17,Nürnberg,19,31,3,10,18,25,57
+Temporada2019,Jornada 31,18,Hannover 96,18,31,4,6,21,26,66
+Temporada2019,Jornada 32,1,Bayern München,74,32,23,5,4,83,31
+Temporada2019,Jornada 32,2,B. Dortmund,70,32,21,7,4,76,42
+Temporada2019,Jornada 32,3,RB Leipzig,65,32,19,8,5,62,27
+Temporada2019,Jornada 32,4,Eintracht,54,32,15,9,8,59,41
+Temporada2019,Jornada 32,5,B. Leverkusen,54,32,17,3,12,63,50
+Temporada2019,Jornada 32,6,Monchengladbach,52,32,15,7,10,51,40
+Temporada2019,Jornada 32,7,Wolfsburg,52,32,15,7,10,54,46
+Temporada2019,Jornada 32,8,Hoffenheim,51,32,13,12,7,68,47
+Temporada2019,Jornada 32,9,Werder Bremen,47,32,12,11,9,55,48
+Temporada2019,Jornada 32,10,Fortuna,41,32,12,5,15,45,61
+Temporada2019,Jornada 32,11,Hertha BSC,40,32,10,10,12,44,49
+Temporada2019,Jornada 32,12,Mainz 05,37,32,10,7,15,40,55
+Temporada2019,Jornada 32,13,SC Freiburg,33,32,7,12,13,41,57
+Temporada2019,Jornada 32,14,FC Augsburg,32,32,8,8,16,47,59
+Temporada2019,Jornada 32,15,Schalke 04,31,32,8,7,17,36,54
+Temporada2019,Jornada 32,16,Stuttgart,24,32,6,6,20,29,70
+Temporada2019,Jornada 32,17,Nürnberg,19,32,3,10,19,25,59
+Temporada2019,Jornada 32,18,Hannover 96,18,32,4,6,22,27,69
+Temporada2019,Jornada 33,1,Bayern München,75,33,23,6,4,83,31
+Temporada2019,Jornada 33,2,B. Dortmund,73,33,22,7,4,79,44
+Temporada2019,Jornada 33,3,RB Leipzig,66,33,19,9,5,62,27
+Temporada2019,Jornada 33,4,Monchengladbach,55,33,16,7,10,55,40
+Temporada2019,Jornada 33,5,B. Leverkusen,55,33,17,4,12,64,51
+Temporada2019,Jornada 33,6,Eintracht,54,33,15,9,9,59,43
+Temporada2019,Jornada 33,7,Wolfsburg,52,33,15,7,11,54,49
+Temporada2019,Jornada 33,8,Hoffenheim,51,33,13,12,8,68,48
+Temporada2019,Jornada 33,9,Werder Bremen,50,33,13,11,9,56,48
+Temporada2019,Jornada 33,10,Hertha BSC,43,33,11,10,12,48,52
+Temporada2019,Jornada 33,11,Fortuna,41,33,12,5,16,47,64
+Temporada2019,Jornada 33,12,Mainz 05,40,33,11,7,15,42,55
+Temporada2019,Jornada 33,13,SC Freiburg,33,33,7,12,14,41,60
+Temporada2019,Jornada 33,14,FC Augsburg,32,33,8,8,17,50,63
+Temporada2019,Jornada 33,15,Schalke 04,32,33,8,8,17,37,55
+Temporada2019,Jornada 33,16,Stuttgart,27,33,7,6,20,32,70
+Temporada2019,Jornada 33,17,Hannover 96,21,33,5,6,22,30,69
+Temporada2019,Jornada 33,18,Nürnberg,19,33,3,10,20,25,63
+Temporada2019,Jornada 34,1,Bayern München,78,34,24,6,4,88,32
+Temporada2019,Jornada 34,2,B. Dortmund,76,34,23,7,4,81,44
+Temporada2019,Jornada 34,3,RB Leipzig,66,34,19,9,6,63,29
+Temporada2019,Jornada 34,4,B. Leverkusen,58,34,18,4,12,69,52
+Temporada2019,Jornada 34,5,Monchengladbach,55,34,16,7,11,55,42
+Temporada2019,Jornada 34,6,Wolfsburg,55,34,16,7,11,62,50
+Temporada2019,Jornada 34,7,Eintracht,54,34,15,9,10,60,48
+Temporada2019,Jornada 34,8,Werder Bremen,53,34,14,11,9,58,49
+Temporada2019,Jornada 34,9,Hoffenheim,51,34,13,12,9,70,52
+Temporada2019,Jornada 34,10,Fortuna,44,34,13,5,16,49,65
+Temporada2019,Jornada 34,11,Hertha BSC,43,34,11,10,13,49,57
+Temporada2019,Jornada 34,12,Mainz 05,43,34,12,7,15,46,57
+Temporada2019,Jornada 34,13,SC Freiburg,36,34,8,12,14,46,61
+Temporada2019,Jornada 34,14,Schalke 04,33,34,8,9,17,37,55
+Temporada2019,Jornada 34,15,FC Augsburg,32,34,8,8,18,51,71
+Temporada2019,Jornada 34,16,Stuttgart,28,34,7,7,20,32,70
+Temporada2019,Jornada 34,17,Hannover 96,21,34,5,6,23,31,71
+Temporada2019,Jornada 34,18,Nürnberg,19,34,3,10,21,26,68
+Temporada2019,Jornada 35,1,Bayern München,78,34,24,6,4,88,32
+Temporada2019,Jornada 35,2,B. Dortmund,76,34,23,7,4,81,44
+Temporada2019,Jornada 35,3,RB Leipzig,66,34,19,9,6,63,29
+Temporada2019,Jornada 35,4,B. Leverkusen,58,34,18,4,12,69,52
+Temporada2019,Jornada 35,5,Monchengladbach,55,34,16,7,11,55,42
+Temporada2019,Jornada 35,6,Wolfsburg,55,34,16,7,11,62,50
+Temporada2019,Jornada 35,7,Eintracht,54,34,15,9,10,60,48
+Temporada2019,Jornada 35,8,Werder Bremen,53,34,14,11,9,58,49
+Temporada2019,Jornada 35,9,Hoffenheim,51,34,13,12,9,70,52
+Temporada2019,Jornada 35,10,Fortuna,44,34,13,5,16,49,65
+Temporada2019,Jornada 35,11,Hertha BSC,43,34,11,10,13,49,57
+Temporada2019,Jornada 35,12,Mainz 05,43,34,12,7,15,46,57
+Temporada2019,Jornada 35,13,SC Freiburg,36,34,8,12,14,46,61
+Temporada2019,Jornada 35,14,Schalke 04,33,34,8,9,17,37,55
+Temporada2019,Jornada 35,15,FC Augsburg,32,34,8,8,18,51,71
+Temporada2019,Jornada 35,16,Stuttgart,28,34,7,7,20,32,70
+Temporada2019,Jornada 35,17,Hannover 96,21,34,5,6,23,31,71
+Temporada2019,Jornada 35,18,Nürnberg,19,34,3,10,21,26,68
+Temporada2019,Jornada 36,1,Bayern München,78,34,24,6,4,88,32
+Temporada2019,Jornada 36,2,B. Dortmund,76,34,23,7,4,81,44
+Temporada2019,Jornada 36,3,RB Leipzig,66,34,19,9,6,63,29
+Temporada2019,Jornada 36,4,B. Leverkusen,58,34,18,4,12,69,52
+Temporada2019,Jornada 36,5,Monchengladbach,55,34,16,7,11,55,42
+Temporada2019,Jornada 36,6,Wolfsburg,55,34,16,7,11,62,50
+Temporada2019,Jornada 36,7,Eintracht,54,34,15,9,10,60,48
+Temporada2019,Jornada 36,8,Werder Bremen,53,34,14,11,9,58,49
+Temporada2019,Jornada 36,9,Hoffenheim,51,34,13,12,9,70,52
+Temporada2019,Jornada 36,10,Fortuna,44,34,13,5,16,49,65
+Temporada2019,Jornada 36,11,Hertha BSC,43,34,11,10,13,49,57
+Temporada2019,Jornada 36,12,Mainz 05,43,34,12,7,15,46,57
+Temporada2019,Jornada 36,13,SC Freiburg,36,34,8,12,14,46,61
+Temporada2019,Jornada 36,14,Schalke 04,33,34,8,9,17,37,55
+Temporada2019,Jornada 36,15,FC Augsburg,32,34,8,8,18,51,71
+Temporada2019,Jornada 36,16,Stuttgart,28,34,7,7,20,32,70
+Temporada2019,Jornada 36,17,Hannover 96,21,34,5,6,23,31,71
+Temporada2019,Jornada 36,18,Nürnberg,19,34,3,10,21,26,68
+Temporada2019,Jornada 37,1,Bayern München,78,34,24,6,4,88,32
+Temporada2019,Jornada 37,2,B. Dortmund,76,34,23,7,4,81,44
+Temporada2019,Jornada 37,3,RB Leipzig,66,34,19,9,6,63,29
+Temporada2019,Jornada 37,4,B. Leverkusen,58,34,18,4,12,69,52
+Temporada2019,Jornada 37,5,Monchengladbach,55,34,16,7,11,55,42
+Temporada2019,Jornada 37,6,Wolfsburg,55,34,16,7,11,62,50
+Temporada2019,Jornada 37,7,Eintracht,54,34,15,9,10,60,48
+Temporada2019,Jornada 37,8,Werder Bremen,53,34,14,11,9,58,49
+Temporada2019,Jornada 37,9,Hoffenheim,51,34,13,12,9,70,52
+Temporada2019,Jornada 37,10,Fortuna,44,34,13,5,16,49,65
+Temporada2019,Jornada 37,11,Hertha BSC,43,34,11,10,13,49,57
+Temporada2019,Jornada 37,12,Mainz 05,43,34,12,7,15,46,57
+Temporada2019,Jornada 37,13,SC Freiburg,36,34,8,12,14,46,61
+Temporada2019,Jornada 37,14,Schalke 04,33,34,8,9,17,37,55
+Temporada2019,Jornada 37,15,FC Augsburg,32,34,8,8,18,51,71
+Temporada2019,Jornada 37,16,Stuttgart,28,34,7,7,20,32,70
+Temporada2019,Jornada 37,17,Hannover 96,21,34,5,6,23,31,71
+Temporada2019,Jornada 37,18,Nürnberg,19,34,3,10,21,26,68
+Temporada2019,Jornada 38,1,Bayern München,78,34,24,6,4,88,32
+Temporada2019,Jornada 38,2,B. Dortmund,76,34,23,7,4,81,44
+Temporada2019,Jornada 38,3,RB Leipzig,66,34,19,9,6,63,29
+Temporada2019,Jornada 38,4,B. Leverkusen,58,34,18,4,12,69,52
+Temporada2019,Jornada 38,5,Monchengladbach,55,34,16,7,11,55,42
+Temporada2019,Jornada 38,6,Wolfsburg,55,34,16,7,11,62,50
+Temporada2019,Jornada 38,7,Eintracht,54,34,15,9,10,60,48
+Temporada2019,Jornada 38,8,Werder Bremen,53,34,14,11,9,58,49
+Temporada2019,Jornada 38,9,Hoffenheim,51,34,13,12,9,70,52
+Temporada2019,Jornada 38,10,Fortuna,44,34,13,5,16,49,65
+Temporada2019,Jornada 38,11,Hertha BSC,43,34,11,10,13,49,57
+Temporada2019,Jornada 38,12,Mainz 05,43,34,12,7,15,46,57
+Temporada2019,Jornada 38,13,SC Freiburg,36,34,8,12,14,46,61
+Temporada2019,Jornada 38,14,Schalke 04,33,34,8,9,17,37,55
+Temporada2019,Jornada 38,15,FC Augsburg,32,34,8,8,18,51,71
+Temporada2019,Jornada 38,16,Stuttgart,28,34,7,7,20,32,70
+Temporada2019,Jornada 38,17,Hannover 96,21,34,5,6,23,31,71
+Temporada2019,Jornada 38,18,Nürnberg,19,34,3,10,21,26,68
+Temporada2018,Jornada 1,1,B. Dortmund,3,1,1,0,0,3,0
+Temporada2018,Jornada 1,2,Bayern München,3,1,1,0,0,3,1
+Temporada2018,Jornada 1,3,Hertha BSC,3,1,1,0,0,2,0
+Temporada2018,Jornada 1,4,Schalke 04,3,1,1,0,0,2,0
+Temporada2018,Jornada 1,5,Monchengladbach,3,1,1,0,0,1,0
+Temporada2018,Jornada 1,6,Hamburger SV,3,1,1,0,0,1,0
+Temporada2018,Jornada 1,7,Hannover 96,3,1,1,0,0,1,0
+Temporada2018,Jornada 1,8,Hoffenheim,3,1,1,0,0,1,0
+Temporada2018,Jornada 1,9,Eintracht,1,1,0,1,0,0,0
+Temporada2018,Jornada 1,10,SC Freiburg,1,1,0,1,0,0,0
+Temporada2018,Jornada 1,11,FC Augsburg,0,1,0,0,1,0,1
+Temporada2018,Jornada 1,12,Köln,0,1,0,0,1,0,1
+Temporada2018,Jornada 1,13,Mainz 05,0,1,0,0,1,0,1
+Temporada2018,Jornada 1,14,Werder Bremen,0,1,0,0,1,0,1
+Temporada2018,Jornada 1,15,B. Leverkusen,0,1,0,0,1,1,3
+Temporada2018,Jornada 1,16,RB Leipzig,0,1,0,0,1,0,2
+Temporada2018,Jornada 1,17,Stuttgart,0,1,0,0,1,0,2
+Temporada2018,Jornada 1,18,Wolfsburg,0,1,0,0,1,0,3
+Temporada2018,Jornada 2,1,B. Dortmund,6,2,2,0,0,5,0
+Temporada2018,Jornada 2,2,Bayern München,6,2,2,0,0,5,1
+Temporada2018,Jornada 2,3,Hamburger SV,6,2,2,0,0,4,1
+Temporada2018,Jornada 2,4,Hannover 96,6,2,2,0,0,2,0
+Temporada2018,Jornada 2,5,Monchengladbach,4,2,1,1,0,3,2
+Temporada2018,Jornada 2,6,Hoffenheim,4,2,1,1,0,3,2
+Temporada2018,Jornada 2,7,RB Leipzig,3,2,1,0,1,4,3
+Temporada2018,Jornada 2,8,Schalke 04,3,2,1,0,1,2,1
+Temporada2018,Jornada 2,9,Hertha BSC,3,2,1,0,1,2,2
+Temporada2018,Jornada 2,10,Stuttgart,3,2,1,0,1,1,2
+Temporada2018,Jornada 2,11,Wolfsburg,3,2,1,0,1,1,3
+Temporada2018,Jornada 2,12,FC Augsburg,1,2,0,1,1,2,3
+Temporada2018,Jornada 2,13,Eintracht,1,2,0,1,1,0,1
+Temporada2018,Jornada 2,14,B. Leverkusen,1,2,0,1,1,3,5
+Temporada2018,Jornada 2,15,SC Freiburg,1,2,0,1,1,1,4
+Temporada2018,Jornada 2,16,Mainz 05,0,2,0,0,2,0,2
+Temporada2018,Jornada 2,17,Köln,0,2,0,0,2,1,4
+Temporada2018,Jornada 2,18,Werder Bremen,0,2,0,0,2,0,3
+Temporada2018,Jornada 3,1,B. Dortmund,7,3,2,1,0,5,0
+Temporada2018,Jornada 3,2,Hoffenheim,7,3,2,1,0,5,2
+Temporada2018,Jornada 3,3,Hannover 96,7,3,2,1,0,3,1
+Temporada2018,Jornada 3,4,RB Leipzig,6,3,2,0,1,6,3
+Temporada2018,Jornada 3,5,Schalke 04,6,3,2,0,1,5,2
+Temporada2018,Jornada 3,6,Bayern München,6,3,2,0,1,5,3
+Temporada2018,Jornada 3,7,Hamburger SV,6,3,2,0,1,4,3
+Temporada2018,Jornada 3,8,FC Augsburg,4,3,1,1,1,5,3
+Temporada2018,Jornada 3,9,Monchengladbach,4,3,1,1,1,3,3
+Temporada2018,Jornada 3,10,Hertha BSC,4,3,1,1,1,3,3
+Temporada2018,Jornada 3,11,Eintracht,4,3,1,1,1,1,1
+Temporada2018,Jornada 3,12,Wolfsburg,4,3,1,1,1,2,4
+Temporada2018,Jornada 3,13,Mainz 05,3,3,1,0,2,3,3
+Temporada2018,Jornada 3,14,Stuttgart,3,3,1,0,2,2,5
+Temporada2018,Jornada 3,15,SC Freiburg,2,3,0,2,1,1,4
+Temporada2018,Jornada 3,16,Werder Bremen,1,3,0,1,2,1,4
+Temporada2018,Jornada 3,17,B. Leverkusen,1,3,0,1,2,4,8
+Temporada2018,Jornada 3,18,Köln,0,3,0,0,3,1,7
+Temporada2018,Jornada 4,1,B. Dortmund,10,4,3,1,0,10,0
+Temporada2018,Jornada 4,2,Hannover 96,10,4,3,1,0,5,1
+Temporada2018,Jornada 4,3,Bayern München,9,4,3,0,1,9,3
+Temporada2018,Jornada 4,4,Schalke 04,9,4,3,0,1,7,3
+Temporada2018,Jornada 4,5,Hoffenheim,8,4,2,2,0,6,3
+Temporada2018,Jornada 4,6,RB Leipzig,7,4,2,1,1,8,5
+Temporada2018,Jornada 4,7,FC Augsburg,7,4,2,1,1,7,4
+Temporada2018,Jornada 4,8,Hamburger SV,6,4,2,0,2,4,5
+Temporada2018,Jornada 4,9,Stuttgart,6,4,2,0,2,3,5
+Temporada2018,Jornada 4,10,Monchengladbach,5,4,1,2,1,5,5
+Temporada2018,Jornada 4,11,Hertha BSC,5,4,1,2,1,4,4
+Temporada2018,Jornada 4,12,B. Leverkusen,4,4,1,1,2,8,8
+Temporada2018,Jornada 4,13,Eintracht,4,4,1,1,2,2,3
+Temporada2018,Jornada 4,14,Wolfsburg,4,4,1,1,2,2,5
+Temporada2018,Jornada 4,15,Mainz 05,3,4,1,0,3,3,7
+Temporada2018,Jornada 4,16,SC Freiburg,2,4,0,2,2,1,8
+Temporada2018,Jornada 4,17,Werder Bremen,1,4,0,1,3,2,6
+Temporada2018,Jornada 4,18,Köln,0,4,0,0,4,1,12
+Temporada2018,Jornada 5,1,B. Dortmund,13,5,4,1,0,13,0
+Temporada2018,Jornada 5,2,Bayern München,12,5,4,0,1,12,3
+Temporada2018,Jornada 5,3,Hoffenheim,11,5,3,2,0,9,5
+Temporada2018,Jornada 5,4,Hannover 96,11,5,3,2,0,6,2
+Temporada2018,Jornada 5,5,FC Augsburg,10,5,3,1,1,8,4
+Temporada2018,Jornada 5,6,Schalke 04,9,5,3,0,2,7,6
+Temporada2018,Jornada 5,7,Monchengladbach,8,5,2,2,1,7,5
+Temporada2018,Jornada 5,8,Hertha BSC,8,5,2,2,1,6,5
+Temporada2018,Jornada 5,9,RB Leipzig,7,5,2,1,2,8,6
+Temporada2018,Jornada 5,10,Eintracht,7,5,2,1,2,3,3
+Temporada2018,Jornada 5,11,Hamburger SV,6,5,2,0,3,4,8
+Temporada2018,Jornada 5,12,Stuttgart,6,5,2,0,3,3,7
+Temporada2018,Jornada 5,13,Wolfsburg,5,5,1,2,2,3,6
+Temporada2018,Jornada 5,14,B. Leverkusen,4,5,1,1,3,9,10
+Temporada2018,Jornada 5,15,Mainz 05,3,5,1,0,4,5,10
+Temporada2018,Jornada 5,16,SC Freiburg,3,5,0,3,2,2,9
+Temporada2018,Jornada 5,17,Werder Bremen,2,5,0,2,3,3,7
+Temporada2018,Jornada 5,18,Köln,0,5,0,0,5,1,13
+Temporada2018,Jornada 6,1,B. Dortmund,16,6,5,1,0,19,1
+Temporada2018,Jornada 6,2,Hoffenheim,14,6,4,2,0,11,5
+Temporada2018,Jornada 6,3,Bayern München,13,6,4,1,1,14,5
+Temporada2018,Jornada 6,4,Hannover 96,12,6,3,3,0,6,2
+Temporada2018,Jornada 6,5,FC Augsburg,11,6,3,2,1,8,4
+Temporada2018,Jornada 6,6,RB Leipzig,10,6,3,1,2,10,7
+Temporada2018,Jornada 6,7,Schalke 04,9,6,3,0,3,7,8
+Temporada2018,Jornada 6,8,Hertha BSC,8,6,2,2,2,6,6
+Temporada2018,Jornada 6,9,Monchengladbach,8,6,2,2,2,8,11
+Temporada2018,Jornada 6,10,B. Leverkusen,7,6,2,1,3,12,10
+Temporada2018,Jornada 6,11,Eintracht,7,6,2,1,3,4,5
+Temporada2018,Jornada 6,12,Stuttgart,7,6,2,1,3,3,7
+Temporada2018,Jornada 6,13,Wolfsburg,6,6,1,3,2,5,8
+Temporada2018,Jornada 6,14,Mainz 05,6,6,2,0,4,6,10
+Temporada2018,Jornada 6,15,Hamburger SV,6,6,2,0,4,4,11
+Temporada2018,Jornada 6,16,SC Freiburg,4,6,0,4,2,2,9
+Temporada2018,Jornada 6,17,Werder Bremen,3,6,0,3,3,3,7
+Temporada2018,Jornada 6,18,Köln,1,6,0,1,5,1,13
+Temporada2018,Jornada 7,1,B. Dortmund,19,7,6,1,0,21,2
+Temporada2018,Jornada 7,2,Bayern München,14,7,4,2,1,16,7
+Temporada2018,Jornada 7,3,Hoffenheim,14,7,4,2,1,13,8
+Temporada2018,Jornada 7,4,RB Leipzig,13,7,4,1,2,12,8
+Temporada2018,Jornada 7,5,Hannover 96,12,7,3,3,1,7,4
+Temporada2018,Jornada 7,6,FC Augsburg,11,7,3,2,2,9,6
+Temporada2018,Jornada 7,7,Monchengladbach,11,7,3,2,2,10,12
+Temporada2018,Jornada 7,8,Eintracht,10,7,3,1,3,6,6
+Temporada2018,Jornada 7,9,Schalke 04,10,7,3,1,3,8,9
+Temporada2018,Jornada 7,10,Hertha BSC,9,7,2,3,2,8,8
+Temporada2018,Jornada 7,11,B. Leverkusen,8,7,2,2,3,13,11
+Temporada2018,Jornada 7,12,Wolfsburg,7,7,1,4,2,6,9
+Temporada2018,Jornada 7,13,Mainz 05,7,7,2,1,4,7,11
+Temporada2018,Jornada 7,14,Stuttgart,7,7,2,1,4,4,9
+Temporada2018,Jornada 7,15,SC Freiburg,7,7,1,4,2,5,11
+Temporada2018,Jornada 7,16,Hamburger SV,7,7,2,1,4,4,11
+Temporada2018,Jornada 7,17,Werder Bremen,4,7,0,4,3,3,7
+Temporada2018,Jornada 7,18,Köln,1,7,0,1,6,2,15
+Temporada2018,Jornada 8,1,B. Dortmund,19,8,6,1,1,23,5
+Temporada2018,Jornada 8,2,Bayern München,17,8,5,2,1,21,7
+Temporada2018,Jornada 8,3,RB Leipzig,16,8,5,1,2,15,10
+Temporada2018,Jornada 8,4,Hoffenheim,15,8,4,3,1,15,10
+Temporada2018,Jornada 8,5,Monchengladbach,14,8,4,2,2,12,12
+Temporada2018,Jornada 8,6,Schalke 04,13,8,4,1,3,10,9
+Temporada2018,Jornada 8,7,Eintracht,13,8,4,1,3,8,7
+Temporada2018,Jornada 8,8,FC Augsburg,12,8,3,3,2,11,8
+Temporada2018,Jornada 8,9,Hannover 96,12,8,3,3,2,8,6
+Temporada2018,Jornada 8,10,Mainz 05,10,8,3,1,4,10,13
+Temporada2018,Jornada 8,11,Stuttgart,10,8,3,1,4,6,10
+Temporada2018,Jornada 8,12,B. Leverkusen,9,8,2,3,3,15,13
+Temporada2018,Jornada 8,13,Hertha BSC,9,8,2,3,3,8,10
+Temporada2018,Jornada 8,14,Wolfsburg,8,8,1,5,2,8,11
+Temporada2018,Jornada 8,15,Hamburger SV,7,8,2,1,5,6,14
+Temporada2018,Jornada 8,16,SC Freiburg,7,8,1,4,3,5,16
+Temporada2018,Jornada 8,17,Werder Bremen,4,8,0,4,4,3,9
+Temporada2018,Jornada 8,18,Köln,1,8,0,1,7,3,17
+Temporada2018,Jornada 9,1,B. Dortmund,20,9,6,2,1,25,7
+Temporada2018,Jornada 9,2,Bayern München,20,9,6,2,1,22,7
+Temporada2018,Jornada 9,3,RB Leipzig,19,9,6,1,2,16,10
+Temporada2018,Jornada 9,4,Hoffenheim,16,9,4,4,1,16,11
+Temporada2018,Jornada 9,5,Schalke 04,16,9,5,1,3,12,9
+Temporada2018,Jornada 9,6,Hannover 96,15,9,4,3,2,10,7
+Temporada2018,Jornada 9,7,Eintracht,14,9,4,2,3,10,9
+Temporada2018,Jornada 9,8,Monchengladbach,14,9,4,2,3,13,17
+Temporada2018,Jornada 9,9,B. Leverkusen,12,9,3,3,3,20,14
+Temporada2018,Jornada 9,10,FC Augsburg,12,9,3,3,3,12,10
+Temporada2018,Jornada 9,11,Hertha BSC,10,9,2,4,3,9,11
+Temporada2018,Jornada 9,12,Mainz 05,10,9,3,1,5,10,15
+Temporada2018,Jornada 9,13,Stuttgart,10,9,3,1,5,6,11
+Temporada2018,Jornada 9,14,Wolfsburg,9,9,1,6,2,9,12
+Temporada2018,Jornada 9,15,SC Freiburg,8,9,1,5,3,6,17
+Temporada2018,Jornada 9,16,Hamburger SV,7,9,2,1,6,6,15
+Temporada2018,Jornada 9,17,Werder Bremen,5,9,0,5,4,3,9
+Temporada2018,Jornada 9,18,Köln,2,9,0,2,7,3,17
+Temporada2018,Jornada 10,1,Bayern München,23,10,7,2,1,24,7
+Temporada2018,Jornada 10,2,B. Dortmund,20,10,6,2,2,27,11
+Temporada2018,Jornada 10,3,RB Leipzig,19,10,6,1,3,16,12
+Temporada2018,Jornada 10,4,Hannover 96,18,10,5,3,2,14,9
+Temporada2018,Jornada 10,5,Schalke 04,17,10,5,2,3,13,10
+Temporada2018,Jornada 10,6,Monchengladbach,17,10,5,2,3,16,18
+Temporada2018,Jornada 10,7,Hoffenheim,16,10,4,4,2,17,14
+Temporada2018,Jornada 10,8,B. Leverkusen,15,10,4,3,3,22,15
+Temporada2018,Jornada 10,9,FC Augsburg,15,10,4,3,3,15,10
+Temporada2018,Jornada 10,10,Eintracht,15,10,4,3,3,11,10
+Temporada2018,Jornada 10,11,Hertha BSC,13,10,3,4,3,11,12
+Temporada2018,Jornada 10,12,Stuttgart,13,10,4,1,5,9,11
+Temporada2018,Jornada 10,13,Mainz 05,11,10,3,2,5,11,16
+Temporada2018,Jornada 10,14,Wolfsburg,10,10,1,7,2,10,13
+Temporada2018,Jornada 10,15,SC Freiburg,8,10,1,5,4,6,20
+Temporada2018,Jornada 10,16,Hamburger SV,7,10,2,1,7,7,17
+Temporada2018,Jornada 10,17,Werder Bremen,5,10,0,5,5,3,12
+Temporada2018,Jornada 10,18,Köln,2,10,0,2,8,4,19
+Temporada2018,Jornada 11,1,Bayern München,26,11,8,2,1,27,8
+Temporada2018,Jornada 11,2,RB Leipzig,22,11,7,1,3,18,13
+Temporada2018,Jornada 11,3,B. Dortmund,20,11,6,2,3,28,14
+Temporada2018,Jornada 11,4,Schalke 04,20,11,6,2,3,14,10
+Temporada2018,Jornada 11,5,Hoffenheim,19,11,5,4,2,20,14
+Temporada2018,Jornada 11,6,Hannover 96,18,11,5,3,3,15,11
+Temporada2018,Jornada 11,7,Eintracht,18,11,5,3,3,13,11
+Temporada2018,Jornada 11,8,Monchengladbach,18,11,5,3,3,17,19
+Temporada2018,Jornada 11,9,B. Leverkusen,16,11,4,4,3,23,16
+Temporada2018,Jornada 11,10,FC Augsburg,16,11,4,4,3,16,11
+Temporada2018,Jornada 11,11,Hertha BSC,14,11,3,5,3,14,15
+Temporada2018,Jornada 11,12,Stuttgart,13,11,4,1,6,10,14
+Temporada2018,Jornada 11,13,Mainz 05,12,11,3,3,5,12,17
+Temporada2018,Jornada 11,14,Wolfsburg,11,11,1,8,2,13,16
+Temporada2018,Jornada 11,15,Hamburger SV,10,11,3,1,7,10,18
+Temporada2018,Jornada 11,16,SC Freiburg,8,11,1,5,5,6,21
+Temporada2018,Jornada 11,17,Werder Bremen,5,11,0,5,6,4,14
+Temporada2018,Jornada 11,18,Köln,2,11,0,2,9,4,22
+Temporada2018,Jornada 12,1,Bayern München,29,12,9,2,1,30,8
+Temporada2018,Jornada 12,2,Schalke 04,23,12,7,2,3,16,10
+Temporada2018,Jornada 12,3,RB Leipzig,23,12,7,2,3,20,15
+Temporada2018,Jornada 12,4,Monchengladbach,21,12,6,3,3,21,21
+Temporada2018,Jornada 12,5,B. Dortmund,20,12,6,2,4,29,16
+Temporada2018,Jornada 12,6,Hoffenheim,20,12,5,5,2,21,15
+Temporada2018,Jornada 12,7,Eintracht,19,12,5,4,3,14,12
+Temporada2018,Jornada 12,8,Hannover 96,18,12,5,3,4,15,15
+Temporada2018,Jornada 12,9,B. Leverkusen,17,12,4,5,3,25,18
+Temporada2018,Jornada 12,10,FC Augsburg,16,12,4,4,4,16,14
+Temporada2018,Jornada 12,11,Stuttgart,16,12,5,1,6,12,15
+Temporada2018,Jornada 12,12,Mainz 05,15,12,4,3,5,13,17
+Temporada2018,Jornada 12,13,Wolfsburg,14,12,2,8,2,16,17
+Temporada2018,Jornada 12,14,Hertha BSC,14,12,3,5,4,16,19
+Temporada2018,Jornada 12,15,Hamburger SV,10,12,3,1,8,10,20
+Temporada2018,Jornada 12,16,Werder Bremen,8,12,1,5,6,8,14
+Temporada2018,Jornada 12,17,SC Freiburg,8,12,1,5,6,7,24
+Temporada2018,Jornada 12,18,Köln,2,12,0,2,10,4,23
+Temporada2018,Jornada 13,1,Bayern München,29,13,9,2,2,31,10
+Temporada2018,Jornada 13,2,RB Leipzig,26,13,8,2,3,22,15
+Temporada2018,Jornada 13,3,Schalke 04,24,13,7,3,3,20,14
+Temporada2018,Jornada 13,4,Monchengladbach,24,13,7,3,3,23,22
+Temporada2018,Jornada 13,5,B. Dortmund,21,13,6,3,4,33,20
+Temporada2018,Jornada 13,6,B. Leverkusen,20,13,5,5,3,26,18
+Temporada2018,Jornada 13,7,Hoffenheim,20,13,5,5,3,21,18
+Temporada2018,Jornada 13,8,FC Augsburg,19,13,5,4,4,18,15
+Temporada2018,Jornada 13,9,Eintracht,19,13,5,4,4,14,13
+Temporada2018,Jornada 13,10,Hannover 96,19,13,5,4,4,16,16
+Temporada2018,Jornada 13,11,Hertha BSC,17,13,4,5,4,18,19
+Temporada2018,Jornada 13,12,Stuttgart,17,13,5,2,6,13,16
+Temporada2018,Jornada 13,13,Mainz 05,15,13,4,3,6,14,19
+Temporada2018,Jornada 13,14,Wolfsburg,14,13,2,8,3,17,19
+Temporada2018,Jornada 13,15,Hamburger SV,13,13,4,1,8,13,20
+Temporada2018,Jornada 13,16,SC Freiburg,11,13,2,5,6,9,25
+Temporada2018,Jornada 13,17,Werder Bremen,8,13,1,5,7,8,16
+Temporada2018,Jornada 13,18,Köln,2,13,0,2,11,4,25
+Temporada2018,Jornada 14,1,Bayern München,32,14,10,2,2,34,11
+Temporada2018,Jornada 14,2,RB Leipzig,26,14,8,2,4,22,19
+Temporada2018,Jornada 14,3,Schalke 04,25,14,7,4,3,22,16
+Temporada2018,Jornada 14,4,Monchengladbach,24,14,7,3,4,23,25
+Temporada2018,Jornada 14,5,Hoffenheim,23,14,6,5,3,25,18
+Temporada2018,Jornada 14,6,B. Dortmund,22,14,6,4,4,34,21
+Temporada2018,Jornada 14,7,FC Augsburg,22,14,6,4,4,21,16
+Temporada2018,Jornada 14,8,Eintracht,22,14,6,4,4,16,14
+Temporada2018,Jornada 14,9,B. Leverkusen,21,14,5,6,3,27,19
+Temporada2018,Jornada 14,10,Hannover 96,19,14,5,4,5,17,19
+Temporada2018,Jornada 14,11,Wolfsburg,17,14,3,8,3,20,19
+Temporada2018,Jornada 14,12,Hertha BSC,17,14,4,5,5,19,21
+Temporada2018,Jornada 14,13,Stuttgart,17,14,5,2,7,13,17
+Temporada2018,Jornada 14,14,Mainz 05,15,14,4,3,7,15,22
+Temporada2018,Jornada 14,15,Hamburger SV,14,14,4,2,8,13,20
+Temporada2018,Jornada 14,16,SC Freiburg,12,14,2,6,6,9,25
+Temporada2018,Jornada 14,17,Werder Bremen,11,14,2,5,7,9,16
+Temporada2018,Jornada 14,18,Köln,3,14,0,3,11,6,27
+Temporada2018,Jornada 15,1,Bayern München,35,15,11,2,2,35,11
+Temporada2018,Jornada 15,2,RB Leipzig,27,15,8,3,4,24,21
+Temporada2018,Jornada 15,3,Schalke 04,26,15,7,5,3,23,17
+Temporada2018,Jornada 15,4,Monchengladbach,25,15,7,4,4,24,26
+Temporada2018,Jornada 15,5,B. Leverkusen,24,15,6,6,3,29,19
+Temporada2018,Jornada 15,6,Hoffenheim,23,15,6,5,4,25,20
+Temporada2018,Jornada 15,7,FC Augsburg,23,15,6,5,4,22,17
+Temporada2018,Jornada 15,8,B. Dortmund,22,15,6,4,5,35,23
+Temporada2018,Jornada 15,9,Eintracht,22,15,6,4,5,16,15
+Temporada2018,Jornada 15,10,Hannover 96,22,15,6,4,5,19,19
+Temporada2018,Jornada 15,11,Wolfsburg,18,15,3,9,3,20,19
+Temporada2018,Jornada 15,12,Hertha BSC,18,15,4,6,5,20,22
+Temporada2018,Jornada 15,13,Stuttgart,17,15,5,2,8,13,19
+Temporada2018,Jornada 15,14,Mainz 05,16,15,4,4,7,17,24
+Temporada2018,Jornada 15,15,Hamburger SV,15,15,4,3,8,13,20
+Temporada2018,Jornada 15,16,SC Freiburg,15,15,3,6,6,13,28
+Temporada2018,Jornada 15,17,Werder Bremen,14,15,3,5,7,11,17
+Temporada2018,Jornada 15,18,Köln,3,15,0,3,12,9,31
+Temporada2018,Jornada 16,1,Bayern München,38,16,12,2,2,36,11
+Temporada2018,Jornada 16,2,Schalke 04,29,16,8,5,3,26,19
+Temporada2018,Jornada 16,3,RB Leipzig,28,16,8,4,4,25,22
+Temporada2018,Jornada 16,4,B. Leverkusen,27,16,7,6,3,30,19
+Temporada2018,Jornada 16,5,Hoffenheim,26,16,7,5,4,26,20
+Temporada2018,Jornada 16,6,B. Dortmund,25,16,7,4,5,37,23
+Temporada2018,Jornada 16,7,Eintracht,25,16,7,4,5,18,16
+Temporada2018,Jornada 16,8,Monchengladbach,25,16,7,4,5,24,27
+Temporada2018,Jornada 16,9,FC Augsburg,23,16,6,5,5,24,20
+Temporada2018,Jornada 16,10,Hannover 96,22,16,6,4,6,20,22
+Temporada2018,Jornada 16,11,Hertha BSC,21,16,5,6,5,23,23
+Temporada2018,Jornada 16,12,Wolfsburg,19,16,3,10,3,21,20
+Temporada2018,Jornada 16,13,SC Freiburg,18,16,4,6,6,14,28
+Temporada2018,Jornada 16,14,Stuttgart,17,16,5,2,9,13,20
+Temporada2018,Jornada 16,15,Mainz 05,16,16,4,4,8,17,26
+Temporada2018,Jornada 16,16,Hamburger SV,15,16,4,3,9,14,22
+Temporada2018,Jornada 16,17,Werder Bremen,14,16,3,5,8,11,18
+Temporada2018,Jornada 16,18,Köln,3,16,0,3,13,9,32
+Temporada2018,Jornada 17,1,Bayern München,41,17,13,2,2,37,11
+Temporada2018,Jornada 17,2,Schalke 04,30,17,8,6,3,28,21
+Temporada2018,Jornada 17,3,B. Dortmund,28,17,8,4,5,39,24
+Temporada2018,Jornada 17,4,B. Leverkusen,28,17,7,7,3,34,23
+Temporada2018,Jornada 17,5,RB Leipzig,28,17,8,4,5,27,25
+Temporada2018,Jornada 17,6,Monchengladbach,28,17,8,4,5,27,28
+Temporada2018,Jornada 17,7,Hoffenheim,26,17,7,5,5,27,22
+Temporada2018,Jornada 17,8,Eintracht,26,17,7,5,5,20,18
+Temporada2018,Jornada 17,9,FC Augsburg,24,17,6,6,5,27,23
+Temporada2018,Jornada 17,10,Hertha BSC,24,17,6,6,5,26,25
+Temporada2018,Jornada 17,11,Hannover 96,23,17,6,5,6,24,26
+Temporada2018,Jornada 17,12,Wolfsburg,19,17,3,10,4,21,21
+Temporada2018,Jornada 17,13,SC Freiburg,19,17,4,7,6,17,31
+Temporada2018,Jornada 17,14,Stuttgart,17,17,5,2,10,13,21
+Temporada2018,Jornada 17,15,Mainz 05,17,17,4,5,8,19,28
+Temporada2018,Jornada 17,16,Werder Bremen,15,17,3,6,8,13,20
+Temporada2018,Jornada 17,17,Hamburger SV,15,17,4,3,10,15,25
+Temporada2018,Jornada 17,18,Köln,6,17,1,3,13,10,32
+Temporada2018,Jornada 18,1,Bayern München,44,18,14,2,2,40,12
+Temporada2018,Jornada 18,2,RB Leipzig,31,18,9,4,5,30,26
+Temporada2018,Jornada 18,3,Schalke 04,30,18,8,6,4,29,24
+Temporada2018,Jornada 18,4,B. Dortmund,29,18,8,5,5,39,24
+Temporada2018,Jornada 18,5,B. Leverkusen,28,18,7,7,4,35,26
+Temporada2018,Jornada 18,6,Monchengladbach,28,18,8,4,6,28,30
+Temporada2018,Jornada 18,7,FC Augsburg,27,18,7,6,5,28,23
+Temporada2018,Jornada 18,8,Hoffenheim,27,18,7,6,5,28,23
+Temporada2018,Jornada 18,9,Eintracht,27,18,7,6,5,21,19
+Temporada2018,Jornada 18,10,Hannover 96,26,18,7,5,6,27,28
+Temporada2018,Jornada 18,11,Hertha BSC,24,18,6,6,6,26,26
+Temporada2018,Jornada 18,12,Wolfsburg,20,18,3,11,4,21,21
+Temporada2018,Jornada 18,13,Stuttgart,20,18,6,2,10,14,21
+Temporada2018,Jornada 18,14,SC Freiburg,20,18,4,8,6,18,32
+Temporada2018,Jornada 18,15,Mainz 05,17,18,4,5,9,21,31
+Temporada2018,Jornada 18,16,Werder Bremen,16,18,3,7,8,14,21
+Temporada2018,Jornada 18,17,Hamburger SV,15,18,4,3,11,15,26
+Temporada2018,Jornada 18,18,Köln,9,18,2,3,13,12,33
+Temporada2018,Jornada 19,1,Bayern München,47,19,15,2,2,44,14
+Temporada2018,Jornada 19,2,B. Leverkusen,31,19,8,7,4,39,27
+Temporada2018,Jornada 19,3,Schalke 04,31,19,8,7,4,30,25
+Temporada2018,Jornada 19,4,RB Leipzig,31,19,9,4,6,31,28
+Temporada2018,Jornada 19,5,Monchengladbach,31,19,9,4,6,30,30
+Temporada2018,Jornada 19,6,B. Dortmund,30,19,8,6,5,40,25
+Temporada2018,Jornada 19,7,Eintracht,30,19,8,6,5,24,20
+Temporada2018,Jornada 19,8,FC Augsburg,27,19,7,6,6,28,25
+Temporada2018,Jornada 19,9,Hoffenheim,27,19,7,6,6,29,27
+Temporada2018,Jornada 19,10,Hannover 96,27,19,7,6,6,28,29
+Temporada2018,Jornada 19,11,Hertha BSC,25,19,6,7,6,27,27
+Temporada2018,Jornada 19,12,SC Freiburg,23,19,5,8,6,20,33
+Temporada2018,Jornada 19,13,Wolfsburg,20,19,3,11,5,22,24
+Temporada2018,Jornada 19,14,Stuttgart,20,19,6,2,11,16,24
+Temporada2018,Jornada 19,15,Mainz 05,20,19,5,5,9,24,33
+Temporada2018,Jornada 19,16,Werder Bremen,16,19,3,7,9,16,25
+Temporada2018,Jornada 19,17,Hamburger SV,15,19,4,3,12,15,28
+Temporada2018,Jornada 19,18,Köln,12,19,3,3,13,14,33
+Temporada2018,Jornada 20,1,Bayern München,50,20,16,2,2,49,16
+Temporada2018,Jornada 20,2,B. Leverkusen,34,20,9,7,4,41,27
+Temporada2018,Jornada 20,3,Schalke 04,34,20,9,7,4,32,25
+Temporada2018,Jornada 20,4,Eintracht,33,20,9,6,5,26,20
+Temporada2018,Jornada 20,5,RB Leipzig,32,20,9,5,6,32,29
+Temporada2018,Jornada 20,6,B. Dortmund,31,20,8,7,5,42,27
+Temporada2018,Jornada 20,7,Monchengladbach,31,20,9,4,7,30,32
+Temporada2018,Jornada 20,8,FC Augsburg,28,20,7,7,6,29,26
+Temporada2018,Jornada 20,9,Hoffenheim,27,20,7,6,7,31,32
+Temporada2018,Jornada 20,10,Hannover 96,27,20,7,6,7,28,30
+Temporada2018,Jornada 20,11,Hertha BSC,26,20,6,8,6,27,27
+Temporada2018,Jornada 20,12,SC Freiburg,24,20,5,9,6,22,35
+Temporada2018,Jornada 20,13,Wolfsburg,23,20,4,11,5,23,24
+Temporada2018,Jornada 20,14,Stuttgart,20,20,6,2,12,16,26
+Temporada2018,Jornada 20,15,Mainz 05,20,20,5,5,10,24,35
+Temporada2018,Jornada 20,16,Werder Bremen,17,20,3,8,9,16,25
+Temporada2018,Jornada 20,17,Hamburger SV,16,20,4,4,12,16,29
+Temporada2018,Jornada 20,18,Köln,13,20,3,4,13,15,34
+Temporada2018,Jornada 21,1,Bayern München,53,21,17,2,2,51,16
+Temporada2018,Jornada 21,2,B. Leverkusen,35,21,9,8,4,41,27
+Temporada2018,Jornada 21,3,RB Leipzig,35,21,10,5,6,33,29
+Temporada2018,Jornada 21,4,B. Dortmund,34,21,9,7,5,45,29
+Temporada2018,Jornada 21,5,Schalke 04,34,21,9,7,5,33,27
+Temporada2018,Jornada 21,6,Eintracht,33,21,9,6,6,26,23
+Temporada2018,Jornada 21,7,FC Augsburg,31,21,8,7,6,32,26
+Temporada2018,Jornada 21,8,Monchengladbach,31,21,9,4,8,30,33
+Temporada2018,Jornada 21,9,Hoffenheim,28,21,7,7,7,32,33
+Temporada2018,Jornada 21,10,Hannover 96,28,21,7,7,7,29,31
+Temporada2018,Jornada 21,11,Hertha BSC,27,21,6,9,6,28,28
+Temporada2018,Jornada 21,12,SC Freiburg,25,21,5,10,6,22,35
+Temporada2018,Jornada 21,13,Wolfsburg,24,21,4,12,5,24,25
+Temporada2018,Jornada 21,14,Stuttgart,21,21,6,3,12,17,27
+Temporada2018,Jornada 21,15,Werder Bremen,20,21,4,8,9,18,26
+Temporada2018,Jornada 21,16,Mainz 05,20,21,5,5,11,24,37
+Temporada2018,Jornada 21,17,Hamburger SV,17,21,4,5,12,17,30
+Temporada2018,Jornada 21,18,Köln,13,21,3,4,14,17,37
+Temporada2018,Jornada 22,1,Bayern München,56,22,18,2,2,53,17
+Temporada2018,Jornada 22,2,RB Leipzig,38,22,11,5,6,35,29
+Temporada2018,Jornada 22,3,B. Dortmund,37,22,10,7,5,47,29
+Temporada2018,Jornada 22,4,Eintracht,36,22,10,6,6,30,25
+Temporada2018,Jornada 22,5,B. Leverkusen,35,22,9,8,5,41,29
+Temporada2018,Jornada 22,6,Schalke 04,34,22,9,7,6,34,29
+Temporada2018,Jornada 22,7,FC Augsburg,31,22,8,7,7,32,28
+Temporada2018,Jornada 22,8,Hoffenheim,31,22,8,7,7,36,35
+Temporada2018,Jornada 22,9,Hannover 96,31,22,8,7,7,31,32
+Temporada2018,Jornada 22,10,Monchengladbach,31,22,9,4,9,30,34
+Temporada2018,Jornada 22,11,Hertha BSC,30,22,7,9,6,30,28
+Temporada2018,Jornada 22,12,SC Freiburg,25,22,5,10,7,23,37
+Temporada2018,Jornada 22,13,Wolfsburg,24,22,4,12,6,25,28
+Temporada2018,Jornada 22,14,Stuttgart,24,22,7,3,12,18,27
+Temporada2018,Jornada 22,15,Werder Bremen,23,22,5,8,9,21,27
+Temporada2018,Jornada 22,16,Mainz 05,20,22,5,5,12,26,41
+Temporada2018,Jornada 22,17,Hamburger SV,17,22,4,5,13,17,32
+Temporada2018,Jornada 22,18,Köln,13,22,3,4,15,19,41
+Temporada2018,Jornada 23,1,Bayern München,59,23,19,2,2,55,18
+Temporada2018,Jornada 23,2,B. Dortmund,40,23,11,7,5,48,29
+Temporada2018,Jornada 23,3,Eintracht,39,23,11,6,6,32,26
+Temporada2018,Jornada 23,4,B. Leverkusen,38,23,10,8,5,43,30
+Temporada2018,Jornada 23,5,RB Leipzig,38,23,11,5,7,36,31
+Temporada2018,Jornada 23,6,Schalke 04,37,23,10,7,6,36,30
+Temporada2018,Jornada 23,7,Hannover 96,32,23,8,8,7,32,33
+Temporada2018,Jornada 23,8,FC Augsburg,31,23,8,7,8,32,29
+Temporada2018,Jornada 23,9,Hoffenheim,31,23,8,7,8,37,37
+Temporada2018,Jornada 23,10,Monchengladbach,31,23,9,4,10,30,35
+Temporada2018,Jornada 23,11,Hertha BSC,30,23,7,9,7,30,30
+Temporada2018,Jornada 23,12,SC Freiburg,28,23,6,10,7,24,37
+Temporada2018,Jornada 23,13,Stuttgart,27,23,8,3,12,19,27
+Temporada2018,Jornada 23,14,Wolfsburg,24,23,4,12,7,26,30
+Temporada2018,Jornada 23,15,Werder Bremen,23,23,5,8,10,21,28
+Temporada2018,Jornada 23,16,Mainz 05,23,23,6,5,12,28,41
+Temporada2018,Jornada 23,17,Hamburger SV,17,23,4,5,14,18,34
+Temporada2018,Jornada 23,18,Köln,14,23,3,5,15,20,42
+Temporada2018,Jornada 24,1,Bayern München,60,24,19,3,2,55,18
+Temporada2018,Jornada 24,2,B. Dortmund,41,24,11,8,5,49,30
+Temporada2018,Jornada 24,3,Schalke 04,40,24,11,7,6,38,30
+Temporada2018,Jornada 24,4,Eintracht,39,24,11,6,7,32,27
+Temporada2018,Jornada 24,5,B. Leverkusen,38,24,10,8,6,43,32
+Temporada2018,Jornada 24,6,RB Leipzig,38,24,11,5,8,37,33
+Temporada2018,Jornada 24,7,Monchengladbach,34,24,10,4,10,31,35
+Temporada2018,Jornada 24,8,FC Augsburg,32,24,8,8,8,33,30
+Temporada2018,Jornada 24,9,Hoffenheim,32,24,8,8,8,38,38
+Temporada2018,Jornada 24,10,Hannover 96,32,24,8,8,8,32,34
+Temporada2018,Jornada 24,11,Hertha BSC,31,24,7,10,7,30,30
+Temporada2018,Jornada 24,12,Stuttgart,30,24,9,3,12,20,27
+Temporada2018,Jornada 24,13,SC Freiburg,29,24,6,11,7,25,38
+Temporada2018,Jornada 24,14,Werder Bremen,26,24,6,8,10,22,28
+Temporada2018,Jornada 24,15,Wolfsburg,25,24,4,13,7,27,31
+Temporada2018,Jornada 24,16,Mainz 05,24,24,6,6,12,29,42
+Temporada2018,Jornada 24,17,Hamburger SV,17,24,4,5,15,18,35
+Temporada2018,Jornada 24,18,Köln,17,24,4,5,15,22,43
+Temporada2018,Jornada 25,1,Bayern München,63,25,20,3,2,59,18
+Temporada2018,Jornada 25,2,Schalke 04,43,25,12,7,6,39,30
+Temporada2018,Jornada 25,3,B. Dortmund,42,25,11,9,5,50,31
+Temporada2018,Jornada 25,4,Eintracht,42,25,12,6,7,33,27
+Temporada2018,Jornada 25,5,B. Leverkusen,41,25,11,8,6,45,33
+Temporada2018,Jornada 25,6,RB Leipzig,39,25,11,6,8,38,34
+Temporada2018,Jornada 25,7,Hoffenheim,35,25,9,8,8,40,38
+Temporada2018,Jornada 25,8,Monchengladbach,35,25,10,5,10,33,37
+Temporada2018,Jornada 25,9,Stuttgart,33,25,10,3,12,23,29
+Temporada2018,Jornada 25,10,FC Augsburg,32,25,8,8,9,33,32
+Temporada2018,Jornada 25,11,Hannover 96,32,25,8,8,9,32,35
+Temporada2018,Jornada 25,12,Hertha BSC,31,25,7,10,8,30,31
+Temporada2018,Jornada 25,13,SC Freiburg,29,25,6,11,8,25,42
+Temporada2018,Jornada 25,14,Werder Bremen,27,25,6,9,10,24,30
+Temporada2018,Jornada 25,15,Wolfsburg,25,25,4,13,8,28,33
+Temporada2018,Jornada 25,16,Mainz 05,25,25,6,7,12,29,42
+Temporada2018,Jornada 25,17,Hamburger SV,18,25,4,6,15,18,35
+Temporada2018,Jornada 25,18,Köln,17,25,4,5,16,24,46
+Temporada2018,Jornada 26,1,Bayern München,66,26,21,3,2,65,18
+Temporada2018,Jornada 26,2,Schalke 04,46,26,13,7,6,40,30
+Temporada2018,Jornada 26,3,B. Dortmund,45,26,12,9,5,53,33
+Temporada2018,Jornada 26,4,B. Leverkusen,44,26,12,8,6,47,33
+Temporada2018,Jornada 26,5,Eintracht,42,26,12,6,8,35,30
+Temporada2018,Jornada 26,6,RB Leipzig,40,26,11,7,8,38,34
+Temporada2018,Jornada 26,7,Hoffenheim,38,26,10,8,8,43,38
+Temporada2018,Jornada 26,8,FC Augsburg,35,26,9,8,9,36,33
+Temporada2018,Jornada 26,9,Monchengladbach,35,26,10,5,11,33,39
+Temporada2018,Jornada 26,10,Stuttgart,34,26,10,4,12,23,29
+Temporada2018,Jornada 26,11,Hertha BSC,32,26,7,11,8,30,31
+Temporada2018,Jornada 26,12,Hannover 96,32,26,8,8,10,33,38
+Temporada2018,Jornada 26,13,Werder Bremen,30,26,7,9,10,27,31
+Temporada2018,Jornada 26,14,SC Freiburg,30,26,6,12,8,25,42
+Temporada2018,Jornada 26,15,Wolfsburg,25,26,4,13,9,28,36
+Temporada2018,Jornada 26,16,Mainz 05,25,26,6,7,13,29,43
+Temporada2018,Jornada 26,17,Hamburger SV,18,26,4,6,16,18,41
+Temporada2018,Jornada 26,18,Köln,17,26,4,5,17,25,49
+Temporada2018,Jornada 27,1,Bayern München,66,27,21,3,3,66,20
+Temporada2018,Jornada 27,2,Schalke 04,49,27,14,7,6,41,30
+Temporada2018,Jornada 27,3,B. Dortmund,48,27,13,9,5,54,33
+Temporada2018,Jornada 27,4,Eintracht,45,27,13,6,8,38,30
+Temporada2018,Jornada 27,5,B. Leverkusen,44,27,12,8,7,47,35
+Temporada2018,Jornada 27,6,RB Leipzig,43,27,12,7,8,40,35
+Temporada2018,Jornada 27,7,Hoffenheim,39,27,10,9,8,46,41
+Temporada2018,Jornada 27,8,Stuttgart,37,27,11,4,12,25,30
+Temporada2018,Jornada 27,9,Monchengladbach,36,27,10,6,11,36,42
+Temporada2018,Jornada 27,10,FC Augsburg,35,27,9,8,10,37,36
+Temporada2018,Jornada 27,11,Hertha BSC,35,27,8,11,8,32,32
+Temporada2018,Jornada 27,12,Werder Bremen,33,27,8,9,10,30,32
+Temporada2018,Jornada 27,13,Hannover 96,32,27,8,8,11,33,39
+Temporada2018,Jornada 27,14,SC Freiburg,30,27,6,12,9,26,44
+Temporada2018,Jornada 27,15,Wolfsburg,25,27,4,13,10,28,37
+Temporada2018,Jornada 27,16,Mainz 05,25,27,6,7,14,29,46
+Temporada2018,Jornada 27,17,Köln,20,27,5,5,17,27,49
+Temporada2018,Jornada 27,18,Hamburger SV,18,27,4,6,17,19,43
+Temporada2018,Jornada 28,1,Bayern München,69,28,22,3,3,72,20
+Temporada2018,Jornada 28,2,Schalke 04,52,28,15,7,6,43,30
+Temporada2018,Jornada 28,3,B. Dortmund,48,28,13,9,6,54,39
+Temporada2018,Jornada 28,4,RB Leipzig,46,28,13,7,8,43,37
+Temporada2018,Jornada 28,5,B. Leverkusen,45,28,12,9,7,47,35
+Temporada2018,Jornada 28,6,Eintracht,45,28,13,6,9,39,32
+Temporada2018,Jornada 28,7,Hoffenheim,42,28,11,9,8,52,41
+Temporada2018,Jornada 28,8,Stuttgart,38,28,11,5,12,26,31
+Temporada2018,Jornada 28,9,Monchengladbach,37,28,10,7,11,36,42
+Temporada2018,Jornada 28,10,FC Augsburg,36,28,9,9,10,37,36
+Temporada2018,Jornada 28,11,Hertha BSC,36,28,8,12,8,32,32
+Temporada2018,Jornada 28,12,Werder Bremen,36,28,9,9,10,32,33
+Temporada2018,Jornada 28,13,Hannover 96,32,28,8,8,12,35,42
+Temporada2018,Jornada 28,14,SC Freiburg,30,28,6,12,10,26,46
+Temporada2018,Jornada 28,15,Wolfsburg,26,28,4,14,10,28,37
+Temporada2018,Jornada 28,16,Mainz 05,26,28,6,8,14,29,46
+Temporada2018,Jornada 28,17,Köln,20,28,5,5,18,27,55
+Temporada2018,Jornada 28,18,Hamburger SV,19,28,4,7,17,20,44
+Temporada2018,Jornada 29,1,Bayern München,72,29,23,3,3,76,21
+Temporada2018,Jornada 29,2,Schalke 04,52,29,15,7,7,45,33
+Temporada2018,Jornada 29,3,B. Dortmund,51,29,14,9,6,57,39
+Temporada2018,Jornada 29,4,B. Leverkusen,48,29,13,9,7,51,36
+Temporada2018,Jornada 29,5,Eintracht,46,29,13,7,9,40,33
+Temporada2018,Jornada 29,6,RB Leipzig,46,29,13,7,9,44,41
+Temporada2018,Jornada 29,7,Hoffenheim,43,29,11,10,8,53,42
+Temporada2018,Jornada 29,8,Monchengladbach,40,29,11,7,11,38,43
+Temporada2018,Jornada 29,9,Stuttgart,38,29,11,5,13,26,34
+Temporada2018,Jornada 29,10,Hertha BSC,36,29,8,12,9,33,34
+Temporada2018,Jornada 29,11,FC Augsburg,36,29,9,9,11,38,40
+Temporada2018,Jornada 29,12,Werder Bremen,36,29,9,9,11,33,35
+Temporada2018,Jornada 29,13,Hannover 96,35,29,9,8,12,37,43
+Temporada2018,Jornada 29,14,SC Freiburg,30,29,6,12,11,26,48
+Temporada2018,Jornada 29,15,Wolfsburg,29,29,5,14,10,30,37
+Temporada2018,Jornada 29,16,Mainz 05,27,29,6,9,14,30,47
+Temporada2018,Jornada 29,17,Hamburger SV,22,29,5,7,17,23,46
+Temporada2018,Jornada 29,18,Köln,21,29,5,6,18,28,56
+Temporada2018,Jornada 30,1,Bayern München,75,30,24,3,3,81,22
+Temporada2018,Jornada 30,2,Schalke 04,55,30,16,7,7,47,33
+Temporada2018,Jornada 30,3,B. Leverkusen,51,30,14,9,7,55,37
+Temporada2018,Jornada 30,4,B. Dortmund,51,30,14,9,7,57,41
+Temporada2018,Jornada 30,5,RB Leipzig,47,30,13,8,9,45,42
+Temporada2018,Jornada 30,6,Hoffenheim,46,30,12,10,8,55,42
+Temporada2018,Jornada 30,7,Eintracht,46,30,13,7,10,41,37
+Temporada2018,Jornada 30,8,Monchengladbach,40,30,11,7,12,39,48
+Temporada2018,Jornada 30,9,Hertha BSC,39,30,9,12,9,35,35
+Temporada2018,Jornada 30,10,Stuttgart,39,30,11,6,13,27,35
+Temporada2018,Jornada 30,11,FC Augsburg,37,30,9,10,11,38,40
+Temporada2018,Jornada 30,12,Werder Bremen,37,30,9,10,11,34,36
+Temporada2018,Jornada 30,13,Hannover 96,36,30,9,9,12,38,44
+Temporada2018,Jornada 30,14,Wolfsburg,30,30,5,15,10,30,37
+Temporada2018,Jornada 30,15,Mainz 05,30,30,7,9,14,32,47
+Temporada2018,Jornada 30,16,SC Freiburg,30,30,6,12,12,26,50
+Temporada2018,Jornada 30,17,Hamburger SV,22,30,5,7,18,23,48
+Temporada2018,Jornada 30,18,Köln,21,30,5,6,19,29,58
+Temporada2018,Jornada 31,1,Bayern München,78,31,25,3,3,84,22
+Temporada2018,Jornada 31,2,Schalke 04,56,31,16,8,7,49,35
+Temporada2018,Jornada 31,3,B. Dortmund,54,31,15,9,7,61,41
+Temporada2018,Jornada 31,4,B. Leverkusen,51,31,14,9,8,55,41
+Temporada2018,Jornada 31,5,Hoffenheim,49,31,13,10,8,60,44
+Temporada2018,Jornada 31,6,RB Leipzig,47,31,13,8,10,47,47
+Temporada2018,Jornada 31,7,Eintracht,46,31,13,7,11,41,40
+Temporada2018,Jornada 31,8,Monchengladbach,43,31,12,7,12,42,48
+Temporada2018,Jornada 31,9,Hertha BSC,42,31,10,12,9,38,35
+Temporada2018,Jornada 31,10,Stuttgart,42,31,12,6,13,29,35
+Temporada2018,Jornada 31,11,FC Augsburg,40,31,10,10,11,40,40
+Temporada2018,Jornada 31,12,Werder Bremen,37,31,9,10,12,34,38
+Temporada2018,Jornada 31,13,Hannover 96,36,31,9,9,13,38,47
+Temporada2018,Jornada 31,14,Wolfsburg,30,31,5,15,11,30,40
+Temporada2018,Jornada 31,15,Mainz 05,30,31,7,9,15,32,49
+Temporada2018,Jornada 31,16,SC Freiburg,30,31,6,12,13,26,51
+Temporada2018,Jornada 31,17,Hamburger SV,25,31,6,7,18,24,48
+Temporada2018,Jornada 31,18,Köln,22,31,5,7,19,31,60
+Temporada2018,Jornada 32,1,Bayern München,81,32,26,3,3,88,23
+Temporada2018,Jornada 32,2,Schalke 04,57,32,16,9,7,50,36
+Temporada2018,Jornada 32,3,B. Dortmund,55,32,15,10,7,62,42
+Temporada2018,Jornada 32,4,Hoffenheim,52,32,14,10,8,63,45
+Temporada2018,Jornada 32,5,B. Leverkusen,51,32,14,9,9,55,42
+Temporada2018,Jornada 32,6,RB Leipzig,47,32,13,8,11,47,50
+Temporada2018,Jornada 32,7,Eintracht,46,32,13,7,12,42,44
+Temporada2018,Jornada 32,8,Stuttgart,45,32,13,6,13,30,35
+Temporada2018,Jornada 32,9,Monchengladbach,44,32,12,8,12,43,49
+Temporada2018,Jornada 32,10,Hertha BSC,43,32,10,13,9,40,37
+Temporada2018,Jornada 32,11,FC Augsburg,41,32,10,11,11,42,42
+Temporada2018,Jornada 32,12,Werder Bremen,38,32,9,11,12,35,39
+Temporada2018,Jornada 32,13,Hannover 96,36,32,9,9,14,39,50
+Temporada2018,Jornada 32,14,Mainz 05,33,32,8,9,15,35,49
+Temporada2018,Jornada 32,15,SC Freiburg,33,32,7,12,13,29,53
+Temporada2018,Jornada 32,16,Wolfsburg,30,32,5,15,12,31,43
+Temporada2018,Jornada 32,17,Hamburger SV,28,32,7,7,18,27,49
+Temporada2018,Jornada 32,18,Köln,22,32,5,7,20,33,63
+Temporada2018,Jornada 33,1,Bayern München,84,33,27,3,3,91,24
+Temporada2018,Jornada 33,2,Schalke 04,60,33,17,9,7,52,37
+Temporada2018,Jornada 33,3,B. Dortmund,55,33,15,10,8,63,44
+Temporada2018,Jornada 33,4,Hoffenheim,52,33,14,10,9,63,47
+Temporada2018,Jornada 33,5,B. Leverkusen,52,33,14,10,9,55,42
+Temporada2018,Jornada 33,6,RB Leipzig,50,33,14,8,11,51,51
+Temporada2018,Jornada 33,7,Eintracht,49,33,14,7,12,45,44
+Temporada2018,Jornada 33,8,Stuttgart,48,33,14,6,13,32,35
+Temporada2018,Jornada 33,9,Monchengladbach,47,33,13,8,12,46,50
+Temporada2018,Jornada 33,10,Hertha BSC,43,33,10,13,10,41,40
+Temporada2018,Jornada 33,11,FC Augsburg,41,33,10,11,12,43,44
+Temporada2018,Jornada 33,12,Werder Bremen,39,33,9,12,12,35,39
+Temporada2018,Jornada 33,13,Hannover 96,39,33,10,9,14,42,51
+Temporada2018,Jornada 33,14,Mainz 05,36,33,9,9,15,37,50
+Temporada2018,Jornada 33,15,SC Freiburg,33,33,7,12,14,30,56
+Temporada2018,Jornada 33,16,Wolfsburg,30,33,5,15,13,32,47
+Temporada2018,Jornada 33,17,Hamburger SV,28,33,7,7,19,27,52
+Temporada2018,Jornada 33,18,Köln,22,33,5,7,21,34,66
+Temporada2018,Jornada 34,1,Bayern München,84,34,27,3,4,92,28
+Temporada2018,Jornada 34,2,Schalke 04,63,34,18,9,7,53,37
+Temporada2018,Jornada 34,3,Hoffenheim,55,34,15,10,9,66,48
+Temporada2018,Jornada 34,4,B. Dortmund,55,34,15,10,9,64,47
+Temporada2018,Jornada 34,5,B. Leverkusen,55,34,15,10,9,58,44
+Temporada2018,Jornada 34,6,RB Leipzig,53,34,15,8,11,57,53
+Temporada2018,Jornada 34,7,Stuttgart,51,34,15,6,13,36,36
+Temporada2018,Jornada 34,8,Eintracht,49,34,14,7,13,45,45
+Temporada2018,Jornada 34,9,Monchengladbach,47,34,13,8,13,47,52
+Temporada2018,Jornada 34,10,Hertha BSC,43,34,10,13,11,43,46
+Temporada2018,Jornada 34,11,Werder Bremen,42,34,10,12,12,37,40
+Temporada2018,Jornada 34,12,FC Augsburg,41,34,10,11,13,43,46
+Temporada2018,Jornada 34,13,Hannover 96,39,34,10,9,15,44,54
+Temporada2018,Jornada 34,14,Mainz 05,36,34,9,9,16,38,52
+Temporada2018,Jornada 34,15,SC Freiburg,36,34,8,12,14,32,56
+Temporada2018,Jornada 34,16,Wolfsburg,33,34,6,15,13,36,48
+Temporada2018,Jornada 34,17,Hamburger SV,31,34,8,7,19,29,53
+Temporada2018,Jornada 34,18,Köln,22,34,5,7,22,35,70
+Temporada2018,Jornada 35,1,Bayern München,84,34,27,3,4,92,28
+Temporada2018,Jornada 35,2,Schalke 04,63,34,18,9,7,53,37
+Temporada2018,Jornada 35,3,Hoffenheim,55,34,15,10,9,66,48
+Temporada2018,Jornada 35,4,B. Dortmund,55,34,15,10,9,64,47
+Temporada2018,Jornada 35,5,B. Leverkusen,55,34,15,10,9,58,44
+Temporada2018,Jornada 35,6,RB Leipzig,53,34,15,8,11,57,53
+Temporada2018,Jornada 35,7,Stuttgart,51,34,15,6,13,36,36
+Temporada2018,Jornada 35,8,Eintracht,49,34,14,7,13,45,45
+Temporada2018,Jornada 35,9,Monchengladbach,47,34,13,8,13,47,52
+Temporada2018,Jornada 35,10,Hertha BSC,43,34,10,13,11,43,46
+Temporada2018,Jornada 35,11,Werder Bremen,42,34,10,12,12,37,40
+Temporada2018,Jornada 35,12,FC Augsburg,41,34,10,11,13,43,46
+Temporada2018,Jornada 35,13,Hannover 96,39,34,10,9,15,44,54
+Temporada2018,Jornada 35,14,Mainz 05,36,34,9,9,16,38,52
+Temporada2018,Jornada 35,15,SC Freiburg,36,34,8,12,14,32,56
+Temporada2018,Jornada 35,16,Wolfsburg,33,34,6,15,13,36,48
+Temporada2018,Jornada 35,17,Hamburger SV,31,34,8,7,19,29,53
+Temporada2018,Jornada 35,18,Köln,22,34,5,7,22,35,70
+Temporada2018,Jornada 36,1,Bayern München,84,34,27,3,4,92,28
+Temporada2018,Jornada 36,2,Schalke 04,63,34,18,9,7,53,37
+Temporada2018,Jornada 36,3,Hoffenheim,55,34,15,10,9,66,48
+Temporada2018,Jornada 36,4,B. Dortmund,55,34,15,10,9,64,47
+Temporada2018,Jornada 36,5,B. Leverkusen,55,34,15,10,9,58,44
+Temporada2018,Jornada 36,6,RB Leipzig,53,34,15,8,11,57,53
+Temporada2018,Jornada 36,7,Stuttgart,51,34,15,6,13,36,36
+Temporada2018,Jornada 36,8,Eintracht,49,34,14,7,13,45,45
+Temporada2018,Jornada 36,9,Monchengladbach,47,34,13,8,13,47,52
+Temporada2018,Jornada 36,10,Hertha BSC,43,34,10,13,11,43,46
+Temporada2018,Jornada 36,11,Werder Bremen,42,34,10,12,12,37,40
+Temporada2018,Jornada 36,12,FC Augsburg,41,34,10,11,13,43,46
+Temporada2018,Jornada 36,13,Hannover 96,39,34,10,9,15,44,54
+Temporada2018,Jornada 36,14,Mainz 05,36,34,9,9,16,38,52
+Temporada2018,Jornada 36,15,SC Freiburg,36,34,8,12,14,32,56
+Temporada2018,Jornada 36,16,Wolfsburg,33,34,6,15,13,36,48
+Temporada2018,Jornada 36,17,Hamburger SV,31,34,8,7,19,29,53
+Temporada2018,Jornada 36,18,Köln,22,34,5,7,22,35,70
+Temporada2018,Jornada 37,1,Bayern München,84,34,27,3,4,92,28
+Temporada2018,Jornada 37,2,Schalke 04,63,34,18,9,7,53,37
+Temporada2018,Jornada 37,3,Hoffenheim,55,34,15,10,9,66,48
+Temporada2018,Jornada 37,4,B. Dortmund,55,34,15,10,9,64,47
+Temporada2018,Jornada 37,5,B. Leverkusen,55,34,15,10,9,58,44
+Temporada2018,Jornada 37,6,RB Leipzig,53,34,15,8,11,57,53
+Temporada2018,Jornada 37,7,Stuttgart,51,34,15,6,13,36,36
+Temporada2018,Jornada 37,8,Eintracht,49,34,14,7,13,45,45
+Temporada2018,Jornada 37,9,Monchengladbach,47,34,13,8,13,47,52
+Temporada2018,Jornada 37,10,Hertha BSC,43,34,10,13,11,43,46
+Temporada2018,Jornada 37,11,Werder Bremen,42,34,10,12,12,37,40
+Temporada2018,Jornada 37,12,FC Augsburg,41,34,10,11,13,43,46
+Temporada2018,Jornada 37,13,Hannover 96,39,34,10,9,15,44,54
+Temporada2018,Jornada 37,14,Mainz 05,36,34,9,9,16,38,52
+Temporada2018,Jornada 37,15,SC Freiburg,36,34,8,12,14,32,56
+Temporada2018,Jornada 37,16,Wolfsburg,33,34,6,15,13,36,48
+Temporada2018,Jornada 37,17,Hamburger SV,31,34,8,7,19,29,53
+Temporada2018,Jornada 37,18,Köln,22,34,5,7,22,35,70
+Temporada2018,Jornada 38,1,Bayern München,84,34,27,3,4,92,28
+Temporada2018,Jornada 38,2,Schalke 04,63,34,18,9,7,53,37
+Temporada2018,Jornada 38,3,Hoffenheim,55,34,15,10,9,66,48
+Temporada2018,Jornada 38,4,B. Dortmund,55,34,15,10,9,64,47
+Temporada2018,Jornada 38,5,B. Leverkusen,55,34,15,10,9,58,44
+Temporada2018,Jornada 38,6,RB Leipzig,53,34,15,8,11,57,53
+Temporada2018,Jornada 38,7,Stuttgart,51,34,15,6,13,36,36
+Temporada2018,Jornada 38,8,Eintracht,49,34,14,7,13,45,45
+Temporada2018,Jornada 38,9,Monchengladbach,47,34,13,8,13,47,52
+Temporada2018,Jornada 38,10,Hertha BSC,43,34,10,13,11,43,46
+Temporada2018,Jornada 38,11,Werder Bremen,42,34,10,12,12,37,40
+Temporada2018,Jornada 38,12,FC Augsburg,41,34,10,11,13,43,46
+Temporada2018,Jornada 38,13,Hannover 96,39,34,10,9,15,44,54
+Temporada2018,Jornada 38,14,Mainz 05,36,34,9,9,16,38,52
+Temporada2018,Jornada 38,15,SC Freiburg,36,34,8,12,14,32,56
+Temporada2018,Jornada 38,16,Wolfsburg,33,34,6,15,13,36,48
+Temporada2018,Jornada 38,17,Hamburger SV,31,34,8,7,19,29,53
+Temporada2018,Jornada 38,18,Köln,22,34,5,7,22,35,70
+Temporada2017,Jornada 1,1,Bayern München,3,1,1,0,0,6,0
+Temporada2017,Jornada 1,2,Köln,3,1,1,0,0,2,0
+Temporada2017,Jornada 1,3,Wolfsburg,3,1,1,0,0,2,0
+Temporada2017,Jornada 1,4,B. Dortmund,3,1,1,0,0,2,1
+Temporada2017,Jornada 1,5,Monchengladbach,3,1,1,0,0,2,1
+Temporada2017,Jornada 1,6,Hertha BSC,3,1,1,0,0,2,1
+Temporada2017,Jornada 1,7,Eintracht,3,1,1,0,0,1,0
+Temporada2017,Jornada 1,8,Hoffenheim,1,1,0,1,0,2,2
+Temporada2017,Jornada 1,9,RB Leipzig,1,1,0,1,0,2,2
+Temporada2017,Jornada 1,10,Hamburger SV,1,1,0,1,0,1,1
+Temporada2017,Jornada 1,11,Ingolstadt 04,1,1,0,1,0,1,1
+Temporada2017,Jornada 1,12,B. Leverkusen,0,1,0,0,1,1,2
+Temporada2017,Jornada 1,13,Mainz 05,0,1,0,0,1,1,2
+Temporada2017,Jornada 1,14,SC Freiburg,0,1,0,0,1,1,2
+Temporada2017,Jornada 1,15,Schalke 04,0,1,0,0,1,0,1
+Temporada2017,Jornada 1,16,Darmstadt 98,0,1,0,0,1,0,2
+Temporada2017,Jornada 1,17,FC Augsburg,0,1,0,0,1,0,2
+Temporada2017,Jornada 1,18,Werder Bremen,0,1,0,0,1,0,6
+Temporada2017,Jornada 2,1,Bayern München,6,2,2,0,0,8,0
+Temporada2017,Jornada 2,2,Hertha BSC,6,2,2,0,0,4,1
+Temporada2017,Jornada 2,3,Köln,4,2,1,1,0,2,0
+Temporada2017,Jornada 2,4,Wolfsburg,4,2,1,1,0,2,0
+Temporada2017,Jornada 2,5,RB Leipzig,4,2,1,1,0,3,2
+Temporada2017,Jornada 2,6,B. Leverkusen,3,2,1,0,1,4,3
+Temporada2017,Jornada 2,7,SC Freiburg,3,2,1,0,1,4,3
+Temporada2017,Jornada 2,8,B. Dortmund,3,2,1,0,1,2,2
+Temporada2017,Jornada 2,9,Eintracht,3,2,1,0,1,1,1
+Temporada2017,Jornada 2,10,Monchengladbach,3,2,1,0,1,3,4
+Temporada2017,Jornada 2,11,FC Augsburg,3,2,1,0,1,2,3
+Temporada2017,Jornada 2,12,Darmstadt 98,3,2,1,0,1,1,2
+Temporada2017,Jornada 2,13,Hoffenheim,2,2,0,2,0,6,6
+Temporada2017,Jornada 2,14,Mainz 05,1,2,0,1,1,5,6
+Temporada2017,Jornada 2,15,Hamburger SV,1,2,0,1,1,2,4
+Temporada2017,Jornada 2,16,Ingolstadt 04,1,2,0,1,1,1,3
+Temporada2017,Jornada 2,17,Schalke 04,0,2,0,0,2,0,3
+Temporada2017,Jornada 2,18,Werder Bremen,0,2,0,0,2,1,8
+Temporada2017,Jornada 3,1,Bayern München,9,3,3,0,0,11,1
+Temporada2017,Jornada 3,2,Hertha BSC,9,3,3,0,0,6,1
+Temporada2017,Jornada 3,3,RB Leipzig,7,3,2,1,0,7,2
+Temporada2017,Jornada 3,4,Köln,7,3,2,1,0,5,0
+Temporada2017,Jornada 3,5,B. Dortmund,6,3,2,0,1,8,2
+Temporada2017,Jornada 3,6,Monchengladbach,6,3,2,0,1,7,5
+Temporada2017,Jornada 3,7,Eintracht,6,3,2,0,1,3,2
+Temporada2017,Jornada 3,8,Wolfsburg,5,3,1,2,0,2,0
+Temporada2017,Jornada 3,9,Mainz 05,4,3,1,1,1,8,7
+Temporada2017,Jornada 3,10,Hoffenheim,3,3,0,3,0,6,6
+Temporada2017,Jornada 3,11,B. Leverkusen,3,3,1,0,2,5,5
+Temporada2017,Jornada 3,12,SC Freiburg,3,3,1,0,2,4,6
+Temporada2017,Jornada 3,13,FC Augsburg,3,3,1,0,2,3,6
+Temporada2017,Jornada 3,14,Darmstadt 98,3,3,1,0,2,1,8
+Temporada2017,Jornada 3,15,Ingolstadt 04,1,3,0,1,2,2,6
+Temporada2017,Jornada 3,16,Hamburger SV,1,3,0,1,2,2,8
+Temporada2017,Jornada 3,17,Schalke 04,0,3,0,0,3,0,5
+Temporada2017,Jornada 3,18,Werder Bremen,0,3,0,0,3,2,12
+Temporada2017,Jornada 4,1,Bayern München,12,4,4,0,0,14,1
+Temporada2017,Jornada 4,2,Köln,10,4,3,1,0,8,1
+Temporada2017,Jornada 4,3,B. Dortmund,9,4,3,0,1,13,3
+Temporada2017,Jornada 4,4,Eintracht,9,4,3,0,1,5,2
+Temporada2017,Jornada 4,5,Hertha BSC,9,4,3,0,1,6,4
+Temporada2017,Jornada 4,6,RB Leipzig,8,4,2,2,0,8,3
+Temporada2017,Jornada 4,7,Mainz 05,7,4,2,1,1,10,8
+Temporada2017,Jornada 4,8,Monchengladbach,7,4,2,1,1,8,6
+Temporada2017,Jornada 4,9,SC Freiburg,6,4,2,0,2,5,6
+Temporada2017,Jornada 4,10,Wolfsburg,5,4,1,2,1,3,5
+Temporada2017,Jornada 4,11,Hoffenheim,4,4,0,4,0,7,7
+Temporada2017,Jornada 4,12,B. Leverkusen,4,4,1,1,2,5,5
+Temporada2017,Jornada 4,13,FC Augsburg,4,4,1,1,2,3,6
+Temporada2017,Jornada 4,14,Darmstadt 98,4,4,1,1,2,2,9
+Temporada2017,Jornada 4,15,Ingolstadt 04,1,4,0,1,3,2,8
+Temporada2017,Jornada 4,16,Hamburger SV,1,4,0,1,3,2,9
+Temporada2017,Jornada 4,17,Schalke 04,0,4,0,0,4,1,8
+Temporada2017,Jornada 4,18,Werder Bremen,0,4,0,0,4,3,14
+Temporada2017,Jornada 5,1,Bayern München,15,5,5,0,0,15,1
+Temporada2017,Jornada 5,2,B. Dortmund,12,5,4,0,1,16,4
+Temporada2017,Jornada 5,3,Köln,11,5,3,2,0,9,2
+Temporada2017,Jornada 5,4,Monchengladbach,10,5,3,1,1,10,6
+Temporada2017,Jornada 5,5,Eintracht,10,5,3,1,1,8,5
+Temporada2017,Jornada 5,6,Hertha BSC,10,5,3,1,1,9,7
+Temporada2017,Jornada 5,7,RB Leipzig,9,5,2,3,0,9,4
+Temporada2017,Jornada 5,8,Mainz 05,7,5,2,1,2,12,11
+Temporada2017,Jornada 5,9,Hoffenheim,7,5,1,4,0,9,8
+Temporada2017,Jornada 5,10,B. Leverkusen,7,5,2,1,2,8,7
+Temporada2017,Jornada 5,11,FC Augsburg,7,5,2,1,2,4,6
+Temporada2017,Jornada 5,12,SC Freiburg,6,5,2,0,3,6,9
+Temporada2017,Jornada 5,13,Wolfsburg,5,5,1,2,2,4,7
+Temporada2017,Jornada 5,14,Darmstadt 98,4,5,1,1,3,2,10
+Temporada2017,Jornada 5,15,Werder Bremen,3,5,1,0,4,5,15
+Temporada2017,Jornada 5,16,Hamburger SV,1,5,0,1,4,2,10
+Temporada2017,Jornada 5,17,Ingolstadt 04,1,5,0,1,4,2,10
+Temporada2017,Jornada 5,18,Schalke 04,0,5,0,0,5,2,10
+Temporada2017,Jornada 6,1,Bayern München,16,6,5,1,0,16,2
+Temporada2017,Jornada 6,2,Hertha BSC,13,6,4,1,1,11,7
+Temporada2017,Jornada 6,3,B. Dortmund,12,6,4,0,2,16,6
+Temporada2017,Jornada 6,4,Köln,12,6,3,3,0,10,3
+Temporada2017,Jornada 6,5,RB Leipzig,12,6,3,3,0,11,5
+Temporada2017,Jornada 6,6,B. Leverkusen,10,6,3,1,2,10,7
+Temporada2017,Jornada 6,7,Hoffenheim,10,6,2,4,0,11,9
+Temporada2017,Jornada 6,8,Eintracht,10,6,3,1,2,8,6
+Temporada2017,Jornada 6,9,Monchengladbach,10,6,3,1,2,10,10
+Temporada2017,Jornada 6,10,SC Freiburg,9,6,3,0,3,7,9
+Temporada2017,Jornada 6,11,Mainz 05,8,6,2,2,2,12,11
+Temporada2017,Jornada 6,12,FC Augsburg,7,6,2,1,3,5,8
+Temporada2017,Jornada 6,13,Wolfsburg,6,6,1,3,2,4,7
+Temporada2017,Jornada 6,14,Darmstadt 98,5,6,1,2,3,4,12
+Temporada2017,Jornada 6,15,Werder Bremen,4,6,1,1,4,7,17
+Temporada2017,Jornada 6,16,Schalke 04,3,6,1,0,5,6,10
+Temporada2017,Jornada 6,17,Ingolstadt 04,1,6,0,1,5,3,12
+Temporada2017,Jornada 6,18,Hamburger SV,1,6,0,1,5,2,12
+Temporada2017,Jornada 7,1,Bayern München,17,7,5,2,0,18,4
+Temporada2017,Jornada 7,2,Köln,15,7,4,3,0,12,4
+Temporada2017,Jornada 7,3,RB Leipzig,15,7,4,3,0,12,5
+Temporada2017,Jornada 7,4,Hertha BSC,14,7,4,2,1,12,8
+Temporada2017,Jornada 7,5,B. Dortmund,13,7,4,1,2,17,7
+Temporada2017,Jornada 7,6,Hoffenheim,13,7,3,4,0,13,10
+Temporada2017,Jornada 7,7,Mainz 05,11,7,3,2,2,14,12
+Temporada2017,Jornada 7,8,Eintracht,11,7,3,2,2,10,8
+Temporada2017,Jornada 7,9,Monchengladbach,11,7,3,2,2,10,10
+Temporada2017,Jornada 7,10,B. Leverkusen,10,7,3,1,3,11,9
+Temporada2017,Jornada 7,11,SC Freiburg,9,7,3,0,4,8,11
+Temporada2017,Jornada 7,12,FC Augsburg,8,7,2,2,3,6,9
+Temporada2017,Jornada 7,13,Werder Bremen,7,7,2,1,4,9,18
+Temporada2017,Jornada 7,14,Wolfsburg,6,7,1,3,3,4,8
+Temporada2017,Jornada 7,15,Darmstadt 98,5,7,1,2,4,5,14
+Temporada2017,Jornada 7,16,Schalke 04,4,7,1,1,5,7,11
+Temporada2017,Jornada 7,17,Hamburger SV,2,7,0,2,5,2,12
+Temporada2017,Jornada 7,18,Ingolstadt 04,1,7,0,1,6,4,14
+Temporada2017,Jornada 8,1,Bayern München,20,8,6,2,0,20,4
+Temporada2017,Jornada 8,2,RB Leipzig,18,8,5,3,0,15,6
+Temporada2017,Jornada 8,3,Hertha BSC,17,8,5,2,1,14,9
+Temporada2017,Jornada 8,4,Hoffenheim,16,8,4,4,0,16,10
+Temporada2017,Jornada 8,5,Köln,15,8,4,3,1,13,6
+Temporada2017,Jornada 8,6,B. Dortmund,14,8,4,2,2,20,10
+Temporada2017,Jornada 8,7,Eintracht,14,8,4,2,2,13,8
+Temporada2017,Jornada 8,8,SC Freiburg,12,8,4,0,4,10,12
+Temporada2017,Jornada 8,9,Mainz 05,11,8,3,2,3,14,15
+Temporada2017,Jornada 8,10,Monchengladbach,11,8,3,2,3,10,12
+Temporada2017,Jornada 8,11,B. Leverkusen,10,8,3,1,4,11,12
+Temporada2017,Jornada 8,12,FC Augsburg,8,8,2,2,4,7,11
+Temporada2017,Jornada 8,13,Darmstadt 98,8,8,2,2,4,8,15
+Temporada2017,Jornada 8,14,Schalke 04,7,8,2,1,5,10,11
+Temporada2017,Jornada 8,15,Werder Bremen,7,8,2,1,5,10,21
+Temporada2017,Jornada 8,16,Wolfsburg,6,8,1,3,4,5,11
+Temporada2017,Jornada 8,17,Ingolstadt 04,2,8,0,2,6,7,17
+Temporada2017,Jornada 8,18,Hamburger SV,2,8,0,2,6,2,15
+Temporada2017,Jornada 9,1,Bayern München,23,9,7,2,0,23,5
+Temporada2017,Jornada 9,2,RB Leipzig,21,9,6,3,0,17,6
+Temporada2017,Jornada 9,3,Hoffenheim,19,9,5,4,0,17,10
+Temporada2017,Jornada 9,4,Köln,18,9,5,3,1,16,6
+Temporada2017,Jornada 9,5,Hertha BSC,17,9,5,2,2,14,10
+Temporada2017,Jornada 9,6,B. Dortmund,15,9,4,3,2,20,10
+Temporada2017,Jornada 9,7,Eintracht,15,9,4,3,2,13,8
+Temporada2017,Jornada 9,8,SC Freiburg,15,9,5,0,4,13,13
+Temporada2017,Jornada 9,9,Mainz 05,14,9,4,2,3,16,15
+Temporada2017,Jornada 9,10,B. Leverkusen,13,9,4,1,4,13,13
+Temporada2017,Jornada 9,11,Monchengladbach,12,9,3,3,3,10,12
+Temporada2017,Jornada 9,12,Schalke 04,8,9,2,2,5,10,11
+Temporada2017,Jornada 9,13,FC Augsburg,8,9,2,2,5,8,14
+Temporada2017,Jornada 9,14,Darmstadt 98,8,9,2,2,5,8,17
+Temporada2017,Jornada 9,15,Werder Bremen,7,9,2,1,6,11,24
+Temporada2017,Jornada 9,16,Wolfsburg,6,9,1,3,5,6,13
+Temporada2017,Jornada 9,17,Ingolstadt 04,2,9,0,2,7,7,19
+Temporada2017,Jornada 9,18,Hamburger SV,2,9,0,2,7,2,18
+Temporada2017,Jornada 10,1,Bayern München,24,10,7,3,0,24,6
+Temporada2017,Jornada 10,2,RB Leipzig,24,10,7,3,0,20,7
+Temporada2017,Jornada 10,3,Hoffenheim,20,10,5,5,0,18,11
+Temporada2017,Jornada 10,4,Hertha BSC,20,10,6,2,2,17,10
+Temporada2017,Jornada 10,5,B. Dortmund,18,10,5,3,2,25,12
+Temporada2017,Jornada 10,6,Köln,18,10,5,3,2,16,7
+Temporada2017,Jornada 10,7,Eintracht,18,10,5,3,2,14,8
+Temporada2017,Jornada 10,8,B. Leverkusen,16,10,5,1,4,16,15
+Temporada2017,Jornada 10,9,SC Freiburg,15,10,5,0,5,13,16
+Temporada2017,Jornada 10,10,Mainz 05,14,10,4,2,4,17,18
+Temporada2017,Jornada 10,11,Monchengladbach,12,10,3,3,4,10,15
+Temporada2017,Jornada 10,12,Schalke 04,11,10,3,2,5,13,12
+Temporada2017,Jornada 10,13,FC Augsburg,11,10,3,2,5,10,14
+Temporada2017,Jornada 10,14,Wolfsburg,9,10,2,3,5,9,13
+Temporada2017,Jornada 10,15,Darmstadt 98,8,10,2,2,6,10,20
+Temporada2017,Jornada 10,16,Werder Bremen,7,10,2,1,7,12,27
+Temporada2017,Jornada 10,17,Ingolstadt 04,2,10,0,2,8,7,21
+Temporada2017,Jornada 10,18,Hamburger SV,2,10,0,2,8,4,23
+Temporada2017,Jornada 11,1,RB Leipzig,27,11,8,3,0,23,9
+Temporada2017,Jornada 11,2,Bayern München,24,11,7,3,1,24,7
+Temporada2017,Jornada 11,3,B. Dortmund,21,11,6,3,2,26,12
+Temporada2017,Jornada 11,4,Köln,21,11,6,3,2,18,8
+Temporada2017,Jornada 11,5,Hoffenheim,21,11,5,6,0,20,13
+Temporada2017,Jornada 11,6,Hertha BSC,21,11,6,3,2,17,10
+Temporada2017,Jornada 11,7,Eintracht,21,11,6,3,2,16,9
+Temporada2017,Jornada 11,8,Mainz 05,17,11,5,2,4,21,20
+Temporada2017,Jornada 11,9,B. Leverkusen,16,11,5,1,5,18,18
+Temporada2017,Jornada 11,10,SC Freiburg,15,11,5,0,6,15,20
+Temporada2017,Jornada 11,11,Schalke 04,14,11,4,2,5,14,12
+Temporada2017,Jornada 11,12,FC Augsburg,12,11,3,3,5,10,14
+Temporada2017,Jornada 11,13,Monchengladbach,12,11,3,3,5,11,17
+Temporada2017,Jornada 11,14,Wolfsburg,9,11,2,3,6,9,14
+Temporada2017,Jornada 11,15,Darmstadt 98,8,11,2,2,7,10,21
+Temporada2017,Jornada 11,16,Werder Bremen,7,11,2,1,8,13,29
+Temporada2017,Jornada 11,17,Ingolstadt 04,5,11,1,2,8,8,21
+Temporada2017,Jornada 11,18,Hamburger SV,3,11,0,3,8,6,25
+Temporada2017,Jornada 12,1,RB Leipzig,30,12,9,3,0,27,10
+Temporada2017,Jornada 12,2,Bayern München,27,12,8,3,1,26,8
+Temporada2017,Jornada 12,3,Hertha BSC,24,12,7,3,2,19,11
+Temporada2017,Jornada 12,4,Eintracht,24,12,7,3,2,18,10
+Temporada2017,Jornada 12,5,Köln,22,12,6,4,2,18,8
+Temporada2017,Jornada 12,6,Hoffenheim,22,12,5,7,0,21,14
+Temporada2017,Jornada 12,7,B. Dortmund,21,12,6,3,3,27,14
+Temporada2017,Jornada 12,8,Schalke 04,17,12,5,2,5,17,13
+Temporada2017,Jornada 12,9,Mainz 05,17,12,5,2,5,22,22
+Temporada2017,Jornada 12,10,B. Leverkusen,16,12,5,1,6,19,20
+Temporada2017,Jornada 12,11,SC Freiburg,15,12,5,0,7,16,24
+Temporada2017,Jornada 12,12,FC Augsburg,13,12,3,4,5,10,14
+Temporada2017,Jornada 12,13,Monchengladbach,13,12,3,4,5,12,18
+Temporada2017,Jornada 12,14,Wolfsburg,10,12,2,4,6,10,15
+Temporada2017,Jornada 12,15,Darmstadt 98,8,12,2,2,8,11,24
+Temporada2017,Jornada 12,16,Werder Bremen,8,12,2,2,8,15,31
+Temporada2017,Jornada 12,17,Ingolstadt 04,6,12,1,3,8,9,22
+Temporada2017,Jornada 12,18,Hamburger SV,4,12,0,4,8,8,27
+Temporada2017,Jornada 13,1,RB Leipzig,33,13,10,3,0,29,11
+Temporada2017,Jornada 13,2,Bayern München,30,13,9,3,1,29,9
+Temporada2017,Jornada 13,3,Hertha BSC,27,13,8,3,2,22,13
+Temporada2017,Jornada 13,4,Hoffenheim,25,13,6,7,0,25,14
+Temporada2017,Jornada 13,5,Eintracht,25,13,7,4,2,19,11
+Temporada2017,Jornada 13,6,B. Dortmund,24,13,7,3,3,31,15
+Temporada2017,Jornada 13,7,Köln,22,13,6,4,3,18,12
+Temporada2017,Jornada 13,8,Schalke 04,17,13,5,2,6,18,15
+Temporada2017,Jornada 13,9,B. Leverkusen,17,13,5,2,6,20,21
+Temporada2017,Jornada 13,10,Mainz 05,17,13,5,2,6,23,25
+Temporada2017,Jornada 13,11,SC Freiburg,16,13,5,1,7,17,25
+Temporada2017,Jornada 13,12,FC Augsburg,14,13,3,5,5,11,15
+Temporada2017,Jornada 13,13,Monchengladbach,13,13,3,4,6,13,22
+Temporada2017,Jornada 13,14,Werder Bremen,11,13,3,2,8,17,32
+Temporada2017,Jornada 13,15,Wolfsburg,10,13,2,4,7,12,18
+Temporada2017,Jornada 13,16,Darmstadt 98,8,13,2,2,9,11,26
+Temporada2017,Jornada 13,17,Hamburger SV,7,13,1,4,8,10,27
+Temporada2017,Jornada 13,18,Ingolstadt 04,6,13,1,3,9,10,24
+Temporada2017,Jornada 14,1,Bayern München,33,14,10,3,1,34,9
+Temporada2017,Jornada 14,2,RB Leipzig,33,14,10,3,1,29,12
+Temporada2017,Jornada 14,3,Hertha BSC,27,14,8,3,3,22,14
+Temporada2017,Jornada 14,4,Hoffenheim,26,14,6,8,0,25,14
+Temporada2017,Jornada 14,5,Eintracht,26,14,7,5,2,19,11
+Temporada2017,Jornada 14,6,B. Dortmund,25,14,7,4,3,32,16
+Temporada2017,Jornada 14,7,Köln,23,14,6,5,3,19,13
+Temporada2017,Jornada 14,8,B. Leverkusen,20,14,6,2,6,21,21
+Temporada2017,Jornada 14,9,SC Freiburg,19,14,6,1,7,18,25
+Temporada2017,Jornada 14,10,Schalke 04,17,14,5,2,7,18,16
+Temporada2017,Jornada 14,11,Mainz 05,17,14,5,2,7,23,26
+Temporada2017,Jornada 14,12,Monchengladbach,16,14,4,4,6,14,22
+Temporada2017,Jornada 14,13,FC Augsburg,14,14,3,5,6,11,16
+Temporada2017,Jornada 14,14,Werder Bremen,14,14,4,2,8,18,32
+Temporada2017,Jornada 14,15,Wolfsburg,10,14,2,4,8,12,23
+Temporada2017,Jornada 14,16,Hamburger SV,10,14,2,4,8,11,27
+Temporada2017,Jornada 14,17,Ingolstadt 04,9,14,2,3,9,11,24
+Temporada2017,Jornada 14,18,Darmstadt 98,8,14,2,2,10,11,27
+Temporada2017,Jornada 15,1,Bayern München,36,15,11,3,1,35,9
+Temporada2017,Jornada 15,2,RB Leipzig,36,15,11,3,1,31,12
+Temporada2017,Jornada 15,3,Hoffenheim,27,15,6,9,0,27,16
+Temporada2017,Jornada 15,4,Hertha BSC,27,15,8,3,4,22,16
+Temporada2017,Jornada 15,5,B. Dortmund,26,15,7,5,3,34,18
+Temporada2017,Jornada 15,6,Eintracht,26,15,7,5,3,19,12
+Temporada2017,Jornada 15,7,Köln,24,15,6,6,3,20,14
+Temporada2017,Jornada 15,8,Mainz 05,20,15,6,2,7,26,27
+Temporada2017,Jornada 15,9,B. Leverkusen,20,15,6,2,7,22,23
+Temporada2017,Jornada 15,10,SC Freiburg,20,15,6,2,7,19,26
+Temporada2017,Jornada 15,11,Schalke 04,18,15,5,3,7,19,17
+Temporada2017,Jornada 15,12,FC Augsburg,17,15,4,5,6,12,16
+Temporada2017,Jornada 15,13,Monchengladbach,16,15,4,4,7,14,23
+Temporada2017,Jornada 15,14,Werder Bremen,15,15,4,3,8,19,33
+Temporada2017,Jornada 15,15,Wolfsburg,13,15,3,4,8,13,23
+Temporada2017,Jornada 15,16,Ingolstadt 04,12,15,3,3,9,13,25
+Temporada2017,Jornada 15,17,Hamburger SV,10,15,2,4,9,12,30
+Temporada2017,Jornada 15,18,Darmstadt 98,8,15,2,2,11,11,28
+Temporada2017,Jornada 16,1,Bayern München,39,16,12,3,1,38,9
+Temporada2017,Jornada 16,2,RB Leipzig,36,16,11,3,2,31,15
+Temporada2017,Jornada 16,3,Hertha BSC,30,16,9,3,4,24,16
+Temporada2017,Jornada 16,4,Eintracht,29,16,8,5,3,22,12
+Temporada2017,Jornada 16,5,Hoffenheim,28,16,6,10,0,28,17
+Temporada2017,Jornada 16,6,B. Dortmund,27,16,7,6,3,35,19
+Temporada2017,Jornada 16,7,Köln,25,16,6,7,3,21,15
+Temporada2017,Jornada 16,8,SC Freiburg,23,16,7,2,7,21,27
+Temporada2017,Jornada 16,9,B. Leverkusen,21,16,6,3,7,23,24
+Temporada2017,Jornada 16,10,Mainz 05,20,16,6,2,8,26,30
+Temporada2017,Jornada 16,11,Schalke 04,18,16,5,3,8,20,19
+Temporada2017,Jornada 16,12,FC Augsburg,18,16,4,6,6,13,17
+Temporada2017,Jornada 16,13,Wolfsburg,16,16,4,4,8,15,24
+Temporada2017,Jornada 16,14,Monchengladbach,16,16,4,4,8,15,25
+Temporada2017,Jornada 16,15,Werder Bremen,16,16,4,4,8,20,34
+Temporada2017,Jornada 16,16,Hamburger SV,13,16,3,4,9,14,31
+Temporada2017,Jornada 16,17,Ingolstadt 04,12,16,3,3,10,14,27
+Temporada2017,Jornada 16,18,Darmstadt 98,8,16,2,2,12,11,30
+Temporada2017,Jornada 17,1,Bayern München,42,17,13,3,1,40,10
+Temporada2017,Jornada 17,2,RB Leipzig,39,17,12,3,2,34,15
+Temporada2017,Jornada 17,3,Hoffenheim,31,17,7,10,0,30,17
+Temporada2017,Jornada 17,4,B. Dortmund,30,17,8,6,3,37,20
+Temporada2017,Jornada 17,5,Hertha BSC,30,17,9,3,5,25,19
+Temporada2017,Jornada 17,6,Eintracht,29,17,8,5,4,22,15
+Temporada2017,Jornada 17,7,Köln,26,17,6,8,3,21,15
+Temporada2017,Jornada 17,8,B. Leverkusen,24,17,7,3,7,26,25
+Temporada2017,Jornada 17,9,SC Freiburg,23,17,7,2,8,22,29
+Temporada2017,Jornada 17,10,Schalke 04,21,17,6,3,8,21,19
+Temporada2017,Jornada 17,11,Mainz 05,21,17,6,3,8,26,30
+Temporada2017,Jornada 17,12,Wolfsburg,19,17,5,4,8,16,24
+Temporada2017,Jornada 17,13,FC Augsburg,18,17,4,6,7,13,19
+Temporada2017,Jornada 17,14,Monchengladbach,17,17,4,5,8,15,25
+Temporada2017,Jornada 17,15,Werder Bremen,16,17,4,4,9,21,36
+Temporada2017,Jornada 17,16,Hamburger SV,13,17,3,4,10,14,32
+Temporada2017,Jornada 17,17,Ingolstadt 04,12,17,3,3,11,14,28
+Temporada2017,Jornada 17,18,Darmstadt 98,9,17,2,3,12,11,30
+Temporada2017,Jornada 18,1,Bayern München,45,18,14,3,1,42,11
+Temporada2017,Jornada 18,2,RB Leipzig,42,18,13,3,2,36,16
+Temporada2017,Jornada 18,3,Eintracht,32,18,9,5,4,23,15
+Temporada2017,Jornada 18,4,B. Dortmund,31,18,8,7,3,38,21
+Temporada2017,Jornada 18,5,Hoffenheim,31,18,7,10,1,31,19
+Temporada2017,Jornada 18,6,Hertha BSC,30,18,9,3,6,26,21
+Temporada2017,Jornada 18,7,Köln,29,18,7,8,3,27,16
+Temporada2017,Jornada 18,8,SC Freiburg,26,18,8,2,8,24,30
+Temporada2017,Jornada 18,9,B. Leverkusen,24,18,7,3,8,28,28
+Temporada2017,Jornada 18,10,Mainz 05,22,18,6,4,8,27,31
+Temporada2017,Jornada 18,11,Schalke 04,21,18,6,3,9,21,20
+Temporada2017,Jornada 18,12,FC Augsburg,21,18,5,6,7,15,20
+Temporada2017,Jornada 18,13,Monchengladbach,20,18,5,5,8,18,27
+Temporada2017,Jornada 18,14,Wolfsburg,19,18,5,4,9,17,26
+Temporada2017,Jornada 18,15,Werder Bremen,16,18,4,4,10,22,38
+Temporada2017,Jornada 18,16,Ingolstadt 04,15,18,4,3,11,17,29
+Temporada2017,Jornada 18,17,Hamburger SV,13,18,3,4,11,15,35
+Temporada2017,Jornada 18,18,Darmstadt 98,9,18,2,3,13,12,36
+Temporada2017,Jornada 19,1,Bayern München,46,19,14,4,1,43,12
+Temporada2017,Jornada 19,2,RB Leipzig,42,19,13,3,3,36,17
+Temporada2017,Jornada 19,3,Eintracht,35,19,10,5,4,25,15
+Temporada2017,Jornada 19,4,B. Dortmund,34,19,9,7,3,39,21
+Temporada2017,Jornada 19,5,Hoffenheim,34,19,8,10,1,35,19
+Temporada2017,Jornada 19,6,Hertha BSC,33,19,10,3,6,27,21
+Temporada2017,Jornada 19,7,Köln,32,19,8,8,3,28,16
+Temporada2017,Jornada 19,8,SC Freiburg,26,19,8,2,9,24,33
+Temporada2017,Jornada 19,9,B. Leverkusen,24,19,7,3,9,28,29
+Temporada2017,Jornada 19,10,FC Augsburg,24,19,6,6,7,18,22
+Temporada2017,Jornada 19,11,Monchengladbach,23,19,6,5,8,21,27
+Temporada2017,Jornada 19,12,Schalke 04,22,19,6,4,9,22,21
+Temporada2017,Jornada 19,13,Mainz 05,22,19,6,4,9,27,35
+Temporada2017,Jornada 19,14,Wolfsburg,19,19,5,4,10,17,27
+Temporada2017,Jornada 19,15,Werder Bremen,16,19,4,4,11,24,41
+Temporada2017,Jornada 19,16,Hamburger SV,16,19,4,4,11,16,35
+Temporada2017,Jornada 19,17,Ingolstadt 04,15,19,4,3,12,17,30
+Temporada2017,Jornada 19,18,Darmstadt 98,9,19,2,3,14,12,38
+Temporada2017,Jornada 20,1,Bayern München,49,20,15,4,1,45,12
+Temporada2017,Jornada 20,2,RB Leipzig,42,20,13,3,4,36,20
+Temporada2017,Jornada 20,3,Eintracht,35,20,10,5,5,25,18
+Temporada2017,Jornada 20,4,B. Dortmund,34,20,9,7,4,40,23
+Temporada2017,Jornada 20,5,Hoffenheim,34,20,8,10,2,36,21
+Temporada2017,Jornada 20,6,Hertha BSC,33,20,10,3,7,27,23
+Temporada2017,Jornada 20,7,Köln,32,20,8,8,4,29,18
+Temporada2017,Jornada 20,8,SC Freiburg,29,20,9,2,9,26,34
+Temporada2017,Jornada 20,9,B. Leverkusen,27,20,8,3,9,31,29
+Temporada2017,Jornada 20,10,Monchengladbach,26,20,7,5,8,22,27
+Temporada2017,Jornada 20,11,Schalke 04,25,20,7,4,9,24,21
+Temporada2017,Jornada 20,12,Mainz 05,25,20,7,4,9,29,35
+Temporada2017,Jornada 20,13,FC Augsburg,24,20,6,6,8,18,24
+Temporada2017,Jornada 20,14,Wolfsburg,22,20,6,4,10,19,28
+Temporada2017,Jornada 20,15,Hamburger SV,19,20,5,4,11,19,35
+Temporada2017,Jornada 20,16,Werder Bremen,16,20,4,4,12,24,42
+Temporada2017,Jornada 20,17,Ingolstadt 04,15,20,4,3,13,17,32
+Temporada2017,Jornada 20,18,Darmstadt 98,12,20,3,3,14,14,39
+Temporada2017,Jornada 21,1,Bayern München,50,21,15,5,1,46,13
+Temporada2017,Jornada 21,2,RB Leipzig,45,21,14,3,4,38,21
+Temporada2017,Jornada 21,3,B. Dortmund,37,21,10,7,4,43,23
+Temporada2017,Jornada 21,4,Hoffenheim,37,21,9,10,2,38,21
+Temporada2017,Jornada 21,5,Eintracht,35,21,10,5,6,25,20
+Temporada2017,Jornada 21,6,Hertha BSC,34,21,10,4,7,28,24
+Temporada2017,Jornada 21,7,Köln,33,21,8,9,4,30,19
+Temporada2017,Jornada 21,8,B. Leverkusen,30,21,9,3,9,34,30
+Temporada2017,Jornada 21,9,SC Freiburg,30,21,9,3,9,28,36
+Temporada2017,Jornada 21,10,Schalke 04,26,21,7,5,9,25,22
+Temporada2017,Jornada 21,11,Monchengladbach,26,21,7,5,9,23,29
+Temporada2017,Jornada 21,12,Mainz 05,25,21,7,4,10,29,37
+Temporada2017,Jornada 21,13,FC Augsburg,24,21,6,6,9,19,27
+Temporada2017,Jornada 21,14,Wolfsburg,22,21,6,4,11,19,31
+Temporada2017,Jornada 21,15,Hamburger SV,20,21,5,5,11,21,37
+Temporada2017,Jornada 21,16,Werder Bremen,19,21,5,4,12,26,42
+Temporada2017,Jornada 21,17,Ingolstadt 04,18,21,5,3,13,19,32
+Temporada2017,Jornada 21,18,Darmstadt 98,12,21,3,3,15,14,41
+Temporada2017,Jornada 22,1,Bayern München,53,22,16,5,1,54,13
+Temporada2017,Jornada 22,2,RB Leipzig,48,22,15,3,4,41,22
+Temporada2017,Jornada 22,3,B. Dortmund,40,22,11,7,4,46,23
+Temporada2017,Jornada 22,4,Hoffenheim,38,22,9,11,2,39,22
+Temporada2017,Jornada 22,5,Hertha BSC,37,22,11,4,7,30,24
+Temporada2017,Jornada 22,6,Eintracht,35,22,10,5,7,25,22
+Temporada2017,Jornada 22,7,Köln,33,22,8,9,5,31,22
+Temporada2017,Jornada 22,8,B. Leverkusen,30,22,9,3,10,34,32
+Temporada2017,Jornada 22,9,SC Freiburg,30,22,9,3,10,28,39
+Temporada2017,Jornada 22,10,Monchengladbach,29,22,8,5,9,25,29
+Temporada2017,Jornada 22,11,Mainz 05,28,22,8,4,10,31,37
+Temporada2017,Jornada 22,12,Schalke 04,27,22,7,6,9,26,23
+Temporada2017,Jornada 22,13,FC Augsburg,27,22,7,6,9,21,28
+Temporada2017,Jornada 22,14,Wolfsburg,22,22,6,4,12,20,33
+Temporada2017,Jornada 22,15,Werder Bremen,22,22,6,4,12,28,43
+Temporada2017,Jornada 22,16,Hamburger SV,20,22,5,5,12,21,45
+Temporada2017,Jornada 22,17,Ingolstadt 04,18,22,5,3,14,19,34
+Temporada2017,Jornada 22,18,Darmstadt 98,12,22,3,3,16,15,43
+Temporada2017,Jornada 23,1,Bayern München,56,23,17,5,1,57,13
+Temporada2017,Jornada 23,2,RB Leipzig,49,23,15,4,4,43,24
+Temporada2017,Jornada 23,3,B. Dortmund,43,23,12,7,4,52,25
+Temporada2017,Jornada 23,4,Hoffenheim,41,23,10,11,2,44,24
+Temporada2017,Jornada 23,5,Hertha BSC,37,23,11,4,8,30,25
+Temporada2017,Jornada 23,6,Eintracht,35,23,10,5,8,26,24
+Temporada2017,Jornada 23,7,Köln,33,23,8,9,6,31,25
+Temporada2017,Jornada 23,8,SC Freiburg,33,23,10,3,10,30,40
+Temporada2017,Jornada 23,9,Monchengladbach,32,23,9,5,9,29,31
+Temporada2017,Jornada 23,10,B. Leverkusen,30,23,9,3,11,36,38
+Temporada2017,Jornada 23,11,Mainz 05,29,23,8,5,10,32,38
+Temporada2017,Jornada 23,12,FC Augsburg,28,23,7,7,9,23,30
+Temporada2017,Jornada 23,13,Schalke 04,27,23,7,6,10,28,27
+Temporada2017,Jornada 23,14,Werder Bremen,25,23,7,4,12,30,43
+Temporada2017,Jornada 23,15,Wolfsburg,23,23,6,5,12,21,34
+Temporada2017,Jornada 23,16,Hamburger SV,23,23,6,5,12,22,45
+Temporada2017,Jornada 23,17,Ingolstadt 04,18,23,5,3,15,21,39
+Temporada2017,Jornada 23,18,Darmstadt 98,12,23,3,3,17,15,45
+Temporada2017,Jornada 24,1,Bayern München,59,24,18,5,1,60,13
+Temporada2017,Jornada 24,2,RB Leipzig,49,24,15,4,5,43,25
+Temporada2017,Jornada 24,3,B. Dortmund,43,24,12,7,5,53,27
+Temporada2017,Jornada 24,4,Hoffenheim,42,24,10,12,2,45,25
+Temporada2017,Jornada 24,5,Hertha BSC,40,24,12,4,8,32,26
+Temporada2017,Jornada 24,6,Eintracht,35,24,10,5,9,26,27
+Temporada2017,Jornada 24,7,Köln,34,24,8,10,6,33,27
+Temporada2017,Jornada 24,8,SC Freiburg,34,24,10,4,10,31,41
+Temporada2017,Jornada 24,9,Monchengladbach,32,24,9,5,10,30,33
+Temporada2017,Jornada 24,10,B. Leverkusen,31,24,9,4,11,37,39
+Temporada2017,Jornada 24,11,Schalke 04,30,24,8,6,10,31,27
+Temporada2017,Jornada 24,12,Mainz 05,29,24,8,5,11,33,40
+Temporada2017,Jornada 24,13,FC Augsburg,28,24,7,7,10,23,33
+Temporada2017,Jornada 24,14,Wolfsburg,26,24,7,5,12,22,34
+Temporada2017,Jornada 24,15,Werder Bremen,26,24,7,5,12,31,44
+Temporada2017,Jornada 24,16,Hamburger SV,26,24,7,5,12,24,46
+Temporada2017,Jornada 24,17,Ingolstadt 04,19,24,5,4,15,23,41
+Temporada2017,Jornada 24,18,Darmstadt 98,15,24,4,3,17,17,46
+Temporada2017,Jornada 25,1,Bayern München,62,25,19,5,1,61,13
+Temporada2017,Jornada 25,2,RB Leipzig,49,25,15,4,6,43,28
+Temporada2017,Jornada 25,3,B. Dortmund,46,25,13,7,5,54,27
+Temporada2017,Jornada 25,4,Hoffenheim,45,25,11,12,2,46,25
+Temporada2017,Jornada 25,5,Hertha BSC,40,25,12,4,9,34,30
+Temporada2017,Jornada 25,6,Köln,37,25,9,10,6,37,29
+Temporada2017,Jornada 25,7,Eintracht,36,25,10,6,9,26,27
+Temporada2017,Jornada 25,8,SC Freiburg,35,25,10,5,10,32,42
+Temporada2017,Jornada 25,9,Schalke 04,33,25,9,6,10,32,27
+Temporada2017,Jornada 25,10,Monchengladbach,32,25,9,5,11,30,34
+Temporada2017,Jornada 25,11,B. Leverkusen,31,25,9,4,12,37,40
+Temporada2017,Jornada 25,12,Mainz 05,29,25,8,5,12,33,41
+Temporada2017,Jornada 25,13,Werder Bremen,29,25,8,5,12,34,44
+Temporada2017,Jornada 25,14,FC Augsburg,29,25,7,8,10,24,34
+Temporada2017,Jornada 25,15,Wolfsburg,29,25,8,5,12,23,34
+Temporada2017,Jornada 25,16,Hamburger SV,27,25,7,6,12,24,46
+Temporada2017,Jornada 25,17,Ingolstadt 04,19,25,5,4,16,23,42
+Temporada2017,Jornada 25,18,Darmstadt 98,15,25,4,3,18,17,47
+Temporada2017,Jornada 26,1,Bayern München,65,26,20,5,1,67,13
+Temporada2017,Jornada 26,2,RB Leipzig,52,26,16,4,6,47,28
+Temporada2017,Jornada 26,3,Hoffenheim,48,26,12,12,2,49,26
+Temporada2017,Jornada 26,4,B. Dortmund,47,26,13,8,5,55,28
+Temporada2017,Jornada 26,5,Hertha BSC,40,26,12,4,10,35,33
+Temporada2017,Jornada 26,6,Köln,37,26,9,10,7,38,31
+Temporada2017,Jornada 26,7,Eintracht,37,26,10,7,9,26,27
+Temporada2017,Jornada 26,8,SC Freiburg,35,26,10,5,11,34,47
+Temporada2017,Jornada 26,9,Schalke 04,34,26,9,7,10,33,28
+Temporada2017,Jornada 26,10,Monchengladbach,33,26,9,6,11,30,34
+Temporada2017,Jornada 26,11,B. Leverkusen,32,26,9,5,12,40,43
+Temporada2017,Jornada 26,12,Werder Bremen,32,26,9,5,12,39,46
+Temporada2017,Jornada 26,13,Wolfsburg,30,26,8,6,12,26,37
+Temporada2017,Jornada 26,14,Hamburger SV,30,26,8,6,12,26,47
+Temporada2017,Jornada 26,15,Mainz 05,29,26,8,5,13,34,43
+Temporada2017,Jornada 26,16,FC Augsburg,29,26,7,8,11,24,40
+Temporada2017,Jornada 26,17,Ingolstadt 04,22,26,6,4,16,25,43
+Temporada2017,Jornada 26,18,Darmstadt 98,15,26,4,3,19,17,51
+Temporada2017,Jornada 27,1,Bayern München,65,27,20,5,2,67,14
+Temporada2017,Jornada 27,2,RB Leipzig,55,27,17,4,6,50,30
+Temporada2017,Jornada 27,3,Hoffenheim,51,27,13,12,2,50,26
+Temporada2017,Jornada 27,4,B. Dortmund,50,27,14,8,5,58,28
+Temporada2017,Jornada 27,5,Köln,40,27,10,10,7,39,31
+Temporada2017,Jornada 27,6,Hertha BSC,40,27,12,4,11,35,34
+Temporada2017,Jornada 27,7,SC Freiburg,38,27,11,5,11,35,47
+Temporada2017,Jornada 27,8,Eintracht,37,27,10,7,10,26,28
+Temporada2017,Jornada 27,9,Monchengladbach,36,27,10,6,11,31,34
+Temporada2017,Jornada 27,10,B. Leverkusen,35,27,10,5,12,42,43
+Temporada2017,Jornada 27,11,Werder Bremen,35,27,10,5,12,42,46
+Temporada2017,Jornada 27,12,Schalke 04,34,27,9,7,11,33,31
+Temporada2017,Jornada 27,13,Wolfsburg,30,27,8,6,13,26,38
+Temporada2017,Jornada 27,14,Hamburger SV,30,27,8,6,13,26,50
+Temporada2017,Jornada 27,15,Mainz 05,29,27,8,5,14,36,46
+Temporada2017,Jornada 27,16,FC Augsburg,29,27,7,8,12,26,43
+Temporada2017,Jornada 27,17,Ingolstadt 04,25,27,7,4,16,28,45
+Temporada2017,Jornada 27,18,Darmstadt 98,15,27,4,3,20,17,53
+Temporada2017,Jornada 28,1,Bayern München,68,28,21,5,2,71,15
+Temporada2017,Jornada 28,2,RB Leipzig,58,28,18,4,6,51,30
+Temporada2017,Jornada 28,3,Hoffenheim,51,28,13,12,3,51,28
+Temporada2017,Jornada 28,4,B. Dortmund,50,28,14,8,6,59,32
+Temporada2017,Jornada 28,5,Hertha BSC,43,28,13,4,11,37,34
+Temporada2017,Jornada 28,6,SC Freiburg,41,28,12,5,11,36,47
+Temporada2017,Jornada 28,7,Köln,40,28,10,10,8,41,34
+Temporada2017,Jornada 28,8,Monchengladbach,39,28,11,6,11,34,36
+Temporada2017,Jornada 28,9,Eintracht,38,28,10,8,10,28,30
+Temporada2017,Jornada 28,10,Schalke 04,37,28,10,7,11,37,32
+Temporada2017,Jornada 28,11,Werder Bremen,36,28,10,6,12,44,48
+Temporada2017,Jornada 28,12,B. Leverkusen,35,28,10,5,13,42,44
+Temporada2017,Jornada 28,13,Hamburger SV,33,28,9,6,13,28,51
+Temporada2017,Jornada 28,14,Wolfsburg,30,28,8,6,14,27,42
+Temporada2017,Jornada 28,15,Mainz 05,29,28,8,5,15,36,47
+Temporada2017,Jornada 28,16,FC Augsburg,29,28,7,8,13,26,45
+Temporada2017,Jornada 28,17,Ingolstadt 04,28,28,8,4,16,31,47
+Temporada2017,Jornada 28,18,Darmstadt 98,15,28,4,3,21,19,56
+Temporada2017,Jornada 29,1,Bayern München,69,29,21,6,2,71,15
+Temporada2017,Jornada 29,2,RB Leipzig,61,29,19,4,6,55,30
+Temporada2017,Jornada 29,3,Hoffenheim,54,29,14,12,3,56,31
+Temporada2017,Jornada 29,4,B. Dortmund,53,29,15,8,6,62,33
+Temporada2017,Jornada 29,5,Hertha BSC,43,29,13,4,12,37,35
+Temporada2017,Jornada 29,6,SC Freiburg,41,29,12,5,12,36,51
+Temporada2017,Jornada 29,7,Köln,40,29,10,10,9,42,36
+Temporada2017,Jornada 29,8,Werder Bremen,39,29,11,6,12,46,49
+Temporada2017,Jornada 29,9,Monchengladbach,39,29,11,6,12,37,41
+Temporada2017,Jornada 29,10,Eintracht,38,29,10,8,11,29,33
+Temporada2017,Jornada 29,11,Schalke 04,37,29,10,7,12,38,34
+Temporada2017,Jornada 29,12,B. Leverkusen,36,29,10,6,13,42,44
+Temporada2017,Jornada 29,13,Wolfsburg,33,29,9,6,14,30,42
+Temporada2017,Jornada 29,14,Hamburger SV,33,29,9,6,14,29,53
+Temporada2017,Jornada 29,15,Mainz 05,32,29,9,5,15,37,47
+Temporada2017,Jornada 29,16,FC Augsburg,32,29,8,8,13,28,46
+Temporada2017,Jornada 29,17,Ingolstadt 04,28,29,8,4,17,31,50
+Temporada2017,Jornada 29,18,Darmstadt 98,18,29,5,3,21,21,57
+Temporada2017,Jornada 30,1,Bayern München,70,30,21,7,2,73,17
+Temporada2017,Jornada 30,2,RB Leipzig,62,30,19,5,6,56,31
+Temporada2017,Jornada 30,3,B. Dortmund,56,30,16,8,6,65,35
+Temporada2017,Jornada 30,4,Hoffenheim,55,30,14,13,3,57,32
+Temporada2017,Jornada 30,5,Hertha BSC,46,30,14,4,12,38,35
+Temporada2017,Jornada 30,6,SC Freiburg,44,30,13,5,12,38,52
+Temporada2017,Jornada 30,7,Werder Bremen,42,30,12,6,12,50,51
+Temporada2017,Jornada 30,8,Köln,41,30,10,11,9,43,37
+Temporada2017,Jornada 30,9,Eintracht,41,30,11,8,11,32,34
+Temporada2017,Jornada 30,10,Monchengladbach,39,30,11,6,13,39,44
+Temporada2017,Jornada 30,11,Schalke 04,38,30,10,8,12,39,35
+Temporada2017,Jornada 30,12,B. Leverkusen,36,30,10,6,14,43,46
+Temporada2017,Jornada 30,13,Mainz 05,33,30,9,6,15,39,49
+Temporada2017,Jornada 30,14,Wolfsburg,33,30,9,6,15,30,43
+Temporada2017,Jornada 30,15,Hamburger SV,33,30,9,6,15,30,55
+Temporada2017,Jornada 30,16,FC Augsburg,32,30,8,8,14,29,49
+Temporada2017,Jornada 30,17,Ingolstadt 04,28,30,8,4,18,33,54
+Temporada2017,Jornada 30,18,Darmstadt 98,21,30,6,3,21,23,58
+Temporada2017,Jornada 31,1,Bayern München,73,31,22,7,2,79,17
+Temporada2017,Jornada 31,2,RB Leipzig,63,31,19,6,6,56,31
+Temporada2017,Jornada 31,3,Hoffenheim,58,31,15,13,3,58,32
+Temporada2017,Jornada 31,4,B. Dortmund,57,31,16,9,6,65,35
+Temporada2017,Jornada 31,5,Hertha BSC,46,31,14,4,13,38,37
+Temporada2017,Jornada 31,6,Werder Bremen,45,31,13,6,12,52,51
+Temporada2017,Jornada 31,7,SC Freiburg,44,31,13,5,13,38,55
+Temporada2017,Jornada 31,8,Köln,42,31,10,12,9,43,37
+Temporada2017,Jornada 31,9,Monchengladbach,42,31,12,6,13,41,45
+Temporada2017,Jornada 31,10,Schalke 04,41,31,11,8,12,43,36
+Temporada2017,Jornada 31,11,Eintracht,41,31,11,8,12,32,35
+Temporada2017,Jornada 31,12,B. Leverkusen,36,31,10,6,15,44,50
+Temporada2017,Jornada 31,13,FC Augsburg,35,31,9,8,14,33,49
+Temporada2017,Jornada 31,14,Mainz 05,33,31,9,6,16,40,51
+Temporada2017,Jornada 31,15,Wolfsburg,33,31,9,6,16,30,49
+Temporada2017,Jornada 31,16,Hamburger SV,33,31,9,6,16,30,59
+Temporada2017,Jornada 31,17,Ingolstadt 04,29,31,8,5,18,33,54
+Temporada2017,Jornada 31,18,Darmstadt 98,24,31,7,3,21,26,58
+Temporada2017,Jornada 32,1,Bayern München,76,32,23,7,2,80,17
+Temporada2017,Jornada 32,2,RB Leipzig,66,32,20,6,6,60,32
+Temporada2017,Jornada 32,3,B. Dortmund,60,32,17,9,6,67,36
+Temporada2017,Jornada 32,4,Hoffenheim,58,32,15,13,4,59,34
+Temporada2017,Jornada 32,5,SC Freiburg,47,32,14,5,13,40,55
+Temporada2017,Jornada 32,6,Hertha BSC,46,32,14,4,14,39,41
+Temporada2017,Jornada 32,7,Köln,45,32,11,12,9,47,40
+Temporada2017,Jornada 32,8,Werder Bremen,45,32,13,6,13,55,55
+Temporada2017,Jornada 32,9,Monchengladbach,43,32,12,7,13,42,46
+Temporada2017,Jornada 32,10,Schalke 04,41,32,11,8,13,43,38
+Temporada2017,Jornada 32,11,Eintracht,41,32,11,8,13,32,37
+Temporada2017,Jornada 32,12,B. Leverkusen,37,32,10,7,15,45,51
+Temporada2017,Jornada 32,13,FC Augsburg,36,32,9,9,14,34,50
+Temporada2017,Jornada 32,14,Wolfsburg,36,32,10,6,16,32,49
+Temporada2017,Jornada 32,15,Mainz 05,34,32,9,7,16,40,51
+Temporada2017,Jornada 32,16,Hamburger SV,34,32,9,7,16,30,59
+Temporada2017,Jornada 32,17,Ingolstadt 04,30,32,8,6,18,34,55
+Temporada2017,Jornada 32,18,Darmstadt 98,24,32,7,3,22,26,59
+Temporada2017,Jornada 33,1,Bayern München,79,33,24,7,2,85,21
+Temporada2017,Jornada 33,2,RB Leipzig,66,33,20,6,7,64,37
+Temporada2017,Jornada 33,3,B. Dortmund,61,33,17,10,6,68,37
+Temporada2017,Jornada 33,4,Hoffenheim,61,33,16,13,4,64,37
+Temporada2017,Jornada 33,5,Hertha BSC,49,33,15,4,14,41,41
+Temporada2017,Jornada 33,6,SC Freiburg,48,33,14,6,13,41,56
+Temporada2017,Jornada 33,7,Köln,46,33,11,13,9,49,42
+Temporada2017,Jornada 33,8,Werder Bremen,45,33,13,6,14,58,60
+Temporada2017,Jornada 33,9,Monchengladbach,44,33,12,8,13,43,47
+Temporada2017,Jornada 33,10,Schalke 04,42,33,11,9,13,44,39
+Temporada2017,Jornada 33,11,Eintracht,41,33,11,8,14,34,41
+Temporada2017,Jornada 33,12,B. Leverkusen,38,33,10,8,15,47,53
+Temporada2017,Jornada 33,13,Mainz 05,37,33,10,7,16,44,53
+Temporada2017,Jornada 33,14,FC Augsburg,37,33,9,10,14,35,51
+Temporada2017,Jornada 33,15,Wolfsburg,37,33,10,7,16,33,50
+Temporada2017,Jornada 33,16,Hamburger SV,35,33,9,8,16,31,60
+Temporada2017,Jornada 33,17,Ingolstadt 04,31,33,8,7,18,35,56
+Temporada2017,Jornada 33,18,Darmstadt 98,24,33,7,3,23,26,61
+Temporada2017,Jornada 34,1,Bayern München,82,34,25,7,2,89,22
+Temporada2017,Jornada 34,2,RB Leipzig,67,34,20,7,7,66,39
+Temporada2017,Jornada 34,3,B. Dortmund,64,34,18,10,6,72,40
+Temporada2017,Jornada 34,4,Hoffenheim,62,34,16,14,4,64,37
+Temporada2017,Jornada 34,5,Köln,49,34,12,13,9,51,42
+Temporada2017,Jornada 34,6,Hertha BSC,49,34,15,4,15,43,47
+Temporada2017,Jornada 34,7,SC Freiburg,48,34,14,6,14,42,60
+Temporada2017,Jornada 34,8,Werder Bremen,45,34,13,6,15,61,64
+Temporada2017,Jornada 34,9,Monchengladbach,45,34,12,9,13,45,49
+Temporada2017,Jornada 34,10,Schalke 04,43,34,11,10,13,45,40
+Temporada2017,Jornada 34,11,Eintracht,42,34,11,9,14,36,43
+Temporada2017,Jornada 34,12,B. Leverkusen,41,34,11,8,15,53,55
+Temporada2017,Jornada 34,13,FC Augsburg,38,34,9,11,14,35,51
+Temporada2017,Jornada 34,14,Hamburger SV,38,34,10,8,16,33,61
+Temporada2017,Jornada 34,15,Mainz 05,37,34,10,7,17,44,55
+Temporada2017,Jornada 34,16,Wolfsburg,37,34,10,7,17,34,52
+Temporada2017,Jornada 34,17,Ingolstadt 04,32,34,8,8,18,36,57
+Temporada2017,Jornada 34,18,Darmstadt 98,25,34,7,4,23,28,63
+Temporada2017,Jornada 35,1,Bayern München,82,34,25,7,2,89,22
+Temporada2017,Jornada 35,2,RB Leipzig,67,34,20,7,7,66,39
+Temporada2017,Jornada 35,3,B. Dortmund,64,34,18,10,6,72,40
+Temporada2017,Jornada 35,4,Hoffenheim,62,34,16,14,4,64,37
+Temporada2017,Jornada 35,5,Köln,49,34,12,13,9,51,42
+Temporada2017,Jornada 35,6,Hertha BSC,49,34,15,4,15,43,47
+Temporada2017,Jornada 35,7,SC Freiburg,48,34,14,6,14,42,60
+Temporada2017,Jornada 35,8,Werder Bremen,45,34,13,6,15,61,64
+Temporada2017,Jornada 35,9,Monchengladbach,45,34,12,9,13,45,49
+Temporada2017,Jornada 35,10,Schalke 04,43,34,11,10,13,45,40
+Temporada2017,Jornada 35,11,Eintracht,42,34,11,9,14,36,43
+Temporada2017,Jornada 35,12,B. Leverkusen,41,34,11,8,15,53,55
+Temporada2017,Jornada 35,13,FC Augsburg,38,34,9,11,14,35,51
+Temporada2017,Jornada 35,14,Hamburger SV,38,34,10,8,16,33,61
+Temporada2017,Jornada 35,15,Mainz 05,37,34,10,7,17,44,55
+Temporada2017,Jornada 35,16,Wolfsburg,37,34,10,7,17,34,52
+Temporada2017,Jornada 35,17,Ingolstadt 04,32,34,8,8,18,36,57
+Temporada2017,Jornada 35,18,Darmstadt 98,25,34,7,4,23,28,63
+Temporada2017,Jornada 36,1,Bayern München,82,34,25,7,2,89,22
+Temporada2017,Jornada 36,2,RB Leipzig,67,34,20,7,7,66,39
+Temporada2017,Jornada 36,3,B. Dortmund,64,34,18,10,6,72,40
+Temporada2017,Jornada 36,4,Hoffenheim,62,34,16,14,4,64,37
+Temporada2017,Jornada 36,5,Köln,49,34,12,13,9,51,42
+Temporada2017,Jornada 36,6,Hertha BSC,49,34,15,4,15,43,47
+Temporada2017,Jornada 36,7,SC Freiburg,48,34,14,6,14,42,60
+Temporada2017,Jornada 36,8,Werder Bremen,45,34,13,6,15,61,64
+Temporada2017,Jornada 36,9,Monchengladbach,45,34,12,9,13,45,49
+Temporada2017,Jornada 36,10,Schalke 04,43,34,11,10,13,45,40
+Temporada2017,Jornada 36,11,Eintracht,42,34,11,9,14,36,43
+Temporada2017,Jornada 36,12,B. Leverkusen,41,34,11,8,15,53,55
+Temporada2017,Jornada 36,13,FC Augsburg,38,34,9,11,14,35,51
+Temporada2017,Jornada 36,14,Hamburger SV,38,34,10,8,16,33,61
+Temporada2017,Jornada 36,15,Mainz 05,37,34,10,7,17,44,55
+Temporada2017,Jornada 36,16,Wolfsburg,37,34,10,7,17,34,52
+Temporada2017,Jornada 36,17,Ingolstadt 04,32,34,8,8,18,36,57
+Temporada2017,Jornada 36,18,Darmstadt 98,25,34,7,4,23,28,63
+Temporada2017,Jornada 37,1,Bayern München,82,34,25,7,2,89,22
+Temporada2017,Jornada 37,2,RB Leipzig,67,34,20,7,7,66,39
+Temporada2017,Jornada 37,3,B. Dortmund,64,34,18,10,6,72,40
+Temporada2017,Jornada 37,4,Hoffenheim,62,34,16,14,4,64,37
+Temporada2017,Jornada 37,5,Köln,49,34,12,13,9,51,42
+Temporada2017,Jornada 37,6,Hertha BSC,49,34,15,4,15,43,47
+Temporada2017,Jornada 37,7,SC Freiburg,48,34,14,6,14,42,60
+Temporada2017,Jornada 37,8,Werder Bremen,45,34,13,6,15,61,64
+Temporada2017,Jornada 37,9,Monchengladbach,45,34,12,9,13,45,49
+Temporada2017,Jornada 37,10,Schalke 04,43,34,11,10,13,45,40
+Temporada2017,Jornada 37,11,Eintracht,42,34,11,9,14,36,43
+Temporada2017,Jornada 37,12,B. Leverkusen,41,34,11,8,15,53,55
+Temporada2017,Jornada 37,13,FC Augsburg,38,34,9,11,14,35,51
+Temporada2017,Jornada 37,14,Hamburger SV,38,34,10,8,16,33,61
+Temporada2017,Jornada 37,15,Mainz 05,37,34,10,7,17,44,55
+Temporada2017,Jornada 37,16,Wolfsburg,37,34,10,7,17,34,52
+Temporada2017,Jornada 37,17,Ingolstadt 04,32,34,8,8,18,36,57
+Temporada2017,Jornada 37,18,Darmstadt 98,25,34,7,4,23,28,63
+Temporada2017,Jornada 38,1,Bayern München,82,34,25,7,2,89,22
+Temporada2017,Jornada 38,2,RB Leipzig,67,34,20,7,7,66,39
+Temporada2017,Jornada 38,3,B. Dortmund,64,34,18,10,6,72,40
+Temporada2017,Jornada 38,4,Hoffenheim,62,34,16,14,4,64,37
+Temporada2017,Jornada 38,5,Köln,49,34,12,13,9,51,42
+Temporada2017,Jornada 38,6,Hertha BSC,49,34,15,4,15,43,47
+Temporada2017,Jornada 38,7,SC Freiburg,48,34,14,6,14,42,60
+Temporada2017,Jornada 38,8,Werder Bremen,45,34,13,6,15,61,64
+Temporada2017,Jornada 38,9,Monchengladbach,45,34,12,9,13,45,49
+Temporada2017,Jornada 38,10,Schalke 04,43,34,11,10,13,45,40
+Temporada2017,Jornada 38,11,Eintracht,42,34,11,9,14,36,43
+Temporada2017,Jornada 38,12,B. Leverkusen,41,34,11,8,15,53,55
+Temporada2017,Jornada 38,13,FC Augsburg,38,34,9,11,14,35,51
+Temporada2017,Jornada 38,14,Hamburger SV,38,34,10,8,16,33,61
+Temporada2017,Jornada 38,15,Mainz 05,37,34,10,7,17,44,55
+Temporada2017,Jornada 38,16,Wolfsburg,37,34,10,7,17,34,52
+Temporada2017,Jornada 38,17,Ingolstadt 04,32,34,8,8,18,36,57
+Temporada2017,Jornada 38,18,Darmstadt 98,25,34,7,4,23,28,63
